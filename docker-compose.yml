@@ -1,0 +1,13 @@
+services:
+  app:
+    build: .
+    ports:
+      - "13200:13200"
+    volumes:
+      - /mnt/secdrive/docker/data/japanese-learning:/data
+      - /mnt/secdrive/docker/config/japanese-learning:/config
+    restart: unless-stopped
+    environment:
+      - DATA_DIR=/data
+      - CONFIG_DIR=/config
+      - PORT=13200
