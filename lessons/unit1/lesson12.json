@@ -1,0 +1,12 @@
+{
+  "unit": 1,
+  "lesson": 12,
+  "title": "Hiragana: Z-row voiced (ざ行)",
+  "cards": [
+    {"type": "hiragana", "character": "ざ", "romaji": "za", "meaning": "za"},
+    {"type": "hiragana", "character": "じ", "romaji": "ji", "meaning": "ji"},
+    {"type": "hiragana", "character": "ず", "romaji": "zu", "meaning": "zu"},
+    {"type": "hiragana", "character": "ぜ", "romaji": "ze", "meaning": "ze"},
+    {"type": "hiragana", "character": "ぞ", "romaji": "zo", "meaning": "zo"}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "unit": 1,
+  "lesson": 17,
+  "title": "Hiragana: CHI + NI combinations",
+  "cards": [
+    {"type": "hiragana", "character": "ちゃ", "romaji": "cha", "meaning": "cha combination"},
+    {"type": "hiragana", "character": "ちゅ", "romaji": "chu", "meaning": "chu combination"},
+    {"type": "hiragana", "character": "ちょ", "romaji": "cho", "meaning": "cho combination"},
+    {"type": "hiragana", "character": "にゃ", "romaji": "nya", "meaning": "nya combination"},
+    {"type": "hiragana", "character": "にゅ", "romaji": "nyu", "meaning": "nyu combination"},
+    {"type": "hiragana", "character": "にょ", "romaji": "nyo", "meaning": "nyo combination"}
+  ]
+}

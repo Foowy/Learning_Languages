@@ -1,0 +1,12 @@
+{
+  "unit": 1,
+  "lesson": 13,
+  "title": "Hiragana: D-row voiced (だ行)",
+  "cards": [
+    {"type": "hiragana", "character": "だ", "romaji": "da", "meaning": "da"},
+    {"type": "hiragana", "character": "ぢ", "romaji": "ji", "meaning": "ji (rare variant)"},
+    {"type": "hiragana", "character": "づ", "romaji": "zu", "meaning": "zu (rare variant)"},
+    {"type": "hiragana", "character": "で", "romaji": "de", "meaning": "de"},
+    {"type": "hiragana", "character": "ど", "romaji": "do", "meaning": "do"}
+  ]
+}

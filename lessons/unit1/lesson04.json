@@ -1,0 +1,12 @@
+{
+  "unit": 1,
+  "lesson": 4,
+  "title": "Hiragana: T-row (た行)",
+  "cards": [
+    {"type": "hiragana", "character": "た", "romaji": "ta", "meaning": "ta"},
+    {"type": "hiragana", "character": "ち", "romaji": "chi", "meaning": "chi"},
+    {"type": "hiragana", "character": "つ", "romaji": "tsu", "meaning": "tsu"},
+    {"type": "hiragana", "character": "て", "romaji": "te", "meaning": "te"},
+    {"type": "hiragana", "character": "と", "romaji": "to", "meaning": "to"}
+  ]
+}

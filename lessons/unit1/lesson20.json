@@ -1,0 +1,19 @@
+{
+  "unit": 1,
+  "lesson": 20,
+  "title": "Hiragana: Voiced combinations",
+  "cards": [
+    {"type": "hiragana", "character": "ぎゃ", "romaji": "gya", "meaning": "gya combination"},
+    {"type": "hiragana", "character": "ぎゅ", "romaji": "gyu", "meaning": "gyu combination"},
+    {"type": "hiragana", "character": "ぎょ", "romaji": "gyo", "meaning": "gyo combination"},
+    {"type": "hiragana", "character": "じゃ", "romaji": "ja", "meaning": "ja combination"},
+    {"type": "hiragana", "character": "じゅ", "romaji": "ju", "meaning": "ju combination"},
+    {"type": "hiragana", "character": "じょ", "romaji": "jo", "meaning": "jo combination"},
+    {"type": "hiragana", "character": "びゃ", "romaji": "bya", "meaning": "bya combination"},
+    {"type": "hiragana", "character": "びゅ", "romaji": "byu", "meaning": "byu combination"},
+    {"type": "hiragana", "character": "びょ", "romaji": "byo", "meaning": "byo combination"},
+    {"type": "hiragana", "character": "ぴゃ", "romaji": "pya", "meaning": "pya combination"},
+    {"type": "hiragana", "character": "ぴゅ", "romaji": "pyu", "meaning": "pyu combination"},
+    {"type": "hiragana", "character": "ぴょ", "romaji": "pyo", "meaning": "pyo combination"}
+  ]
+}

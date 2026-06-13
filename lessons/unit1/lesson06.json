@@ -1,0 +1,12 @@
+{
+  "unit": 1,
+  "lesson": 6,
+  "title": "Hiragana: H-row (は行)",
+  "cards": [
+    {"type": "hiragana", "character": "は", "romaji": "ha", "meaning": "ha"},
+    {"type": "hiragana", "character": "ひ", "romaji": "hi", "meaning": "hi"},
+    {"type": "hiragana", "character": "ふ", "romaji": "fu", "meaning": "fu"},
+    {"type": "hiragana", "character": "へ", "romaji": "he", "meaning": "he"},
+    {"type": "hiragana", "character": "ほ", "romaji": "ho", "meaning": "ho"}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "unit": 1,
+  "lesson": 15,
+  "title": "Hiragana: P-row (ぱ行)",
+  "cards": [
+    {"type": "hiragana", "character": "ぱ", "romaji": "pa", "meaning": "pa"},
+    {"type": "hiragana", "character": "ぴ", "romaji": "pi", "meaning": "pi"},
+    {"type": "hiragana", "character": "ぷ", "romaji": "pu", "meaning": "pu"},
+    {"type": "hiragana", "character": "ぺ", "romaji": "pe", "meaning": "pe"},
+    {"type": "hiragana", "character": "ぽ", "romaji": "po", "meaning": "po"}
+  ]
+}

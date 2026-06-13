@@ -1,0 +1,12 @@
+{
+  "unit": 1,
+  "lesson": 1,
+  "title": "Hiragana: Vowels (あ行)",
+  "cards": [
+    {"type": "hiragana", "character": "あ", "romaji": "a", "meaning": "vowel 'a' as in father"},
+    {"type": "hiragana", "character": "い", "romaji": "i", "meaning": "vowel 'i' as in feet"},
+    {"type": "hiragana", "character": "う", "romaji": "u", "meaning": "vowel 'u' as in moon"},
+    {"type": "hiragana", "character": "え", "romaji": "e", "meaning": "vowel 'e' as in red"},
+    {"type": "hiragana", "character": "お", "romaji": "o", "meaning": "vowel 'o' as in go"}
+  ]
+}

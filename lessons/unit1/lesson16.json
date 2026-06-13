@@ -1,0 +1,13 @@
+{
+  "unit": 1,
+  "lesson": 16,
+  "title": "Hiragana: KI + SHI combinations",
+  "cards": [
+    {"type": "hiragana", "character": "きゃ", "romaji": "kya", "meaning": "kya combination"},
+    {"type": "hiragana", "character": "きゅ", "romaji": "kyu", "meaning": "kyu combination"},
+    {"type": "hiragana", "character": "きょ", "romaji": "kyo", "meaning": "kyo combination"},
+    {"type": "hiragana", "character": "しゃ", "romaji": "sha", "meaning": "sha combination"},
+    {"type": "hiragana", "character": "しゅ", "romaji": "shu", "meaning": "shu combination"},
+    {"type": "hiragana", "character": "しょ", "romaji": "sho", "meaning": "sho combination"}
+  ]
+}

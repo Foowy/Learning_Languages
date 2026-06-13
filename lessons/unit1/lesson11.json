@@ -1,0 +1,12 @@
+{
+  "unit": 1,
+  "lesson": 11,
+  "title": "Hiragana: G-row voiced (が行)",
+  "cards": [
+    {"type": "hiragana", "character": "が", "romaji": "ga", "meaning": "ga"},
+    {"type": "hiragana", "character": "ぎ", "romaji": "gi", "meaning": "gi"},
+    {"type": "hiragana", "character": "ぐ", "romaji": "gu", "meaning": "gu"},
+    {"type": "hiragana", "character": "げ", "romaji": "ge", "meaning": "ge"},
+    {"type": "hiragana", "character": "ご", "romaji": "go", "meaning": "go"}
+  ]
+}

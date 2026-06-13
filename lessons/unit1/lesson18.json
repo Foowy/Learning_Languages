@@ -1,0 +1,13 @@
+{
+  "unit": 1,
+  "lesson": 18,
+  "title": "Hiragana: HI + MI combinations",
+  "cards": [
+    {"type": "hiragana", "character": "ひゃ", "romaji": "hya", "meaning": "hya combination"},
+    {"type": "hiragana", "character": "ひゅ", "romaji": "hyu", "meaning": "hyu combination"},
+    {"type": "hiragana", "character": "ひょ", "romaji": "hyo", "meaning": "hyo combination"},
+    {"type": "hiragana", "character": "みゃ", "romaji": "mya", "meaning": "mya combination"},
+    {"type": "hiragana", "character": "みゅ", "romaji": "myu", "meaning": "myu combination"},
+    {"type": "hiragana", "character": "みょ", "romaji": "myo", "meaning": "myo combination"}
+  ]
+}

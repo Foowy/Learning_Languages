@@ -1,0 +1,10 @@
+{
+  "unit": 1,
+  "lesson": 19,
+  "title": "Hiragana: RI combinations",
+  "cards": [
+    {"type": "hiragana", "character": "りゃ", "romaji": "rya", "meaning": "rya combination"},
+    {"type": "hiragana", "character": "りゅ", "romaji": "ryu", "meaning": "ryu combination"},
+    {"type": "hiragana", "character": "りょ", "romaji": "ryo", "meaning": "ryo combination"}
+  ]
+}

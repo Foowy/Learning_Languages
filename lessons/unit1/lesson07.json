@@ -1,0 +1,12 @@
+{
+  "unit": 1,
+  "lesson": 7,
+  "title": "Hiragana: M-row (ま行)",
+  "cards": [
+    {"type": "hiragana", "character": "ま", "romaji": "ma", "meaning": "ma"},
+    {"type": "hiragana", "character": "み", "romaji": "mi", "meaning": "mi"},
+    {"type": "hiragana", "character": "む", "romaji": "mu", "meaning": "mu"},
+    {"type": "hiragana", "character": "め", "romaji": "me", "meaning": "me"},
+    {"type": "hiragana", "character": "も", "romaji": "mo", "meaning": "mo"}
+  ]
+}

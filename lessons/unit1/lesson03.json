@@ -1,0 +1,12 @@
+{
+  "unit": 1,
+  "lesson": 3,
+  "title": "Hiragana: S-row (さ行)",
+  "cards": [
+    {"type": "hiragana", "character": "さ", "romaji": "sa", "meaning": "sa"},
+    {"type": "hiragana", "character": "し", "romaji": "shi", "meaning": "shi"},
+    {"type": "hiragana", "character": "す", "romaji": "su", "meaning": "su"},
+    {"type": "hiragana", "character": "せ", "romaji": "se", "meaning": "se"},
+    {"type": "hiragana", "character": "そ", "romaji": "so", "meaning": "so"}
+  ]
+}

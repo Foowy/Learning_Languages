@@ -1,0 +1,12 @@
+{
+  "unit": 1,
+  "lesson": 5,
+  "title": "Hiragana: N-row (な行)",
+  "cards": [
+    {"type": "hiragana", "character": "な", "romaji": "na", "meaning": "na"},
+    {"type": "hiragana", "character": "に", "romaji": "ni", "meaning": "ni"},
+    {"type": "hiragana", "character": "ぬ", "romaji": "nu", "meaning": "nu"},
+    {"type": "hiragana", "character": "ね", "romaji": "ne", "meaning": "ne"},
+    {"type": "hiragana", "character": "の", "romaji": "no", "meaning": "no"}
+  ]
+}
