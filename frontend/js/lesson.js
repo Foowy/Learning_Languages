@@ -164,7 +164,7 @@ function showQuiz() {
   function showQuestion() {
     if (qIdx >= questions.length) { showQuizResults(); return; }
     const q = questions[qIdx];
-    const distractors = cards.filter(c => c.id !== q.id).sort(() => Math.random() - 0.5).slice(0, 3);
+    const distractors = cards.filter(c => c.id !== q.id).sort(() => Math.random() - 0.5).slice(0, Math.min(3, cards.length - 1));
     const options = [...distractors, q].sort(() => Math.random() - 0.5);
 
     document.getElementById('app').innerHTML = `
