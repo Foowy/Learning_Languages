@@ -7,8 +7,6 @@ async function renderDashboard() {
 
   const completed = lessons.filter(l => l.completed);
   const next = lessons.find(l => !l.completed);
-  const totalCards = completed.length * 5; // approximate
-
   // Streak: stored in localStorage
   const today = new Date().toDateString();
   let streak = parseInt(localStorage.getItem('streak') || '0');
@@ -27,8 +25,6 @@ async function renderDashboard() {
     unitMap[l.unit].total++;
     if (l.completed) unitMap[l.unit].done++;
   }
-
-  const recentChars = completed.slice(-10).map(l => `<span class="char-tile">?</span>`).join('');
 
   app.innerHTML = `
     <div style="text-align:center;padding:28px 0 20px">
