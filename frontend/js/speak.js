@@ -21,7 +21,7 @@ async function renderSpeak() {
 
   let current = null;
 
-  function pickRandom() {
+  window.pickRandom = function() {
     current = allCards[Math.floor(Math.random() * allCards.length)];
     app.innerHTML = `
       <h2 style="margin-bottom:16px">Speaking Practice</h2>
