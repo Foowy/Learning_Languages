@@ -17,7 +17,7 @@ async def test_db(tmp_path):
         yield db
 
 @pytest_asyncio.fixture
-async def client(tmp_path, monkeypatch):
+async def client(tmp_path):
     db_path = tmp_path / "test.db"
     async with aiosqlite.connect(db_path) as setup_db:
         await setup_db.execute(CREATE_CARDS)

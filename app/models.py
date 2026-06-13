@@ -1,6 +1,4 @@
 from pydantic import BaseModel
-from typing import Optional
-from datetime import date, datetime
 
 class ReviewUpdate(BaseModel):
     card_id: int
