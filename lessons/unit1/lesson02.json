@@ -3,10 +3,10 @@
   "lesson": 2,
   "title": "Hiragana: K-row (か行)",
   "cards": [
-    {"type": "hiragana", "character": "か", "romaji": "ka", "meaning": "ka"},
-    {"type": "hiragana", "character": "き", "romaji": "ki", "meaning": "ki"},
-    {"type": "hiragana", "character": "く", "romaji": "ku", "meaning": "ku"},
-    {"type": "hiragana", "character": "け", "romaji": "ke", "meaning": "ke"},
-    {"type": "hiragana", "character": "こ", "romaji": "ko", "meaning": "ko"}
+    {"type": "hiragana", "character": "か", "romaji": "ka", "meaning": "consonant-vowel syllable 'ka'"},
+    {"type": "hiragana", "character": "き", "romaji": "ki", "meaning": "consonant-vowel syllable 'ki'"},
+    {"type": "hiragana", "character": "く", "romaji": "ku", "meaning": "consonant-vowel syllable 'ku'"},
+    {"type": "hiragana", "character": "け", "romaji": "ke", "meaning": "consonant-vowel syllable 'ke'"},
+    {"type": "hiragana", "character": "こ", "romaji": "ko", "meaning": "consonant-vowel syllable 'ko'"}
   ]
 }

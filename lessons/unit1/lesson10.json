@@ -3,7 +3,7 @@
   "lesson": 10,
   "title": "Hiragana: W-row + N (わ行)",
   "cards": [
-    {"type": "hiragana", "character": "わ", "romaji": "wa", "meaning": "wa"},
+    {"type": "hiragana", "character": "わ", "romaji": "wa", "meaning": "w-row syllable 'wa'"},
     {"type": "hiragana", "character": "を", "romaji": "wo", "meaning": "object marker particle"},
     {"type": "hiragana", "character": "ん", "romaji": "n", "meaning": "syllabic nasal 'n'"}
   ]

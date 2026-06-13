@@ -3,10 +3,10 @@
   "lesson": 7,
   "title": "Hiragana: M-row (ま行)",
   "cards": [
-    {"type": "hiragana", "character": "ま", "romaji": "ma", "meaning": "ma"},
-    {"type": "hiragana", "character": "み", "romaji": "mi", "meaning": "mi"},
-    {"type": "hiragana", "character": "む", "romaji": "mu", "meaning": "mu"},
-    {"type": "hiragana", "character": "め", "romaji": "me", "meaning": "me"},
-    {"type": "hiragana", "character": "も", "romaji": "mo", "meaning": "mo"}
+    {"type": "hiragana", "character": "ま", "romaji": "ma", "meaning": "consonant-vowel syllable 'ma'"},
+    {"type": "hiragana", "character": "み", "romaji": "mi", "meaning": "consonant-vowel syllable 'mi'"},
+    {"type": "hiragana", "character": "む", "romaji": "mu", "meaning": "consonant-vowel syllable 'mu'"},
+    {"type": "hiragana", "character": "め", "romaji": "me", "meaning": "consonant-vowel syllable 'me'"},
+    {"type": "hiragana", "character": "も", "romaji": "mo", "meaning": "consonant-vowel syllable 'mo'"}
   ]
 }

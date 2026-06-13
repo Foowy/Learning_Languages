@@ -3,10 +3,10 @@
   "lesson": 5,
   "title": "Hiragana: N-row (な行)",
   "cards": [
-    {"type": "hiragana", "character": "な", "romaji": "na", "meaning": "na"},
-    {"type": "hiragana", "character": "に", "romaji": "ni", "meaning": "ni"},
-    {"type": "hiragana", "character": "ぬ", "romaji": "nu", "meaning": "nu"},
-    {"type": "hiragana", "character": "ね", "romaji": "ne", "meaning": "ne"},
-    {"type": "hiragana", "character": "の", "romaji": "no", "meaning": "no"}
+    {"type": "hiragana", "character": "な", "romaji": "na", "meaning": "consonant-vowel syllable 'na'"},
+    {"type": "hiragana", "character": "に", "romaji": "ni", "meaning": "consonant-vowel syllable 'ni'"},
+    {"type": "hiragana", "character": "ぬ", "romaji": "nu", "meaning": "consonant-vowel syllable 'nu'"},
+    {"type": "hiragana", "character": "ね", "romaji": "ne", "meaning": "consonant-vowel syllable 'ne'"},
+    {"type": "hiragana", "character": "の", "romaji": "no", "meaning": "consonant-vowel syllable 'no'"}
   ]
 }

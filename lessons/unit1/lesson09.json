@@ -3,10 +3,10 @@
   "lesson": 9,
   "title": "Hiragana: R-row (ら行)",
   "cards": [
-    {"type": "hiragana", "character": "ら", "romaji": "ra", "meaning": "ra"},
-    {"type": "hiragana", "character": "り", "romaji": "ri", "meaning": "ri"},
-    {"type": "hiragana", "character": "る", "romaji": "ru", "meaning": "ru"},
-    {"type": "hiragana", "character": "れ", "romaji": "re", "meaning": "re"},
-    {"type": "hiragana", "character": "ろ", "romaji": "ro", "meaning": "ro"}
+    {"type": "hiragana", "character": "ら", "romaji": "ra", "meaning": "consonant-vowel syllable 'ra'"},
+    {"type": "hiragana", "character": "り", "romaji": "ri", "meaning": "consonant-vowel syllable 'ri'"},
+    {"type": "hiragana", "character": "る", "romaji": "ru", "meaning": "consonant-vowel syllable 'ru'"},
+    {"type": "hiragana", "character": "れ", "romaji": "re", "meaning": "consonant-vowel syllable 're'"},
+    {"type": "hiragana", "character": "ろ", "romaji": "ro", "meaning": "consonant-vowel syllable 'ro'"}
   ]
 }

@@ -3,10 +3,10 @@
   "lesson": 15,
   "title": "Hiragana: P-row (ぱ行)",
   "cards": [
-    {"type": "hiragana", "character": "ぱ", "romaji": "pa", "meaning": "pa"},
-    {"type": "hiragana", "character": "ぴ", "romaji": "pi", "meaning": "pi"},
-    {"type": "hiragana", "character": "ぷ", "romaji": "pu", "meaning": "pu"},
-    {"type": "hiragana", "character": "ぺ", "romaji": "pe", "meaning": "pe"},
-    {"type": "hiragana", "character": "ぽ", "romaji": "po", "meaning": "po"}
+    {"type": "hiragana", "character": "ぱ", "romaji": "pa", "meaning": "semi-voiced syllable 'pa'"},
+    {"type": "hiragana", "character": "ぴ", "romaji": "pi", "meaning": "semi-voiced syllable 'pi'"},
+    {"type": "hiragana", "character": "ぷ", "romaji": "pu", "meaning": "semi-voiced syllable 'pu'"},
+    {"type": "hiragana", "character": "ぺ", "romaji": "pe", "meaning": "semi-voiced syllable 'pe'"},
+    {"type": "hiragana", "character": "ぽ", "romaji": "po", "meaning": "semi-voiced syllable 'po'"}
   ]
 }

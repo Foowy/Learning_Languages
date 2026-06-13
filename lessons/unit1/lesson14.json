@@ -3,10 +3,10 @@
   "lesson": 14,
   "title": "Hiragana: B-row voiced (ば行)",
   "cards": [
-    {"type": "hiragana", "character": "ば", "romaji": "ba", "meaning": "ba"},
-    {"type": "hiragana", "character": "び", "romaji": "bi", "meaning": "bi"},
-    {"type": "hiragana", "character": "ぶ", "romaji": "bu", "meaning": "bu"},
-    {"type": "hiragana", "character": "べ", "romaji": "be", "meaning": "be"},
-    {"type": "hiragana", "character": "ぼ", "romaji": "bo", "meaning": "bo"}
+    {"type": "hiragana", "character": "ば", "romaji": "ba", "meaning": "voiced syllable 'ba'"},
+    {"type": "hiragana", "character": "び", "romaji": "bi", "meaning": "voiced syllable 'bi'"},
+    {"type": "hiragana", "character": "ぶ", "romaji": "bu", "meaning": "voiced syllable 'bu'"},
+    {"type": "hiragana", "character": "べ", "romaji": "be", "meaning": "voiced syllable 'be'"},
+    {"type": "hiragana", "character": "ぼ", "romaji": "bo", "meaning": "voiced syllable 'bo'"}
   ]
 }

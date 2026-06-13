@@ -3,10 +3,10 @@
   "lesson": 3,
   "title": "Hiragana: S-row (さ行)",
   "cards": [
-    {"type": "hiragana", "character": "さ", "romaji": "sa", "meaning": "sa"},
-    {"type": "hiragana", "character": "し", "romaji": "shi", "meaning": "shi"},
-    {"type": "hiragana", "character": "す", "romaji": "su", "meaning": "su"},
-    {"type": "hiragana", "character": "せ", "romaji": "se", "meaning": "se"},
-    {"type": "hiragana", "character": "そ", "romaji": "so", "meaning": "so"}
+    {"type": "hiragana", "character": "さ", "romaji": "sa", "meaning": "consonant-vowel syllable 'sa'"},
+    {"type": "hiragana", "character": "し", "romaji": "shi", "meaning": "s-row syllable 'shi'"},
+    {"type": "hiragana", "character": "す", "romaji": "su", "meaning": "consonant-vowel syllable 'su'"},
+    {"type": "hiragana", "character": "せ", "romaji": "se", "meaning": "consonant-vowel syllable 'se'"},
+    {"type": "hiragana", "character": "そ", "romaji": "so", "meaning": "consonant-vowel syllable 'so'"}
   ]
 }

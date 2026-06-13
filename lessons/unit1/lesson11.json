@@ -3,10 +3,10 @@
   "lesson": 11,
   "title": "Hiragana: G-row voiced (が行)",
   "cards": [
-    {"type": "hiragana", "character": "が", "romaji": "ga", "meaning": "ga"},
-    {"type": "hiragana", "character": "ぎ", "romaji": "gi", "meaning": "gi"},
-    {"type": "hiragana", "character": "ぐ", "romaji": "gu", "meaning": "gu"},
-    {"type": "hiragana", "character": "げ", "romaji": "ge", "meaning": "ge"},
-    {"type": "hiragana", "character": "ご", "romaji": "go", "meaning": "go"}
+    {"type": "hiragana", "character": "が", "romaji": "ga", "meaning": "voiced syllable 'ga'"},
+    {"type": "hiragana", "character": "ぎ", "romaji": "gi", "meaning": "voiced syllable 'gi'"},
+    {"type": "hiragana", "character": "ぐ", "romaji": "gu", "meaning": "voiced syllable 'gu'"},
+    {"type": "hiragana", "character": "げ", "romaji": "ge", "meaning": "voiced syllable 'ge'"},
+    {"type": "hiragana", "character": "ご", "romaji": "go", "meaning": "voiced syllable 'go'"}
   ]
 }

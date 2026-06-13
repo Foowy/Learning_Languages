@@ -3,10 +3,10 @@
   "lesson": 6,
   "title": "Hiragana: H-row (は行)",
   "cards": [
-    {"type": "hiragana", "character": "は", "romaji": "ha", "meaning": "ha"},
-    {"type": "hiragana", "character": "ひ", "romaji": "hi", "meaning": "hi"},
-    {"type": "hiragana", "character": "ふ", "romaji": "fu", "meaning": "fu"},
-    {"type": "hiragana", "character": "へ", "romaji": "he", "meaning": "he"},
-    {"type": "hiragana", "character": "ほ", "romaji": "ho", "meaning": "ho"}
+    {"type": "hiragana", "character": "は", "romaji": "ha", "meaning": "consonant-vowel syllable 'ha'"},
+    {"type": "hiragana", "character": "ひ", "romaji": "hi", "meaning": "consonant-vowel syllable 'hi'"},
+    {"type": "hiragana", "character": "ふ", "romaji": "fu", "meaning": "h-row syllable 'fu'"},
+    {"type": "hiragana", "character": "へ", "romaji": "he", "meaning": "consonant-vowel syllable 'he'"},
+    {"type": "hiragana", "character": "ほ", "romaji": "ho", "meaning": "consonant-vowel syllable 'ho'"}
   ]
 }

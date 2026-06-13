@@ -3,8 +3,8 @@
   "lesson": 8,
   "title": "Hiragana: Y-row (や行)",
   "cards": [
-    {"type": "hiragana", "character": "や", "romaji": "ya", "meaning": "ya"},
-    {"type": "hiragana", "character": "ゆ", "romaji": "yu", "meaning": "yu"},
-    {"type": "hiragana", "character": "よ", "romaji": "yo", "meaning": "yo"}
+    {"type": "hiragana", "character": "や", "romaji": "ya", "meaning": "y-row syllable 'ya'"},
+    {"type": "hiragana", "character": "ゆ", "romaji": "yu", "meaning": "y-row syllable 'yu'"},
+    {"type": "hiragana", "character": "よ", "romaji": "yo", "meaning": "y-row syllable 'yo'"}
   ]
 }
