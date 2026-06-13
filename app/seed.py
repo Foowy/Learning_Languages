@@ -10,12 +10,13 @@ BUNDLED_LESSONS = Path(__file__).parent.parent / "lessons"
 
 async def seed_if_empty():
     lessons_dir = DATA_DIR / "lessons"
-    if not lessons_dir.exists() or not any(lessons_dir.rglob("*.json")):
+    if not lessons_dir.exists() or not any(lessons_dir.rglob("lesson*.json")):
         shutil.copytree(BUNDLED_LESSONS, lessons_dir, dirs_exist_ok=True)
 
     db_path = app.database.get_db_path()
     db_path.parent.mkdir(parents=True, exist_ok=True)
     async with aiosqlite.connect(db_path) as db:
+        # init_db() must be called before seed_if_empty() — tables are assumed to exist
         cursor = await db.execute("SELECT COUNT(*) FROM cards")
         count = (await cursor.fetchone())[0]
         if count > 0:
