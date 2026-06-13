@@ -1,4 +1,4 @@
-from fastapi import APIRouter, Depends
+from fastapi import APIRouter, Depends, HTTPException
 import aiosqlite
 from app.database import get_db
 from app.models import ReviewUpdate
@@ -23,7 +23,7 @@ async def update_progress(update: ReviewUpdate, db: aiosqlite.Connection = Depen
     )
     row = await cursor.fetchone()
     if not row:
-        return {"error": "card not in progress"}
+        raise HTTPException(status_code=404, detail="card not in progress")
     card = SRSCard(interval_days=row[0], ease_factor=row[1], review_count=row[2])
     updated = next_interval(card, update.score)
     new_due = due_date(updated.interval_days)
