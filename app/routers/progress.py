@@ -17,9 +17,11 @@ async def get_due_cards(db: aiosqlite.Connection = Depends(get_db)):
 
 @router.post("/update")
 async def update_progress(update: ReviewUpdate, db: aiosqlite.Connection = Depends(get_db)):
+    # TODO(multi-user): replace hardcoded user_id=1 with authenticated user
+    user_id = 1
     cursor = await db.execute(
-        "SELECT interval_days, ease_factor, review_count FROM progress WHERE card_id=?",
-        (update.card_id,)
+        "SELECT interval_days, ease_factor, review_count FROM progress WHERE card_id=? AND user_id=?",
+        (update.card_id, user_id)
     )
     row = await cursor.fetchone()
     if not row:
@@ -29,9 +31,9 @@ async def update_progress(update: ReviewUpdate, db: aiosqlite.Connection = Depen
     new_due = due_date(updated.interval_days)
     await db.execute(
         "UPDATE progress SET due_date=?, interval_days=?, ease_factor=?, review_count=?, last_score=?"
-        " WHERE card_id=?",
+        " WHERE card_id=? AND user_id=?",
         (new_due.isoformat(), updated.interval_days, updated.ease_factor,
-         updated.review_count, update.score, update.card_id)
+         updated.review_count, update.score, update.card_id, user_id)
     )
     await db.commit()
     return {"due_date": new_due.isoformat(), "interval_days": updated.interval_days}

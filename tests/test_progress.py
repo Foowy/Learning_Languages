@@ -13,8 +13,8 @@ async def test_update_progress(client):
             ("hiragana","あ","a","vowel a",1,1)
         )
         await db.execute(
-            "INSERT INTO progress (card_id, due_date, interval_days, ease_factor, review_count)"
-            " VALUES (1, date('now'), 1, 2.5, 0)"
+            "INSERT INTO progress (card_id, user_id, due_date, interval_days, ease_factor, review_count)"
+            " VALUES (1, 1, date('now'), 1, 2.5, 0)"
         )
         await db.commit()
         break
