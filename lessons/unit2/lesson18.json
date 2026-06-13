@@ -1,0 +1,11 @@
+{
+  "unit": 2, "lesson": 18, "title": "Katakana — HI+MI Combinations",
+  "cards": [
+    {"type": "katakana", "character": "ヒャ", "romaji": "hya", "meaning": "hya"},
+    {"type": "katakana", "character": "ヒュ", "romaji": "hyu", "meaning": "hyu"},
+    {"type": "katakana", "character": "ヒョ", "romaji": "hyo", "meaning": "hyo"},
+    {"type": "katakana", "character": "ミャ", "romaji": "mya", "meaning": "mya"},
+    {"type": "katakana", "character": "ミュ", "romaji": "myu", "meaning": "myu"},
+    {"type": "katakana", "character": "ミョ", "romaji": "myo", "meaning": "myo"}
+  ]
+}

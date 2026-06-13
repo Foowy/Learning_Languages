@@ -1,0 +1,10 @@
+{
+  "unit": 2, "lesson": 2, "title": "Katakana — K-row (カ行)",
+  "cards": [
+    {"type": "katakana", "character": "カ", "romaji": "ka", "meaning": "ka"},
+    {"type": "katakana", "character": "キ", "romaji": "ki", "meaning": "ki"},
+    {"type": "katakana", "character": "ク", "romaji": "ku", "meaning": "ku"},
+    {"type": "katakana", "character": "ケ", "romaji": "ke", "meaning": "ke"},
+    {"type": "katakana", "character": "コ", "romaji": "ko", "meaning": "ko"}
+  ]
+}

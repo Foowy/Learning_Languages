@@ -1,0 +1,8 @@
+{
+  "unit": 2, "lesson": 10, "title": "Katakana — W-row + N (ワ行)",
+  "cards": [
+    {"type": "katakana", "character": "ワ", "romaji": "wa", "meaning": "wa"},
+    {"type": "katakana", "character": "ヲ", "romaji": "wo", "meaning": "wo"},
+    {"type": "katakana", "character": "ン", "romaji": "n", "meaning": "n"}
+  ]
+}

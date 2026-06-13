@@ -1,0 +1,10 @@
+{
+  "unit": 2, "lesson": 14, "title": "Katakana — B-row (バ行)",
+  "cards": [
+    {"type": "katakana", "character": "バ", "romaji": "ba", "meaning": "ba"},
+    {"type": "katakana", "character": "ビ", "romaji": "bi", "meaning": "bi"},
+    {"type": "katakana", "character": "ブ", "romaji": "bu", "meaning": "bu"},
+    {"type": "katakana", "character": "ベ", "romaji": "be", "meaning": "be"},
+    {"type": "katakana", "character": "ボ", "romaji": "bo", "meaning": "bo"}
+  ]
+}

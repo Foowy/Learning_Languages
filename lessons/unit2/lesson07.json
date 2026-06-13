@@ -1,0 +1,10 @@
+{
+  "unit": 2, "lesson": 7, "title": "Katakana — M-row (マ行)",
+  "cards": [
+    {"type": "katakana", "character": "マ", "romaji": "ma", "meaning": "ma"},
+    {"type": "katakana", "character": "ミ", "romaji": "mi", "meaning": "mi"},
+    {"type": "katakana", "character": "ム", "romaji": "mu", "meaning": "mu"},
+    {"type": "katakana", "character": "メ", "romaji": "me", "meaning": "me"},
+    {"type": "katakana", "character": "モ", "romaji": "mo", "meaning": "mo"}
+  ]
+}

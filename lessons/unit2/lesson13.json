@@ -1,0 +1,10 @@
+{
+  "unit": 2, "lesson": 13, "title": "Katakana — D-row (ダ行)",
+  "cards": [
+    {"type": "katakana", "character": "ダ", "romaji": "da", "meaning": "da"},
+    {"type": "katakana", "character": "ヂ", "romaji": "ji", "meaning": "ji (rare)"},
+    {"type": "katakana", "character": "ヅ", "romaji": "zu", "meaning": "zu (rare)"},
+    {"type": "katakana", "character": "デ", "romaji": "de", "meaning": "de"},
+    {"type": "katakana", "character": "ド", "romaji": "do", "meaning": "do"}
+  ]
+}

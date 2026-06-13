@@ -1,0 +1,17 @@
+{
+  "unit": 2, "lesson": 20, "title": "Katakana — Voiced Combinations",
+  "cards": [
+    {"type": "katakana", "character": "ギャ", "romaji": "gya", "meaning": "gya"},
+    {"type": "katakana", "character": "ギュ", "romaji": "gyu", "meaning": "gyu"},
+    {"type": "katakana", "character": "ギョ", "romaji": "gyo", "meaning": "gyo"},
+    {"type": "katakana", "character": "ジャ", "romaji": "ja", "meaning": "ja"},
+    {"type": "katakana", "character": "ジュ", "romaji": "ju", "meaning": "ju"},
+    {"type": "katakana", "character": "ジョ", "romaji": "jo", "meaning": "jo"},
+    {"type": "katakana", "character": "ビャ", "romaji": "bya", "meaning": "bya"},
+    {"type": "katakana", "character": "ビュ", "romaji": "byu", "meaning": "byu"},
+    {"type": "katakana", "character": "ビョ", "romaji": "byo", "meaning": "byo"},
+    {"type": "katakana", "character": "ピャ", "romaji": "pya", "meaning": "pya"},
+    {"type": "katakana", "character": "ピュ", "romaji": "pyu", "meaning": "pyu"},
+    {"type": "katakana", "character": "ピョ", "romaji": "pyo", "meaning": "pyo"}
+  ]
+}

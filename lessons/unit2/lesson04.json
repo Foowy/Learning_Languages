@@ -1,0 +1,10 @@
+{
+  "unit": 2, "lesson": 4, "title": "Katakana — T-row (タ行)",
+  "cards": [
+    {"type": "katakana", "character": "タ", "romaji": "ta", "meaning": "ta"},
+    {"type": "katakana", "character": "チ", "romaji": "chi", "meaning": "chi"},
+    {"type": "katakana", "character": "ツ", "romaji": "tsu", "meaning": "tsu"},
+    {"type": "katakana", "character": "テ", "romaji": "te", "meaning": "te"},
+    {"type": "katakana", "character": "ト", "romaji": "to", "meaning": "to"}
+  ]
+}

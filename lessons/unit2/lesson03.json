@@ -1,0 +1,10 @@
+{
+  "unit": 2, "lesson": 3, "title": "Katakana — S-row (サ行)",
+  "cards": [
+    {"type": "katakana", "character": "サ", "romaji": "sa", "meaning": "sa"},
+    {"type": "katakana", "character": "シ", "romaji": "shi", "meaning": "shi"},
+    {"type": "katakana", "character": "ス", "romaji": "su", "meaning": "su"},
+    {"type": "katakana", "character": "セ", "romaji": "se", "meaning": "se"},
+    {"type": "katakana", "character": "ソ", "romaji": "so", "meaning": "so"}
+  ]
+}

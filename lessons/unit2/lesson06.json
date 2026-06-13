@@ -1,0 +1,10 @@
+{
+  "unit": 2, "lesson": 6, "title": "Katakana — H-row (ハ行)",
+  "cards": [
+    {"type": "katakana", "character": "ハ", "romaji": "ha", "meaning": "ha"},
+    {"type": "katakana", "character": "ヒ", "romaji": "hi", "meaning": "hi"},
+    {"type": "katakana", "character": "フ", "romaji": "fu", "meaning": "fu"},
+    {"type": "katakana", "character": "ヘ", "romaji": "he", "meaning": "he"},
+    {"type": "katakana", "character": "ホ", "romaji": "ho", "meaning": "ho"}
+  ]
+}

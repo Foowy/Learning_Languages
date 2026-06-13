@@ -1,0 +1,11 @@
+{
+  "unit": 2, "lesson": 16, "title": "Katakana — KI+SHI Combinations",
+  "cards": [
+    {"type": "katakana", "character": "キャ", "romaji": "kya", "meaning": "kya"},
+    {"type": "katakana", "character": "キュ", "romaji": "kyu", "meaning": "kyu"},
+    {"type": "katakana", "character": "キョ", "romaji": "kyo", "meaning": "kyo"},
+    {"type": "katakana", "character": "シャ", "romaji": "sha", "meaning": "sha"},
+    {"type": "katakana", "character": "シュ", "romaji": "shu", "meaning": "shu"},
+    {"type": "katakana", "character": "ショ", "romaji": "sho", "meaning": "sho"}
+  ]
+}

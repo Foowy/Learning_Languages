@@ -1,0 +1,10 @@
+{
+  "unit": 2, "lesson": 15, "title": "Katakana — P-row (パ行)",
+  "cards": [
+    {"type": "katakana", "character": "パ", "romaji": "pa", "meaning": "pa"},
+    {"type": "katakana", "character": "ピ", "romaji": "pi", "meaning": "pi"},
+    {"type": "katakana", "character": "プ", "romaji": "pu", "meaning": "pu"},
+    {"type": "katakana", "character": "ペ", "romaji": "pe", "meaning": "pe"},
+    {"type": "katakana", "character": "ポ", "romaji": "po", "meaning": "po"}
+  ]
+}

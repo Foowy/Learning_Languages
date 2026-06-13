@@ -1,0 +1,10 @@
+{
+  "unit": 2, "lesson": 1, "title": "Katakana — Vowels (ア行)",
+  "cards": [
+    {"type": "katakana", "character": "ア", "romaji": "a", "meaning": "vowel 'a'"},
+    {"type": "katakana", "character": "イ", "romaji": "i", "meaning": "vowel 'i'"},
+    {"type": "katakana", "character": "ウ", "romaji": "u", "meaning": "vowel 'u'"},
+    {"type": "katakana", "character": "エ", "romaji": "e", "meaning": "vowel 'e'"},
+    {"type": "katakana", "character": "オ", "romaji": "o", "meaning": "vowel 'o'"}
+  ]
+}

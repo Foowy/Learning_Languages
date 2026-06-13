@@ -1,0 +1,11 @@
+{
+  "unit": 2, "lesson": 17, "title": "Katakana — CHI+NI Combinations",
+  "cards": [
+    {"type": "katakana", "character": "チャ", "romaji": "cha", "meaning": "cha"},
+    {"type": "katakana", "character": "チュ", "romaji": "chu", "meaning": "chu"},
+    {"type": "katakana", "character": "チョ", "romaji": "cho", "meaning": "cho"},
+    {"type": "katakana", "character": "ニャ", "romaji": "nya", "meaning": "nya"},
+    {"type": "katakana", "character": "ニュ", "romaji": "nyu", "meaning": "nyu"},
+    {"type": "katakana", "character": "ニョ", "romaji": "nyo", "meaning": "nyo"}
+  ]
+}

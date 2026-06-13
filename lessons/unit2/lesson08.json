@@ -1,0 +1,8 @@
+{
+  "unit": 2, "lesson": 8, "title": "Katakana — Y-row (ヤ行)",
+  "cards": [
+    {"type": "katakana", "character": "ヤ", "romaji": "ya", "meaning": "ya"},
+    {"type": "katakana", "character": "ユ", "romaji": "yu", "meaning": "yu"},
+    {"type": "katakana", "character": "ヨ", "romaji": "yo", "meaning": "yo"}
+  ]
+}

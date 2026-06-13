@@ -1,0 +1,10 @@
+{
+  "unit": 2, "lesson": 12, "title": "Katakana — Z-row (ザ行)",
+  "cards": [
+    {"type": "katakana", "character": "ザ", "romaji": "za", "meaning": "za"},
+    {"type": "katakana", "character": "ジ", "romaji": "ji", "meaning": "ji"},
+    {"type": "katakana", "character": "ズ", "romaji": "zu", "meaning": "zu"},
+    {"type": "katakana", "character": "ゼ", "romaji": "ze", "meaning": "ze"},
+    {"type": "katakana", "character": "ゾ", "romaji": "zo", "meaning": "zo"}
+  ]
+}

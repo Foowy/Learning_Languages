@@ -1,0 +1,8 @@
+{
+  "unit": 2, "lesson": 19, "title": "Katakana — RI Combinations",
+  "cards": [
+    {"type": "katakana", "character": "リャ", "romaji": "rya", "meaning": "rya"},
+    {"type": "katakana", "character": "リュ", "romaji": "ryu", "meaning": "ryu"},
+    {"type": "katakana", "character": "リョ", "romaji": "ryo", "meaning": "ryo"}
+  ]
+}

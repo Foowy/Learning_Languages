@@ -1,0 +1,10 @@
+{
+  "unit": 2, "lesson": 9, "title": "Katakana — R-row (ラ行)",
+  "cards": [
+    {"type": "katakana", "character": "ラ", "romaji": "ra", "meaning": "ra"},
+    {"type": "katakana", "character": "リ", "romaji": "ri", "meaning": "ri"},
+    {"type": "katakana", "character": "ル", "romaji": "ru", "meaning": "ru"},
+    {"type": "katakana", "character": "レ", "romaji": "re", "meaning": "re"},
+    {"type": "katakana", "character": "ロ", "romaji": "ro", "meaning": "ro"}
+  ]
+}

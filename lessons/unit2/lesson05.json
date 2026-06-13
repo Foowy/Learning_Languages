@@ -1,0 +1,10 @@
+{
+  "unit": 2, "lesson": 5, "title": "Katakana — N-row (ナ行)",
+  "cards": [
+    {"type": "katakana", "character": "ナ", "romaji": "na", "meaning": "na"},
+    {"type": "katakana", "character": "ニ", "romaji": "ni", "meaning": "ni"},
+    {"type": "katakana", "character": "ヌ", "romaji": "nu", "meaning": "nu"},
+    {"type": "katakana", "character": "ネ", "romaji": "ne", "meaning": "ne"},
+    {"type": "katakana", "character": "ノ", "romaji": "no", "meaning": "no"}
+  ]
+}

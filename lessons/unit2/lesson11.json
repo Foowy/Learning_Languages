@@ -1,0 +1,10 @@
+{
+  "unit": 2, "lesson": 11, "title": "Katakana — G-row (ガ行)",
+  "cards": [
+    {"type": "katakana", "character": "ガ", "romaji": "ga", "meaning": "ga"},
+    {"type": "katakana", "character": "ギ", "romaji": "gi", "meaning": "gi"},
+    {"type": "katakana", "character": "グ", "romaji": "gu", "meaning": "gu"},
+    {"type": "katakana", "character": "ゲ", "romaji": "ge", "meaning": "ge"},
+    {"type": "katakana", "character": "ゴ", "romaji": "go", "meaning": "go"}
+  ]
+}
