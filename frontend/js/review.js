@@ -57,8 +57,7 @@ async function renderReview() {
   };
 
   window.rate = async function(score) {
-    const userId = sessionStorage.getItem('userId');
-    await fetch(`/api/review/update?user_id=${userId}`, {
+    await fetch(`/api/review/update?${window.apiParams()}`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ card_id: cards[idx].id, score }),

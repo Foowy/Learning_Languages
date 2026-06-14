@@ -13,7 +13,7 @@ async function renderUserPicker() {
              onclick="window.selectUser(${u.id},'${u.name.replace(/'/g, "\\'")}')">
           ${u.avatar_url
             ? `<img src="${u.avatar_url}" style="width:64px;height:64px;border-radius:50%;object-fit:cover;margin-bottom:8px;display:block;margin-left:auto;margin-right:auto">`
-            : `<div style="width:64px;height:64px;border-radius:50%;background:var(--accent);display:flex;align-items:center;justify-content:center;font-size:24px;font-weight:bold;margin:0 auto 8px">${u.name[0].toUpperCase()}</div>`
+            : `<div style="width:64px;height:64px;border-radius:50%;background:var(--accent);display:flex;align-items:center;justify-content:center;font-size:24px;font-weight:bold;margin:0 auto 8px">${(u.name[0] || '?').toUpperCase()}</div>`
           }
           <div>${u.name}</div>
         </div>
