@@ -7,7 +7,9 @@ WORKDIR /app
 RUN pip install --no-cache-dir setuptools
 
 COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+# --no-build-isolation: openai-whisper (20231117) uses setup.py without declaring
+# setuptools as a build dep, so pip's isolated build env can't find pkg_resources.
+RUN pip install --no-cache-dir --no-build-isolation -r requirements.txt
 
 # Pre-download Whisper base model during build (avoids slow first-start)
 RUN python -c "import whisper; whisper.load_model('base')"
