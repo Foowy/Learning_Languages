@@ -1,0 +1,67 @@
+{
+  "unit": 11,
+  "lesson": 5,
+  "title": "Vocabulary — Frequency 841–850",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "オーバーラン",
+      "romaji": "オーバーラン",
+      "meaning": "overrunning (the base)"
+    },
+    {
+      "type": "kana",
+      "character": "オーブン",
+      "romaji": "オーブン",
+      "meaning": "oven"
+    },
+    {
+      "type": "kana",
+      "character": "オープニング",
+      "romaji": "オープニング",
+      "meaning": "opening; start"
+    },
+    {
+      "type": "kana",
+      "character": "オープン",
+      "romaji": "オープン",
+      "meaning": "opening (a new store, golf course, runway, etc.)"
+    },
+    {
+      "type": "kana",
+      "character": "オープンカー",
+      "romaji": "オープンカー",
+      "meaning": "open-top car; convertible"
+    },
+    {
+      "type": "kana",
+      "character": "オープンセット",
+      "romaji": "オープンセット",
+      "meaning": "open set"
+    },
+    {
+      "type": "kana",
+      "character": "オーボエ",
+      "romaji": "オーボエ",
+      "meaning": "oboe"
+    },
+    {
+      "type": "kana",
+      "character": "オーラ",
+      "romaji": "オーラ",
+      "meaning": "aura"
+    },
+    {
+      "type": "kana",
+      "character": "オールスターキャスト",
+      "romaji": "オールスターキャスト",
+      "meaning": "all-star cast"
+    },
+    {
+      "type": "kana",
+      "character": "オールドガード",
+      "romaji": "オールドガード",
+      "meaning": "old guard"
+    }
+  ]
+}

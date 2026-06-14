@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 35,
+  "title": "JLPT N2/N1 Kanji — Part 35",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "彩",
+      "romaji": "サイ / いろど.る",
+      "meaning": "coloring; paint; makeup"
+    },
+    {
+      "type": "kanji",
+      "character": "摩",
+      "romaji": "マ / ま.する・さす.る・す.る",
+      "meaning": "chafe; rub; polish"
+    },
+    {
+      "type": "kanji",
+      "character": "励",
+      "romaji": "レイ / はげ.む・はげ.ます",
+      "meaning": "encourage; be diligent; inspire"
+    },
+    {
+      "type": "kanji",
+      "character": "縦",
+      "romaji": "ジュウ / たて",
+      "meaning": "vertical; length; height"
+    },
+    {
+      "type": "kanji",
+      "character": "輝",
+      "romaji": "キ / かがや.く",
+      "meaning": "radiance; shine; sparkle"
+    },
+    {
+      "type": "kanji",
+      "character": "蓄",
+      "romaji": "チク / たくわ.える",
+      "meaning": "amass; raise; hoard"
+    },
+    {
+      "type": "kanji",
+      "character": "軸",
+      "romaji": "ジク",
+      "meaning": "axis; pivot; stem"
+    },
+    {
+      "type": "kanji",
+      "character": "巡",
+      "romaji": "ジュン / めぐ.る・めぐ.り",
+      "meaning": "patrol; go around; circumference"
+    },
+    {
+      "type": "kanji",
+      "character": "稼",
+      "romaji": "カ / かせ.ぐ",
+      "meaning": "earnings; work; earn money"
+    },
+    {
+      "type": "kanji",
+      "character": "瞬",
+      "romaji": "シュン / またた.く・まじろ.ぐ",
+      "meaning": "wink; blink; twinkle"
+    }
+  ]
+}

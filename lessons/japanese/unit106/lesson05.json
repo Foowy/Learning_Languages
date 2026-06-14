@@ -1,0 +1,67 @@
+{
+  "unit": 106,
+  "lesson": 5,
+  "title": "Vocabulary — Frequency 19841–19850",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "要",
+      "romaji": "かなめ",
+      "meaning": "pivot"
+    },
+    {
+      "type": "kanji",
+      "character": "紙くず",
+      "romaji": "かみくず",
+      "meaning": "wastepaper; scrap of paper"
+    },
+    {
+      "type": "kanji",
+      "character": "辛口",
+      "romaji": "からくち",
+      "meaning": "dry taste (e.g. sake, wine)"
+    },
+    {
+      "type": "kanji",
+      "character": "軽はずみ",
+      "romaji": "かるはずみ",
+      "meaning": "thoughtless; rash"
+    },
+    {
+      "type": "kanji",
+      "character": "感ずる",
+      "romaji": "かんずる",
+      "meaning": "to feel; to sense"
+    },
+    {
+      "type": "kanji",
+      "character": "決まり",
+      "romaji": "きまり",
+      "meaning": "rule; regulation"
+    },
+    {
+      "type": "kanji",
+      "character": "虚栄心",
+      "romaji": "きょえいしん",
+      "meaning": "vanity"
+    },
+    {
+      "type": "kanji",
+      "character": "禁欲的",
+      "romaji": "きんよくてき",
+      "meaning": "abstemious; austere"
+    },
+    {
+      "type": "kanji",
+      "character": "食い下がる",
+      "romaji": "くいさがる",
+      "meaning": "to hang on to; to hang from"
+    },
+    {
+      "type": "kanji",
+      "character": "潜る",
+      "romaji": "くぐる",
+      "meaning": "to go under; to pass under"
+    }
+  ]
+}

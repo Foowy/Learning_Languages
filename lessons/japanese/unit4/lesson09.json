@@ -1,0 +1,67 @@
+{
+  "unit": 4,
+  "lesson": 9,
+  "title": "JLPT N4 Kanji — Part 9",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "町",
+      "romaji": "チョウ / まち",
+      "meaning": "town; village; block"
+    },
+    {
+      "type": "kanji",
+      "character": "料",
+      "romaji": "リョウ",
+      "meaning": "fee; materials"
+    },
+    {
+      "type": "kanji",
+      "character": "工",
+      "romaji": "コウ・ク・グ",
+      "meaning": "craft; construction; katakana e radical (no. 48)"
+    },
+    {
+      "type": "kanji",
+      "character": "建",
+      "romaji": "ケン・コン / た.てる・た.て・-だ.て・た.つ",
+      "meaning": "build"
+    },
+    {
+      "type": "kanji",
+      "character": "急",
+      "romaji": "キュウ / いそ.ぐ・いそ.ぎ・せ.く",
+      "meaning": "hurry; emergency; sudden"
+    },
+    {
+      "type": "kanji",
+      "character": "止",
+      "romaji": "シ / と.まる・-ど.まり・と.める・-と.める・-ど.め・とど.める・とど.め・とど.まる・や.める・や.む・-や.む・よ.す・-さ.す・-さ.し",
+      "meaning": "stop; halt"
+    },
+    {
+      "type": "kanji",
+      "character": "送",
+      "romaji": "ソウ / おく.る",
+      "meaning": "escort; send"
+    },
+    {
+      "type": "kanji",
+      "character": "切",
+      "romaji": "セツ・サイ / き.る・-き.る・き.り・-き.り・-ぎ.り・き.れる・-き.れる・き.れ・-き.れ・-ぎ.れ",
+      "meaning": "cut; cutoff; be sharp"
+    },
+    {
+      "type": "kanji",
+      "character": "説",
+      "romaji": "セツ・ゼイ / と.く",
+      "meaning": "opinion; theory; explanation"
+    },
+    {
+      "type": "kanji",
+      "character": "転",
+      "romaji": "テン / ころ.がる・ころ.げる・ころ.がす・ころ.ぶ・まろ.ぶ・うたた・うつ.る・くる.めく",
+      "meaning": "revolve; turn around; change"
+    }
+  ]
+}

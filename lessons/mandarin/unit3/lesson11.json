@@ -1,0 +1,67 @@
+{
+  "unit": 3,
+  "lesson": 11,
+  "title": "HSK 3 Vocabulary — Part 11",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "坏",
+      "romaji": "huài",
+      "meaning": "bad; spoiled; broken; to break down"
+    },
+    {
+      "type": "hanzi",
+      "character": "环境",
+      "romaji": "huán jìng",
+      "meaning": "environment; circumstances; surroundings; CL:個|个[gè]; ambient"
+    },
+    {
+      "type": "hanzi",
+      "character": "换",
+      "romaji": "huàn",
+      "meaning": "to change; to exchange"
+    },
+    {
+      "type": "hanzi",
+      "character": "黄",
+      "romaji": "huáng",
+      "meaning": "yellow; pornographic; to fall through"
+    },
+    {
+      "type": "hanzi",
+      "character": "会议",
+      "romaji": "huì yì",
+      "meaning": "meeting; conference; CL:場|场; 屆|届[jiè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "或者",
+      "romaji": "huò zhě",
+      "meaning": "or; possibly; maybe; perhaps"
+    },
+    {
+      "type": "hanzi",
+      "character": "机会",
+      "romaji": "jī huì",
+      "meaning": "opportunity; chance; occasion; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "几乎",
+      "romaji": "jī hū",
+      "meaning": "almost; nearly; practically"
+    },
+    {
+      "type": "hanzi",
+      "character": "极",
+      "romaji": "jí",
+      "meaning": "extremely; pole (geography; physics); utmost; top"
+    },
+    {
+      "type": "hanzi",
+      "character": "记得",
+      "romaji": "jì de",
+      "meaning": "to remember"
+    }
+  ]
+}

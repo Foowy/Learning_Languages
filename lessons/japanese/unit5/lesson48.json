@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 48,
+  "title": "JLPT N3 Kanji — Part 48",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "刊",
+      "romaji": "カン",
+      "meaning": "publish; carve; engrave"
+    },
+    {
+      "type": "kanji",
+      "character": "像",
+      "romaji": "ゾウ",
+      "meaning": "statue; picture; image"
+    },
+    {
+      "type": "kanji",
+      "character": "香",
+      "romaji": "コウ・キョウ / か・かお.り・かお.る",
+      "meaning": "incense; smell; perfume"
+    },
+    {
+      "type": "kanji",
+      "character": "欠",
+      "romaji": "ケツ・ケン / か.ける・か.く",
+      "meaning": "lack; gap; fail"
+    },
+    {
+      "type": "kanji",
+      "character": "更",
+      "romaji": "コウ / さら・さら.に・ふ.ける・ふ.かす",
+      "meaning": "grow late; night watch; sit up late"
+    },
+    {
+      "type": "kanji",
+      "character": "坂",
+      "romaji": "ハン / さか",
+      "meaning": "slope; incline; hill"
+    },
+    {
+      "type": "kanji",
+      "character": "刻",
+      "romaji": "コク / きざ.む・きざ.み",
+      "meaning": "engrave; cut fine; chop"
+    },
+    {
+      "type": "kanji",
+      "character": "底",
+      "romaji": "テイ / そこ",
+      "meaning": "bottom; sole; depth"
+    },
+    {
+      "type": "kanji",
+      "character": "賛",
+      "romaji": "サン / たす.ける・たた.える",
+      "meaning": "approve; praise; title or inscription on picture"
+    },
+    {
+      "type": "kanji",
+      "character": "抱",
+      "romaji": "ホウ / だ.く・いだ.く・かか.える",
+      "meaning": "embrace; hug; hold in arms"
+    }
+  ]
+}

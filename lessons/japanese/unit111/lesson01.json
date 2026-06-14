@@ -1,0 +1,67 @@
+{
+  "unit": 111,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 20801–20810",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "思い起こす",
+      "romaji": "おもいおこす",
+      "meaning": "to recall; to remember"
+    },
+    {
+      "type": "kanji",
+      "character": "思い思い",
+      "romaji": "おもいおもい",
+      "meaning": "just as (each) one likes; as (each) one pleases"
+    },
+    {
+      "type": "kanji",
+      "character": "支所",
+      "romaji": "ししょ",
+      "meaning": "branch (office)"
+    },
+    {
+      "type": "kanji",
+      "character": "支店長",
+      "romaji": "してんちょう",
+      "meaning": "branch manager; manager of a branch office"
+    },
+    {
+      "type": "kanji",
+      "character": "死に体",
+      "romaji": "しにたい",
+      "meaning": "losing posture; falling position from which it is impossible to recover"
+    },
+    {
+      "type": "kanji",
+      "character": "私案",
+      "romaji": "しあん",
+      "meaning": "private plan; one's own plan"
+    },
+    {
+      "type": "kanji",
+      "character": "私企業",
+      "romaji": "しきぎょう",
+      "meaning": "private enterprise"
+    },
+    {
+      "type": "kanji",
+      "character": "私大",
+      "romaji": "しだい",
+      "meaning": "private university"
+    },
+    {
+      "type": "kanji",
+      "character": "私服",
+      "romaji": "しふく",
+      "meaning": "ordinary clothes (i.e. non-uniform); plain clothes"
+    },
+    {
+      "type": "kanji",
+      "character": "私文書",
+      "romaji": "しぶんしょ",
+      "meaning": "private document"
+    }
+  ]
+}

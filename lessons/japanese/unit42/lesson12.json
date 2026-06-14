@@ -1,0 +1,67 @@
+{
+  "unit": 42,
+  "lesson": 12,
+  "title": "Vocabulary — Frequency 7111–7120",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "峡谷",
+      "romaji": "きょうこく",
+      "meaning": "gorge; ravine"
+    },
+    {
+      "type": "kanji",
+      "character": "強い",
+      "romaji": "つよい",
+      "meaning": "strong; potent"
+    },
+    {
+      "type": "kanji",
+      "character": "強いて",
+      "romaji": "しいて",
+      "meaning": "by force"
+    },
+    {
+      "type": "kanji",
+      "character": "強いる",
+      "romaji": "しいる",
+      "meaning": "to force; to compel"
+    },
+    {
+      "type": "kanji",
+      "character": "強さ",
+      "romaji": "つよさ",
+      "meaning": "strength; power"
+    },
+    {
+      "type": "kanji",
+      "character": "強まる",
+      "romaji": "つよまる",
+      "meaning": "to get strong; to gain strength"
+    },
+    {
+      "type": "kanji",
+      "character": "強み",
+      "romaji": "つよみ",
+      "meaning": "forte; strong point"
+    },
+    {
+      "type": "kanji",
+      "character": "強める",
+      "romaji": "つよめる",
+      "meaning": "to strengthen; to emphasize"
+    },
+    {
+      "type": "kanji",
+      "character": "強引",
+      "romaji": "ごういん",
+      "meaning": "overbearing; coercive"
+    },
+    {
+      "type": "kanji",
+      "character": "強化",
+      "romaji": "きょうか",
+      "meaning": "strengthening; intensifying"
+    }
+  ]
+}

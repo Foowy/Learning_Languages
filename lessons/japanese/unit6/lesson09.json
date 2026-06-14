@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 9,
+  "title": "JLPT N2/N1 Kanji — Part 9",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "吉",
+      "romaji": "キチ・キツ / よし",
+      "meaning": "good luck; joy; congratulations"
+    },
+    {
+      "type": "kanji",
+      "character": "盛",
+      "romaji": "セイ・ジョウ / も.る・さか.る・さか.ん",
+      "meaning": "boom; prosper; copulate"
+    },
+    {
+      "type": "kanji",
+      "character": "皇",
+      "romaji": "コウ・オウ",
+      "meaning": "emperor"
+    },
+    {
+      "type": "kanji",
+      "character": "臨",
+      "romaji": "リン / のぞ.む",
+      "meaning": "look to; face; meet"
+    },
+    {
+      "type": "kanji",
+      "character": "踏",
+      "romaji": "トウ / ふ.む・ふ.まえる",
+      "meaning": "step; trample; carry through"
+    },
+    {
+      "type": "kanji",
+      "character": "壊",
+      "romaji": "カイ・エ / こわ.す・こわ.れる・やぶ.る",
+      "meaning": "demolition; break; destroy"
+    },
+    {
+      "type": "kanji",
+      "character": "債",
+      "romaji": "サイ",
+      "meaning": "bond; loan; debt"
+    },
+    {
+      "type": "kanji",
+      "character": "興",
+      "romaji": "コウ・キョウ / おこ.る・おこ.す",
+      "meaning": "entertain; revive; retrieve"
+    },
+    {
+      "type": "kanji",
+      "character": "源",
+      "romaji": "ゲン / みなもと",
+      "meaning": "source; origin"
+    },
+    {
+      "type": "kanji",
+      "character": "儀",
+      "romaji": "ギ",
+      "meaning": "ceremony; rule; affair"
+    }
+  ]
+}

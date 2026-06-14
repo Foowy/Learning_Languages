@@ -1,0 +1,67 @@
+{
+  "unit": 42,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 7001–7010",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "拒絶反応",
+      "romaji": "きょぜつはんのう",
+      "meaning": "(transplant) rejection"
+    },
+    {
+      "type": "kanji",
+      "character": "拒否",
+      "romaji": "きょひ",
+      "meaning": "refusal; rejection"
+    },
+    {
+      "type": "kanji",
+      "character": "拒否権",
+      "romaji": "きょひけん",
+      "meaning": "right of veto"
+    },
+    {
+      "type": "kanji",
+      "character": "拠点",
+      "romaji": "きょてん",
+      "meaning": "base (of operations); site"
+    },
+    {
+      "type": "kanji",
+      "character": "挙式",
+      "romaji": "きょしき",
+      "meaning": "holding a ceremony; wedding ceremony"
+    },
+    {
+      "type": "kanji",
+      "character": "挙党",
+      "romaji": "きょとう",
+      "meaning": "whole party; party as a whole"
+    },
+    {
+      "type": "kanji",
+      "character": "虚栄",
+      "romaji": "きょえい",
+      "meaning": "vanity; vainglory"
+    },
+    {
+      "type": "kanji",
+      "character": "虚偽",
+      "romaji": "きょぎ",
+      "meaning": "falsehood; untruth"
+    },
+    {
+      "type": "kanji",
+      "character": "虚空",
+      "romaji": "こくう",
+      "meaning": "empty space; empty sky"
+    },
+    {
+      "type": "kanji",
+      "character": "虚構",
+      "romaji": "きょこう",
+      "meaning": "fiction; fabrication"
+    }
+  ]
+}

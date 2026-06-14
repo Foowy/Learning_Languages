@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 20,
+  "title": "JLPT N3 Kanji — Part 20",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "助",
+      "romaji": "ジョ / たす.ける・たす.かる・す.ける・すけ",
+      "meaning": "help; rescue; assist"
+    },
+    {
+      "type": "kanji",
+      "character": "労",
+      "romaji": "ロウ / ろう.する・いたわ.る・いた.ずき・ねぎら・つか.れる・ねぎら.う",
+      "meaning": "labor; thank for; reward for"
+    },
+    {
+      "type": "kanji",
+      "character": "例",
+      "romaji": "レイ / たと.える",
+      "meaning": "example; custom; usage"
+    },
+    {
+      "type": "kanji",
+      "character": "然",
+      "romaji": "ゼン・ネン / しか・しか.り・しか.し・さ",
+      "meaning": "sort of thing; so; if so"
+    },
+    {
+      "type": "kanji",
+      "character": "張",
+      "romaji": "チョウ / は.る・-は.り・-ば.り",
+      "meaning": "counter for bows & stringed instruments; stretch; spread"
+    },
+    {
+      "type": "kanji",
+      "character": "限",
+      "romaji": "ゲン / かぎ.る・かぎ.り・-かぎ.り",
+      "meaning": "limit; restrict; to best of ability"
+    },
+    {
+      "type": "kanji",
+      "character": "額",
+      "romaji": "ガク / ひたい",
+      "meaning": "forehead; tablet; plaque"
+    },
+    {
+      "type": "kanji",
+      "character": "環",
+      "romaji": "カン / わ",
+      "meaning": "ring; circle; loop"
+    },
+    {
+      "type": "kanji",
+      "character": "追",
+      "romaji": "ツイ / お.う",
+      "meaning": "chase; drive away; follow"
+    },
+    {
+      "type": "kanji",
+      "character": "商",
+      "romaji": "ショウ / あきな.う",
+      "meaning": "make a deal; selling; dealing in"
+    }
+  ]
+}

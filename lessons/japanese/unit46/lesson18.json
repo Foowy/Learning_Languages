@@ -1,0 +1,67 @@
+{
+  "unit": 46,
+  "lesson": 18,
+  "title": "Vocabulary — Frequency 7971–7980",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "顕彰",
+      "romaji": "けんしょう",
+      "meaning": "honouring (publicly); honoring"
+    },
+    {
+      "type": "kanji",
+      "character": "顕著",
+      "romaji": "けんちょ",
+      "meaning": "remarkable; striking"
+    },
+    {
+      "type": "kanji",
+      "character": "顕微鏡",
+      "romaji": "けんびきょう",
+      "meaning": "microscope"
+    },
+    {
+      "type": "kanji",
+      "character": "元",
+      "romaji": "もと",
+      "meaning": "origin; source"
+    },
+    {
+      "type": "kanji",
+      "character": "元より",
+      "romaji": "もとより",
+      "meaning": "from the beginning; from the first"
+    },
+    {
+      "type": "kanji",
+      "character": "元気",
+      "romaji": "げんき",
+      "meaning": "lively; full of spirit"
+    },
+    {
+      "type": "kanji",
+      "character": "元号",
+      "romaji": "げんごう",
+      "meaning": "name of an imperial era (e.g. Heisei, Shōwa); Japanese era name"
+    },
+    {
+      "type": "kanji",
+      "character": "元首",
+      "romaji": "げんしゅ",
+      "meaning": "sovereign; ruler"
+    },
+    {
+      "type": "kanji",
+      "character": "元帥",
+      "romaji": "げんすい",
+      "meaning": "(field) marshal; (fleet) admiral"
+    },
+    {
+      "type": "kanji",
+      "character": "元祖",
+      "romaji": "がんそ",
+      "meaning": "originator; pioneer"
+    }
+  ]
+}

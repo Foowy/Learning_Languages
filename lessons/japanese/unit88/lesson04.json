@@ -1,0 +1,67 @@
+{
+  "unit": 88,
+  "lesson": 4,
+  "title": "Vocabulary — Frequency 16231–16240",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "分布",
+      "romaji": "ぶんぷ",
+      "meaning": "distribution"
+    },
+    {
+      "type": "kanji",
+      "character": "分別",
+      "romaji": "ふんべつ",
+      "meaning": "discretion; prudence"
+    },
+    {
+      "type": "kanji",
+      "character": "分別",
+      "romaji": "ぶんべつ",
+      "meaning": "separation (e.g. of rubbish when recycling); classification"
+    },
+    {
+      "type": "kanji",
+      "character": "分母",
+      "romaji": "ぶんぼ",
+      "meaning": "denominator"
+    },
+    {
+      "type": "kanji",
+      "character": "分野",
+      "romaji": "ぶんや",
+      "meaning": "field; sphere"
+    },
+    {
+      "type": "kanji",
+      "character": "分離",
+      "romaji": "ぶんり",
+      "meaning": "separation; partition"
+    },
+    {
+      "type": "kanji",
+      "character": "分立",
+      "romaji": "ぶんりつ",
+      "meaning": "segregation; separation"
+    },
+    {
+      "type": "kanji",
+      "character": "分量",
+      "romaji": "ぶんりょう",
+      "meaning": "amount; quantity"
+    },
+    {
+      "type": "kanji",
+      "character": "分類",
+      "romaji": "ぶんるい",
+      "meaning": "classification; categorization"
+    },
+    {
+      "type": "kanji",
+      "character": "分裂",
+      "romaji": "ぶんれつ",
+      "meaning": "split; division"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 50,
+  "lesson": 2,
+  "title": "Vocabulary — Frequency 8611–8620",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "皇后",
+      "romaji": "こうごう",
+      "meaning": "empress (consort)"
+    },
+    {
+      "type": "kanji",
+      "character": "皇室",
+      "romaji": "こうしつ",
+      "meaning": "Imperial household"
+    },
+    {
+      "type": "kanji",
+      "character": "皇女",
+      "romaji": "こうじょ",
+      "meaning": "imperial princess"
+    },
+    {
+      "type": "kanji",
+      "character": "皇族",
+      "romaji": "こうぞく",
+      "meaning": "imperial family; royalty"
+    },
+    {
+      "type": "kanji",
+      "character": "皇太后",
+      "romaji": "こうたいごう",
+      "meaning": "Empress Dowager; Queen Mother"
+    },
+    {
+      "type": "kanji",
+      "character": "皇太子",
+      "romaji": "こうたいし",
+      "meaning": "crown prince"
+    },
+    {
+      "type": "kanji",
+      "character": "皇太子妃",
+      "romaji": "こうたいしひ",
+      "meaning": "crown princess"
+    },
+    {
+      "type": "kanji",
+      "character": "皇帝",
+      "romaji": "こうてい",
+      "meaning": "emperor"
+    },
+    {
+      "type": "kanji",
+      "character": "硬化",
+      "romaji": "こうか",
+      "meaning": "hardening; vulcanization"
+    },
+    {
+      "type": "kanji",
+      "character": "硬貨",
+      "romaji": "こうか",
+      "meaning": "coin"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 4,
+  "lesson": 2,
+  "title": "JLPT N4 Kanji — Part 2",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "方",
+      "romaji": "ホウ / かた・-かた・-がた",
+      "meaning": "direction; person; alternative"
+    },
+    {
+      "type": "kanji",
+      "character": "回",
+      "romaji": "カイ・エ / まわ.る・-まわ.る・-まわ.り・まわ.す・-まわ.す・まわ.し-・-まわ.し・もとお.る・か.える",
+      "meaning": "-times; round; game"
+    },
+    {
+      "type": "kanji",
+      "character": "場",
+      "romaji": "ジョウ・チョウ / ば",
+      "meaning": "location; place"
+    },
+    {
+      "type": "kanji",
+      "character": "員",
+      "romaji": "イン",
+      "meaning": "employee; member; number"
+    },
+    {
+      "type": "kanji",
+      "character": "開",
+      "romaji": "カイ / ひら.く・ひら.き・-びら.き・ひら.ける・あ.く・あ.ける",
+      "meaning": "open; unfold; unseal"
+    },
+    {
+      "type": "kanji",
+      "character": "力",
+      "romaji": "リョク・リキ・リイ / ちから",
+      "meaning": "power; strength; strong"
+    },
+    {
+      "type": "kanji",
+      "character": "問",
+      "romaji": "モン / と.う・と.い・とん",
+      "meaning": "question; ask; problem"
+    },
+    {
+      "type": "kanji",
+      "character": "代",
+      "romaji": "ダイ・タイ / か.わる・かわ.る・かわ.り・か.わり・-がわ.り・-が.わり・か.える・よ・しろ",
+      "meaning": "substitute; change; convert"
+    },
+    {
+      "type": "kanji",
+      "character": "明",
+      "romaji": "メイ・ミョウ・ミン / あ.かり・あか.るい・あか.るむ・あか.らむ・あき.らか・あ.ける・-あ.け・あ.く・あ.くる・あ.かす",
+      "meaning": "bright; light"
+    },
+    {
+      "type": "kanji",
+      "character": "動",
+      "romaji": "ドウ / うご.く・うご.かす",
+      "meaning": "move; motion; change"
+    }
+  ]
+}

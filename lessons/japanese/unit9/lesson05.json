@@ -1,0 +1,67 @@
+{
+  "unit": 9,
+  "lesson": 5,
+  "title": "Vocabulary — Frequency 441–450",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "持て成し",
+      "romaji": "もてなし",
+      "meaning": "hospitality; reception"
+    },
+    {
+      "type": "kanji",
+      "character": "軈て",
+      "romaji": "やがて",
+      "meaning": "before long; soon"
+    },
+    {
+      "type": "kana",
+      "character": "ヤクザ",
+      "romaji": "ヤクザ",
+      "meaning": "(member of the) yakuza; gangster"
+    },
+    {
+      "type": "kanji",
+      "character": "やって来る",
+      "romaji": "やってくる",
+      "meaning": "to come along; to come around"
+    },
+    {
+      "type": "kanji",
+      "character": "漸と",
+      "romaji": "やっと",
+      "meaning": "at last; finally"
+    },
+    {
+      "type": "kanji",
+      "character": "矢っ張り",
+      "romaji": "やっぱり",
+      "meaning": "as expected; sure enough"
+    },
+    {
+      "type": "kana",
+      "character": "やばい",
+      "romaji": "やばい",
+      "meaning": "dangerous; risky"
+    },
+    {
+      "type": "kana",
+      "character": "ややこしい",
+      "romaji": "ややこしい",
+      "meaning": "complicated; complex"
+    },
+    {
+      "type": "kanji",
+      "character": "やり繰り",
+      "romaji": "やりくり",
+      "meaning": "making do; getting by (somehow)"
+    },
+    {
+      "type": "kanji",
+      "character": "やり取り",
+      "romaji": "やりとり",
+      "meaning": "giving and taking; exchange (of letters)"
+    }
+  ]
+}

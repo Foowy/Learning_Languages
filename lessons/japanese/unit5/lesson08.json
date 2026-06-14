@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 8,
+  "title": "JLPT N3 Kanji — Part 8",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "勝",
+      "romaji": "ショウ / か.つ・-が.ち・まさ.る・すぐ.れる・かつ",
+      "meaning": "victory; win; prevail"
+    },
+    {
+      "type": "kanji",
+      "character": "面",
+      "romaji": "メン・ベン / おも・おもて・つら",
+      "meaning": "mask; face; features"
+    },
+    {
+      "type": "kanji",
+      "character": "委",
+      "romaji": "イ / ゆだ.ねる",
+      "meaning": "committee; entrust to; leave to"
+    },
+    {
+      "type": "kanji",
+      "character": "告",
+      "romaji": "コク / つ.げる",
+      "meaning": "revelation; tell; inform"
+    },
+    {
+      "type": "kanji",
+      "character": "軍",
+      "romaji": "グン / いくさ",
+      "meaning": "army; force; troops"
+    },
+    {
+      "type": "kanji",
+      "character": "反",
+      "romaji": "ハン・ホン・タン・ホ / そ.る・そ.らす・かえ.す・かえ.る・-かえ.る",
+      "meaning": "anti-"
+    },
+    {
+      "type": "kanji",
+      "character": "判",
+      "romaji": "ハン・バン / わか.る",
+      "meaning": "judgement; judgment; signature"
+    },
+    {
+      "type": "kanji",
+      "character": "認",
+      "romaji": "ニン / みと.める・したた.める",
+      "meaning": "acknowledge; witness; discern"
+    },
+    {
+      "type": "kanji",
+      "character": "参",
+      "romaji": "サン・シン / まい.る・まい-・まじわる・みつ",
+      "meaning": "nonplussed; three (in documents); going"
+    },
+    {
+      "type": "kanji",
+      "character": "利",
+      "romaji": "リ / き.く",
+      "meaning": "profit; advantage; benefit"
+    }
+  ]
+}

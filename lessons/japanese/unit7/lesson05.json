@@ -1,0 +1,67 @@
+{
+  "unit": 7,
+  "lesson": 5,
+  "title": "Vocabulary — Frequency 41–50",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "オドオド",
+      "romaji": "オドオド",
+      "meaning": "timidly; nervously"
+    },
+    {
+      "type": "kana",
+      "character": "おなら",
+      "romaji": "おなら",
+      "meaning": "wind; gas"
+    },
+    {
+      "type": "kanji",
+      "character": "お負けに",
+      "romaji": "おまけに",
+      "meaning": "to make matters worse; besides"
+    },
+    {
+      "type": "kanji",
+      "character": "おめでとう御座います",
+      "romaji": "おめでとうございます",
+      "meaning": "congratulations"
+    },
+    {
+      "type": "kana",
+      "character": "おや",
+      "romaji": "おや",
+      "meaning": "oh!; oh?"
+    },
+    {
+      "type": "kana",
+      "character": "おろおろ",
+      "romaji": "おろおろ",
+      "meaning": "in confusion; in a fluster"
+    },
+    {
+      "type": "kanji",
+      "character": "お握り",
+      "romaji": "おにぎり",
+      "meaning": "onigiri; rice ball (often triangular, sometimes with a filling and wrapped in nori)"
+    },
+    {
+      "type": "kanji",
+      "character": "お化け",
+      "romaji": "おばけ",
+      "meaning": "ghost; apparition"
+    },
+    {
+      "type": "kanji",
+      "character": "お菓子",
+      "romaji": "おかし",
+      "meaning": "confections; sweets"
+    },
+    {
+      "type": "kanji",
+      "character": "お願いします",
+      "romaji": "おねがいします",
+      "meaning": "please"
+    }
+  ]
+}

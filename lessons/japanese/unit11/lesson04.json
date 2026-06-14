@@ -1,0 +1,67 @@
+{
+  "unit": 11,
+  "lesson": 4,
+  "title": "Vocabulary — Frequency 831–840",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "オートバイ",
+      "romaji": "オートバイ",
+      "meaning": "motorcycle; motorbike"
+    },
+    {
+      "type": "kana",
+      "character": "オートマチック",
+      "romaji": "オートマチック",
+      "meaning": "automatic"
+    },
+    {
+      "type": "kana",
+      "character": "オートメーション",
+      "romaji": "オートメーション",
+      "meaning": "automation"
+    },
+    {
+      "type": "kana",
+      "character": "オートロック",
+      "romaji": "オートロック",
+      "meaning": "automatic lock"
+    },
+    {
+      "type": "kana",
+      "character": "オード",
+      "romaji": "オード",
+      "meaning": "ode"
+    },
+    {
+      "type": "kana",
+      "character": "オードブル",
+      "romaji": "オードブル",
+      "meaning": "hors d'oeuvre"
+    },
+    {
+      "type": "kana",
+      "character": "オーナー",
+      "romaji": "オーナー",
+      "meaning": "owner (esp. of a business)"
+    },
+    {
+      "type": "kana",
+      "character": "オーバー",
+      "romaji": "オーバー",
+      "meaning": "overcoat"
+    },
+    {
+      "type": "kana",
+      "character": "オーバーヒート",
+      "romaji": "オーバーヒート",
+      "meaning": "overheating"
+    },
+    {
+      "type": "kana",
+      "character": "オーバーラップ",
+      "romaji": "オーバーラップ",
+      "meaning": "overlap"
+    }
+  ]
+}

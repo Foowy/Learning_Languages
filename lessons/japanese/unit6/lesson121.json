@@ -1,0 +1,49 @@
+{
+  "unit": 6,
+  "lesson": 121,
+  "title": "JLPT N2/N1 Kanji — Part 121",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "詢",
+      "romaji": "ジュン・シュン / はか.る・まこと",
+      "meaning": "consult with"
+    },
+    {
+      "type": "kanji",
+      "character": "諄",
+      "romaji": "シュン / ひちくど.い・くど.い・くどくど・ねんご.ろ",
+      "meaning": "tedious"
+    },
+    {
+      "type": "kanji",
+      "character": "迪",
+      "romaji": "テキ / みち・みちび.く・すす.む・いた.る",
+      "meaning": "edify; way; path"
+    },
+    {
+      "type": "kanji",
+      "character": "頌",
+      "romaji": "ショウ・ジュ・ヨウ / かたち・たた.える・ほめ.る",
+      "meaning": "eulogy"
+    },
+    {
+      "type": "kanji",
+      "character": "颯",
+      "romaji": "サツ・ソウ / さっ.と",
+      "meaning": "sudden; quick; sound of the wind"
+    },
+    {
+      "type": "kanji",
+      "character": "凜",
+      "romaji": "リン / きびし.い",
+      "meaning": "cold; strict; severe"
+    },
+    {
+      "type": "kanji",
+      "character": "熙",
+      "romaji": "キ / たのし.む・ひか.る・ひろ.い・よろこ.ぶ・かわ.く・あきらか・ひろ.める・ひろ.まる",
+      "meaning": "bright; sunny; prosperous"
+    }
+  ]
+}

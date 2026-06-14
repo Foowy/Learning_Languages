@@ -1,0 +1,67 @@
+{
+  "unit": 75,
+  "lesson": 14,
+  "title": "Vocabulary — Frequency 13731–13740",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "昼夜",
+      "romaji": "ちゅうや",
+      "meaning": "day and night"
+    },
+    {
+      "type": "kanji",
+      "character": "柱",
+      "romaji": "はしら",
+      "meaning": "pillar; post"
+    },
+    {
+      "type": "kanji",
+      "character": "注",
+      "romaji": "ちゅう",
+      "meaning": "annotation; explanatory note"
+    },
+    {
+      "type": "kanji",
+      "character": "注意",
+      "romaji": "ちゅうい",
+      "meaning": "attention; notice"
+    },
+    {
+      "type": "kanji",
+      "character": "注意報",
+      "romaji": "ちゅういほう",
+      "meaning": "advisory"
+    },
+    {
+      "type": "kanji",
+      "character": "注射",
+      "romaji": "ちゅうしゃ",
+      "meaning": "injection; jab"
+    },
+    {
+      "type": "kanji",
+      "character": "注釈",
+      "romaji": "ちゅうしゃく",
+      "meaning": "notes; comment"
+    },
+    {
+      "type": "kanji",
+      "character": "注入",
+      "romaji": "ちゅうにゅう",
+      "meaning": "pouring; injection"
+    },
+    {
+      "type": "kanji",
+      "character": "注文",
+      "romaji": "ちゅうもん",
+      "meaning": "order (for an item)"
+    },
+    {
+      "type": "kanji",
+      "character": "注目",
+      "romaji": "ちゅうもく",
+      "meaning": "notice; attention"
+    }
+  ]
+}

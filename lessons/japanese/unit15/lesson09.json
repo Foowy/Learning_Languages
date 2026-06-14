@@ -1,0 +1,67 @@
+{
+  "unit": 15,
+  "lesson": 9,
+  "title": "Vocabulary — Frequency 1681–1690",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "シック",
+      "romaji": "シック",
+      "meaning": "chic; stylish"
+    },
+    {
+      "type": "kana",
+      "character": "シックスナイン",
+      "romaji": "シックスナイン",
+      "meaning": "six nines (i.e. 99.9999%)"
+    },
+    {
+      "type": "kana",
+      "character": "シップ",
+      "romaji": "シップ",
+      "meaning": "ship"
+    },
+    {
+      "type": "kana",
+      "character": "シティ",
+      "romaji": "シティ",
+      "meaning": "city"
+    },
+    {
+      "type": "kana",
+      "character": "シティーエアターミナル",
+      "romaji": "シティーエアターミナル",
+      "meaning": "city air terminal"
+    },
+    {
+      "type": "kana",
+      "character": "シトロン",
+      "romaji": "シトロン",
+      "meaning": "citron (Citrus medica)"
+    },
+    {
+      "type": "kanji",
+      "character": "雪特尼",
+      "romaji": "シドニー",
+      "meaning": "Sydney (Australia)"
+    },
+    {
+      "type": "kana",
+      "character": "シナモン",
+      "romaji": "シナモン",
+      "meaning": "cinnamon"
+    },
+    {
+      "type": "kana",
+      "character": "シナリオ",
+      "romaji": "シナリオ",
+      "meaning": "script; screenplay"
+    },
+    {
+      "type": "kana",
+      "character": "シナリオライター",
+      "romaji": "シナリオライター",
+      "meaning": "scriptwriter; screenwriter"
+    }
+  ]
+}

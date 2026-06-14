@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 64,
+  "title": "JLPT N3 Kanji — Part 64",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "疲",
+      "romaji": "ヒ / つか.れる・-づか.れ・つか.らす",
+      "meaning": "exhausted; tire; weary"
+    },
+    {
+      "type": "kanji",
+      "character": "捨",
+      "romaji": "シャ / す.てる",
+      "meaning": "discard; throw away; abandon"
+    },
+    {
+      "type": "kanji",
+      "character": "皆",
+      "romaji": "カイ / みな・みんな",
+      "meaning": "all; everything"
+    },
+    {
+      "type": "kanji",
+      "character": "軟",
+      "romaji": "ナン / やわ.らか・やわ.らかい",
+      "meaning": "soft"
+    },
+    {
+      "type": "kanji",
+      "character": "沈",
+      "romaji": "チン・ジン / しず.む・しず.める",
+      "meaning": "sink; be submerged; subside"
+    },
+    {
+      "type": "kanji",
+      "character": "鳴",
+      "romaji": "メイ / な.く・な.る・な.らす",
+      "meaning": "chirp; cry; bark"
+    },
+    {
+      "type": "kanji",
+      "character": "凍",
+      "romaji": "トウ / こお.る・こご.える・こご.る・い.てる・し.みる",
+      "meaning": "frozen; congeal; refrigerate"
+    },
+    {
+      "type": "kanji",
+      "character": "腹",
+      "romaji": "フク / はら",
+      "meaning": "abdomen; belly; stomach"
+    },
+    {
+      "type": "kanji",
+      "character": "乳",
+      "romaji": "ニュウ / ちち・ち",
+      "meaning": "milk; breasts"
+    },
+    {
+      "type": "kanji",
+      "character": "煙",
+      "romaji": "エン / けむ.る・けむり・けむ.い",
+      "meaning": "smoke"
+    }
+  ]
+}

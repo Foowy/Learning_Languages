@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 111,
+  "title": "JLPT N2/N1 Kanji — Part 111",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "胤",
+      "romaji": "イン / たね",
+      "meaning": "descendent; issue; offspring"
+    },
+    {
+      "type": "kanji",
+      "character": "叡",
+      "romaji": "エイ / あき.らか",
+      "meaning": "intelligence; imperial"
+    },
+    {
+      "type": "kanji",
+      "character": "謁",
+      "romaji": "エツ",
+      "meaning": "audience; audience (with king)"
+    },
+    {
+      "type": "kanji",
+      "character": "箇",
+      "romaji": "カ・コ",
+      "meaning": "counter for articles"
+    },
+    {
+      "type": "kanji",
+      "character": "茄",
+      "romaji": "カ",
+      "meaning": "eggplant"
+    },
+    {
+      "type": "kanji",
+      "character": "且",
+      "romaji": "ショ・ソ・ショウ / か.つ",
+      "meaning": "moreover; also; furthermore"
+    },
+    {
+      "type": "kanji",
+      "character": "侃",
+      "romaji": "カン / つよ.い",
+      "meaning": "strong; just; righteous"
+    },
+    {
+      "type": "kanji",
+      "character": "莞",
+      "romaji": "カン / い",
+      "meaning": "smiling; reed used to cover tatami"
+    },
+    {
+      "type": "kanji",
+      "character": "伎",
+      "romaji": "ギ・キ / わざ・わざおぎ",
+      "meaning": "deed; skill"
+    },
+    {
+      "type": "kanji",
+      "character": "誼",
+      "romaji": "ギ / よしみ・よい",
+      "meaning": "friendship; intimacy"
+    }
+  ]
+}

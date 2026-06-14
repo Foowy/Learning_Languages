@@ -1,0 +1,67 @@
+{
+  "unit": 33,
+  "lesson": 5,
+  "title": "Vocabulary — Frequency 5241–5250",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "遠く",
+      "romaji": "とおく",
+      "meaning": "far away; distant place"
+    },
+    {
+      "type": "kanji",
+      "character": "遠ざかる",
+      "romaji": "とおざかる",
+      "meaning": "to go away; to become more distant"
+    },
+    {
+      "type": "kanji",
+      "character": "遠泳",
+      "romaji": "えんえい",
+      "meaning": "long-distance swimming"
+    },
+    {
+      "type": "kanji",
+      "character": "遠隔",
+      "romaji": "えんかく",
+      "meaning": "distant; remote"
+    },
+    {
+      "type": "kanji",
+      "character": "遠距離",
+      "romaji": "えんきょり",
+      "meaning": "long distance; long range"
+    },
+    {
+      "type": "kanji",
+      "character": "遠近法",
+      "romaji": "えんきんほう",
+      "meaning": "perspective"
+    },
+    {
+      "type": "kanji",
+      "character": "遠心力",
+      "romaji": "えんしんりょく",
+      "meaning": "centrifugal force"
+    },
+    {
+      "type": "kanji",
+      "character": "遠征",
+      "romaji": "えんせい",
+      "meaning": "(military) expedition; campaign"
+    },
+    {
+      "type": "kanji",
+      "character": "遠浅",
+      "romaji": "とおあさ",
+      "meaning": "shoal; wide shallow beach"
+    },
+    {
+      "type": "kanji",
+      "character": "遠足",
+      "romaji": "えんそく",
+      "meaning": "school trip; field trip"
+    }
+  ]
+}

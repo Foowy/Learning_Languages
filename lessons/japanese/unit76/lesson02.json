@@ -1,0 +1,67 @@
+{
+  "unit": 76,
+  "lesson": 2,
+  "title": "Vocabulary — Frequency 13811–13820",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "朝夕",
+      "romaji": "あさゆう",
+      "meaning": "morning and evening"
+    },
+    {
+      "type": "kanji",
+      "character": "朝礼",
+      "romaji": "ちょうれい",
+      "meaning": "morning assembly (at a company, school, etc.); morning gathering"
+    },
+    {
+      "type": "kanji",
+      "character": "潮",
+      "romaji": "しお",
+      "meaning": "tide; current"
+    },
+    {
+      "type": "kanji",
+      "character": "潮時",
+      "romaji": "しおどき",
+      "meaning": "tidal hour"
+    },
+    {
+      "type": "kanji",
+      "character": "潮流",
+      "romaji": "ちょうりゅう",
+      "meaning": "tide; tidal current"
+    },
+    {
+      "type": "kanji",
+      "character": "町外れ",
+      "romaji": "まちはずれ",
+      "meaning": "outskirts (of a town); edge (of a town)"
+    },
+    {
+      "type": "kanji",
+      "character": "町人",
+      "romaji": "ちょうにん",
+      "meaning": "chōnin (Edo-period social class of town-dwelling commoners, esp. landowning merchants); townspeople"
+    },
+    {
+      "type": "kanji",
+      "character": "町村",
+      "romaji": "ちょうそん",
+      "meaning": "towns and villages"
+    },
+    {
+      "type": "kanji",
+      "character": "町長",
+      "romaji": "ちょうちょう",
+      "meaning": "town mayor"
+    },
+    {
+      "type": "kanji",
+      "character": "町内",
+      "romaji": "ちょうない",
+      "meaning": "neighborhood; neighbourhood"
+    }
+  ]
+}

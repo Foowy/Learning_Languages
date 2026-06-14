@@ -1,0 +1,67 @@
+{
+  "unit": 77,
+  "lesson": 6,
+  "title": "Vocabulary — Frequency 14051–14060",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "停学",
+      "romaji": "ていがく",
+      "meaning": "suspension from school"
+    },
+    {
+      "type": "kanji",
+      "character": "停止",
+      "romaji": "ていし",
+      "meaning": "stoppage; coming to a stop"
+    },
+    {
+      "type": "kanji",
+      "character": "停車",
+      "romaji": "ていしゃ",
+      "meaning": "stopping (of a train, car, etc.); stop"
+    },
+    {
+      "type": "kanji",
+      "character": "停戦",
+      "romaji": "ていせん",
+      "meaning": "armistice; ceasefire"
+    },
+    {
+      "type": "kanji",
+      "character": "停滞",
+      "romaji": "ていたい",
+      "meaning": "stagnation; tie-up"
+    },
+    {
+      "type": "kanji",
+      "character": "停電",
+      "romaji": "ていでん",
+      "meaning": "power outage; power failure"
+    },
+    {
+      "type": "kanji",
+      "character": "停泊",
+      "romaji": "ていはく",
+      "meaning": "anchorage; anchoring"
+    },
+    {
+      "type": "kanji",
+      "character": "停留所",
+      "romaji": "ていりゅうじょ",
+      "meaning": "stop (bus, tram, etc.); station"
+    },
+    {
+      "type": "kanji",
+      "character": "偵察",
+      "romaji": "ていさつ",
+      "meaning": "scouting; reconnaissance"
+    },
+    {
+      "type": "kanji",
+      "character": "剃刀",
+      "romaji": "かみそり",
+      "meaning": "razor"
+    }
+  ]
+}

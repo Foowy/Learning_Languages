@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 106,
+  "title": "JLPT N2/N1 Kanji — Part 106",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "絢",
+      "romaji": "ケン",
+      "meaning": "brilliant fabric design"
+    },
+    {
+      "type": "kanji",
+      "character": "朔",
+      "romaji": "サク / ついたち",
+      "meaning": "conjunction (astronomy); first day of month; north"
+    },
+    {
+      "type": "kanji",
+      "character": "伽",
+      "romaji": "カ・ガ・キャ・ギャ / とぎ",
+      "meaning": "nursing; attending; entertainer"
+    },
+    {
+      "type": "kanji",
+      "character": "畝",
+      "romaji": "ボウ・ホ・モ・ム / せ・うね",
+      "meaning": "furrow; thirty tsubo; ridge"
+    },
+    {
+      "type": "kanji",
+      "character": "抄",
+      "romaji": "ショウ",
+      "meaning": "extract; selection; summary"
+    },
+    {
+      "type": "kanji",
+      "character": "爽",
+      "romaji": "ソウ / あき.らか・さわ.やか・たがう",
+      "meaning": "refreshing; bracing; resonant"
+    },
+    {
+      "type": "kanji",
+      "character": "黎",
+      "romaji": "レイ・リ / くろ.い",
+      "meaning": "dark; black; many"
+    },
+    {
+      "type": "kanji",
+      "character": "惰",
+      "romaji": "ダ",
+      "meaning": "lazy; laziness"
+    },
+    {
+      "type": "kanji",
+      "character": "蛮",
+      "romaji": "バン / えびす",
+      "meaning": "barbarian"
+    },
+    {
+      "type": "kanji",
+      "character": "冴",
+      "romaji": "ゴ・コ / さ.える・こお.る・ひ.える",
+      "meaning": "be clear; serene; cold"
+    }
+  ]
+}

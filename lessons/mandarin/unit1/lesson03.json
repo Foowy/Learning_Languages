@@ -1,0 +1,67 @@
+{
+  "unit": 1,
+  "lesson": 3,
+  "title": "HSK 1 Vocabulary — Part 3",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "都",
+      "romaji": "dōu",
+      "meaning": "all; both; entirely; (used for emphasis) even; already; (not) at all"
+    },
+    {
+      "type": "hanzi",
+      "character": "读",
+      "romaji": "dú",
+      "meaning": "to read; to study; reading of word (i.e. pronunciation); similar to 拼音[pīn yīn]"
+    },
+    {
+      "type": "hanzi",
+      "character": "对不起",
+      "romaji": "duì bu qǐ",
+      "meaning": "unworthy; to let down; I'm sorry; excuse me; pardon me; if you please; sorry? (please repeat)"
+    },
+    {
+      "type": "hanzi",
+      "character": "多",
+      "romaji": "duō",
+      "meaning": "many; much; a lot of; numerous; more; in excess; how (to what extent); multi-; Taiwan pr.  when it means \"how\""
+    },
+    {
+      "type": "hanzi",
+      "character": "多少",
+      "romaji": "duō shao",
+      "meaning": "how much; how many; which (number); as much as"
+    },
+    {
+      "type": "hanzi",
+      "character": "儿子",
+      "romaji": "ér zi",
+      "meaning": "son"
+    },
+    {
+      "type": "hanzi",
+      "character": "二",
+      "romaji": "èr",
+      "meaning": "two; 2; stupid (Beijing dialect)"
+    },
+    {
+      "type": "hanzi",
+      "character": "饭馆",
+      "romaji": "fàn guǎn",
+      "meaning": "restaurant; CL:家[jiā]"
+    },
+    {
+      "type": "hanzi",
+      "character": "飞机",
+      "romaji": "fēi jī",
+      "meaning": "airplane; CL:架[jià]"
+    },
+    {
+      "type": "hanzi",
+      "character": "分钟",
+      "romaji": "fēn zhōng",
+      "meaning": "minute"
+    }
+  ]
+}

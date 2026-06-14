@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 52,
+  "title": "JLPT N3 Kanji — Part 52",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "列",
+      "romaji": "レツ・レ",
+      "meaning": "file; row; rank"
+    },
+    {
+      "type": "kanji",
+      "character": "探",
+      "romaji": "タン / さぐ.る・さが.す",
+      "meaning": "grope; search; look for"
+    },
+    {
+      "type": "kanji",
+      "character": "逃",
+      "romaji": "トウ / に.げる・に.がす・のが.す・のが.れる",
+      "meaning": "escape; flee; shirk"
+    },
+    {
+      "type": "kanji",
+      "character": "節",
+      "romaji": "セツ・セチ / ふし・-ぶし・のっと",
+      "meaning": "node; season; period"
+    },
+    {
+      "type": "kanji",
+      "character": "骨",
+      "romaji": "コツ / ほね",
+      "meaning": "skeleton; bone; remains"
+    },
+    {
+      "type": "kanji",
+      "character": "傾",
+      "romaji": "ケイ / かたむ.く・かたむ.ける・かたぶ.く・かた.げる・かし.げる",
+      "meaning": "lean; incline; tilt"
+    },
+    {
+      "type": "kanji",
+      "character": "届",
+      "romaji": "カイ / とど.ける・-とど.け・とど.く",
+      "meaning": "deliver; reach; arrive"
+    },
+    {
+      "type": "kanji",
+      "character": "遊",
+      "romaji": "ユウ・ユ / あそ.ぶ・あそ.ばす",
+      "meaning": "play"
+    },
+    {
+      "type": "kanji",
+      "character": "迷",
+      "romaji": "メイ / まよ.う",
+      "meaning": "astray; be perplexed; in doubt"
+    },
+    {
+      "type": "kanji",
+      "character": "夢",
+      "romaji": "ム・ボウ / ゆめ・ゆめ.みる・くら.い",
+      "meaning": "dream; vision; illusion"
+    }
+  ]
+}

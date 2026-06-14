@@ -1,0 +1,67 @@
+{
+  "unit": 62,
+  "lesson": 12,
+  "title": "Vocabulary — Frequency 11111–11120",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "称する",
+      "romaji": "しょうする",
+      "meaning": "to call; to name"
+    },
+    {
+      "type": "kanji",
+      "character": "称号",
+      "romaji": "しょうごう",
+      "meaning": "title; name"
+    },
+    {
+      "type": "kanji",
+      "character": "章",
+      "romaji": "しょう",
+      "meaning": "chapter; section"
+    },
+    {
+      "type": "kanji",
+      "character": "笑い",
+      "romaji": "わらい",
+      "meaning": "laugh; laughter"
+    },
+    {
+      "type": "kanji",
+      "character": "笑い声",
+      "romaji": "わらいごえ",
+      "meaning": "(sound of) laughter; laughing voice"
+    },
+    {
+      "type": "kanji",
+      "character": "笑う",
+      "romaji": "わらう",
+      "meaning": "to laugh"
+    },
+    {
+      "type": "kanji",
+      "character": "笑み",
+      "romaji": "えみ",
+      "meaning": "smile"
+    },
+    {
+      "type": "kanji",
+      "character": "笑顔",
+      "romaji": "えがお",
+      "meaning": "smiling face; smile"
+    },
+    {
+      "type": "kanji",
+      "character": "紹介",
+      "romaji": "しょうかい",
+      "meaning": "introduction; presentation"
+    },
+    {
+      "type": "kanji",
+      "character": "紹介者",
+      "romaji": "しょうかいしゃ",
+      "meaning": "person who introduces someone; introducer"
+    }
+  ]
+}

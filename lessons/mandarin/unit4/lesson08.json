@@ -1,0 +1,67 @@
+{
+  "unit": 4,
+  "lesson": 8,
+  "title": "HSK 4 Vocabulary — Part 8",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "代替",
+      "romaji": "dài tì",
+      "meaning": "instead; to replace; to substitute (X for Y; or a number in an algebraic expression)"
+    },
+    {
+      "type": "hanzi",
+      "character": "大夫",
+      "romaji": "dài fu",
+      "meaning": "doctor; minister of state (in pre-Han states); CL:個|个; 位[wèi]"
+    },
+    {
+      "type": "hanzi",
+      "character": "当",
+      "romaji": "dāng",
+      "meaning": "to be; to act as; manage; withstand; when; during; ought; should; match equally; equal; same; obstruct; just at (a time or place); on the spot; right; just at"
+    },
+    {
+      "type": "hanzi",
+      "character": "当地",
+      "romaji": "dāng dì",
+      "meaning": "local"
+    },
+    {
+      "type": "hanzi",
+      "character": "当时",
+      "romaji": "dāng shí",
+      "meaning": "then; at that time; while"
+    },
+    {
+      "type": "hanzi",
+      "character": "刀",
+      "romaji": "dāo",
+      "meaning": "knife; blade; single-edged sword; cutlass; CL:把[bǎ]; classifier for sets of one hundred sheets (of paper)"
+    },
+    {
+      "type": "hanzi",
+      "character": "导游",
+      "romaji": "dǎo yóu",
+      "meaning": "tour guide; guidebook; to conduct a tour"
+    },
+    {
+      "type": "hanzi",
+      "character": "到处",
+      "romaji": "dào chù",
+      "meaning": "everywhere"
+    },
+    {
+      "type": "hanzi",
+      "character": "到底",
+      "romaji": "dào dǐ",
+      "meaning": "finally; in the end; when all is said and done; after all; to the end; to the last"
+    },
+    {
+      "type": "hanzi",
+      "character": "道歉",
+      "romaji": "dào qiàn",
+      "meaning": "to apologize"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 42,
+  "title": "HSK 5 Vocabulary — Part 42",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "壶",
+      "romaji": "hú",
+      "meaning": "pot; classifier for bottled liquid"
+    },
+    {
+      "type": "hanzi",
+      "character": "蝴蝶",
+      "romaji": "hú dié",
+      "meaning": "butterfly; CL:隻|只[zhī]"
+    },
+    {
+      "type": "hanzi",
+      "character": "胡说",
+      "romaji": "hú shuō",
+      "meaning": "to talk nonsense; drivel"
+    },
+    {
+      "type": "hanzi",
+      "character": "胡同",
+      "romaji": "hú tòng",
+      "meaning": "variant of 胡同[hú tòng]"
+    },
+    {
+      "type": "hanzi",
+      "character": "胡须",
+      "romaji": "hú xū",
+      "meaning": "beard; CL:根; 綹|绺[liǔ]"
+    },
+    {
+      "type": "hanzi",
+      "character": "糊涂",
+      "romaji": "hú tu",
+      "meaning": "muddled; silly; confused"
+    },
+    {
+      "type": "hanzi",
+      "character": "花生",
+      "romaji": "huā shēng",
+      "meaning": "peanut; groundnut; CL:粒[lì]"
+    },
+    {
+      "type": "hanzi",
+      "character": "滑冰",
+      "romaji": "huá bīng",
+      "meaning": "to skate; skating"
+    },
+    {
+      "type": "hanzi",
+      "character": "划船",
+      "romaji": "huá chuán",
+      "meaning": "to row a boat; rowing boat; rowing (sport)"
+    },
+    {
+      "type": "hanzi",
+      "character": "华裔",
+      "romaji": "Huá yì",
+      "meaning": "ethnic Chinese; non-Chinese citizen of Chinese ancestry"
+    }
+  ]
+}

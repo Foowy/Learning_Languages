@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 16,
+  "title": "JLPT N2/N1 Kanji — Part 16",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "籍",
+      "romaji": "セキ",
+      "meaning": "enroll; domiciliary register; membership"
+    },
+    {
+      "type": "kanji",
+      "character": "縮",
+      "romaji": "シュク / ちぢ.む・ちぢ.まる・ちぢ.める・ちぢ.れる・ちぢ.らす",
+      "meaning": "shrink; contract; shrivel"
+    },
+    {
+      "type": "kanji",
+      "character": "還",
+      "romaji": "カン / かえ.る",
+      "meaning": "send back; return"
+    },
+    {
+      "type": "kanji",
+      "character": "属",
+      "romaji": "ゾク・ショク / さかん・つく・やから",
+      "meaning": "belong; genus; subordinate official"
+    },
+    {
+      "type": "kanji",
+      "character": "慮",
+      "romaji": "リョ / おもんぱく.る・おもんぱか.る",
+      "meaning": "prudence; thought; concern"
+    },
+    {
+      "type": "kanji",
+      "character": "枠",
+      "romaji": "わく",
+      "meaning": "frame; framework; spindle"
+    },
+    {
+      "type": "kanji",
+      "character": "露",
+      "romaji": "ロ・ロウ / つゆ",
+      "meaning": "dew; tears; expose"
+    },
+    {
+      "type": "kanji",
+      "character": "沖",
+      "romaji": "チュウ / おき・おきつ・ちゅう.する・わく",
+      "meaning": "open sea; offing; rise high into sky"
+    },
+    {
+      "type": "kanji",
+      "character": "緩",
+      "romaji": "カン / ゆる.い・ゆる.やか・ゆる.む・ゆる.める",
+      "meaning": "slacken; loosen; relax"
+    },
+    {
+      "type": "kanji",
+      "character": "需",
+      "romaji": "ジュ",
+      "meaning": "demand; request; need"
+    }
+  ]
+}

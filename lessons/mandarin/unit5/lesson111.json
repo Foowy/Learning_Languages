@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 111,
+  "title": "HSK 5 Vocabulary — Part 111",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "迅速",
+      "romaji": "xùn sù",
+      "meaning": "rapid; speedy; fast"
+    },
+    {
+      "type": "hanzi",
+      "character": "延长",
+      "romaji": "yán cháng",
+      "meaning": "to prolong; to extend; to delay"
+    },
+    {
+      "type": "hanzi",
+      "character": "严肃",
+      "romaji": "yán sù",
+      "meaning": "solemn; grave; serious; earnest; severe"
+    },
+    {
+      "type": "hanzi",
+      "character": "宴会",
+      "romaji": "yàn huì",
+      "meaning": "banquet; feast; dinner party; CL:席; 個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "阳台",
+      "romaji": "yáng tái",
+      "meaning": "balcony; porch"
+    },
+    {
+      "type": "hanzi",
+      "character": "痒",
+      "romaji": "yǎng",
+      "meaning": "to itch; to tickle"
+    },
+    {
+      "type": "hanzi",
+      "character": "样式",
+      "romaji": "yàng shì",
+      "meaning": "type; style"
+    },
+    {
+      "type": "hanzi",
+      "character": "腰",
+      "romaji": "yāo",
+      "meaning": "waist; lower back; pocket; middle; loins"
+    },
+    {
+      "type": "hanzi",
+      "character": "摇",
+      "romaji": "yáo",
+      "meaning": "to shake; to rock; to row"
+    },
+    {
+      "type": "hanzi",
+      "character": "咬",
+      "romaji": "yǎo",
+      "meaning": "to bite; to nip"
+    }
+  ]
+}

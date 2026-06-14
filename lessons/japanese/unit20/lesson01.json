@@ -1,0 +1,67 @@
+{
+  "unit": 20,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 2601–2610",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "ドリブル",
+      "romaji": "ドリブル",
+      "meaning": "dribble (of a ball or puck); dribbling"
+    },
+    {
+      "type": "kana",
+      "character": "ドリル",
+      "romaji": "ドリル",
+      "meaning": "drill bit; drill"
+    },
+    {
+      "type": "kana",
+      "character": "ドリンク",
+      "romaji": "ドリンク",
+      "meaning": "drink"
+    },
+    {
+      "type": "kanji",
+      "character": "弗",
+      "romaji": "ドル",
+      "meaning": "dollar"
+    },
+    {
+      "type": "kana",
+      "character": "ドルフィンキック",
+      "romaji": "ドルフィンキック",
+      "meaning": "dolphin kick (swimming)"
+    },
+    {
+      "type": "kana",
+      "character": "ドレス",
+      "romaji": "ドレス",
+      "meaning": "dress"
+    },
+    {
+      "type": "kana",
+      "character": "ドレッシング",
+      "romaji": "ドレッシング",
+      "meaning": "dressing"
+    },
+    {
+      "type": "kana",
+      "character": "ドロー",
+      "romaji": "ドロー",
+      "meaning": "draw; tie"
+    },
+    {
+      "type": "kana",
+      "character": "ドローイング",
+      "romaji": "ドローイング",
+      "meaning": "drawing"
+    },
+    {
+      "type": "kana",
+      "character": "ドロップ",
+      "romaji": "ドロップ",
+      "meaning": "drop (candy)"
+    }
+  ]
+}

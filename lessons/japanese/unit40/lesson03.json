@@ -1,0 +1,67 @@
+{
+  "unit": 40,
+  "lesson": 3,
+  "title": "Vocabulary — Frequency 6621–6630",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "帰り道",
+      "romaji": "かえりみち",
+      "meaning": "the way back; the way home"
+    },
+    {
+      "type": "kanji",
+      "character": "帰る",
+      "romaji": "かえる",
+      "meaning": "to return; to come home"
+    },
+    {
+      "type": "kanji",
+      "character": "帰依",
+      "romaji": "きえ",
+      "meaning": "becoming a devout believer; (religious) conversion"
+    },
+    {
+      "type": "kanji",
+      "character": "帰化",
+      "romaji": "きか",
+      "meaning": "naturalization; naturalisation"
+    },
+    {
+      "type": "kanji",
+      "character": "帰還",
+      "romaji": "きかん",
+      "meaning": "return (home); repatriation"
+    },
+    {
+      "type": "kanji",
+      "character": "帰京",
+      "romaji": "ききょう",
+      "meaning": "returning (home) to Tokyo; returning to the capital"
+    },
+    {
+      "type": "kanji",
+      "character": "帰国",
+      "romaji": "きこく",
+      "meaning": "return to one's country"
+    },
+    {
+      "type": "kanji",
+      "character": "帰省",
+      "romaji": "きせい",
+      "meaning": "homecoming; returning home"
+    },
+    {
+      "type": "kanji",
+      "character": "帰属",
+      "romaji": "きぞく",
+      "meaning": "belonging; ascription"
+    },
+    {
+      "type": "kanji",
+      "character": "帰宅",
+      "romaji": "きたく",
+      "meaning": "returning home; going home"
+    }
+  ]
+}

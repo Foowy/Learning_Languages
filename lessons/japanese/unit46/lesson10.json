@@ -1,0 +1,67 @@
+{
+  "unit": 46,
+  "lesson": 10,
+  "title": "Vocabulary — Frequency 7891–7900",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "県",
+      "romaji": "けん",
+      "meaning": "prefecture (of Japan); county (of China, Taiwan, Norway, etc.)"
+    },
+    {
+      "type": "kanji",
+      "character": "県営",
+      "romaji": "けんえい",
+      "meaning": "(under) prefectural management"
+    },
+    {
+      "type": "kanji",
+      "character": "県下",
+      "romaji": "けんか",
+      "meaning": "in the prefecture; prefectural"
+    },
+    {
+      "type": "kanji",
+      "character": "県会",
+      "romaji": "けんかい",
+      "meaning": "prefectural assembly"
+    },
+    {
+      "type": "kanji",
+      "character": "県議",
+      "romaji": "けんぎ",
+      "meaning": "prefectural assembly member"
+    },
+    {
+      "type": "kanji",
+      "character": "県警",
+      "romaji": "けんけい",
+      "meaning": "prefectural police"
+    },
+    {
+      "type": "kanji",
+      "character": "県知事",
+      "romaji": "けんちじ",
+      "meaning": "prefectural governor"
+    },
+    {
+      "type": "kanji",
+      "character": "県庁",
+      "romaji": "けんちょう",
+      "meaning": "prefectural office"
+    },
+    {
+      "type": "kanji",
+      "character": "県道",
+      "romaji": "けんどう",
+      "meaning": "prefectural road"
+    },
+    {
+      "type": "kanji",
+      "character": "県内",
+      "romaji": "けんない",
+      "meaning": "within the prefecture"
+    }
+  ]
+}

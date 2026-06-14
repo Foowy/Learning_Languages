@@ -1,0 +1,67 @@
+{
+  "unit": 102,
+  "lesson": 12,
+  "title": "Vocabulary — Frequency 19111–19120",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "悔しい",
+      "romaji": "くやしい",
+      "meaning": "frustrated (over a failure, humiliation or injustice); annoyed"
+    },
+    {
+      "type": "kanji",
+      "character": "蔵",
+      "romaji": "くら",
+      "meaning": "warehouse; storehouse"
+    },
+    {
+      "type": "kanji",
+      "character": "食らう",
+      "romaji": "くらう",
+      "meaning": "to eat; to drink"
+    },
+    {
+      "type": "kanji",
+      "character": "水母",
+      "romaji": "クラゲ",
+      "meaning": "jellyfish"
+    },
+    {
+      "type": "kanji",
+      "character": "具合",
+      "romaji": "ぐあい",
+      "meaning": "condition; state"
+    },
+    {
+      "type": "kanji",
+      "character": "群衆",
+      "romaji": "ぐんしゅう",
+      "meaning": "group (of people); crowd"
+    },
+    {
+      "type": "kanji",
+      "character": "群集",
+      "romaji": "ぐんしゅう",
+      "meaning": "crowd; community"
+    },
+    {
+      "type": "kanji",
+      "character": "蛍光灯",
+      "romaji": "けいこうとう",
+      "meaning": "fluorescent lamp; fluorescent light"
+    },
+    {
+      "type": "kanji",
+      "character": "消印",
+      "romaji": "けしいん",
+      "meaning": "postmark; (postal) cancellation mark"
+    },
+    {
+      "type": "kanji",
+      "character": "決起",
+      "romaji": "けっき",
+      "meaning": "rising to action; standing up against"
+    }
+  ]
+}

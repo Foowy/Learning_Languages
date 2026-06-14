@@ -1,0 +1,67 @@
+{
+  "unit": 83,
+  "lesson": 2,
+  "title": "Vocabulary — Frequency 15211–15220",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "俳句",
+      "romaji": "はいく",
+      "meaning": "haiku; 17-mora poem, usu. in 3 lines of 5, 7 and 5 morae"
+    },
+    {
+      "type": "kanji",
+      "character": "俳人",
+      "romaji": "はいじん",
+      "meaning": "haiku poet"
+    },
+    {
+      "type": "kanji",
+      "character": "俳優",
+      "romaji": "はいゆう",
+      "meaning": "actor; actress"
+    },
+    {
+      "type": "kanji",
+      "character": "廃棄",
+      "romaji": "はいき",
+      "meaning": "disposal; abandonment"
+    },
+    {
+      "type": "kanji",
+      "character": "廃棄物",
+      "romaji": "はいきぶつ",
+      "meaning": "waste matter; waste"
+    },
+    {
+      "type": "kanji",
+      "character": "廃墟",
+      "romaji": "はいきょ",
+      "meaning": "ruins (of a building, town, etc.); remains"
+    },
+    {
+      "type": "kanji",
+      "character": "廃業",
+      "romaji": "はいぎょう",
+      "meaning": "discontinuation (of business); closing down"
+    },
+    {
+      "type": "kanji",
+      "character": "廃坑",
+      "romaji": "はいこう",
+      "meaning": "closure of a mine; abandoned mine"
+    },
+    {
+      "type": "kanji",
+      "character": "廃材",
+      "romaji": "はいざい",
+      "meaning": "scrap wood; waste wood"
+    },
+    {
+      "type": "kanji",
+      "character": "廃止",
+      "romaji": "はいし",
+      "meaning": "abolition; discontinuance"
+    }
+  ]
+}

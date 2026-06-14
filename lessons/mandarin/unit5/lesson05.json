@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 5,
+  "title": "HSK 5 Vocabulary — Part 5",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "编辑",
+      "romaji": "biān jí",
+      "meaning": "to edit; to compile; editor; compiler"
+    },
+    {
+      "type": "hanzi",
+      "character": "便",
+      "romaji": "biàn",
+      "meaning": "ordinary; plain; convenient; as convenient; when the chance arises; handy; easy; informal; simple; so; thus; to relieve oneself; to urinate; to defecate; equivalent to 就: then; in that case; even if; soon afterwards"
+    },
+    {
+      "type": "hanzi",
+      "character": "辩论",
+      "romaji": "biàn lùn",
+      "meaning": "debate; argument; to argue over; CL:場|场; 次[cì]"
+    },
+    {
+      "type": "hanzi",
+      "character": "标点",
+      "romaji": "biāo diǎn",
+      "meaning": "punctuation; a punctuation mark; to punctuate; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "标志",
+      "romaji": "biāo zhì",
+      "meaning": "sign; mark; symbol; to symbolize; to indicate; to mark"
+    },
+    {
+      "type": "hanzi",
+      "character": "表面",
+      "romaji": "biǎo miàn",
+      "meaning": "surface; face; outside; appearance"
+    },
+    {
+      "type": "hanzi",
+      "character": "表明",
+      "romaji": "biǎo míng",
+      "meaning": "to make clear; to make known; to state clearly; to indicate; known"
+    },
+    {
+      "type": "hanzi",
+      "character": "表情",
+      "romaji": "biǎo qíng",
+      "meaning": "(facial) expression; to express one's feelings; expression"
+    },
+    {
+      "type": "hanzi",
+      "character": "表现",
+      "romaji": "biǎo xiàn",
+      "meaning": "to show; to show off; to display; to manifest; expression; manifestation; show; display; performance (at work etc); behavior"
+    },
+    {
+      "type": "hanzi",
+      "character": "丙",
+      "romaji": "bǐng",
+      "meaning": "third of 10 heavenly stems 十天干; third in order; letter \"C\" or roman \"III\" in list \"A; B; C\"; or \"I; II; III\" etc; propyl"
+    }
+  ]
+}

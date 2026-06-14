@@ -1,0 +1,67 @@
+{
+  "unit": 2,
+  "lesson": 8,
+  "title": "HSK 2 Vocabulary — Part 8",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "每",
+      "romaji": "měi",
+      "meaning": "each; every"
+    },
+    {
+      "type": "hanzi",
+      "character": "妹妹",
+      "romaji": "mèi mei",
+      "meaning": "younger sister; fig. younger woman (esp. girl friend or rival); CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "门",
+      "romaji": "mén",
+      "meaning": "gate; door; CL:扇[shàn]; gateway; doorway; CL:個|个[gè]; opening; valve; switch; way to do something; knack; family; house; (religious) sect; school (of thought); class; category; phylum or division (taxonomy); classifier for large guns; classifier for lessons; subjects; branches of technology"
+    },
+    {
+      "type": "hanzi",
+      "character": "男人",
+      "romaji": "nán rén",
+      "meaning": "a man; a male; men; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "您",
+      "romaji": "nín",
+      "meaning": "you (courteous; as opposed to informal 你)"
+    },
+    {
+      "type": "hanzi",
+      "character": "牛奶",
+      "romaji": "niú nǎi",
+      "meaning": "cow's milk; CL:瓶; 杯[bēi]"
+    },
+    {
+      "type": "hanzi",
+      "character": "女人",
+      "romaji": "nǚ rén",
+      "meaning": "woman"
+    },
+    {
+      "type": "hanzi",
+      "character": "旁边",
+      "romaji": "páng biān",
+      "meaning": "lateral; side; to the side; beside"
+    },
+    {
+      "type": "hanzi",
+      "character": "跑步",
+      "romaji": "pǎo bù",
+      "meaning": "to walk quickly; to march; to run"
+    },
+    {
+      "type": "hanzi",
+      "character": "便宜",
+      "romaji": "pián yi",
+      "meaning": "small advantages; to let sb off lightly; cheap; inexpensive"
+    }
+  ]
+}

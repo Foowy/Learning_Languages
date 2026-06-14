@@ -1,0 +1,67 @@
+{
+  "unit": 1,
+  "lesson": 14,
+  "title": "HSK 1 Vocabulary — Part 14",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "一",
+      "romaji": "yī",
+      "meaning": "one; 1; single; a (article); as soon as; entire; whole; all; throughout; \"one\" radical in Chinese characters (Kangxi radical 1)"
+    },
+    {
+      "type": "hanzi",
+      "character": "衣服",
+      "romaji": "yī fu",
+      "meaning": "clothes; CL:件; 套[tào]"
+    },
+    {
+      "type": "hanzi",
+      "character": "医生",
+      "romaji": "yī shēng",
+      "meaning": "doctor; CL:個|个; 位; 名[míng]"
+    },
+    {
+      "type": "hanzi",
+      "character": "医院",
+      "romaji": "yī yuàn",
+      "meaning": "hospital; CL:所; 家; 座[zuò]"
+    },
+    {
+      "type": "hanzi",
+      "character": "椅子",
+      "romaji": "yǐ zi",
+      "meaning": "chair; CL:把; 套[tào]"
+    },
+    {
+      "type": "hanzi",
+      "character": "有",
+      "romaji": "yǒu",
+      "meaning": "to have; there is; there are; to exist; to be"
+    },
+    {
+      "type": "hanzi",
+      "character": "月",
+      "romaji": "yuè",
+      "meaning": "moon; month; CL:個|个; 輪|轮[lún]"
+    },
+    {
+      "type": "hanzi",
+      "character": "在",
+      "romaji": "zài",
+      "meaning": "(located) at; (to be) in; to exist; in the middle of doing sth; (indicating an action in progress)"
+    },
+    {
+      "type": "hanzi",
+      "character": "再见",
+      "romaji": "zài jiàn",
+      "meaning": "goodbye; see you again later"
+    },
+    {
+      "type": "hanzi",
+      "character": "怎么",
+      "romaji": "zěn me",
+      "meaning": "variant of 怎麼|怎么[zěn me]"
+    }
+  ]
+}

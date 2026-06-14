@@ -1,0 +1,67 @@
+{
+  "unit": 44,
+  "lesson": 2,
+  "title": "Vocabulary — Frequency 7411–7420",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "駆け回る",
+      "romaji": "かけまわる",
+      "meaning": "to run around; to bustle about"
+    },
+    {
+      "type": "kanji",
+      "character": "駆け込み",
+      "romaji": "かけこみ",
+      "meaning": "running in; rushing into"
+    },
+    {
+      "type": "kanji",
+      "character": "駆け足",
+      "romaji": "かけあし",
+      "meaning": "running fast; double time"
+    },
+    {
+      "type": "kanji",
+      "character": "駆る",
+      "romaji": "かる",
+      "meaning": "to spur on; to urge forward"
+    },
+    {
+      "type": "kanji",
+      "character": "駆使",
+      "romaji": "くし",
+      "meaning": "using freely; making full use of"
+    },
+    {
+      "type": "kanji",
+      "character": "駆除",
+      "romaji": "くじょ",
+      "meaning": "extermination (of pests); eradication"
+    },
+    {
+      "type": "kanji",
+      "character": "駆逐",
+      "romaji": "くちく",
+      "meaning": "expulsion; driving out"
+    },
+    {
+      "type": "kanji",
+      "character": "駆逐艦",
+      "romaji": "くちくかん",
+      "meaning": "destroyer (ship)"
+    },
+    {
+      "type": "kanji",
+      "character": "駆動",
+      "romaji": "くどう",
+      "meaning": "drive; driving (force)"
+    },
+    {
+      "type": "kanji",
+      "character": "駒",
+      "romaji": "こま",
+      "meaning": "piece (in shogi, chess, etc.)"
+    }
+  ]
+}

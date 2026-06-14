@@ -1,0 +1,67 @@
+{
+  "unit": 30,
+  "lesson": 12,
+  "title": "Vocabulary — Frequency 4711–4720",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "し続ける",
+      "romaji": "しつづける",
+      "meaning": "to continue to do; to persist in doing"
+    },
+    {
+      "type": "kanji",
+      "character": "為替",
+      "romaji": "かわせ",
+      "meaning": "money order; draft"
+    },
+    {
+      "type": "kanji",
+      "character": "為替相場",
+      "romaji": "かわせそうば",
+      "meaning": "exchange rate; rate of exchange"
+    },
+    {
+      "type": "kanji",
+      "character": "異なる",
+      "romaji": "ことなる",
+      "meaning": "to differ; to be different"
+    },
+    {
+      "type": "kanji",
+      "character": "異議",
+      "romaji": "いぎ",
+      "meaning": "objection; dissent"
+    },
+    {
+      "type": "kanji",
+      "character": "異口同音",
+      "romaji": "いくどうおん",
+      "meaning": "(saying) with one voice; unanimously"
+    },
+    {
+      "type": "kanji",
+      "character": "異国",
+      "romaji": "いこく",
+      "meaning": "foreign country"
+    },
+    {
+      "type": "kanji",
+      "character": "異質",
+      "romaji": "いしつ",
+      "meaning": "different (quality, nature); heterogeneous"
+    },
+    {
+      "type": "kanji",
+      "character": "異常",
+      "romaji": "いじょう",
+      "meaning": "abnormal; unusual"
+    },
+    {
+      "type": "kanji",
+      "character": "異状",
+      "romaji": "いじょう",
+      "meaning": "something wrong; something unusual"
+    }
+  ]
+}

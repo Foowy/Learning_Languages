@@ -1,0 +1,67 @@
+{
+  "unit": 8,
+  "lesson": 13,
+  "title": "Vocabulary — Frequency 321–330",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "どうしたの",
+      "romaji": "どうしたの",
+      "meaning": "what's the matter?; what's wrong?"
+    },
+    {
+      "type": "kana",
+      "character": "どうせ",
+      "romaji": "どうせ",
+      "meaning": "in any case; regardless"
+    },
+    {
+      "type": "kana",
+      "character": "どうにか",
+      "romaji": "どうにか",
+      "meaning": "in some way or other; one way or another"
+    },
+    {
+      "type": "kana",
+      "character": "どうも",
+      "romaji": "どうも",
+      "meaning": "thank you; thanks"
+    },
+    {
+      "type": "kana",
+      "character": "どうやら",
+      "romaji": "どうやら",
+      "meaning": "possibly; apparently"
+    },
+    {
+      "type": "kanji",
+      "character": "どう致しまして",
+      "romaji": "どういたしまして",
+      "meaning": "you're welcome; don't mention it"
+    },
+    {
+      "type": "kana",
+      "character": "ドキッと",
+      "romaji": "ドキッと",
+      "meaning": "being startled; getting a shock"
+    },
+    {
+      "type": "kana",
+      "character": "ドキドキ",
+      "romaji": "ドキドキ",
+      "meaning": "thump-thump; bang-bang"
+    },
+    {
+      "type": "kana",
+      "character": "どしどし",
+      "romaji": "どしどし",
+      "meaning": "one after another; in rapid succession"
+    },
+    {
+      "type": "kana",
+      "character": "ドタバタ",
+      "romaji": "ドタバタ",
+      "meaning": "noisily (running around); with heavy feet"
+    }
+  ]
+}

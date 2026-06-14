@@ -1,0 +1,67 @@
+{
+  "unit": 86,
+  "lesson": 2,
+  "title": "Vocabulary — Frequency 15811–15820",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "病名",
+      "romaji": "びょうめい",
+      "meaning": "name of a disease"
+    },
+    {
+      "type": "kanji",
+      "character": "秒",
+      "romaji": "びょう",
+      "meaning": "second (unit of time)"
+    },
+    {
+      "type": "kanji",
+      "character": "秒速",
+      "romaji": "びょうそく",
+      "meaning": "speed per second; velocity per second"
+    },
+    {
+      "type": "kanji",
+      "character": "秒読み",
+      "romaji": "びょうよみ",
+      "meaning": "countdown"
+    },
+    {
+      "type": "kanji",
+      "character": "苗",
+      "romaji": "なえ",
+      "meaning": "seedling; young plant"
+    },
+    {
+      "type": "kanji",
+      "character": "苗床",
+      "romaji": "なえどこ",
+      "meaning": "seedbed; nursery"
+    },
+    {
+      "type": "kanji",
+      "character": "苗木",
+      "romaji": "なえぎ",
+      "meaning": "seedling; sapling"
+    },
+    {
+      "type": "kanji",
+      "character": "品格",
+      "romaji": "ひんかく",
+      "meaning": "dignity; quality"
+    },
+    {
+      "type": "kanji",
+      "character": "品詞",
+      "romaji": "ひんし",
+      "meaning": "part of speech"
+    },
+    {
+      "type": "kanji",
+      "character": "品質",
+      "romaji": "ひんしつ",
+      "meaning": "quality (of a product or a service)"
+    }
+  ]
+}

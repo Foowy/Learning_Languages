@@ -1,0 +1,67 @@
+{
+  "unit": 21,
+  "lesson": 8,
+  "title": "Vocabulary — Frequency 2871–2880",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "バス停",
+      "romaji": "バスてい",
+      "meaning": "bus stop"
+    },
+    {
+      "type": "kana",
+      "character": "バター",
+      "romaji": "バター",
+      "meaning": "butter"
+    },
+    {
+      "type": "kana",
+      "character": "バタバタ",
+      "romaji": "バタバタ",
+      "meaning": "flapping; rattling"
+    },
+    {
+      "type": "kana",
+      "character": "バタフライ",
+      "romaji": "バタフライ",
+      "meaning": "butterfly (swimming stroke)"
+    },
+    {
+      "type": "kana",
+      "character": "バタン",
+      "romaji": "バタン",
+      "meaning": "bang; slam"
+    },
+    {
+      "type": "kana",
+      "character": "バック",
+      "romaji": "バック",
+      "meaning": "back; rear"
+    },
+    {
+      "type": "kana",
+      "character": "バックアップ",
+      "romaji": "バックアップ",
+      "meaning": "backing (an initiative, candidate, etc.); support"
+    },
+    {
+      "type": "kana",
+      "character": "バックグラウンド",
+      "romaji": "バックグラウンド",
+      "meaning": "background (of a scene, picture, etc.)"
+    },
+    {
+      "type": "kana",
+      "character": "バックス",
+      "romaji": "バックス",
+      "meaning": "back (player); the backs"
+    },
+    {
+      "type": "kana",
+      "character": "バックスクリーン",
+      "romaji": "バックスクリーン",
+      "meaning": "batter's eye screen; centerfield screen"
+    }
+  ]
+}

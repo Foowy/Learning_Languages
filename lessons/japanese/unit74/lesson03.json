@@ -1,0 +1,67 @@
+{
+  "unit": 74,
+  "lesson": 3,
+  "title": "Vocabulary — Frequency 13421–13430",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "旦那",
+      "romaji": "だんな",
+      "meaning": "master (of a house, shop, etc.)"
+    },
+    {
+      "type": "kanji",
+      "character": "淡い",
+      "romaji": "あわい",
+      "meaning": "light; faint"
+    },
+    {
+      "type": "kanji",
+      "character": "淡水",
+      "romaji": "たんすい",
+      "meaning": "fresh water (i.e. not salt water)"
+    },
+    {
+      "type": "kanji",
+      "character": "炭",
+      "romaji": "すみ",
+      "meaning": "charcoal"
+    },
+    {
+      "type": "kanji",
+      "character": "炭酸",
+      "romaji": "たんさん",
+      "meaning": "carbonic acid"
+    },
+    {
+      "type": "kanji",
+      "character": "炭素",
+      "romaji": "たんそ",
+      "meaning": "carbon (C)"
+    },
+    {
+      "type": "kanji",
+      "character": "短い",
+      "romaji": "みじかい",
+      "meaning": "short"
+    },
+    {
+      "type": "kanji",
+      "character": "短歌",
+      "romaji": "たんか",
+      "meaning": "tanka; 31-mora Japanese poem"
+    },
+    {
+      "type": "kanji",
+      "character": "短期",
+      "romaji": "たんき",
+      "meaning": "short-term"
+    },
+    {
+      "type": "kanji",
+      "character": "短期大学",
+      "romaji": "たんきだいがく",
+      "meaning": "junior college; vocationally oriented post-secondary institution offering two or three-year programs"
+    }
+  ]
+}

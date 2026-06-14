@@ -1,0 +1,67 @@
+{
+  "unit": 22,
+  "lesson": 2,
+  "title": "Vocabulary — Frequency 3011–3020",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "パブリシティー",
+      "romaji": "パブリシティー",
+      "meaning": "publicity"
+    },
+    {
+      "type": "kana",
+      "character": "パブリック",
+      "romaji": "パブリック",
+      "meaning": "public"
+    },
+    {
+      "type": "kana",
+      "character": "パラグライダー",
+      "romaji": "パラグライダー",
+      "meaning": "paraglider"
+    },
+    {
+      "type": "kana",
+      "character": "パラシュート",
+      "romaji": "パラシュート",
+      "meaning": "parachute"
+    },
+    {
+      "type": "kana",
+      "character": "パラソル",
+      "romaji": "パラソル",
+      "meaning": "parasol (esp. one that is secured to the ground); sunshade"
+    },
+    {
+      "type": "kana",
+      "character": "パラダイス",
+      "romaji": "パラダイス",
+      "meaning": "paradise"
+    },
+    {
+      "type": "kana",
+      "character": "パラダイム",
+      "romaji": "パラダイム",
+      "meaning": "paradigm"
+    },
+    {
+      "type": "kana",
+      "character": "パラドックス",
+      "romaji": "パラドックス",
+      "meaning": "paradox"
+    },
+    {
+      "type": "kana",
+      "character": "ぱらぱら",
+      "romaji": "ぱらぱら",
+      "meaning": "sprinkling (of rain, salt, etc.); pattering"
+    },
+    {
+      "type": "kana",
+      "character": "パラボラ",
+      "romaji": "パラボラ",
+      "meaning": "parabola (antenna, microphone reflector, etc.); (satellite) dish"
+    }
+  ]
+}

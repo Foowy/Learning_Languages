@@ -1,0 +1,67 @@
+{
+  "unit": 3,
+  "lesson": 3,
+  "title": "HSK 3 Vocabulary — Part 3",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "变化",
+      "romaji": "biàn huà",
+      "meaning": "change; variation; to change; to vary; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "表示",
+      "romaji": "biǎo shì",
+      "meaning": "to express; to show; to say; to state; to indicate; to mean"
+    },
+    {
+      "type": "hanzi",
+      "character": "表演",
+      "romaji": "biǎo yǎn",
+      "meaning": "play; show; performance; exhibition; to perform; to act; to demonstrate; CL:場|场[chǎng]"
+    },
+    {
+      "type": "hanzi",
+      "character": "别人",
+      "romaji": "bié ren",
+      "meaning": "other people; others; other person"
+    },
+    {
+      "type": "hanzi",
+      "character": "宾馆",
+      "romaji": "bīn guǎn",
+      "meaning": "guesthouse; lodge; hotel; CL:個|个; 家[jiā]"
+    },
+    {
+      "type": "hanzi",
+      "character": "冰箱",
+      "romaji": "bīng xiāng",
+      "meaning": "icebox; freezer cabinet; refrigerator; CL:臺|台; 個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "才",
+      "romaji": "cái",
+      "meaning": "a moment ago; just now; (preceded by a clause of condition or reason) not until; (followed by a numerical clause) only"
+    },
+    {
+      "type": "hanzi",
+      "character": "菜单",
+      "romaji": "cài dān",
+      "meaning": "menu; CL:份; 張|张[zhāng]"
+    },
+    {
+      "type": "hanzi",
+      "character": "参加",
+      "romaji": "cān jiā",
+      "meaning": "to participate; to take part; to join"
+    },
+    {
+      "type": "hanzi",
+      "character": "草",
+      "romaji": "cǎo",
+      "meaning": "grass; straw; manuscript; draft (of a document); careless; rough; CL:棵; 撮; 株; 根[gēn]"
+    }
+  ]
+}

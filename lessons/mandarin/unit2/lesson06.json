@@ -1,0 +1,67 @@
+{
+  "unit": 2,
+  "lesson": 6,
+  "title": "HSK 2 Vocabulary — Part 6",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "进",
+      "romaji": "jìn",
+      "meaning": "to advance; to enter; to come (or go) into; to receive or admit; to eat or drink; to submit or present; (used after a verb) into; in; to score a goal"
+    },
+    {
+      "type": "hanzi",
+      "character": "近",
+      "romaji": "jìn",
+      "meaning": "near; close to; approximately"
+    },
+    {
+      "type": "hanzi",
+      "character": "就",
+      "romaji": "jiù",
+      "meaning": "at once; right away; only; just (emphasis); as early as; already; as soon as; then; in that case; as many as; even if; to approach; to move towards; to undertake; to engage in; to suffer; subjected to; to accomplish; to take advantage of; to go with (of foods); with regard to; concerning"
+    },
+    {
+      "type": "hanzi",
+      "character": "觉得",
+      "romaji": "jué de",
+      "meaning": "to think; to feel"
+    },
+    {
+      "type": "hanzi",
+      "character": "咖啡",
+      "romaji": "kā fēi",
+      "meaning": "coffee; CL:杯[bēi]"
+    },
+    {
+      "type": "hanzi",
+      "character": "开始",
+      "romaji": "kāi shǐ",
+      "meaning": "to begin; beginning; to start; initial; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "考试",
+      "romaji": "kǎo shì",
+      "meaning": "to take an exam; exam; CL:次[cì]"
+    },
+    {
+      "type": "hanzi",
+      "character": "可能",
+      "romaji": "kě néng",
+      "meaning": "might (happen); possible; probable; possibility; probability; maybe; perhaps; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "可以",
+      "romaji": "kě yǐ",
+      "meaning": "can; may; possible; able to"
+    },
+    {
+      "type": "hanzi",
+      "character": "课",
+      "romaji": "kè",
+      "meaning": "subject; course; CL: 門|门[mén]; class; lesson; CL:堂; 節|节[jié]; to levy; tax; form of divination"
+    }
+  ]
+}

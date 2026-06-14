@@ -1,0 +1,67 @@
+{
+  "unit": 36,
+  "lesson": 8,
+  "title": "Vocabulary — Frequency 5871–5880",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "海産物",
+      "romaji": "かいさんぶつ",
+      "meaning": "marine products"
+    },
+    {
+      "type": "kanji",
+      "character": "海上",
+      "romaji": "かいじょう",
+      "meaning": "(on the) sea; surface of the sea"
+    },
+    {
+      "type": "kanji",
+      "character": "海水",
+      "romaji": "かいすい",
+      "meaning": "seawater; saltwater"
+    },
+    {
+      "type": "kanji",
+      "character": "海水浴",
+      "romaji": "かいすいよく",
+      "meaning": "swimming in the ocean; sea bathing"
+    },
+    {
+      "type": "kanji",
+      "character": "海水浴場",
+      "romaji": "かいすいよくじょう",
+      "meaning": "swimming area (in the ocean); swimming beach"
+    },
+    {
+      "type": "kanji",
+      "character": "海藻",
+      "romaji": "かいそう",
+      "meaning": "seaweed"
+    },
+    {
+      "type": "kanji",
+      "character": "海賊",
+      "romaji": "かいぞく",
+      "meaning": "pirate"
+    },
+    {
+      "type": "kanji",
+      "character": "海苔",
+      "romaji": "のり",
+      "meaning": "nori; laver"
+    },
+    {
+      "type": "kanji",
+      "character": "海中",
+      "romaji": "かいちゅう",
+      "meaning": "in the sea"
+    },
+    {
+      "type": "kanji",
+      "character": "海底",
+      "romaji": "かいてい",
+      "meaning": "bottom of the ocean; seafloor"
+    }
+  ]
+}

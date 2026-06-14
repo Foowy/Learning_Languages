@@ -1,0 +1,25 @@
+{
+  "unit": 3,
+  "lesson": 11,
+  "title": "JLPT N5 Kanji — Part 11",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "飲",
+      "romaji": "イン・オン / の.む・-の.み",
+      "meaning": "drink; smoke; take"
+    },
+    {
+      "type": "kanji",
+      "character": "魚",
+      "romaji": "ギョ / うお・さかな・-ざかな",
+      "meaning": "fish"
+    },
+    {
+      "type": "kanji",
+      "character": "耳",
+      "romaji": "ジ / みみ",
+      "meaning": "ear"
+    }
+  ]
+}

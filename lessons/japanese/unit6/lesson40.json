@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 40,
+  "title": "JLPT N2/N1 Kanji — Part 40",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "仁",
+      "romaji": "ジン・ニ・ニン",
+      "meaning": "humanity; virtue; benevolence"
+    },
+    {
+      "type": "kanji",
+      "character": "克",
+      "romaji": "コク / か.つ",
+      "meaning": "overcome; kindly; skillfully"
+    },
+    {
+      "type": "kanji",
+      "character": "岳",
+      "romaji": "ガク / たけ",
+      "meaning": "point; peak; mountain"
+    },
+    {
+      "type": "kanji",
+      "character": "概",
+      "romaji": "ガイ / おおむ.ね",
+      "meaning": "outline; condition; approximation"
+    },
+    {
+      "type": "kanji",
+      "character": "拘",
+      "romaji": "コウ / かか.わる",
+      "meaning": "arrest; seize; concerned"
+    },
+    {
+      "type": "kanji",
+      "character": "墓",
+      "romaji": "ボ / はか",
+      "meaning": "grave; tomb"
+    },
+    {
+      "type": "kanji",
+      "character": "黙",
+      "romaji": "モク・ボク / だま.る・もだ.す",
+      "meaning": "silence; become silent; stop speaking"
+    },
+    {
+      "type": "kanji",
+      "character": "須",
+      "romaji": "ス・シュ / すべから.く・すべし・ひげ・まつ・もち.いる・もと.める",
+      "meaning": "ought; by all means; necessarily"
+    },
+    {
+      "type": "kanji",
+      "character": "偏",
+      "romaji": "ヘン / かたよ.る",
+      "meaning": "partial; side; left-side radical"
+    },
+    {
+      "type": "kanji",
+      "character": "雰",
+      "romaji": "フン",
+      "meaning": "atmosphere; fog"
+    }
+  ]
+}

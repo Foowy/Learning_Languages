@@ -1,0 +1,67 @@
+{
+  "unit": 50,
+  "lesson": 11,
+  "title": "Vocabulary — Frequency 8701–8710",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "貢献",
+      "romaji": "こうけん",
+      "meaning": "contribution (furthering a goal or cause); services (to a cause)"
+    },
+    {
+      "type": "kanji",
+      "character": "購読",
+      "romaji": "こうどく",
+      "meaning": "buying and reading (book, magazine, etc.); subscribing (incl. free subscriptions)"
+    },
+    {
+      "type": "kanji",
+      "character": "購入",
+      "romaji": "こうにゅう",
+      "meaning": "purchase; buying"
+    },
+    {
+      "type": "kanji",
+      "character": "購買",
+      "romaji": "こうばい",
+      "meaning": "procurement; purchase"
+    },
+    {
+      "type": "kanji",
+      "character": "購買力",
+      "romaji": "こうばいりょく",
+      "meaning": "buying power; purchasing power"
+    },
+    {
+      "type": "kanji",
+      "character": "郊外",
+      "romaji": "こうがい",
+      "meaning": "suburb; residential area on the outskirt of a city"
+    },
+    {
+      "type": "kanji",
+      "character": "酵素",
+      "romaji": "こうそ",
+      "meaning": "enzyme"
+    },
+    {
+      "type": "kanji",
+      "character": "酵母",
+      "romaji": "こうぼ",
+      "meaning": "yeast; leaven"
+    },
+    {
+      "type": "kanji",
+      "character": "鉱業",
+      "romaji": "こうぎょう",
+      "meaning": "mining industry"
+    },
+    {
+      "type": "kanji",
+      "character": "鉱山",
+      "romaji": "こうざん",
+      "meaning": "mine (ore)"
+    }
+  ]
+}

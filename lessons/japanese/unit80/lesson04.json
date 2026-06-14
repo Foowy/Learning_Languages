@@ -1,0 +1,67 @@
+{
+  "unit": 80,
+  "lesson": 4,
+  "title": "Vocabulary — Frequency 14631–14640",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "同乗",
+      "romaji": "どうじょう",
+      "meaning": "riding together; riding with"
+    },
+    {
+      "type": "kanji",
+      "character": "同情",
+      "romaji": "どうじょう",
+      "meaning": "sympathy; compassion"
+    },
+    {
+      "type": "kanji",
+      "character": "同数",
+      "romaji": "どうすう",
+      "meaning": "same number"
+    },
+    {
+      "type": "kanji",
+      "character": "同姓",
+      "romaji": "どうせい",
+      "meaning": "same surname"
+    },
+    {
+      "type": "kanji",
+      "character": "同性",
+      "romaji": "どうせい",
+      "meaning": "same sex"
+    },
+    {
+      "type": "kanji",
+      "character": "同性愛",
+      "romaji": "どうせいあい",
+      "meaning": "homosexuality; homosexual love"
+    },
+    {
+      "type": "kanji",
+      "character": "同棲",
+      "romaji": "どうせい",
+      "meaning": "cohabitation (esp. of an unmarried couple); living together"
+    },
+    {
+      "type": "kanji",
+      "character": "同席",
+      "romaji": "どうせき",
+      "meaning": "being present (at the same meeting, occasion, etc.); attendance (with)"
+    },
+    {
+      "type": "kanji",
+      "character": "同船",
+      "romaji": "どうせん",
+      "meaning": "the same ship; taking the same ship"
+    },
+    {
+      "type": "kanji",
+      "character": "同然",
+      "romaji": "どうぜん",
+      "meaning": "just like; (virtually) no different from"
+    }
+  ]
+}

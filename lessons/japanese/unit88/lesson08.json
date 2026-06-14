@@ -1,0 +1,67 @@
+{
+  "unit": 88,
+  "lesson": 8,
+  "title": "Vocabulary — Frequency 16271–16280",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "文学",
+      "romaji": "ぶんがく",
+      "meaning": "literature"
+    },
+    {
+      "type": "kanji",
+      "character": "文学者",
+      "romaji": "ぶんがくしゃ",
+      "meaning": "scholar of literature; literary person"
+    },
+    {
+      "type": "kanji",
+      "character": "文楽",
+      "romaji": "ぶんらく",
+      "meaning": "bunraku; Japanese puppet theatre (theater)"
+    },
+    {
+      "type": "kanji",
+      "character": "文句",
+      "romaji": "もんく",
+      "meaning": "complaint; grumbling"
+    },
+    {
+      "type": "kanji",
+      "character": "文系",
+      "romaji": "ぶんけい",
+      "meaning": "humanities, social sciences, and fine arts; liberal arts"
+    },
+    {
+      "type": "kanji",
+      "character": "文芸",
+      "romaji": "ぶんげい",
+      "meaning": "literature"
+    },
+    {
+      "type": "kanji",
+      "character": "文献",
+      "romaji": "ぶんけん",
+      "meaning": "literature; books (reference)"
+    },
+    {
+      "type": "kanji",
+      "character": "文庫",
+      "romaji": "ぶんこ",
+      "meaning": "library; book collection"
+    },
+    {
+      "type": "kanji",
+      "character": "文語",
+      "romaji": "ぶんご",
+      "meaning": "written language; literary language"
+    },
+    {
+      "type": "kanji",
+      "character": "文字",
+      "romaji": "もじ",
+      "meaning": "letter (of an alphabet); character"
+    }
+  ]
+}

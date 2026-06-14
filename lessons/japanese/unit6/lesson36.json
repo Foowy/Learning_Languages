@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 36,
+  "title": "JLPT N2/N1 Kanji — Part 36",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "砲",
+      "romaji": "ホウ",
+      "meaning": "cannon; gun"
+    },
+    {
+      "type": "kanji",
+      "character": "噴",
+      "romaji": "フン / ふ.く",
+      "meaning": "erupt; spout; emit"
+    },
+    {
+      "type": "kanji",
+      "character": "誇",
+      "romaji": "コ / ほこ.る",
+      "meaning": "boast; be proud; pride"
+    },
+    {
+      "type": "kanji",
+      "character": "祥",
+      "romaji": "ショウ / さいわ.い・きざ.し・よ.い・つまび.らか",
+      "meaning": "auspicious; happiness; blessedness"
+    },
+    {
+      "type": "kanji",
+      "character": "牲",
+      "romaji": "セイ",
+      "meaning": "animal sacrifice; offering"
+    },
+    {
+      "type": "kanji",
+      "character": "秩",
+      "romaji": "チツ",
+      "meaning": "regularity; salary; order"
+    },
+    {
+      "type": "kanji",
+      "character": "帝",
+      "romaji": "テイ / みかど",
+      "meaning": "sovereign; the emperor; god"
+    },
+    {
+      "type": "kanji",
+      "character": "宏",
+      "romaji": "コウ / ひろ.い",
+      "meaning": "wide; large"
+    },
+    {
+      "type": "kanji",
+      "character": "唆",
+      "romaji": "サ / そそ.る・そそのか.す",
+      "meaning": "tempt; seduce; instigate"
+    },
+    {
+      "type": "kanji",
+      "character": "阻",
+      "romaji": "ソ / はば.む",
+      "meaning": "thwart; separate from; prevent"
+    }
+  ]
+}

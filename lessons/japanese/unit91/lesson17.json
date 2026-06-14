@@ -1,0 +1,67 @@
+{
+  "unit": 91,
+  "lesson": 17,
+  "title": "Vocabulary — Frequency 16961–16970",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "未熟児",
+      "romaji": "みじゅくじ",
+      "meaning": "premature baby"
+    },
+    {
+      "type": "kanji",
+      "character": "未遂",
+      "romaji": "みすい",
+      "meaning": "failed attempt (at a crime, suicide, etc.)"
+    },
+    {
+      "type": "kanji",
+      "character": "未成年者",
+      "romaji": "みせいねんしゃ",
+      "meaning": "minor; underage person"
+    },
+    {
+      "type": "kanji",
+      "character": "未然",
+      "romaji": "みぜん",
+      "meaning": "before it happens; previously"
+    },
+    {
+      "type": "kanji",
+      "character": "未知",
+      "romaji": "みち",
+      "meaning": "not yet known; unknown"
+    },
+    {
+      "type": "kanji",
+      "character": "未知数",
+      "romaji": "みちすう",
+      "meaning": "(an) unknown; unknown number"
+    },
+    {
+      "type": "kanji",
+      "character": "未定",
+      "romaji": "みてい",
+      "meaning": "not yet fixed; undecided"
+    },
+    {
+      "type": "kanji",
+      "character": "未納",
+      "romaji": "みのう",
+      "meaning": "payment default; overdue on a payment"
+    },
+    {
+      "type": "kanji",
+      "character": "未発表",
+      "romaji": "みはっぴょう",
+      "meaning": "unpublished; unreleased"
+    },
+    {
+      "type": "kanji",
+      "character": "未払い",
+      "romaji": "みはらい",
+      "meaning": "unpaid; overdue"
+    }
+  ]
+}

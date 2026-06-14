@@ -1,0 +1,67 @@
+{
+  "unit": 7,
+  "lesson": 2,
+  "title": "Vocabulary — Frequency 11–20",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "あの方",
+      "romaji": "あのかた",
+      "meaning": "that gentleman; that lady"
+    },
+    {
+      "type": "kana",
+      "character": "あべこべ",
+      "romaji": "あべこべ",
+      "meaning": "contrary; opposite"
+    },
+    {
+      "type": "kana",
+      "character": "あやふや",
+      "romaji": "あやふや",
+      "meaning": "uncertain; indefinite"
+    },
+    {
+      "type": "kana",
+      "character": "あら",
+      "romaji": "あら",
+      "meaning": "oh!; ah!"
+    },
+    {
+      "type": "kanji",
+      "character": "彼",
+      "romaji": "あれ",
+      "meaning": "that; that thing"
+    },
+    {
+      "type": "kana",
+      "character": "あんな",
+      "romaji": "あんな",
+      "meaning": "that sort of; that kind of"
+    },
+    {
+      "type": "kanji",
+      "character": "否々",
+      "romaji": "いやいや",
+      "meaning": "no!; no no!"
+    },
+    {
+      "type": "kanji",
+      "character": "如何にも",
+      "romaji": "いかにも",
+      "meaning": "indeed; really"
+    },
+    {
+      "type": "kanji",
+      "character": "行けない",
+      "romaji": "いけない",
+      "meaning": "bad; wrong"
+    },
+    {
+      "type": "kana",
+      "character": "いざこざ",
+      "romaji": "いざこざ",
+      "meaning": "trouble; quarrel"
+    }
+  ]
+}

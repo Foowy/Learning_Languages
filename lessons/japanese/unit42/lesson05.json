@@ -1,0 +1,67 @@
+{
+  "unit": 42,
+  "lesson": 5,
+  "title": "Vocabulary — Frequency 7041–7050",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "供える",
+      "romaji": "そなえる",
+      "meaning": "to offer; to sacrifice"
+    },
+    {
+      "type": "kanji",
+      "character": "供給",
+      "romaji": "きょうきゅう",
+      "meaning": "supply; provision"
+    },
+    {
+      "type": "kanji",
+      "character": "供出",
+      "romaji": "きょうしゅつ",
+      "meaning": "obligatory supply (of goods to the government, e.g. during wartime); delivery (to the government at a fixed price, e.g. of rice)"
+    },
+    {
+      "type": "kanji",
+      "character": "供述",
+      "romaji": "きょうじゅつ",
+      "meaning": "affidavit; deposition"
+    },
+    {
+      "type": "kanji",
+      "character": "供物",
+      "romaji": "くもつ",
+      "meaning": "offering (e.g. to the gods); votive offering"
+    },
+    {
+      "type": "kanji",
+      "character": "供与",
+      "romaji": "きょうよ",
+      "meaning": "giving; provision"
+    },
+    {
+      "type": "kanji",
+      "character": "供養",
+      "romaji": "くよう",
+      "meaning": "memorial service for the dead; holding a service"
+    },
+    {
+      "type": "kanji",
+      "character": "競う",
+      "romaji": "きそう",
+      "meaning": "to compete; to contend"
+    },
+    {
+      "type": "kanji",
+      "character": "競る",
+      "romaji": "せる",
+      "meaning": "to compete"
+    },
+    {
+      "type": "kanji",
+      "character": "競泳",
+      "romaji": "きょうえい",
+      "meaning": "competitive swimming; swimming race"
+    }
+  ]
+}

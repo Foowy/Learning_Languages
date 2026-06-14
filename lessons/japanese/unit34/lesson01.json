@@ -1,0 +1,67 @@
+{
+  "unit": 34,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 5401–5410",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "音符",
+      "romaji": "おんぷ",
+      "meaning": "musical note; note symbol"
+    },
+    {
+      "type": "kanji",
+      "character": "音量",
+      "romaji": "おんりょう",
+      "meaning": "volume (sound)"
+    },
+    {
+      "type": "kanji",
+      "character": "下",
+      "romaji": "した",
+      "meaning": "below; down"
+    },
+    {
+      "type": "kanji",
+      "character": "下がる",
+      "romaji": "さがる",
+      "meaning": "to come down; to go down"
+    },
+    {
+      "type": "kanji",
+      "character": "下げる",
+      "romaji": "さげる",
+      "meaning": "to hang; to suspend"
+    },
+    {
+      "type": "kanji",
+      "character": "下さい",
+      "romaji": "ください",
+      "meaning": "please (give me)"
+    },
+    {
+      "type": "kanji",
+      "character": "下さる",
+      "romaji": "くださる",
+      "meaning": "to give; to confer"
+    },
+    {
+      "type": "kanji",
+      "character": "下す",
+      "romaji": "くだす",
+      "meaning": "to make a decision; to draw a conclusion"
+    },
+    {
+      "type": "kanji",
+      "character": "下っ腹",
+      "romaji": "したっぱら",
+      "meaning": "abdomen; stomach"
+    },
+    {
+      "type": "kanji",
+      "character": "下らない",
+      "romaji": "くだらない",
+      "meaning": "trivial; trifling"
+    }
+  ]
+}

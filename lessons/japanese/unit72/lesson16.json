@@ -1,0 +1,67 @@
+{
+  "unit": 72,
+  "lesson": 16,
+  "title": "Vocabulary — Frequency 13151–13160",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "袋",
+      "romaji": "ふくろ",
+      "meaning": "bag; sack"
+    },
+    {
+      "type": "kanji",
+      "character": "袋小路",
+      "romaji": "ふくろこうじ",
+      "meaning": "blind alley; cul-de-sac"
+    },
+    {
+      "type": "kanji",
+      "character": "貸し",
+      "romaji": "かし",
+      "meaning": "loan; lending"
+    },
+    {
+      "type": "kanji",
+      "character": "貸し出す",
+      "romaji": "かしだす",
+      "meaning": "to lend; to loan"
+    },
+    {
+      "type": "kanji",
+      "character": "貸付",
+      "romaji": "かしつけ",
+      "meaning": "loan"
+    },
+    {
+      "type": "kanji",
+      "character": "貸す",
+      "romaji": "かす",
+      "meaning": "to lend; to loan"
+    },
+    {
+      "type": "kanji",
+      "character": "貸家",
+      "romaji": "かしや",
+      "meaning": "house for rent"
+    },
+    {
+      "type": "kanji",
+      "character": "貸借",
+      "romaji": "たいしゃく",
+      "meaning": "loan; debit and credit"
+    },
+    {
+      "type": "kanji",
+      "character": "貸与",
+      "romaji": "たいよ",
+      "meaning": "loan; lending"
+    },
+    {
+      "type": "kanji",
+      "character": "引き時",
+      "romaji": "ひきどき",
+      "meaning": "(good) time to quit; (right) time to withdraw"
+    }
+  ]
+}

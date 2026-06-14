@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 3,
+  "title": "HSK 5 Vocabulary — Part 3",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "保存",
+      "romaji": "bǎo cún",
+      "meaning": "to conserve; to preserve; to keep; to save (a file etc) (computing)"
+    },
+    {
+      "type": "hanzi",
+      "character": "保留",
+      "romaji": "bǎo liú",
+      "meaning": "to retain; to continue to have; to preserve; to maintain; to reserve; reservations; to hold back (approval or acceptance)"
+    },
+    {
+      "type": "hanzi",
+      "character": "保险",
+      "romaji": "bǎo xiǎn",
+      "meaning": "insurance; to insure; safe; secure; be sure; be bound to; CL:份[fèn]"
+    },
+    {
+      "type": "hanzi",
+      "character": "报告",
+      "romaji": "bào gào",
+      "meaning": "to inform; to report; to make known; speech; talk; lecture; CL:篇; 份; 個|个; 通[tòng]"
+    },
+    {
+      "type": "hanzi",
+      "character": "悲观",
+      "romaji": "bēi guān",
+      "meaning": "pessimistic"
+    },
+    {
+      "type": "hanzi",
+      "character": "被子",
+      "romaji": "bèi zi",
+      "meaning": "quilt; CL:床[chuáng]"
+    },
+    {
+      "type": "hanzi",
+      "character": "背",
+      "romaji": "bèi",
+      "meaning": "the back of a body or object; to turn one's back; to hide something from; to learn by heart; to recite from memory; unlucky (slang); hard of hearing"
+    },
+    {
+      "type": "hanzi",
+      "character": "背景",
+      "romaji": "bèi jǐng",
+      "meaning": "background; backdrop; context; CL:種|种[zhǒng]"
+    },
+    {
+      "type": "hanzi",
+      "character": "本科",
+      "romaji": "běn kē",
+      "meaning": "undergraduate course; undergraduate (adjective)"
+    },
+    {
+      "type": "hanzi",
+      "character": "本领",
+      "romaji": "běn lǐng",
+      "meaning": "skill; ability; capability; CL:項|项; 個|个[gè]"
+    }
+  ]
+}

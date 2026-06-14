@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 29,
+  "title": "JLPT N3 Kanji — Part 29",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "省",
+      "romaji": "セイ・ショウ / かえり.みる・はぶ.く",
+      "meaning": "government ministry; conserve; omit"
+    },
+    {
+      "type": "kanji",
+      "character": "旧",
+      "romaji": "キュウ / ふる.い・もと",
+      "meaning": "old times; old things; old friend"
+    },
+    {
+      "type": "kanji",
+      "character": "橋",
+      "romaji": "キョウ / はし",
+      "meaning": "bridge"
+    },
+    {
+      "type": "kanji",
+      "character": "岸",
+      "romaji": "ガン / きし",
+      "meaning": "beach"
+    },
+    {
+      "type": "kanji",
+      "character": "客",
+      "romaji": "キャク・カク",
+      "meaning": "guest; visitor; customer"
+    },
+    {
+      "type": "kanji",
+      "character": "否",
+      "romaji": "ヒ / いな・いや",
+      "meaning": "negate; no; noes"
+    },
+    {
+      "type": "kanji",
+      "character": "周",
+      "romaji": "シュウ / まわ.り",
+      "meaning": "circumference; circuit; lap"
+    },
+    {
+      "type": "kanji",
+      "character": "師",
+      "romaji": "シ / いくさ",
+      "meaning": "expert; teacher; master"
+    },
+    {
+      "type": "kanji",
+      "character": "材",
+      "romaji": "ザイ",
+      "meaning": "lumber; log; timber"
+    },
+    {
+      "type": "kanji",
+      "character": "登",
+      "romaji": "トウ・ト・ドウ・ショウ・チョウ / のぼ.る・あ.がる",
+      "meaning": "ascend; climb up"
+    }
+  ]
+}

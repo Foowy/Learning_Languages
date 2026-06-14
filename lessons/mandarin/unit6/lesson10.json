@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 10,
+  "title": "HSK 6 Vocabulary — Part 10",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "本身",
+      "romaji": "běn shēn",
+      "meaning": "itself; in itself; per se"
+    },
+    {
+      "type": "hanzi",
+      "character": "本事",
+      "romaji": "běn shi",
+      "meaning": "ability; skill"
+    },
+    {
+      "type": "hanzi",
+      "character": "本着",
+      "romaji": "běn zhe",
+      "meaning": "based on...; in conformance with..; taking as one's main principle"
+    },
+    {
+      "type": "hanzi",
+      "character": "笨拙",
+      "romaji": "bèn zhuō",
+      "meaning": "clumsy; awkward; stupid"
+    },
+    {
+      "type": "hanzi",
+      "character": "崩溃",
+      "romaji": "bēng kuì",
+      "meaning": "to collapse; to crumble; to fall apart"
+    },
+    {
+      "type": "hanzi",
+      "character": "甭",
+      "romaji": "béng",
+      "meaning": "need not; (contraction of 不 and 用)"
+    },
+    {
+      "type": "hanzi",
+      "character": "蹦",
+      "romaji": "bèng",
+      "meaning": "to jump; to bounce; to hop"
+    },
+    {
+      "type": "hanzi",
+      "character": "迸发",
+      "romaji": "bèng fā",
+      "meaning": "to burst forth"
+    },
+    {
+      "type": "hanzi",
+      "character": "逼迫",
+      "romaji": "bī pò",
+      "meaning": "to force; to compel; to coerce"
+    },
+    {
+      "type": "hanzi",
+      "character": "鼻涕",
+      "romaji": "bí tì",
+      "meaning": "nasal mucus; snivel"
+    }
+  ]
+}

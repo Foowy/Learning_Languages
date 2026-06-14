@@ -1,0 +1,67 @@
+{
+  "unit": 72,
+  "lesson": 5,
+  "title": "Vocabulary — Frequency 13041–13050",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "妥結",
+      "romaji": "だけつ",
+      "meaning": "settlement; an agreement"
+    },
+    {
+      "type": "kanji",
+      "character": "妥当",
+      "romaji": "だとう",
+      "meaning": "valid; proper"
+    },
+    {
+      "type": "kanji",
+      "character": "惰性",
+      "romaji": "だせい",
+      "meaning": "force of habit"
+    },
+    {
+      "type": "kanji",
+      "character": "打ち込み",
+      "romaji": "うちこみ",
+      "meaning": "driving; pounding in"
+    },
+    {
+      "type": "kanji",
+      "character": "打ち出す",
+      "romaji": "うちだす",
+      "meaning": "to emboss"
+    },
+    {
+      "type": "kanji",
+      "character": "打ち上げ",
+      "romaji": "うちあげ",
+      "meaning": "launch (of a rocket, satellite, etc.); lift-off"
+    },
+    {
+      "type": "kanji",
+      "character": "打ち上げる",
+      "romaji": "うちあげる",
+      "meaning": "to launch; to shoot up"
+    },
+    {
+      "type": "kanji",
+      "character": "打ち切る",
+      "romaji": "うちきる",
+      "meaning": "to stop; to abort"
+    },
+    {
+      "type": "kanji",
+      "character": "打つ",
+      "romaji": "うつ",
+      "meaning": "to hit; to strike"
+    },
+    {
+      "type": "kanji",
+      "character": "打つ",
+      "romaji": "ぶつ",
+      "meaning": "to hit (someone); to strike"
+    }
+  ]
+}

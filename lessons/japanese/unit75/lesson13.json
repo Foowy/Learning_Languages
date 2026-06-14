@@ -1,0 +1,67 @@
+{
+  "unit": 75,
+  "lesson": 13,
+  "title": "Vocabulary — Frequency 13721–13730",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "抽象",
+      "romaji": "ちゅうしょう",
+      "meaning": "abstraction"
+    },
+    {
+      "type": "kanji",
+      "character": "抽象的",
+      "romaji": "ちゅうしょうてき",
+      "meaning": "abstract"
+    },
+    {
+      "type": "kanji",
+      "character": "抽選",
+      "romaji": "ちゅうせん",
+      "meaning": "lottery; raffle"
+    },
+    {
+      "type": "kanji",
+      "character": "昼",
+      "romaji": "ひる",
+      "meaning": "noon; midday"
+    },
+    {
+      "type": "kanji",
+      "character": "昼下がり",
+      "romaji": "ひるさがり",
+      "meaning": "early afternoon"
+    },
+    {
+      "type": "kanji",
+      "character": "昼過ぎ",
+      "romaji": "ひるすぎ",
+      "meaning": "just past noon; afternoon"
+    },
+    {
+      "type": "kanji",
+      "character": "昼休み",
+      "romaji": "ひるやすみ",
+      "meaning": "lunch break; noon recess"
+    },
+    {
+      "type": "kanji",
+      "character": "昼寝",
+      "romaji": "ひるね",
+      "meaning": "(afternoon) nap; sleeping during the day"
+    },
+    {
+      "type": "kanji",
+      "character": "昼前",
+      "romaji": "ひるまえ",
+      "meaning": "morning; forenoon"
+    },
+    {
+      "type": "kanji",
+      "character": "昼飯",
+      "romaji": "ひるめし",
+      "meaning": "lunch; midday meal"
+    }
+  ]
+}

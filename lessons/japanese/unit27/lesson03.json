@@ -1,0 +1,67 @@
+{
+  "unit": 27,
+  "lesson": 3,
+  "title": "Vocabulary — Frequency 4021–4030",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "メディカルエンジニアリング",
+      "romaji": "メディカルエンジニアリング",
+      "meaning": "medical engineering"
+    },
+    {
+      "type": "kana",
+      "character": "メトリック",
+      "romaji": "メトリック",
+      "meaning": "metric"
+    },
+    {
+      "type": "kana",
+      "character": "メトロ",
+      "romaji": "メトロ",
+      "meaning": "metro; subway"
+    },
+    {
+      "type": "kana",
+      "character": "メトロノーム",
+      "romaji": "メトロノーム",
+      "meaning": "metronome"
+    },
+    {
+      "type": "kana",
+      "character": "メトロポリタン",
+      "romaji": "メトロポリタン",
+      "meaning": "metropolitan"
+    },
+    {
+      "type": "kana",
+      "character": "メドレー",
+      "romaji": "メドレー",
+      "meaning": "medley"
+    },
+    {
+      "type": "kana",
+      "character": "メドレーリレー",
+      "romaji": "メドレーリレー",
+      "meaning": "medley relay (swimming)"
+    },
+    {
+      "type": "kana",
+      "character": "メニュー",
+      "romaji": "メニュー",
+      "meaning": "menu"
+    },
+    {
+      "type": "kana",
+      "character": "メモ",
+      "romaji": "メモ",
+      "meaning": "note; memo"
+    },
+    {
+      "type": "kana",
+      "character": "メモリー",
+      "romaji": "メモリー",
+      "meaning": "memory"
+    }
+  ]
+}

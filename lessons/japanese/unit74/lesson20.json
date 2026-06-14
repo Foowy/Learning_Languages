@@ -1,0 +1,67 @@
+{
+  "unit": 74,
+  "lesson": 20,
+  "title": "Vocabulary — Frequency 13591–13600",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "遅らす",
+      "romaji": "おくらす",
+      "meaning": "to delay; to postpone"
+    },
+    {
+      "type": "kanji",
+      "character": "遅れ",
+      "romaji": "おくれ",
+      "meaning": "delay; lag"
+    },
+    {
+      "type": "kanji",
+      "character": "遅延",
+      "romaji": "ちえん",
+      "meaning": "delay; latency"
+    },
+    {
+      "type": "kanji",
+      "character": "遅刻",
+      "romaji": "ちこく",
+      "meaning": "lateness; tardiness"
+    },
+    {
+      "type": "kanji",
+      "character": "遅咲き",
+      "romaji": "おそざき",
+      "meaning": "blooming late; flowering late"
+    },
+    {
+      "type": "kanji",
+      "character": "遅滞",
+      "romaji": "ちたい",
+      "meaning": "delay; procrastination"
+    },
+    {
+      "type": "kanji",
+      "character": "遅配",
+      "romaji": "ちはい",
+      "meaning": "delay (in payment, delivery, rationing, etc.)"
+    },
+    {
+      "type": "kanji",
+      "character": "築き上げる",
+      "romaji": "きずきあげる",
+      "meaning": "to build; to construct"
+    },
+    {
+      "type": "kanji",
+      "character": "築く",
+      "romaji": "きずく",
+      "meaning": "to build; to construct"
+    },
+    {
+      "type": "kanji",
+      "character": "築山",
+      "romaji": "つきやま",
+      "meaning": "artificial hill (in a garden)"
+    }
+  ]
+}

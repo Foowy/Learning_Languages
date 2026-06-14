@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 55,
+  "title": "JLPT N3 Kanji — Part 55",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "贈",
+      "romaji": "ゾウ・ソウ / おく.る",
+      "meaning": "presents; send; give to"
+    },
+    {
+      "type": "kanji",
+      "character": "照",
+      "romaji": "ショウ / て.る・て.らす・て.れる",
+      "meaning": "illuminate; shine; compare"
+    },
+    {
+      "type": "kanji",
+      "character": "宙",
+      "romaji": "チュウ",
+      "meaning": "mid-air; air; space"
+    },
+    {
+      "type": "kanji",
+      "character": "酒",
+      "romaji": "シュ / さけ・さか-",
+      "meaning": "sake; alcohol"
+    },
+    {
+      "type": "kanji",
+      "character": "薄",
+      "romaji": "ハク / うす.い・うす-・-うす・うす.める・うす.まる・うす.らぐ・うす.ら-・うす.れる・すすき",
+      "meaning": "dilute; thin; weak (tea)"
+    },
+    {
+      "type": "kanji",
+      "character": "群",
+      "romaji": "グン / む.れる・む.れ・むら・むら.がる",
+      "meaning": "flock; group; crowd"
+    },
+    {
+      "type": "kanji",
+      "character": "悲",
+      "romaji": "ヒ / かな.しい・かな.しむ",
+      "meaning": "grieve; sad; deplore"
+    },
+    {
+      "type": "kanji",
+      "character": "秒",
+      "romaji": "ビョウ",
+      "meaning": "second (1/60 minute)"
+    },
+    {
+      "type": "kanji",
+      "character": "操",
+      "romaji": "ソウ・サン / みさお・あやつ.る",
+      "meaning": "maneuver; manipulate; operate"
+    },
+    {
+      "type": "kanji",
+      "character": "奥",
+      "romaji": "オウ / おく・おく.まる・くま",
+      "meaning": "heart; interior"
+    }
+  ]
+}

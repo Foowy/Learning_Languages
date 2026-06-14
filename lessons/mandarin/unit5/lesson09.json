@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 9,
+  "title": "HSK 5 Vocabulary — Part 9",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "操场",
+      "romaji": "cāo chǎng",
+      "meaning": "playground; sports field; drill ground; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "操心",
+      "romaji": "cāo xīn",
+      "meaning": "to worry about"
+    },
+    {
+      "type": "hanzi",
+      "character": "册",
+      "romaji": "cè",
+      "meaning": "book; booklet; classifier for books"
+    },
+    {
+      "type": "hanzi",
+      "character": "测验",
+      "romaji": "cè yàn",
+      "meaning": "test; to test; CL:次; 個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "厕所",
+      "romaji": "cè suǒ",
+      "meaning": "toilet; lavatory; CL:間|间; 處|处[chù]"
+    },
+    {
+      "type": "hanzi",
+      "character": "曾经",
+      "romaji": "céng jīng",
+      "meaning": "once; already; former; previously; ever; (past tense marker used before verb or clause)"
+    },
+    {
+      "type": "hanzi",
+      "character": "插",
+      "romaji": "chā",
+      "meaning": "to insert; stick in; pierce; to take part in; to interfere; to interpose"
+    },
+    {
+      "type": "hanzi",
+      "character": "差别",
+      "romaji": "chā bié",
+      "meaning": "difference; distinction; diversity; disparity"
+    },
+    {
+      "type": "hanzi",
+      "character": "叉子",
+      "romaji": "chā zi",
+      "meaning": "fork; CL:把[bǎ]"
+    },
+    {
+      "type": "hanzi",
+      "character": "拆",
+      "romaji": "chāi",
+      "meaning": "to tear open; to tear down; to tear apart; to open"
+    }
+  ]
+}

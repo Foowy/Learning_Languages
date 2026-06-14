@@ -1,0 +1,67 @@
+{
+  "unit": 9,
+  "lesson": 16,
+  "title": "Vocabulary — Frequency 551–560",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "アニメーション",
+      "romaji": "アニメーション",
+      "meaning": "animation; animated film"
+    },
+    {
+      "type": "kana",
+      "character": "アバウト",
+      "romaji": "アバウト",
+      "meaning": "approximate (number); rough (calculation)"
+    },
+    {
+      "type": "kana",
+      "character": "アパート",
+      "romaji": "アパート",
+      "meaning": "apartment building; apartment block"
+    },
+    {
+      "type": "kana",
+      "character": "アピール",
+      "romaji": "アピール",
+      "meaning": "appeal (e.g. for peace); plea"
+    },
+    {
+      "type": "kana",
+      "character": "アフター",
+      "romaji": "アフター",
+      "meaning": "after"
+    },
+    {
+      "type": "kana",
+      "character": "アフタヌーン",
+      "romaji": "アフタヌーン",
+      "meaning": "afternoon"
+    },
+    {
+      "type": "kana",
+      "character": "アプリ",
+      "romaji": "アプリ",
+      "meaning": "app; application"
+    },
+    {
+      "type": "kana",
+      "character": "アプリケーション",
+      "romaji": "アプリケーション",
+      "meaning": "application; application software"
+    },
+    {
+      "type": "kana",
+      "character": "アプローチ",
+      "romaji": "アプローチ",
+      "meaning": "approach (to a problem, issue, etc.)"
+    },
+    {
+      "type": "kana",
+      "character": "アベック",
+      "romaji": "アベック",
+      "meaning": "(romantic) couple"
+    }
+  ]
+}

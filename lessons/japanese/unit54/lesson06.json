@@ -1,0 +1,67 @@
+{
+  "unit": 54,
+  "lesson": 6,
+  "title": "Vocabulary — Frequency 9451–9460",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "仕様",
+      "romaji": "しよう",
+      "meaning": "way; method"
+    },
+    {
+      "type": "kanji",
+      "character": "仕様がない",
+      "romaji": "しょうがない",
+      "meaning": "there's no (other) way"
+    },
+    {
+      "type": "kanji",
+      "character": "仕立て",
+      "romaji": "したて",
+      "meaning": "tailoring; sewing"
+    },
+    {
+      "type": "kanji",
+      "character": "仕立てる",
+      "romaji": "したてる",
+      "meaning": "to tailor; to make (clothing)"
+    },
+    {
+      "type": "kanji",
+      "character": "伺う",
+      "romaji": "うかがう",
+      "meaning": "to call on someone; to call at a place"
+    },
+    {
+      "type": "kanji",
+      "character": "使い",
+      "romaji": "つかい",
+      "meaning": "errand; mission"
+    },
+    {
+      "type": "kanji",
+      "character": "使い道",
+      "romaji": "つかいみち",
+      "meaning": "purpose; utility"
+    },
+    {
+      "type": "kanji",
+      "character": "使い分け",
+      "romaji": "つかいわけ",
+      "meaning": "proper use; using (different things) for different purposes"
+    },
+    {
+      "type": "kanji",
+      "character": "使い方",
+      "romaji": "つかいかた",
+      "meaning": "way of using (something); way to use"
+    },
+    {
+      "type": "kanji",
+      "character": "使う",
+      "romaji": "つかう",
+      "meaning": "to use (a tool, method, etc.); to make use of"
+    }
+  ]
+}

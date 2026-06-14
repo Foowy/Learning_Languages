@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 72,
+  "title": "JLPT N3 Kanji — Part 72",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "粒",
+      "romaji": "リュウ / つぶ",
+      "meaning": "grains; drop; counter for tiny particles"
+    },
+    {
+      "type": "kanji",
+      "character": "詞",
+      "romaji": "シ / ことば",
+      "meaning": "part of speech; words; poetry"
+    },
+    {
+      "type": "kanji",
+      "character": "偉",
+      "romaji": "イ / えら.い",
+      "meaning": "admirable; greatness; remarkable"
+    },
+    {
+      "type": "kanji",
+      "character": "胃",
+      "romaji": "イ",
+      "meaning": "stomach; paunch; crop"
+    },
+    {
+      "type": "kanji",
+      "character": "畳",
+      "romaji": "ジョウ・チョウ / たた.む・たたみ・かさ.なる",
+      "meaning": "tatami mat; counter for tatami mats; fold"
+    },
+    {
+      "type": "kanji",
+      "character": "机",
+      "romaji": "キ / つくえ",
+      "meaning": "desk; table"
+    },
+    {
+      "type": "kanji",
+      "character": "膚",
+      "romaji": "フ / はだ",
+      "meaning": "skin; body; grain"
+    },
+    {
+      "type": "kanji",
+      "character": "濯",
+      "romaji": "タク / すす.ぐ・ゆす.ぐ",
+      "meaning": "laundry; wash; pour on"
+    },
+    {
+      "type": "kanji",
+      "character": "猫",
+      "romaji": "ビョウ / ねこ",
+      "meaning": "cat"
+    },
+    {
+      "type": "kanji",
+      "character": "塔",
+      "romaji": "トウ",
+      "meaning": "pagoda; tower; steeple"
+    }
+  ]
+}

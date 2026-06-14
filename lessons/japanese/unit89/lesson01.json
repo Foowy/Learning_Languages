@@ -1,0 +1,67 @@
+{
+  "unit": 89,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 16401–16410",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "変わらない",
+      "romaji": "かわらない",
+      "meaning": "constant; invariant"
+    },
+    {
+      "type": "kanji",
+      "character": "変わり",
+      "romaji": "かわり",
+      "meaning": "change; alteration"
+    },
+    {
+      "type": "kanji",
+      "character": "変わる",
+      "romaji": "かわる",
+      "meaning": "to change; to be transformed"
+    },
+    {
+      "type": "kanji",
+      "character": "変移",
+      "romaji": "へんい",
+      "meaning": "change; alteration"
+    },
+    {
+      "type": "kanji",
+      "character": "変化",
+      "romaji": "へんか",
+      "meaning": "change; variation"
+    },
+    {
+      "type": "kanji",
+      "character": "変化球",
+      "romaji": "へんかきゅう",
+      "meaning": "breaking ball (pitch); curve ball"
+    },
+    {
+      "type": "kanji",
+      "character": "変革",
+      "romaji": "へんかく",
+      "meaning": "change; transformation"
+    },
+    {
+      "type": "kanji",
+      "character": "変換",
+      "romaji": "へんかん",
+      "meaning": "change; conversion"
+    },
+    {
+      "type": "kanji",
+      "character": "変形",
+      "romaji": "へんけい",
+      "meaning": "transformation; variation"
+    },
+    {
+      "type": "kanji",
+      "character": "変更",
+      "romaji": "へんこう",
+      "meaning": "change; modification"
+    }
+  ]
+}

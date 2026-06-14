@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 2,
+  "title": "JLPT N2/N1 Kanji — Part 2",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "証",
+      "romaji": "ショウ / あかし",
+      "meaning": "evidence; proof; certificate"
+    },
+    {
+      "type": "kanji",
+      "character": "援",
+      "romaji": "エン",
+      "meaning": "abet; help; save"
+    },
+    {
+      "type": "kanji",
+      "character": "施",
+      "romaji": "シ・セ / ほどこ.す",
+      "meaning": "give; bestow; perform"
+    },
+    {
+      "type": "kanji",
+      "character": "井",
+      "romaji": "セイ・ショウ / い",
+      "meaning": "well; well crib; town"
+    },
+    {
+      "type": "kanji",
+      "character": "護",
+      "romaji": "ゴ / まも.る",
+      "meaning": "safeguard; protect"
+    },
+    {
+      "type": "kanji",
+      "character": "態",
+      "romaji": "タイ / わざ.と",
+      "meaning": "attitude; condition; figure"
+    },
+    {
+      "type": "kanji",
+      "character": "鮮",
+      "romaji": "セン / あざ.やか",
+      "meaning": "fresh; vivid; clear"
+    },
+    {
+      "type": "kanji",
+      "character": "視",
+      "romaji": "シ / み.る",
+      "meaning": "inspection; regard as; see"
+    },
+    {
+      "type": "kanji",
+      "character": "幹",
+      "romaji": "カン / みき",
+      "meaning": "tree trunk; main part; talent"
+    },
+    {
+      "type": "kanji",
+      "character": "宮",
+      "romaji": "キュウ・グウ・ク・クウ / みや",
+      "meaning": "Shinto shrine; constellations; palace"
+    }
+  ]
+}

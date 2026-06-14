@@ -1,0 +1,67 @@
+{
+  "unit": 65,
+  "lesson": 4,
+  "title": "Vocabulary — Frequency 11631–11640",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "辛苦",
+      "romaji": "しんく",
+      "meaning": "hardship; toil"
+    },
+    {
+      "type": "kanji",
+      "character": "辛酸",
+      "romaji": "しんさん",
+      "meaning": "hardships; privation"
+    },
+    {
+      "type": "kanji",
+      "character": "辛勝",
+      "romaji": "しんしょう",
+      "meaning": "narrow victory"
+    },
+    {
+      "type": "kanji",
+      "character": "辛抱",
+      "romaji": "しんぼう",
+      "meaning": "patience; endurance"
+    },
+    {
+      "type": "kanji",
+      "character": "進み",
+      "romaji": "すすみ",
+      "meaning": "progress"
+    },
+    {
+      "type": "kanji",
+      "character": "進む",
+      "romaji": "すすむ",
+      "meaning": "to advance; to go forward"
+    },
+    {
+      "type": "kanji",
+      "character": "進める",
+      "romaji": "すすめる",
+      "meaning": "to advance; to move forward"
+    },
+    {
+      "type": "kanji",
+      "character": "進化",
+      "romaji": "しんか",
+      "meaning": "evolution"
+    },
+    {
+      "type": "kanji",
+      "character": "進学",
+      "romaji": "しんがく",
+      "meaning": "advancing to the next stage of education; going on to (high school, college, etc.)"
+    },
+    {
+      "type": "kanji",
+      "character": "進級",
+      "romaji": "しんきゅう",
+      "meaning": "promotion (school, military, etc.)"
+    }
+  ]
+}

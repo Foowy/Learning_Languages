@@ -1,0 +1,61 @@
+{
+  "unit": 3,
+  "lesson": 30,
+  "title": "HSK 3 Vocabulary — Part 30",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "主要",
+      "romaji": "zhǔ yào",
+      "meaning": "main; principal; major; primary"
+    },
+    {
+      "type": "hanzi",
+      "character": "祝",
+      "romaji": "zhù",
+      "meaning": "to wish; to express good wishes; to pray; (old) wizard"
+    },
+    {
+      "type": "hanzi",
+      "character": "注意",
+      "romaji": "zhù yì",
+      "meaning": "to take note of; to pay attention to"
+    },
+    {
+      "type": "hanzi",
+      "character": "字典",
+      "romaji": "zì diǎn",
+      "meaning": "dictionary; character dictionary; CL:本[běn]"
+    },
+    {
+      "type": "hanzi",
+      "character": "自己",
+      "romaji": "zì jǐ",
+      "meaning": "oneself; one's own"
+    },
+    {
+      "type": "hanzi",
+      "character": "总是",
+      "romaji": "zǒng shì",
+      "meaning": "always"
+    },
+    {
+      "type": "hanzi",
+      "character": "最近",
+      "romaji": "zuì jìn",
+      "meaning": "recent; recently; these days; latest; soon; nearest (of locations); shortest (of routes)"
+    },
+    {
+      "type": "hanzi",
+      "character": "作业",
+      "romaji": "zuò yè",
+      "meaning": "school assignment; homework; work; task; operation; CL:個|个[gè]; to operate"
+    },
+    {
+      "type": "hanzi",
+      "character": "作用",
+      "romaji": "zuò yòng",
+      "meaning": "to act on; to affect; action; function; activity; impact; result; effect; purpose; intent; to play a role; corresponds to English -ity; -ism; -ization; CL:個|个[gè]"
+    }
+  ]
+}

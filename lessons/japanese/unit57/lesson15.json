@@ -1,0 +1,67 @@
+{
+  "unit": 57,
+  "lesson": 15,
+  "title": "Vocabulary — Frequency 10141–10150",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "遮る",
+      "romaji": "さえぎる",
+      "meaning": "to interrupt; to obstruct (a view, someone's way, etc.)"
+    },
+    {
+      "type": "kanji",
+      "character": "遮断",
+      "romaji": "しゃだん",
+      "meaning": "isolation; cut off"
+    },
+    {
+      "type": "kanji",
+      "character": "蛇",
+      "romaji": "へび",
+      "meaning": "snake"
+    },
+    {
+      "type": "kanji",
+      "character": "蛇の目",
+      "romaji": "じゃのめ",
+      "meaning": "bull's-eye (pattern); double ring (pattern)"
+    },
+    {
+      "type": "kanji",
+      "character": "蛇口",
+      "romaji": "じゃぐち",
+      "meaning": "faucet; tap"
+    },
+    {
+      "type": "kanji",
+      "character": "蛇行",
+      "romaji": "だこう",
+      "meaning": "meandering; snaking"
+    },
+    {
+      "type": "kanji",
+      "character": "邪",
+      "romaji": "よこしま",
+      "meaning": "wicked; evil"
+    },
+    {
+      "type": "kanji",
+      "character": "邪道",
+      "romaji": "じゃどう",
+      "meaning": "improper way (of doing); wrong way"
+    },
+    {
+      "type": "kanji",
+      "character": "邪魔",
+      "romaji": "じゃま",
+      "meaning": "hindrance; obstacle"
+    },
+    {
+      "type": "kanji",
+      "character": "借り",
+      "romaji": "かり",
+      "meaning": "borrowing; debt"
+    }
+  ]
+}

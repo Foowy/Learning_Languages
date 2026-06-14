@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 36,
+  "title": "JLPT N3 Kanji — Part 36",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "冷",
+      "romaji": "レイ / つめ.たい・ひ.える・ひ.や・ひ.ややか・ひ.やす・ひ.やかす・さ.める・さ.ます",
+      "meaning": "cool; cold (beer, person); chill"
+    },
+    {
+      "type": "kanji",
+      "character": "適",
+      "romaji": "テキ / かな.う",
+      "meaning": "suitable; occasional; rare"
+    },
+    {
+      "type": "kanji",
+      "character": "婦",
+      "romaji": "フ / よめ",
+      "meaning": "lady; woman; wife"
+    },
+    {
+      "type": "kanji",
+      "character": "鉄",
+      "romaji": "テツ / くろがね",
+      "meaning": "iron"
+    },
+    {
+      "type": "kanji",
+      "character": "寄",
+      "romaji": "キ / よ.る・-よ.り・よ.せる",
+      "meaning": "draw near; stop in; bring near"
+    },
+    {
+      "type": "kanji",
+      "character": "込",
+      "romaji": "-こ.む・こ.む・こ.み・-こ.み・こ.める",
+      "meaning": "crowded; mixture; in bulk"
+    },
+    {
+      "type": "kanji",
+      "character": "類",
+      "romaji": "ルイ / たぐ.い",
+      "meaning": "sort; kind; variety"
+    },
+    {
+      "type": "kanji",
+      "character": "児",
+      "romaji": "ジ・ニ・ゲイ / こ・-こ・-っこ",
+      "meaning": "newborn babe; child; young of animals"
+    },
+    {
+      "type": "kanji",
+      "character": "余",
+      "romaji": "ヨ / あま.る・あま.り・あま.す・あんま.り",
+      "meaning": "too much; myself; surplus"
+    },
+    {
+      "type": "kanji",
+      "character": "禁",
+      "romaji": "キン",
+      "meaning": "prohibition; ban; forbid"
+    }
+  ]
+}

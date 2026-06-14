@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 26,
+  "title": "JLPT N2/N1 Kanji — Part 26",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "釈",
+      "romaji": "シャク・セキ / とく・す.てる・ゆる.す",
+      "meaning": "explanation"
+    },
+    {
+      "type": "kanji",
+      "character": "己",
+      "romaji": "コ・キ / おのれ・つちのと・な",
+      "meaning": "self"
+    },
+    {
+      "type": "kanji",
+      "character": "妥",
+      "romaji": "ダ",
+      "meaning": "gentle; peace; satisfactory"
+    },
+    {
+      "type": "kanji",
+      "character": "威",
+      "romaji": "イ / おど.す・おど.し・おど.かす",
+      "meaning": "intimidate; dignity; majesty"
+    },
+    {
+      "type": "kanji",
+      "character": "豪",
+      "romaji": "ゴウ / えら.い",
+      "meaning": "overpowering; great; powerful"
+    },
+    {
+      "type": "kanji",
+      "character": "熊",
+      "romaji": "ユウ / くま",
+      "meaning": "bear"
+    },
+    {
+      "type": "kanji",
+      "character": "滞",
+      "romaji": "タイ・テイ / とどこお.る",
+      "meaning": "stagnate; be delayed; overdue"
+    },
+    {
+      "type": "kanji",
+      "character": "微",
+      "romaji": "ビ / かす.か",
+      "meaning": "delicate; minuteness; insignificance"
+    },
+    {
+      "type": "kanji",
+      "character": "隆",
+      "romaji": "リュウ",
+      "meaning": "hump; high; noble"
+    },
+    {
+      "type": "kanji",
+      "character": "症",
+      "romaji": "ショウ",
+      "meaning": "symptoms; illness"
+    }
+  ]
+}

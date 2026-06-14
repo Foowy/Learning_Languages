@@ -1,0 +1,67 @@
+{
+  "unit": 107,
+  "lesson": 10,
+  "title": "Vocabulary — Frequency 20091–20100",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "引き締め",
+      "romaji": "ひきしめ",
+      "meaning": "tightening"
+    },
+    {
+      "type": "kanji",
+      "character": "密か",
+      "romaji": "ひそか",
+      "meaning": "secret; private"
+    },
+    {
+      "type": "kanji",
+      "character": "一人一人",
+      "romaji": "ひとりひとり",
+      "meaning": "each (person); individually"
+    },
+    {
+      "type": "kanji",
+      "character": "触れ合い",
+      "romaji": "ふれあい",
+      "meaning": "contact; connectedness"
+    },
+    {
+      "type": "kanji",
+      "character": "間に合わせ",
+      "romaji": "まにあわせ",
+      "meaning": "makeshift"
+    },
+    {
+      "type": "kanji",
+      "character": "見過ごす",
+      "romaji": "みすごす",
+      "meaning": "to let go by; to let pass"
+    },
+    {
+      "type": "kanji",
+      "character": "淀む",
+      "romaji": "よどむ",
+      "meaning": "to stagnate"
+    },
+    {
+      "type": "kanji",
+      "character": "呼び名",
+      "romaji": "よびな",
+      "meaning": "popular name; common name"
+    },
+    {
+      "type": "kanji",
+      "character": "彼方此方",
+      "romaji": "あちこち",
+      "meaning": "here and there; various places"
+    },
+    {
+      "type": "kanji",
+      "character": "強ち",
+      "romaji": "あながち",
+      "meaning": "(not) necessarily; (not) entirely"
+    }
+  ]
+}

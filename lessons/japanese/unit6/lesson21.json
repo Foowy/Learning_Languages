@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 21,
+  "title": "JLPT N2/N1 Kanji — Part 21",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "託",
+      "romaji": "タク / かこつ.ける・かこ.つ・かこ.つける",
+      "meaning": "consign; requesting; entrusting with"
+    },
+    {
+      "type": "kanji",
+      "character": "撮",
+      "romaji": "サツ / と.る・つま.む・-ど.り",
+      "meaning": "snapshot; take pictures"
+    },
+    {
+      "type": "kanji",
+      "character": "誕",
+      "romaji": "タン",
+      "meaning": "nativity; be born; declension"
+    },
+    {
+      "type": "kanji",
+      "character": "侵",
+      "romaji": "シン / おか.す",
+      "meaning": "encroach; invade; raid"
+    },
+    {
+      "type": "kanji",
+      "character": "括",
+      "romaji": "カツ / くく.る",
+      "meaning": "fasten; tie up; arrest"
+    },
+    {
+      "type": "kanji",
+      "character": "掛",
+      "romaji": "カイ・ケイ / か.ける・-か.ける・か.け・-か.け・-が.け・か.かる・-か.かる・-が.かる・か.かり・-が.かり・かかり・-がかり",
+      "meaning": "hang; suspend; depend"
+    },
+    {
+      "type": "kanji",
+      "character": "謝",
+      "romaji": "シャ / あやま.る",
+      "meaning": "apologize; thank; refuse"
+    },
+    {
+      "type": "kanji",
+      "character": "孝",
+      "romaji": "コウ・キョウ",
+      "meaning": "filial piety; child's respect"
+    },
+    {
+      "type": "kanji",
+      "character": "駆",
+      "romaji": "ク / か.ける・か.る",
+      "meaning": "drive; run; gallop"
+    },
+    {
+      "type": "kanji",
+      "character": "透",
+      "romaji": "トウ / す.く・す.かす・す.ける・とう.る・とう.す",
+      "meaning": "transparent; permeate; filter"
+    }
+  ]
+}

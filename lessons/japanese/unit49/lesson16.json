@@ -1,0 +1,67 @@
+{
+  "unit": 49,
+  "lesson": 16,
+  "title": "Vocabulary — Frequency 8551–8560",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "拘束",
+      "romaji": "こうそく",
+      "meaning": "restriction; restraint"
+    },
+    {
+      "type": "kanji",
+      "character": "拘置",
+      "romaji": "こうち",
+      "meaning": "detention; confinement"
+    },
+    {
+      "type": "kanji",
+      "character": "拘置所",
+      "romaji": "こうちしょ",
+      "meaning": "prison; detention house"
+    },
+    {
+      "type": "kanji",
+      "character": "拘留",
+      "romaji": "こうりゅう",
+      "meaning": "custody; detention"
+    },
+    {
+      "type": "kanji",
+      "character": "控え",
+      "romaji": "ひかえ",
+      "meaning": "reserve; spare"
+    },
+    {
+      "type": "kanji",
+      "character": "控える",
+      "romaji": "ひかえる",
+      "meaning": "to be temperate in; to refrain"
+    },
+    {
+      "type": "kanji",
+      "character": "控えめ",
+      "romaji": "ひかえめ",
+      "meaning": "moderate; reserved"
+    },
+    {
+      "type": "kanji",
+      "character": "控除",
+      "romaji": "こうじょ",
+      "meaning": "subtraction; deduction (e.g. of tax)"
+    },
+    {
+      "type": "kanji",
+      "character": "控訴",
+      "romaji": "こうそ",
+      "meaning": "appeal to a higher court; intermediate appeal"
+    },
+    {
+      "type": "kanji",
+      "character": "攻め",
+      "romaji": "せめ",
+      "meaning": "attack; offence"
+    }
+  ]
+}

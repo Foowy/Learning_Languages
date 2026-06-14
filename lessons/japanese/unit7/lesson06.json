@@ -1,0 +1,67 @@
+{
+  "unit": 7,
+  "lesson": 6,
+  "title": "Vocabulary — Frequency 51–60",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "お願いいたします",
+      "romaji": "おねがいいたします",
+      "meaning": "please"
+    },
+    {
+      "type": "kanji",
+      "character": "お帰りなさい",
+      "romaji": "おかえりなさい",
+      "meaning": "welcome home"
+    },
+    {
+      "type": "kanji",
+      "character": "お客様",
+      "romaji": "おきゃくさま",
+      "meaning": "guest; visitor"
+    },
+    {
+      "type": "kanji",
+      "character": "お休みなさい",
+      "romaji": "おやすみなさい",
+      "meaning": "good night"
+    },
+    {
+      "type": "kanji",
+      "character": "お金",
+      "romaji": "おかね",
+      "meaning": "money"
+    },
+    {
+      "type": "kanji",
+      "character": "お兄さん",
+      "romaji": "おにいさん",
+      "meaning": "older brother; elder brother"
+    },
+    {
+      "type": "kanji",
+      "character": "お好み焼き",
+      "romaji": "おこのみやき",
+      "meaning": "okonomiyaki; savoury pancake fried on an iron griddle with vegetables, meat and/or seafood and topped with various sauces and condiments"
+    },
+    {
+      "type": "kanji",
+      "character": "お絞り",
+      "romaji": "おしぼり",
+      "meaning": "wet towel (supplied at table); hot, moistened hand towel"
+    },
+    {
+      "type": "kanji",
+      "character": "お参り",
+      "romaji": "おまいり",
+      "meaning": "visit (to a shrine, grave, etc.); worship"
+    },
+    {
+      "type": "kanji",
+      "character": "お産",
+      "romaji": "おさん",
+      "meaning": "(giving) birth; childbirth"
+    }
+  ]
+}

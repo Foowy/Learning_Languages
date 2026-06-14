@@ -1,0 +1,67 @@
+{
+  "unit": 1,
+  "lesson": 12,
+  "title": "HSK 1 Vocabulary — Part 12",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "喂",
+      "romaji": "wèi",
+      "meaning": "to feed"
+    },
+    {
+      "type": "hanzi",
+      "character": "我",
+      "romaji": "wǒ",
+      "meaning": "I; me; my"
+    },
+    {
+      "type": "hanzi",
+      "character": "我们",
+      "romaji": "wǒ men",
+      "meaning": "we; us; ourselves; our"
+    },
+    {
+      "type": "hanzi",
+      "character": "五",
+      "romaji": "wǔ",
+      "meaning": "five; 5"
+    },
+    {
+      "type": "hanzi",
+      "character": "喜欢",
+      "romaji": "xǐ huan",
+      "meaning": "to like; to be fond of"
+    },
+    {
+      "type": "hanzi",
+      "character": "下",
+      "romaji": "xià",
+      "meaning": "down; downwards; below; lower; later; next (week etc); second (of two parts); to decline; to go down"
+    },
+    {
+      "type": "hanzi",
+      "character": "下午",
+      "romaji": "xià wǔ",
+      "meaning": "afternoon; CL:個|个[gè]; p.m."
+    },
+    {
+      "type": "hanzi",
+      "character": "下雨",
+      "romaji": "xià yǔ",
+      "meaning": "to rain; rainy"
+    },
+    {
+      "type": "hanzi",
+      "character": "先生",
+      "romaji": "xiān sheng",
+      "meaning": "teacher; husband; doctor (topolect); CL:位[wèi]"
+    },
+    {
+      "type": "hanzi",
+      "character": "现在",
+      "romaji": "xiàn zài",
+      "meaning": "now; at present; at the moment; modern; current; nowadays"
+    }
+  ]
+}

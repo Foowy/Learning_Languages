@@ -1,0 +1,67 @@
+{
+  "unit": 117,
+  "lesson": 11,
+  "title": "Vocabulary — Frequency 22101–22110",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "路線図",
+      "romaji": "ろせんず",
+      "meaning": "route map (for buses, trains, etc.)"
+    },
+    {
+      "type": "kana",
+      "character": "すっごい",
+      "romaji": "すっごい",
+      "meaning": "terrible; dreadful"
+    },
+    {
+      "type": "kanji",
+      "character": "数時間",
+      "romaji": "すうじかん",
+      "meaning": "a few hours; several hours"
+    },
+    {
+      "type": "kanji",
+      "character": "数分",
+      "romaji": "すうふん",
+      "meaning": "several minutes; a few minutes"
+    },
+    {
+      "type": "kana",
+      "character": "サプリ",
+      "romaji": "サプリ",
+      "meaning": "supplement"
+    },
+    {
+      "type": "kanji",
+      "character": "無修正",
+      "romaji": "むしゅうせい",
+      "meaning": "unaltered; unedited"
+    },
+    {
+      "type": "kana",
+      "character": "ナビ",
+      "romaji": "ナビ",
+      "meaning": "navigation; (car) navigation system"
+    },
+    {
+      "type": "kanji",
+      "character": "初挑戦",
+      "romaji": "はつちょうせん",
+      "meaning": "first challenge; first try"
+    },
+    {
+      "type": "kanji",
+      "character": "立直",
+      "romaji": "リーチ",
+      "meaning": "rīchi; riichi"
+    },
+    {
+      "type": "kanji",
+      "character": "為さい",
+      "romaji": "なさい",
+      "meaning": "do ..."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 111,
+  "lesson": 13,
+  "title": "Vocabulary — Frequency 20921–20930",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "郵政",
+      "romaji": "ゆうせい",
+      "meaning": "postal system"
+    },
+    {
+      "type": "kanji",
+      "character": "増益",
+      "romaji": "ぞうえき",
+      "meaning": "increased (profit)"
+    },
+    {
+      "type": "kanji",
+      "character": "待合",
+      "romaji": "まちあい",
+      "meaning": "rendezvous; meeting"
+    },
+    {
+      "type": "kanji",
+      "character": "環境保護",
+      "romaji": "かんきょうほご",
+      "meaning": "environmental protection"
+    },
+    {
+      "type": "kanji",
+      "character": "和議",
+      "romaji": "わぎ",
+      "meaning": "peace conference; peace negotiations"
+    },
+    {
+      "type": "kanji",
+      "character": "帰休",
+      "romaji": "ききゅう",
+      "meaning": "leave; furlough"
+    },
+    {
+      "type": "kanji",
+      "character": "血液検査",
+      "romaji": "けつえきけんさ",
+      "meaning": "blood test; hemanalysis"
+    },
+    {
+      "type": "kanji",
+      "character": "無投票",
+      "romaji": "むとうひょう",
+      "meaning": "without a vote"
+    },
+    {
+      "type": "kanji",
+      "character": "無形文化財",
+      "romaji": "むけいぶんかざい",
+      "meaning": "intangible cultural asset"
+    },
+    {
+      "type": "kanji",
+      "character": "無利子",
+      "romaji": "むりし",
+      "meaning": "(earning or paying) no interest"
+    }
+  ]
+}

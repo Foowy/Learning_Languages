@@ -1,0 +1,67 @@
+{
+  "unit": 55,
+  "lesson": 12,
+  "title": "Vocabulary — Frequency 9711–9720",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "試す",
+      "romaji": "ためす",
+      "meaning": "to try (out); to have a try (at)"
+    },
+    {
+      "type": "kanji",
+      "character": "試み",
+      "romaji": "こころみ",
+      "meaning": "attempt; trial"
+    },
+    {
+      "type": "kanji",
+      "character": "試みる",
+      "romaji": "こころみる",
+      "meaning": "to try; to attempt"
+    },
+    {
+      "type": "kanji",
+      "character": "試案",
+      "romaji": "しあん",
+      "meaning": "tentative plan; draft plan"
+    },
+    {
+      "type": "kanji",
+      "character": "試運転",
+      "romaji": "しうんてん",
+      "meaning": "trial run; test run"
+    },
+    {
+      "type": "kanji",
+      "character": "試金石",
+      "romaji": "しきんせき",
+      "meaning": "touchstone (assaying tool)"
+    },
+    {
+      "type": "kanji",
+      "character": "試験",
+      "romaji": "しけん",
+      "meaning": "examination; exam"
+    },
+    {
+      "type": "kanji",
+      "character": "試行",
+      "romaji": "しこう",
+      "meaning": "making an attempt; trial run"
+    },
+    {
+      "type": "kanji",
+      "character": "試行錯誤",
+      "romaji": "しこうさくご",
+      "meaning": "trial and error"
+    },
+    {
+      "type": "kanji",
+      "character": "試合",
+      "romaji": "しあい",
+      "meaning": "match; game"
+    }
+  ]
+}

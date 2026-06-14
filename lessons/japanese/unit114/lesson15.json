@@ -1,0 +1,67 @@
+{
+  "unit": 114,
+  "lesson": 15,
+  "title": "Vocabulary — Frequency 21541–21550",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "詩",
+      "romaji": "し",
+      "meaning": "poem; poetry"
+    },
+    {
+      "type": "kana",
+      "character": "ばらす",
+      "romaji": "ばらす",
+      "meaning": "to expose (a secret); to disclose"
+    },
+    {
+      "type": "kanji",
+      "character": "依存症",
+      "romaji": "いぞんしょう",
+      "meaning": "dependence (on alcohol, drugs, etc.)"
+    },
+    {
+      "type": "kanji",
+      "character": "化学物質",
+      "romaji": "かがくぶっしつ",
+      "meaning": "chemical substance; chemical"
+    },
+    {
+      "type": "kanji",
+      "character": "花火大会",
+      "romaji": "はなびたいかい",
+      "meaning": "fireworks display; display of fireworks"
+    },
+    {
+      "type": "kanji",
+      "character": "環境問題",
+      "romaji": "かんきょうもんだい",
+      "meaning": "environmental problem; environmental issue"
+    },
+    {
+      "type": "kanji",
+      "character": "勤務時間",
+      "romaji": "きんむじかん",
+      "meaning": "office hours; business hours"
+    },
+    {
+      "type": "kanji",
+      "character": "公安委員会",
+      "romaji": "こうあんいいんかい",
+      "meaning": "public safety commission"
+    },
+    {
+      "type": "kanji",
+      "character": "殺人事件",
+      "romaji": "さつじんじけん",
+      "meaning": "murder case"
+    },
+    {
+      "type": "kanji",
+      "character": "自然環境",
+      "romaji": "しぜんかんきょう",
+      "meaning": "natural environment; (the) environment"
+    }
+  ]
+}

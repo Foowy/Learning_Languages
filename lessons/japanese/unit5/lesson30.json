@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 30,
+  "title": "JLPT N3 Kanji — Part 30",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "批",
+      "romaji": "ヒ",
+      "meaning": "criticism; strike"
+    },
+    {
+      "type": "kanji",
+      "character": "易",
+      "romaji": "エキ・イ / やさ.しい・やす.い",
+      "meaning": "easy; ready to; simple"
+    },
+    {
+      "type": "kanji",
+      "character": "健",
+      "romaji": "ケン / すこ.やか",
+      "meaning": "healthy; health; strength"
+    },
+    {
+      "type": "kanji",
+      "character": "戸",
+      "romaji": "コ / と",
+      "meaning": "door; counter for houses; door radical (no. 63)"
+    },
+    {
+      "type": "kanji",
+      "character": "速",
+      "romaji": "ソク / はや.い・はや-・はや.める・すみ.やか",
+      "meaning": "quick; fast"
+    },
+    {
+      "type": "kanji",
+      "character": "存",
+      "romaji": "ソン・ゾン / ながら.える・あ.る・たも.つ・と.う",
+      "meaning": "exist; suppose; be aware of"
+    },
+    {
+      "type": "kanji",
+      "character": "飛",
+      "romaji": "ヒ / と.ぶ・と.ばす・-と.ばす",
+      "meaning": "fly; skip (pages); scatter"
+    },
+    {
+      "type": "kanji",
+      "character": "殺",
+      "romaji": "サツ・サイ・セツ / ころ.す・-ごろ.し・そ.ぐ・あや.める",
+      "meaning": "kill; murder; butcher"
+    },
+    {
+      "type": "kanji",
+      "character": "央",
+      "romaji": "オウ",
+      "meaning": "center; middle"
+    },
+    {
+      "type": "kanji",
+      "character": "券",
+      "romaji": "ケン",
+      "meaning": "ticket"
+    }
+  ]
+}

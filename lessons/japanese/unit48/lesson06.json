@@ -1,0 +1,67 @@
+{
+  "unit": 48,
+  "lesson": 6,
+  "title": "Vocabulary — Frequency 8251–8260",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "後世",
+      "romaji": "こうせい",
+      "meaning": "posterity; future generations"
+    },
+    {
+      "type": "kanji",
+      "character": "後続",
+      "romaji": "こうぞく",
+      "meaning": "succeeding; following"
+    },
+    {
+      "type": "kanji",
+      "character": "後退",
+      "romaji": "こうたい",
+      "meaning": "retreat; falling back"
+    },
+    {
+      "type": "kanji",
+      "character": "後天的",
+      "romaji": "こうてんてき",
+      "meaning": "acquired (e.g. characteristic); learned (e.g. behaviour)"
+    },
+    {
+      "type": "kanji",
+      "character": "後日",
+      "romaji": "ごじつ",
+      "meaning": "in the future; another day"
+    },
+    {
+      "type": "kanji",
+      "character": "後任",
+      "romaji": "こうにん",
+      "meaning": "successor"
+    },
+    {
+      "type": "kanji",
+      "character": "後輩",
+      "romaji": "こうはい",
+      "meaning": "junior (at work, school, etc.); younger people"
+    },
+    {
+      "type": "kanji",
+      "character": "後発",
+      "romaji": "こうはつ",
+      "meaning": "starting late; late departure"
+    },
+    {
+      "type": "kanji",
+      "character": "後半",
+      "romaji": "こうはん",
+      "meaning": "second half; latter half"
+    },
+    {
+      "type": "kanji",
+      "character": "後部",
+      "romaji": "こうぶ",
+      "meaning": "rear; stern"
+    }
+  ]
+}

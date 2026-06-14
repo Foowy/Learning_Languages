@@ -1,0 +1,67 @@
+{
+  "unit": 2,
+  "lesson": 9,
+  "title": "HSK 2 Vocabulary — Part 9",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "票",
+      "romaji": "piào",
+      "meaning": "ticket; ballot; bank note; CL:張|张[zhāng]; person held for ransom; amateur performance of Chinese opera; classifier for shipments and business transactions (topolect)"
+    },
+    {
+      "type": "hanzi",
+      "character": "妻子",
+      "romaji": "qī zi",
+      "meaning": "wife; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "起床",
+      "romaji": "qǐ chuáng",
+      "meaning": "to get out of bed; to get up"
+    },
+    {
+      "type": "hanzi",
+      "character": "千",
+      "romaji": "qiān",
+      "meaning": "a swing"
+    },
+    {
+      "type": "hanzi",
+      "character": "晴",
+      "romaji": "qíng",
+      "meaning": "clear; fine (weather)"
+    },
+    {
+      "type": "hanzi",
+      "character": "去年",
+      "romaji": "qù nián",
+      "meaning": "last year"
+    },
+    {
+      "type": "hanzi",
+      "character": "让",
+      "romaji": "ràng",
+      "meaning": "to yield; to permit; to let sb do sth; to have sb do sth"
+    },
+    {
+      "type": "hanzi",
+      "character": "上班",
+      "romaji": "shàng bān",
+      "meaning": "to go to work; to be on duty; to start work; to go to the office"
+    },
+    {
+      "type": "hanzi",
+      "character": "身体",
+      "romaji": "shēn tǐ",
+      "meaning": "(human) body; health; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "生病",
+      "romaji": "shēng bìng",
+      "meaning": "to fall ill"
+    }
+  ]
+}

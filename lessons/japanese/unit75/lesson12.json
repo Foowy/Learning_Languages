@@ -1,0 +1,67 @@
+{
+  "unit": 75,
+  "lesson": 12,
+  "title": "Vocabulary — Frequency 13711–13720",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "仲人",
+      "romaji": "なこうど",
+      "meaning": "matchmaker"
+    },
+    {
+      "type": "kanji",
+      "character": "仲直り",
+      "romaji": "なかなおり",
+      "meaning": "reconciliation; making up (with)"
+    },
+    {
+      "type": "kanji",
+      "character": "仲買",
+      "romaji": "なかがい",
+      "meaning": "brokerage; broker"
+    },
+    {
+      "type": "kanji",
+      "character": "仲良く",
+      "romaji": "なかよく",
+      "meaning": "on good terms (with); on friendly terms (with)"
+    },
+    {
+      "type": "kanji",
+      "character": "仲良し",
+      "romaji": "なかよし",
+      "meaning": "close friendship; close friend"
+    },
+    {
+      "type": "kanji",
+      "character": "宙返り",
+      "romaji": "ちゅうがえり",
+      "meaning": "somersault; looping-the-loop"
+    },
+    {
+      "type": "kanji",
+      "character": "忠義",
+      "romaji": "ちゅうぎ",
+      "meaning": "loyalty; devotion"
+    },
+    {
+      "type": "kanji",
+      "character": "忠告",
+      "romaji": "ちゅうこく",
+      "meaning": "advice; warning"
+    },
+    {
+      "type": "kanji",
+      "character": "忠誠",
+      "romaji": "ちゅうせい",
+      "meaning": "loyalty; sincerity"
+    },
+    {
+      "type": "kanji",
+      "character": "抽出",
+      "romaji": "ちゅうしゅつ",
+      "meaning": "extraction; abstraction"
+    }
+  ]
+}

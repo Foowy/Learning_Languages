@@ -1,0 +1,67 @@
+{
+  "unit": 50,
+  "lesson": 10,
+  "title": "Vocabulary — Frequency 8691–8700",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "行方不明",
+      "romaji": "ゆくえふめい",
+      "meaning": "missing (of a person); lost"
+    },
+    {
+      "type": "kanji",
+      "character": "行列",
+      "romaji": "ぎょうれつ",
+      "meaning": "line; queue"
+    },
+    {
+      "type": "kanji",
+      "character": "講演",
+      "romaji": "こうえん",
+      "meaning": "lecture; address"
+    },
+    {
+      "type": "kanji",
+      "character": "講演会",
+      "romaji": "こうえんかい",
+      "meaning": "lecture (esp. special engagement by noted speaker); lecture meeting (event with one or more lectures)"
+    },
+    {
+      "type": "kanji",
+      "character": "講義",
+      "romaji": "こうぎ",
+      "meaning": "lecture"
+    },
+    {
+      "type": "kanji",
+      "character": "講座",
+      "romaji": "こうざ",
+      "meaning": "course (e.g. of lectures)"
+    },
+    {
+      "type": "kanji",
+      "character": "講師",
+      "romaji": "こうし",
+      "meaning": "speaker; lecturer"
+    },
+    {
+      "type": "kanji",
+      "character": "講習",
+      "romaji": "こうしゅう",
+      "meaning": "short course; training"
+    },
+    {
+      "type": "kanji",
+      "character": "講談",
+      "romaji": "こうだん",
+      "meaning": "storytelling (of war chronicles, revenge tales, etc.) with highly dramatic delivery; story"
+    },
+    {
+      "type": "kanji",
+      "character": "講堂",
+      "romaji": "こうどう",
+      "meaning": "auditorium; lecture hall"
+    }
+  ]
+}

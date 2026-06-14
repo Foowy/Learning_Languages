@@ -1,0 +1,67 @@
+{
+  "unit": 33,
+  "lesson": 6,
+  "title": "Vocabulary — Frequency 5251–5260",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "遠方",
+      "romaji": "えんぽう",
+      "meaning": "distant place; faraway location"
+    },
+    {
+      "type": "kanji",
+      "character": "遠慮",
+      "romaji": "えんりょ",
+      "meaning": "reserve; constraint"
+    },
+    {
+      "type": "kanji",
+      "character": "鉛",
+      "romaji": "なまり",
+      "meaning": "lead (Pb)"
+    },
+    {
+      "type": "kanji",
+      "character": "鉛筆",
+      "romaji": "えんぴつ",
+      "meaning": "(wooden) pencil"
+    },
+    {
+      "type": "kanji",
+      "character": "塩化",
+      "romaji": "えんか",
+      "meaning": "chloridation; salification"
+    },
+    {
+      "type": "kanji",
+      "character": "塩基",
+      "romaji": "えんき",
+      "meaning": "base"
+    },
+    {
+      "type": "kanji",
+      "character": "塩酸",
+      "romaji": "えんさん",
+      "meaning": "hydrochloric acid"
+    },
+    {
+      "type": "kanji",
+      "character": "塩素",
+      "romaji": "えんそ",
+      "meaning": "chlorine (Cl)"
+    },
+    {
+      "type": "kanji",
+      "character": "塩田",
+      "romaji": "えんでん",
+      "meaning": "saltpan; field for drying salt"
+    },
+    {
+      "type": "kanji",
+      "character": "塩分",
+      "romaji": "えんぶん",
+      "meaning": "salt; salt content"
+    }
+  ]
+}

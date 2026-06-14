@@ -1,0 +1,67 @@
+{
+  "unit": 3,
+  "lesson": 17,
+  "title": "HSK 3 Vocabulary — Part 17",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "米",
+      "romaji": "mǐ",
+      "meaning": "rice; CL:粒[lì]; meter (classifier)"
+    },
+    {
+      "type": "hanzi",
+      "character": "面包",
+      "romaji": "miàn bāo",
+      "meaning": "bread; CL:片; 袋; 塊|块[kuài]"
+    },
+    {
+      "type": "hanzi",
+      "character": "面条",
+      "romaji": "miàn tiáo",
+      "meaning": "noodles"
+    },
+    {
+      "type": "hanzi",
+      "character": "明白",
+      "romaji": "míng bai",
+      "meaning": "clear; obvious; unequivocal; to understand; to realize"
+    },
+    {
+      "type": "hanzi",
+      "character": "拿",
+      "romaji": "ná",
+      "meaning": "to hold; to seize; to catch; to apprehend; to take"
+    },
+    {
+      "type": "hanzi",
+      "character": "奶奶",
+      "romaji": "nǎi nai",
+      "meaning": "(informal) grandma (paternal grandmother); (respectful) mistress of the house; CL:位[wèi]"
+    },
+    {
+      "type": "hanzi",
+      "character": "南",
+      "romaji": "nán",
+      "meaning": "south"
+    },
+    {
+      "type": "hanzi",
+      "character": "难",
+      "romaji": "nán",
+      "meaning": "difficult (to...); problem; difficulty; difficult; not good"
+    },
+    {
+      "type": "hanzi",
+      "character": "难过",
+      "romaji": "nán guò",
+      "meaning": "to feel sad; to feel unwell; (of life) to be difficult"
+    },
+    {
+      "type": "hanzi",
+      "character": "年级",
+      "romaji": "nián jí",
+      "meaning": "grade; CL:個|个[gè]"
+    }
+  ]
+}

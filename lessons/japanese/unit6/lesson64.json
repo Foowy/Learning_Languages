@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 64,
+  "title": "JLPT N2/N1 Kanji — Part 64",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "堤",
+      "romaji": "テイ / つつみ",
+      "meaning": "dike; bank; embankment"
+    },
+    {
+      "type": "kanji",
+      "character": "飢",
+      "romaji": "キ / う.える",
+      "meaning": "hungry; starve"
+    },
+    {
+      "type": "kanji",
+      "character": "傍",
+      "romaji": "ボウ / かたわ.ら・わき・おか-・はた・そば",
+      "meaning": "bystander; side; besides"
+    },
+    {
+      "type": "kanji",
+      "character": "疫",
+      "romaji": "エキ・ヤク",
+      "meaning": "epidemic"
+    },
+    {
+      "type": "kanji",
+      "character": "累",
+      "romaji": "ルイ",
+      "meaning": "accumulate; involvement; trouble"
+    },
+    {
+      "type": "kanji",
+      "character": "痴",
+      "romaji": "チ / し.れる・おろか",
+      "meaning": "stupid; foolish"
+    },
+    {
+      "type": "kanji",
+      "character": "搬",
+      "romaji": "ハン",
+      "meaning": "conveyor; carry; transport"
+    },
+    {
+      "type": "kanji",
+      "character": "晃",
+      "romaji": "コウ / あきらか",
+      "meaning": "clear"
+    },
+    {
+      "type": "kanji",
+      "character": "癒",
+      "romaji": "ユ / い.える・いや.す・い.やす",
+      "meaning": "healing; cure; quench (thirst)"
+    },
+    {
+      "type": "kanji",
+      "character": "桐",
+      "romaji": "トウ・ドウ / きり",
+      "meaning": "paulownia"
+    }
+  ]
+}

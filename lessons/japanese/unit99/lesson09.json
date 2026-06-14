@@ -1,0 +1,67 @@
+{
+  "unit": 99,
+  "lesson": 9,
+  "title": "Vocabulary — Frequency 18481–18490",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "研究所",
+      "romaji": "けんきゅうじょ",
+      "meaning": "research institute; (research) laboratory"
+    },
+    {
+      "type": "kanji",
+      "character": "見栄",
+      "romaji": "みえ",
+      "meaning": "show; display"
+    },
+    {
+      "type": "kanji",
+      "character": "元凶",
+      "romaji": "げんきょう",
+      "meaning": "ringleader; main culprit"
+    },
+    {
+      "type": "kanji",
+      "character": "元金",
+      "romaji": "がんきん",
+      "meaning": "principal"
+    },
+    {
+      "type": "kanji",
+      "character": "弦",
+      "romaji": "つる",
+      "meaning": "bowstring"
+    },
+    {
+      "type": "kanji",
+      "character": "古文",
+      "romaji": "こぶん",
+      "meaning": "ancient writing (Edo-period or older); classical literature"
+    },
+    {
+      "type": "kanji",
+      "character": "古文書",
+      "romaji": "こもんじょ",
+      "meaning": "historical document; archives"
+    },
+    {
+      "type": "kanji",
+      "character": "古本",
+      "romaji": "ふるほん",
+      "meaning": "secondhand book"
+    },
+    {
+      "type": "kanji",
+      "character": "固執",
+      "romaji": "こしつ",
+      "meaning": "sticking to (an opinion, theory, belief, etc.); clinging to"
+    },
+    {
+      "type": "kanji",
+      "character": "顧客",
+      "romaji": "こきゃく",
+      "meaning": "customer; client"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 30,
+  "lesson": 5,
+  "title": "Vocabulary — Frequency 4641–4650",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "案内",
+      "romaji": "あんない",
+      "meaning": "guidance; leading (the way)"
+    },
+    {
+      "type": "kanji",
+      "character": "闇",
+      "romaji": "やみ",
+      "meaning": "darkness; the dark"
+    },
+    {
+      "type": "kanji",
+      "character": "以て",
+      "romaji": "もって",
+      "meaning": "with; by"
+    },
+    {
+      "type": "kanji",
+      "character": "以下",
+      "romaji": "いか",
+      "meaning": "not exceeding ...; not more than ..."
+    },
+    {
+      "type": "kanji",
+      "character": "以外",
+      "romaji": "いがい",
+      "meaning": "excluding; except (for)"
+    },
+    {
+      "type": "kanji",
+      "character": "以後",
+      "romaji": "いご",
+      "meaning": "after this; from now on"
+    },
+    {
+      "type": "kanji",
+      "character": "以降",
+      "romaji": "いこう",
+      "meaning": "on and after; from ... onward"
+    },
+    {
+      "type": "kanji",
+      "character": "以上",
+      "romaji": "いじょう",
+      "meaning": "not less than ...; ... and over"
+    },
+    {
+      "type": "kanji",
+      "character": "以前",
+      "romaji": "いぜん",
+      "meaning": "before; prior to"
+    },
+    {
+      "type": "kanji",
+      "character": "以内",
+      "romaji": "いない",
+      "meaning": "within; inside of"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 117,
+  "lesson": 2,
+  "title": "Vocabulary — Frequency 22011–22020",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "コピー機",
+      "romaji": "コピーき",
+      "meaning": "copier; copy machine"
+    },
+    {
+      "type": "kana",
+      "character": "とする",
+      "romaji": "とする",
+      "meaning": "to try to ...; to be about to do ..."
+    },
+    {
+      "type": "kanji",
+      "character": "生まれ育つ",
+      "romaji": "うまれそだつ",
+      "meaning": "to be born and raised (in); to be born and brought up"
+    },
+    {
+      "type": "kanji",
+      "character": "大っきい",
+      "romaji": "おっきい",
+      "meaning": "big; large"
+    },
+    {
+      "type": "kanji",
+      "character": "然う",
+      "romaji": "そう",
+      "meaning": "in that way; thus"
+    },
+    {
+      "type": "kanji",
+      "character": "解決方法",
+      "romaji": "かいけつほうほう",
+      "meaning": "way of solving (a problem); solution"
+    },
+    {
+      "type": "kana",
+      "character": "グー",
+      "romaji": "グー",
+      "meaning": "rock (in rock-paper-scissors); stone"
+    },
+    {
+      "type": "kanji",
+      "character": "よくある質問",
+      "romaji": "よくあるしつもん",
+      "meaning": "frequently asked questions; FAQ"
+    },
+    {
+      "type": "kanji",
+      "character": "受付中",
+      "romaji": "うけつけちゅう",
+      "meaning": "currently accepting (applications, etc.)"
+    },
+    {
+      "type": "kanji",
+      "character": "時は金なり",
+      "romaji": "ときはかねなり",
+      "meaning": "time is money"
+    }
+  ]
+}

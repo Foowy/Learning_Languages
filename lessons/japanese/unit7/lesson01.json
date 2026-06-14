@@ -1,0 +1,67 @@
+{
+  "unit": 7,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 1–10",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "ＣＤプレーヤー",
+      "romaji": "シーディープレーヤー",
+      "meaning": "CD player"
+    },
+    {
+      "type": "kanji",
+      "character": "Ｔシャツ",
+      "romaji": "ティーシャツ",
+      "meaning": "T-shirt; tee shirt"
+    },
+    {
+      "type": "kanji",
+      "character": "Ｔバック",
+      "romaji": "ティーバック",
+      "meaning": "T-back; bikini thong"
+    },
+    {
+      "type": "kanji",
+      "character": "明白",
+      "romaji": "めいはく",
+      "meaning": "obvious; clear"
+    },
+    {
+      "type": "kanji",
+      "character": "彼処",
+      "romaji": "あそこ",
+      "meaning": "there; over there"
+    },
+    {
+      "type": "kana",
+      "character": "あっさり",
+      "romaji": "あっさり",
+      "meaning": "easily; readily"
+    },
+    {
+      "type": "kanji",
+      "character": "あっという間に",
+      "romaji": "あっというまに",
+      "meaning": "in an instant; in a flash"
+    },
+    {
+      "type": "kanji",
+      "character": "彼の",
+      "romaji": "あの",
+      "meaning": "that; those"
+    },
+    {
+      "type": "kana",
+      "character": "あの",
+      "romaji": "あの",
+      "meaning": "say; well"
+    },
+    {
+      "type": "kanji",
+      "character": "あの人",
+      "romaji": "あのひと",
+      "meaning": "he; she"
+    }
+  ]
+}

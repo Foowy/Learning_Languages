@@ -1,0 +1,67 @@
+{
+  "unit": 4,
+  "lesson": 3,
+  "title": "HSK 4 Vocabulary — Part 3",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "表达",
+      "romaji": "biǎo dá",
+      "meaning": "to voice (an opinion); to express; to convey"
+    },
+    {
+      "type": "hanzi",
+      "character": "表格",
+      "romaji": "biǎo gé",
+      "meaning": "form; table; CL:張|张; 份[fèn]"
+    },
+    {
+      "type": "hanzi",
+      "character": "表扬",
+      "romaji": "biǎo yáng",
+      "meaning": "to praise; to commend"
+    },
+    {
+      "type": "hanzi",
+      "character": "饼干",
+      "romaji": "bǐng gān",
+      "meaning": "biscuit; cracker; cookie; CL:片; 塊|块[kuài]"
+    },
+    {
+      "type": "hanzi",
+      "character": "并且",
+      "romaji": "bìng qiě",
+      "meaning": "and; besides; moreover; furthermore; in addition"
+    },
+    {
+      "type": "hanzi",
+      "character": "博士",
+      "romaji": "bó shì",
+      "meaning": "doctor; court academician (in feudal China); Ph.D."
+    },
+    {
+      "type": "hanzi",
+      "character": "不但",
+      "romaji": "bù dàn",
+      "meaning": "not only (... but also...)"
+    },
+    {
+      "type": "hanzi",
+      "character": "不过",
+      "romaji": "bù guò",
+      "meaning": "only; merely; no more than; but; however; anyway (to get back to a previous topic)"
+    },
+    {
+      "type": "hanzi",
+      "character": "不得不",
+      "romaji": "bù dé bù",
+      "meaning": "have no choice or option but to; cannot but; have to; can't help it; can't avoid"
+    },
+    {
+      "type": "hanzi",
+      "character": "不管",
+      "romaji": "bù guǎn",
+      "meaning": "no matter (what; how); regardless of; no matter"
+    }
+  ]
+}

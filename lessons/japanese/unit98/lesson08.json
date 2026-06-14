@@ -1,0 +1,67 @@
+{
+  "unit": 98,
+  "lesson": 8,
+  "title": "Vocabulary — Frequency 18271–18280",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "咎める",
+      "romaji": "とがめる",
+      "meaning": "to blame; to reproach"
+    },
+    {
+      "type": "kanji",
+      "character": "呟く",
+      "romaji": "つぶやく",
+      "meaning": "to mutter; to murmur"
+    },
+    {
+      "type": "kanji",
+      "character": "咄嗟に",
+      "romaji": "とっさに",
+      "meaning": "at once; immediately"
+    },
+    {
+      "type": "kanji",
+      "character": "唸る",
+      "romaji": "うなる",
+      "meaning": "to groan; to moan"
+    },
+    {
+      "type": "kanji",
+      "character": "喘息",
+      "romaji": "ぜんそく",
+      "meaning": "asthma"
+    },
+    {
+      "type": "kanji",
+      "character": "嗚呼",
+      "romaji": "ああ",
+      "meaning": "ah!; oh!"
+    },
+    {
+      "type": "kanji",
+      "character": "嗅ぐ",
+      "romaji": "かぐ",
+      "meaning": "to sniff; to smell"
+    },
+    {
+      "type": "kanji",
+      "character": "嗜好",
+      "romaji": "しこう",
+      "meaning": "taste; liking"
+    },
+    {
+      "type": "kanji",
+      "character": "嘔吐",
+      "romaji": "おうと",
+      "meaning": "vomiting; emesis"
+    },
+    {
+      "type": "kanji",
+      "character": "嘴",
+      "romaji": "くちばし",
+      "meaning": "beak; bill"
+    }
+  ]
+}

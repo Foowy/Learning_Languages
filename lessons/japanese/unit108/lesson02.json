@@ -1,0 +1,67 @@
+{
+  "unit": 108,
+  "lesson": 2,
+  "title": "Vocabulary — Frequency 20211–20220",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "完治",
+      "romaji": "かんち",
+      "meaning": "complete recovery"
+    },
+    {
+      "type": "kanji",
+      "character": "完全試合",
+      "romaji": "かんぜんじあい",
+      "meaning": "perfect game"
+    },
+    {
+      "type": "kanji",
+      "character": "完投",
+      "romaji": "かんとう",
+      "meaning": "going the whole distance; pitching a whole game"
+    },
+    {
+      "type": "kanji",
+      "character": "完売",
+      "romaji": "かんばい",
+      "meaning": "selling out; being sold out"
+    },
+    {
+      "type": "kanji",
+      "character": "官民",
+      "romaji": "かんみん",
+      "meaning": "government and people; government and private sector"
+    },
+    {
+      "type": "kanji",
+      "character": "感情的",
+      "romaji": "かんじょうてき",
+      "meaning": "emotional; sentimental"
+    },
+    {
+      "type": "kanji",
+      "character": "感染症",
+      "romaji": "かんせんしょう",
+      "meaning": "infectious disease; infection"
+    },
+    {
+      "type": "kanji",
+      "character": "漢方",
+      "romaji": "かんぽう",
+      "meaning": "traditional Chinese medicine"
+    },
+    {
+      "type": "kanji",
+      "character": "管区気象台",
+      "romaji": "かんくきしょうだい",
+      "meaning": "district meteorological observatory"
+    },
+    {
+      "type": "kanji",
+      "character": "管財",
+      "romaji": "かんざい",
+      "meaning": "administration of property; custodianship"
+    }
+  ]
+}

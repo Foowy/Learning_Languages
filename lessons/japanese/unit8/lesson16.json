@@ -1,0 +1,67 @@
+{
+  "unit": 8,
+  "lesson": 16,
+  "title": "Vocabulary — Frequency 351–360",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "にも",
+      "romaji": "にも",
+      "meaning": "also; too"
+    },
+    {
+      "type": "kana",
+      "character": "ニヤニヤ",
+      "romaji": "ニヤニヤ",
+      "meaning": "grinning; smirking"
+    },
+    {
+      "type": "kanji",
+      "character": "に因って",
+      "romaji": "によって",
+      "meaning": "according to; due to"
+    },
+    {
+      "type": "kanji",
+      "character": "によって異なる",
+      "romaji": "によってことなる",
+      "meaning": "to differ depending on ..."
+    },
+    {
+      "type": "kanji",
+      "character": "に依る",
+      "romaji": "による",
+      "meaning": "by means of; due to"
+    },
+    {
+      "type": "kanji",
+      "character": "に依ると",
+      "romaji": "によると",
+      "meaning": "according to (someone)"
+    },
+    {
+      "type": "kanji",
+      "character": "に加えて",
+      "romaji": "にくわえて",
+      "meaning": "in addition"
+    },
+    {
+      "type": "kanji",
+      "character": "に関して",
+      "romaji": "にかんして",
+      "meaning": "regarding ...; concerning ..."
+    },
+    {
+      "type": "kanji",
+      "character": "に就いて",
+      "romaji": "について",
+      "meaning": "about; on"
+    },
+    {
+      "type": "kanji",
+      "character": "に対して",
+      "romaji": "にたいして",
+      "meaning": "towards; against"
+    }
+  ]
+}

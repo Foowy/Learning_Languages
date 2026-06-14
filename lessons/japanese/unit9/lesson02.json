@@ -1,0 +1,67 @@
+{
+  "unit": 9,
+  "lesson": 2,
+  "title": "Vocabulary — Frequency 411–420",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "ほっと",
+      "romaji": "ほっと",
+      "meaning": "with a feeling of relief; with a sigh of relief"
+    },
+    {
+      "type": "kana",
+      "character": "ほら",
+      "romaji": "ほら",
+      "meaning": "look!; see!"
+    },
+    {
+      "type": "kanji",
+      "character": "本の",
+      "romaji": "ほんの",
+      "meaning": "mere; only"
+    },
+    {
+      "type": "kana",
+      "character": "ほんのり",
+      "romaji": "ほんのり",
+      "meaning": "slightly; faintly"
+    },
+    {
+      "type": "kana",
+      "character": "ぼーっと",
+      "romaji": "ぼーっと",
+      "meaning": "in a daze; absent-mindedly"
+    },
+    {
+      "type": "kanji",
+      "character": "惚け",
+      "romaji": "ぼけ",
+      "meaning": "fool; idiot"
+    },
+    {
+      "type": "kana",
+      "character": "ぼやける",
+      "romaji": "ぼやける",
+      "meaning": "to become dim; to become blurred"
+    },
+    {
+      "type": "kana",
+      "character": "ボロボロ",
+      "romaji": "ボロボロ",
+      "meaning": "worn-out; ragged"
+    },
+    {
+      "type": "kana",
+      "character": "ぼんやり",
+      "romaji": "ぼんやり",
+      "meaning": "dimly; faintly"
+    },
+    {
+      "type": "kana",
+      "character": "ぽかぽか",
+      "romaji": "ぽかぽか",
+      "meaning": "pleasantly warm; nice and warm"
+    }
+  ]
+}

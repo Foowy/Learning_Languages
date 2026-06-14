@@ -1,0 +1,67 @@
+{
+  "unit": 76,
+  "lesson": 20,
+  "title": "Vocabulary — Frequency 13991–14000",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "通勤",
+      "romaji": "つうきん",
+      "meaning": "commuting to work"
+    },
+    {
+      "type": "kanji",
+      "character": "通行",
+      "romaji": "つうこう",
+      "meaning": "passage (of people or vehicles); passing (through)"
+    },
+    {
+      "type": "kanji",
+      "character": "通行止め",
+      "romaji": "つうこうどめ",
+      "meaning": "closure (of a road); suspension of traffic"
+    },
+    {
+      "type": "kanji",
+      "character": "通告",
+      "romaji": "つうこく",
+      "meaning": "announcement; notice"
+    },
+    {
+      "type": "kanji",
+      "character": "通算",
+      "romaji": "つうさん",
+      "meaning": "total; sum"
+    },
+    {
+      "type": "kanji",
+      "character": "通商",
+      "romaji": "つうしょう",
+      "meaning": "commerce; trade"
+    },
+    {
+      "type": "kanji",
+      "character": "通称",
+      "romaji": "つうしょう",
+      "meaning": "popular name; common name"
+    },
+    {
+      "type": "kanji",
+      "character": "通常",
+      "romaji": "つうじょう",
+      "meaning": "usual; ordinary"
+    },
+    {
+      "type": "kanji",
+      "character": "通信",
+      "romaji": "つうしん",
+      "meaning": "correspondence; communication"
+    },
+    {
+      "type": "kanji",
+      "character": "通信衛星",
+      "romaji": "つうしんえいせい",
+      "meaning": "communication satellite; Broadcast Satellite"
+    }
+  ]
+}

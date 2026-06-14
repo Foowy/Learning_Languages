@@ -1,0 +1,67 @@
+{
+  "unit": 8,
+  "lesson": 7,
+  "title": "Vocabulary — Frequency 261–270",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "そわそわ",
+      "romaji": "そわそわ",
+      "meaning": "restlessly; nervously"
+    },
+    {
+      "type": "kana",
+      "character": "そんな",
+      "romaji": "そんな",
+      "meaning": "such; that sort of"
+    },
+    {
+      "type": "kana",
+      "character": "ぞくぞく",
+      "romaji": "ぞくぞく",
+      "meaning": "shivering; feeling chilly"
+    },
+    {
+      "type": "kana",
+      "character": "ぞろぞろ",
+      "romaji": "ぞろぞろ",
+      "meaning": "in a crowd; in droves"
+    },
+    {
+      "type": "kana",
+      "character": "ぞんざい",
+      "romaji": "ぞんざい",
+      "meaning": "rough; careless"
+    },
+    {
+      "type": "kana",
+      "character": "たった",
+      "romaji": "たった",
+      "meaning": "only; merely"
+    },
+    {
+      "type": "kana",
+      "character": "たっぷり",
+      "romaji": "たっぷり",
+      "meaning": "plentifully; amply"
+    },
+    {
+      "type": "kanji",
+      "character": "度に",
+      "romaji": "たびに",
+      "meaning": "each time; every time"
+    },
+    {
+      "type": "kana",
+      "character": "たらたら",
+      "romaji": "たらたら",
+      "meaning": "drop-by-drop; dripping"
+    },
+    {
+      "type": "kana",
+      "character": "だから",
+      "romaji": "だから",
+      "meaning": "so; therefore"
+    }
+  ]
+}

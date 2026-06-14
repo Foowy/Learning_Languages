@@ -1,0 +1,67 @@
+{
+  "unit": 48,
+  "lesson": 11,
+  "title": "Vocabulary — Frequency 8301–8310",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "語学",
+      "romaji": "ごがく",
+      "meaning": "study of foreign languages"
+    },
+    {
+      "type": "kanji",
+      "character": "語気",
+      "romaji": "ごき",
+      "meaning": "tone; manner of speaking"
+    },
+    {
+      "type": "kanji",
+      "character": "語句",
+      "romaji": "ごく",
+      "meaning": "words and phrases; words"
+    },
+    {
+      "type": "kanji",
+      "character": "語源",
+      "romaji": "ごげん",
+      "meaning": "origin of a word; derivation of a word"
+    },
+    {
+      "type": "kanji",
+      "character": "語彙",
+      "romaji": "ごい",
+      "meaning": "vocabulary; lexicon"
+    },
+    {
+      "type": "kanji",
+      "character": "誤り",
+      "romaji": "あやまり",
+      "meaning": "error; mistake"
+    },
+    {
+      "type": "kanji",
+      "character": "誤る",
+      "romaji": "あやまる",
+      "meaning": "to make a mistake (in); to commit an error"
+    },
+    {
+      "type": "kanji",
+      "character": "誤解",
+      "romaji": "ごかい",
+      "meaning": "misunderstanding"
+    },
+    {
+      "type": "kanji",
+      "character": "誤差",
+      "romaji": "ごさ",
+      "meaning": "measurement error; calculation error"
+    },
+    {
+      "type": "kanji",
+      "character": "誤算",
+      "romaji": "ごさん",
+      "meaning": "miscalculation"
+    }
+  ]
+}

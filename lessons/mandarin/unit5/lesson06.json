@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 6,
+  "title": "HSK 5 Vocabulary — Part 6",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "病毒",
+      "romaji": "bìng dú",
+      "meaning": "virus"
+    },
+    {
+      "type": "hanzi",
+      "character": "玻璃",
+      "romaji": "bō li",
+      "meaning": "glass; nylon; plastic; CL:張|张; 塊|块[kuài]"
+    },
+    {
+      "type": "hanzi",
+      "character": "博物馆",
+      "romaji": "bó wù guǎn",
+      "meaning": "museum"
+    },
+    {
+      "type": "hanzi",
+      "character": "脖子",
+      "romaji": "bó zi",
+      "meaning": "neck; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "不必",
+      "romaji": "bù bì",
+      "meaning": "need not; does not have to; not necessarily"
+    },
+    {
+      "type": "hanzi",
+      "character": "不断",
+      "romaji": "bù duàn",
+      "meaning": "unceasing; uninterrupted; continuous; constant"
+    },
+    {
+      "type": "hanzi",
+      "character": "不见得",
+      "romaji": "bù jiàn de",
+      "meaning": "not necessarily; not likely"
+    },
+    {
+      "type": "hanzi",
+      "character": "不耐烦",
+      "romaji": "bù nài fán",
+      "meaning": "impatience; impatient"
+    },
+    {
+      "type": "hanzi",
+      "character": "不要紧",
+      "romaji": "bù yào jǐn",
+      "meaning": "unimportant; not serious; it doesn't matter; never mind; it looks all right; but"
+    },
+    {
+      "type": "hanzi",
+      "character": "补充",
+      "romaji": "bǔ chōng",
+      "meaning": "to replenish; to supplement; to complement; additional; supplementary; CL:個|个[gè]"
+    }
+  ]
+}

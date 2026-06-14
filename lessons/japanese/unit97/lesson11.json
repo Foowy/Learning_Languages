@@ -1,0 +1,67 @@
+{
+  "unit": 97,
+  "lesson": 11,
+  "title": "Vocabulary — Frequency 18101–18110",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "恋人",
+      "romaji": "こいびと",
+      "meaning": "lover; sweetheart"
+    },
+    {
+      "type": "kanji",
+      "character": "恋文",
+      "romaji": "こいぶみ",
+      "meaning": "love letter"
+    },
+    {
+      "type": "kanji",
+      "character": "煉瓦",
+      "romaji": "れんが",
+      "meaning": "brick"
+    },
+    {
+      "type": "kanji",
+      "character": "練る",
+      "romaji": "ねる",
+      "meaning": "to knead; to thicken into a paste (stirring over a flame)"
+    },
+    {
+      "type": "kanji",
+      "character": "練習",
+      "romaji": "れんしゅう",
+      "meaning": "practice; training"
+    },
+    {
+      "type": "kanji",
+      "character": "蓮",
+      "romaji": "はす",
+      "meaning": "sacred lotus (Nelumbo nucifera); Indian lotus"
+    },
+    {
+      "type": "kanji",
+      "character": "連なる",
+      "romaji": "つらなる",
+      "meaning": "to extend; to stretch out"
+    },
+    {
+      "type": "kanji",
+      "character": "連ねる",
+      "romaji": "つらねる",
+      "meaning": "to line up; to put in a row"
+    },
+    {
+      "type": "kanji",
+      "character": "連れ",
+      "romaji": "つれ",
+      "meaning": "companion; company"
+    },
+    {
+      "type": "kanji",
+      "character": "連れる",
+      "romaji": "つれる",
+      "meaning": "to take (someone) with one; to bring along"
+    }
+  ]
+}

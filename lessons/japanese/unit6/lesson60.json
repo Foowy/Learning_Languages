@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 60,
+  "title": "JLPT N2/N1 Kanji — Part 60",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "辰",
+      "romaji": "シン・ジン / たつ",
+      "meaning": "sign of the dragon; 7-9AM; fifth sign of Chinese zodiac"
+    },
+    {
+      "type": "kanji",
+      "character": "霞",
+      "romaji": "カ・ゲ / かすみ・かす.む",
+      "meaning": "be hazy; grow dim; blurred"
+    },
+    {
+      "type": "kanji",
+      "character": "伏",
+      "romaji": "フク / ふ.せる・ふ.す",
+      "meaning": "prostrated; bend down; bow"
+    },
+    {
+      "type": "kanji",
+      "character": "碁",
+      "romaji": "ゴ",
+      "meaning": "Go"
+    },
+    {
+      "type": "kanji",
+      "character": "俗",
+      "romaji": "ゾク",
+      "meaning": "vulgar; customs; manners"
+    },
+    {
+      "type": "kanji",
+      "character": "漠",
+      "romaji": "バク",
+      "meaning": "vague; obscure; desert"
+    },
+    {
+      "type": "kanji",
+      "character": "邪",
+      "romaji": "ジャ / よこし.ま",
+      "meaning": "wicked; injustice; wrong"
+    },
+    {
+      "type": "kanji",
+      "character": "晶",
+      "romaji": "ショウ",
+      "meaning": "sparkle; clear; crystal"
+    },
+    {
+      "type": "kanji",
+      "character": "墨",
+      "romaji": "ボク / すみ",
+      "meaning": "black ink; India ink; ink stick"
+    },
+    {
+      "type": "kanji",
+      "character": "鎮",
+      "romaji": "チン / しず.める・しず.まる・おさえ",
+      "meaning": "tranquilize; ancient peace-preservation centers"
+    }
+  ]
+}

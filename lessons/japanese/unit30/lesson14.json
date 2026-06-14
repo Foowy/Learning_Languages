@@ -1,0 +1,67 @@
+{
+  "unit": 30,
+  "lesson": 14,
+  "title": "Vocabulary — Frequency 4731–4740",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "移す",
+      "romaji": "うつす",
+      "meaning": "to transfer (to a different place, group, etc.); to change"
+    },
+    {
+      "type": "kanji",
+      "character": "移り変わり",
+      "romaji": "うつりかわり",
+      "meaning": "change (e.g. season)"
+    },
+    {
+      "type": "kanji",
+      "character": "移る",
+      "romaji": "うつる",
+      "meaning": "to move (to another place or state); to change (e.g. of state, affiliation, scenery, etc.)"
+    },
+    {
+      "type": "kanji",
+      "character": "移管",
+      "romaji": "いかん",
+      "meaning": "transfer of control"
+    },
+    {
+      "type": "kanji",
+      "character": "移行",
+      "romaji": "いこう",
+      "meaning": "transition; changeover"
+    },
+    {
+      "type": "kanji",
+      "character": "移住",
+      "romaji": "いじゅう",
+      "meaning": "migration; move"
+    },
+    {
+      "type": "kanji",
+      "character": "移植",
+      "romaji": "いしょく",
+      "meaning": "transplanting (a plant); transplant"
+    },
+    {
+      "type": "kanji",
+      "character": "移籍",
+      "romaji": "いせき",
+      "meaning": "transfer (of one's name into another family register)"
+    },
+    {
+      "type": "kanji",
+      "character": "移送",
+      "romaji": "いそう",
+      "meaning": "transfer; transport"
+    },
+    {
+      "type": "kanji",
+      "character": "移転",
+      "romaji": "いてん",
+      "meaning": "moving; relocation"
+    }
+  ]
+}

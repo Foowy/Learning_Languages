@@ -1,0 +1,67 @@
+{
+  "unit": 1,
+  "lesson": 6,
+  "title": "HSK 1 Vocabulary — Part 6",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "看见",
+      "romaji": "kàn jiàn",
+      "meaning": "to see; to catch sight of"
+    },
+    {
+      "type": "hanzi",
+      "character": "块",
+      "romaji": "kuài",
+      "meaning": "lump (of earth); chunk; piece; classifier for pieces of cloth; cake; soap etc; colloquial word for yuan (or other unit of currency such as Hong Kong or US dollar etc); usually as 塊錢|块钱"
+    },
+    {
+      "type": "hanzi",
+      "character": "来",
+      "romaji": "lái",
+      "meaning": "to come; to arrive; to come round; ever since; next"
+    },
+    {
+      "type": "hanzi",
+      "character": "老师",
+      "romaji": "lǎo shī",
+      "meaning": "teacher; CL:個|个; 位[wèi]"
+    },
+    {
+      "type": "hanzi",
+      "character": "了",
+      "romaji": "le",
+      "meaning": "(modal particle intensifying preceding clause); (completed action marker)"
+    },
+    {
+      "type": "hanzi",
+      "character": "冷",
+      "romaji": "lěng",
+      "meaning": "cold"
+    },
+    {
+      "type": "hanzi",
+      "character": "里",
+      "romaji": "lǐ",
+      "meaning": "li (Chinese mile); 500 meters (modern); home; hometown; village; neighborhood; administrative unit"
+    },
+    {
+      "type": "hanzi",
+      "character": "零",
+      "romaji": "líng",
+      "meaning": "zero; nought; zero sign; fractional; fragmentary; odd (of numbers); (placed between two numbers to indicate a smaller quantity followed by a larger one); fraction; (in mathematics) remainder (after division); extra; to wither and fall; to wither"
+    },
+    {
+      "type": "hanzi",
+      "character": "六",
+      "romaji": "liù",
+      "meaning": "six; 6"
+    },
+    {
+      "type": "hanzi",
+      "character": "妈妈",
+      "romaji": "mā ma",
+      "meaning": "mama; mommy; mother; CL:個|个; 位[wèi]"
+    }
+  ]
+}

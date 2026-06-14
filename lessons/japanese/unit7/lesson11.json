@@ -1,0 +1,67 @@
+{
+  "unit": 7,
+  "lesson": 11,
+  "title": "Vocabulary — Frequency 101–110",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "かな",
+      "romaji": "かな",
+      "meaning": "I wonder"
+    },
+    {
+      "type": "kanji",
+      "character": "敵わない",
+      "romaji": "かなわない",
+      "meaning": "no match for; cannot compete with"
+    },
+    {
+      "type": "kanji",
+      "character": "かも知れない",
+      "romaji": "かもしれない",
+      "meaning": "may; might"
+    },
+    {
+      "type": "kanji",
+      "character": "かも知れません",
+      "romaji": "かもしれません",
+      "meaning": "may; might"
+    },
+    {
+      "type": "kana",
+      "character": "から",
+      "romaji": "から",
+      "meaning": "from (e.g. time, place, numerical quantity); since"
+    },
+    {
+      "type": "kana",
+      "character": "からり",
+      "romaji": "からり",
+      "meaning": "with a clatter"
+    },
+    {
+      "type": "kanji",
+      "character": "か弱い",
+      "romaji": "かよわい",
+      "meaning": "weak; feeble"
+    },
+    {
+      "type": "kana",
+      "character": "がさがさ",
+      "romaji": "がさがさ",
+      "meaning": "rustling"
+    },
+    {
+      "type": "kana",
+      "character": "ガタガタ",
+      "romaji": "ガタガタ",
+      "meaning": "rattling; clattering"
+    },
+    {
+      "type": "kana",
+      "character": "がっかり",
+      "romaji": "がっかり",
+      "meaning": "to be disappointed; to be dejected"
+    }
+  ]
+}

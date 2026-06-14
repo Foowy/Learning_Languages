@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 60,
+  "title": "JLPT N3 Kanji — Part 60",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "娘",
+      "romaji": "ジョウ / むすめ・こ",
+      "meaning": "daughter; girl"
+    },
+    {
+      "type": "kanji",
+      "character": "砂",
+      "romaji": "サ・シャ / すな",
+      "meaning": "sand"
+    },
+    {
+      "type": "kanji",
+      "character": "塩",
+      "romaji": "エン / しお",
+      "meaning": "salt"
+    },
+    {
+      "type": "kanji",
+      "character": "誤",
+      "romaji": "ゴ / あやま.る・-あやま.る",
+      "meaning": "mistake; err; do wrong"
+    },
+    {
+      "type": "kanji",
+      "character": "賢",
+      "romaji": "ケン / かしこ.い",
+      "meaning": "intelligent; wise; wisdom"
+    },
+    {
+      "type": "kanji",
+      "character": "腕",
+      "romaji": "ワン / うで",
+      "meaning": "arm; ability; talent"
+    },
+    {
+      "type": "kanji",
+      "character": "較",
+      "romaji": "カク・コウ / くら.べる",
+      "meaning": "contrast; compare"
+    },
+    {
+      "type": "kanji",
+      "character": "兆",
+      "romaji": "チョウ / きざ.す・きざ.し",
+      "meaning": "portent; 10**12; trillion"
+    },
+    {
+      "type": "kanji",
+      "character": "床",
+      "romaji": "ショウ / とこ・ゆか",
+      "meaning": "bed; counter for beds; floor"
+    },
+    {
+      "type": "kanji",
+      "character": "畑",
+      "romaji": "はた・はたけ・-ばたけ",
+      "meaning": "farm; field; garden"
+    }
+  ]
+}

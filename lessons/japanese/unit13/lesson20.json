@@ -1,0 +1,67 @@
+{
+  "unit": 13,
+  "lesson": 20,
+  "title": "Vocabulary — Frequency 1391–1400",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "コック",
+      "romaji": "コック",
+      "meaning": "cook; chef"
+    },
+    {
+      "type": "kana",
+      "character": "コックス",
+      "romaji": "コックス",
+      "meaning": "cox; coxswain"
+    },
+    {
+      "type": "kana",
+      "character": "コックピット",
+      "romaji": "コックピット",
+      "meaning": "cockpit"
+    },
+    {
+      "type": "kana",
+      "character": "コットン",
+      "romaji": "コットン",
+      "meaning": "cotton"
+    },
+    {
+      "type": "kanji",
+      "character": "洋杯",
+      "romaji": "コップ",
+      "meaning": "glass (drinking vessel); tumbler"
+    },
+    {
+      "type": "kana",
+      "character": "コテージ",
+      "romaji": "コテージ",
+      "meaning": "cottage"
+    },
+    {
+      "type": "kana",
+      "character": "コニーデ",
+      "romaji": "コニーデ",
+      "meaning": "stratovolcano; composite volcano"
+    },
+    {
+      "type": "kana",
+      "character": "コニャック",
+      "romaji": "コニャック",
+      "meaning": "cognac"
+    },
+    {
+      "type": "kana",
+      "character": "コネ",
+      "romaji": "コネ",
+      "meaning": "connection; pull"
+    },
+    {
+      "type": "kana",
+      "character": "コネクション",
+      "romaji": "コネクション",
+      "meaning": "connection"
+    }
+  ]
+}

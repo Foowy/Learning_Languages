@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 15,
+  "title": "HSK 5 Vocabulary — Part 15",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "除",
+      "romaji": "chú",
+      "meaning": "to get rid of; to remove; to exclude; to eliminate; to wipe out; to divide; except; not including"
+    },
+    {
+      "type": "hanzi",
+      "character": "除非",
+      "romaji": "chú fēi",
+      "meaning": "only if (...; or otherwise; ...); only when; only in the case that; unless"
+    },
+    {
+      "type": "hanzi",
+      "character": "除夕",
+      "romaji": "chú xī",
+      "meaning": "(New Year's) Eve"
+    },
+    {
+      "type": "hanzi",
+      "character": "处理",
+      "romaji": "chǔ lǐ",
+      "meaning": "to handle; to treat; to deal with; to process; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "传播",
+      "romaji": "chuán bō",
+      "meaning": "to disseminate; to propagate; to spread"
+    },
+    {
+      "type": "hanzi",
+      "character": "传递",
+      "romaji": "chuán dì",
+      "meaning": "to transmit; to pass on to sb else"
+    },
+    {
+      "type": "hanzi",
+      "character": "传染",
+      "romaji": "chuán rǎn",
+      "meaning": "to infect; contagious"
+    },
+    {
+      "type": "hanzi",
+      "character": "传说",
+      "romaji": "chuán shuō",
+      "meaning": "legend; folklore; tradition; it is said; they say that..."
+    },
+    {
+      "type": "hanzi",
+      "character": "传统",
+      "romaji": "chuán tǒng",
+      "meaning": "tradition; traditional; convention; conventional; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "窗帘",
+      "romaji": "chuāng lián",
+      "meaning": "window curtains"
+    }
+  ]
+}

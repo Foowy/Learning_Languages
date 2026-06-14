@@ -1,0 +1,67 @@
+{
+  "unit": 27,
+  "lesson": 20,
+  "title": "Vocabulary — Frequency 4191–4200",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "ラッセル",
+      "romaji": "ラッセル",
+      "meaning": "(Russell) snowplow; track-clearing vehicle"
+    },
+    {
+      "type": "kana",
+      "character": "ラッチ",
+      "romaji": "ラッチ",
+      "meaning": "latch"
+    },
+    {
+      "type": "kana",
+      "character": "ラッピング",
+      "romaji": "ラッピング",
+      "meaning": "wrapping"
+    },
+    {
+      "type": "kana",
+      "character": "ラップ",
+      "romaji": "ラップ",
+      "meaning": "plastic wrap; cling film"
+    },
+    {
+      "type": "kana",
+      "character": "ラテックス",
+      "romaji": "ラテックス",
+      "meaning": "latex"
+    },
+    {
+      "type": "kanji",
+      "character": "拉丁",
+      "romaji": "ラテン",
+      "meaning": "Latin (language)"
+    },
+    {
+      "type": "kana",
+      "character": "ラテンアメリカ",
+      "romaji": "ラテンアメリカ",
+      "meaning": "Latin America"
+    },
+    {
+      "type": "kanji",
+      "character": "ラテン語",
+      "romaji": "ラテンご",
+      "meaning": "Latin (language)"
+    },
+    {
+      "type": "kana",
+      "character": "ラトビア",
+      "romaji": "ラトビア",
+      "meaning": "Latvia"
+    },
+    {
+      "type": "kana",
+      "character": "ラドン",
+      "romaji": "ラドン",
+      "meaning": "radon (Rn)"
+    }
+  ]
+}

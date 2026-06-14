@@ -1,0 +1,67 @@
+{
+  "unit": 42,
+  "lesson": 6,
+  "title": "Vocabulary — Frequency 7051–7060",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "競演",
+      "romaji": "きょうえん",
+      "meaning": "contest (between performers); competitive performance"
+    },
+    {
+      "type": "kanji",
+      "character": "競技",
+      "romaji": "きょうぎ",
+      "meaning": "game; match"
+    },
+    {
+      "type": "kanji",
+      "character": "競合",
+      "romaji": "きょうごう",
+      "meaning": "contention; competition"
+    },
+    {
+      "type": "kanji",
+      "character": "競争",
+      "romaji": "きょうそう",
+      "meaning": "competition; contest"
+    },
+    {
+      "type": "kanji",
+      "character": "競争力",
+      "romaji": "きょうそうりょく",
+      "meaning": "competitiveness; competitive edge"
+    },
+    {
+      "type": "kanji",
+      "character": "競走",
+      "romaji": "きょうそう",
+      "meaning": "race; run"
+    },
+    {
+      "type": "kanji",
+      "character": "競艇",
+      "romaji": "きょうてい",
+      "meaning": "kyōtei; boat race"
+    },
+    {
+      "type": "kanji",
+      "character": "競馬",
+      "romaji": "けいば",
+      "meaning": "horse racing"
+    },
+    {
+      "type": "kanji",
+      "character": "競売",
+      "romaji": "きょうばい",
+      "meaning": "auction"
+    },
+    {
+      "type": "kanji",
+      "character": "競歩",
+      "romaji": "きょうほ",
+      "meaning": "racewalking; race walking"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 47,
+  "lesson": 6,
+  "title": "Vocabulary — Frequency 8051–8060",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "減速",
+      "romaji": "げんそく",
+      "meaning": "deceleration"
+    },
+    {
+      "type": "kanji",
+      "character": "減退",
+      "romaji": "げんたい",
+      "meaning": "decline; ebb"
+    },
+    {
+      "type": "kanji",
+      "character": "減点",
+      "romaji": "げんてん",
+      "meaning": "subtracting points; deducting points"
+    },
+    {
+      "type": "kanji",
+      "character": "減反",
+      "romaji": "げんたん",
+      "meaning": "reduction (of crop size); reduction of acreage (under cultivation)"
+    },
+    {
+      "type": "kanji",
+      "character": "減俸",
+      "romaji": "げんぽう",
+      "meaning": "salary reduction; salary cut"
+    },
+    {
+      "type": "kanji",
+      "character": "減免",
+      "romaji": "げんめん",
+      "meaning": "reduction and exemption (e.g. taxes); mitigation and remission (e.g. in criminal law)"
+    },
+    {
+      "type": "kanji",
+      "character": "減量",
+      "romaji": "げんりょう",
+      "meaning": "loss in weight (esp. body weight); weight reduction"
+    },
+    {
+      "type": "kanji",
+      "character": "源",
+      "romaji": "みなもと",
+      "meaning": "source (of a river); fountainhead"
+    },
+    {
+      "type": "kanji",
+      "character": "源泉",
+      "romaji": "げんせん",
+      "meaning": "source (of a spring, etc.)"
+    },
+    {
+      "type": "kanji",
+      "character": "源流",
+      "romaji": "げんりゅう",
+      "meaning": "source (e.g. of a river); headwaters"
+    }
+  ]
+}

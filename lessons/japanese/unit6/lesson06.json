@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 6,
+  "title": "JLPT N2/N1 Kanji — Part 6",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "摘",
+      "romaji": "テキ / つ.む",
+      "meaning": "pinch; pick; pluck"
+    },
+    {
+      "type": "kanji",
+      "character": "系",
+      "romaji": "ケイ",
+      "meaning": "lineage; system"
+    },
+    {
+      "type": "kanji",
+      "character": "郎",
+      "romaji": "ロウ・リョウ / おとこ",
+      "meaning": "son; counter for sons"
+    },
+    {
+      "type": "kanji",
+      "character": "盟",
+      "romaji": "メイ",
+      "meaning": "alliance; oath"
+    },
+    {
+      "type": "kanji",
+      "character": "従",
+      "romaji": "ジュウ・ショウ・ジュ / したが.う・したが.える・より",
+      "meaning": "accompany; obey; submit to"
+    },
+    {
+      "type": "kanji",
+      "character": "隊",
+      "romaji": "タイ",
+      "meaning": "regiment; party; company"
+    },
+    {
+      "type": "kanji",
+      "character": "織",
+      "romaji": "ショク・シキ / お.る・お.り・おり・-おり・-お.り",
+      "meaning": "weave; fabric"
+    },
+    {
+      "type": "kanji",
+      "character": "振",
+      "romaji": "シン / ふ.る・ふ.れる・ふ.るう",
+      "meaning": "shake; wave; wag"
+    },
+    {
+      "type": "kanji",
+      "character": "弁",
+      "romaji": "ベン・ヘン / かんむり・わきま.える・わ.ける・はなびら・あらそ.う",
+      "meaning": "valve; petal; braid"
+    },
+    {
+      "type": "kanji",
+      "character": "就",
+      "romaji": "シュウ・ジュ / つ.く・つ.ける",
+      "meaning": "concerning; settle; take position"
+    }
+  ]
+}

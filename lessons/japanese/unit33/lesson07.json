@@ -1,0 +1,67 @@
+{
+  "unit": 33,
+  "lesson": 7,
+  "title": "Vocabulary — Frequency 5261–5270",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "塩味",
+      "romaji": "しおあじ",
+      "meaning": "salty taste; saltiness"
+    },
+    {
+      "type": "kanji",
+      "character": "汚い",
+      "romaji": "きたない",
+      "meaning": "dirty; filthy"
+    },
+    {
+      "type": "kanji",
+      "character": "汚す",
+      "romaji": "よごす",
+      "meaning": "to pollute; to contaminate"
+    },
+    {
+      "type": "kanji",
+      "character": "汚れる",
+      "romaji": "よごれる",
+      "meaning": "to get dirty; to become dirty"
+    },
+    {
+      "type": "kanji",
+      "character": "汚職",
+      "romaji": "おしょく",
+      "meaning": "corruption (esp. by a government employee); bribery"
+    },
+    {
+      "type": "kanji",
+      "character": "汚水",
+      "romaji": "おすい",
+      "meaning": "filthy water; sewage"
+    },
+    {
+      "type": "kanji",
+      "character": "汚染",
+      "romaji": "おせん",
+      "meaning": "pollution; contamination"
+    },
+    {
+      "type": "kanji",
+      "character": "汚濁",
+      "romaji": "おだく",
+      "meaning": "pollution; contamination"
+    },
+    {
+      "type": "kanji",
+      "character": "汚点",
+      "romaji": "おてん",
+      "meaning": "stain; blot"
+    },
+    {
+      "type": "kanji",
+      "character": "汚物",
+      "romaji": "おぶつ",
+      "meaning": "filth (esp. excrement, feces, urine); muck"
+    }
+  ]
+}

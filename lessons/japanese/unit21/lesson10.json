@@ -1,0 +1,67 @@
+{
+  "unit": 21,
+  "lesson": 10,
+  "title": "Vocabulary — Frequency 2891–2900",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "バトンタッチ",
+      "romaji": "バトンタッチ",
+      "meaning": "passing the baton (in a relay race); baton pass"
+    },
+    {
+      "type": "kana",
+      "character": "バドミントン",
+      "romaji": "バドミントン",
+      "meaning": "badminton"
+    },
+    {
+      "type": "kana",
+      "character": "バナナ",
+      "romaji": "バナナ",
+      "meaning": "banana"
+    },
+    {
+      "type": "kana",
+      "character": "バニラ",
+      "romaji": "バニラ",
+      "meaning": "vanilla"
+    },
+    {
+      "type": "kanji",
+      "character": "発条",
+      "romaji": "ばね",
+      "meaning": "spring (device)"
+    },
+    {
+      "type": "kana",
+      "character": "バブル",
+      "romaji": "バブル",
+      "meaning": "bubble"
+    },
+    {
+      "type": "kana",
+      "character": "バプテスト",
+      "romaji": "バプテスト",
+      "meaning": "Baptist; baptist"
+    },
+    {
+      "type": "kanji",
+      "character": "バベルの塔",
+      "romaji": "バベルのとう",
+      "meaning": "Tower of Babel"
+    },
+    {
+      "type": "kana",
+      "character": "バムバム",
+      "romaji": "バムバム",
+      "meaning": "bawm bawm (phenomenon) (name of Japanese pop song)"
+    },
+    {
+      "type": "kana",
+      "character": "バラード",
+      "romaji": "バラード",
+      "meaning": "ballade (narrative poetry, musical composition)"
+    }
+  ]
+}

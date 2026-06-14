@@ -1,0 +1,67 @@
+{
+  "unit": 36,
+  "lesson": 9,
+  "title": "Vocabulary — Frequency 5881–5890",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "海豚",
+      "romaji": "いるか",
+      "meaning": "dolphin (or other small toothed whales, incl. porpoises, belugas, etc.)"
+    },
+    {
+      "type": "kanji",
+      "character": "海難",
+      "romaji": "かいなん",
+      "meaning": "accident at sea; sea disaster"
+    },
+    {
+      "type": "kanji",
+      "character": "海抜",
+      "romaji": "かいばつ",
+      "meaning": "height above sea level"
+    },
+    {
+      "type": "kanji",
+      "character": "海浜",
+      "romaji": "かいひん",
+      "meaning": "seashore; seaside"
+    },
+    {
+      "type": "kanji",
+      "character": "海兵隊",
+      "romaji": "かいへいたい",
+      "meaning": "Marine Corps; Royal Marines"
+    },
+    {
+      "type": "kanji",
+      "character": "海辺",
+      "romaji": "うみべ",
+      "meaning": "beach; seashore"
+    },
+    {
+      "type": "kanji",
+      "character": "海面",
+      "romaji": "かいめん",
+      "meaning": "sea level; (surface of) sea"
+    },
+    {
+      "type": "kanji",
+      "character": "海洋",
+      "romaji": "かいよう",
+      "meaning": "ocean; sea"
+    },
+    {
+      "type": "kanji",
+      "character": "海流",
+      "romaji": "かいりゅう",
+      "meaning": "ocean current"
+    },
+    {
+      "type": "kanji",
+      "character": "海路",
+      "romaji": "かいろ",
+      "meaning": "sea route"
+    }
+  ]
+}

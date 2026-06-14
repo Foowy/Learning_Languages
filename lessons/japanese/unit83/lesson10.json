@@ -1,0 +1,67 @@
+{
+  "unit": 83,
+  "lesson": 10,
+  "title": "Vocabulary — Frequency 15291–15300",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "買う",
+      "romaji": "かう",
+      "meaning": "to buy; to purchase"
+    },
+    {
+      "type": "kanji",
+      "character": "買収",
+      "romaji": "ばいしゅう",
+      "meaning": "acquisition (esp. corporate); buy-out"
+    },
+    {
+      "type": "kanji",
+      "character": "売り込み",
+      "romaji": "うりこみ",
+      "meaning": "sales promotion; hard selling"
+    },
+    {
+      "type": "kanji",
+      "character": "売り込む",
+      "romaji": "うりこむ",
+      "meaning": "to build a market for; to promote (a product)"
+    },
+    {
+      "type": "kanji",
+      "character": "売り出す",
+      "romaji": "うりだす",
+      "meaning": "to put on the market; to put out for sale"
+    },
+    {
+      "type": "kanji",
+      "character": "売り切れ",
+      "romaji": "うりきれ",
+      "meaning": "sold-out"
+    },
+    {
+      "type": "kanji",
+      "character": "売り切れる",
+      "romaji": "うりきれる",
+      "meaning": "to be sold out"
+    },
+    {
+      "type": "kanji",
+      "character": "売り物",
+      "romaji": "うりもの",
+      "meaning": "article for sale; goods for sale"
+    },
+    {
+      "type": "kanji",
+      "character": "売る",
+      "romaji": "うる",
+      "meaning": "to sell"
+    },
+    {
+      "type": "kanji",
+      "character": "売れる",
+      "romaji": "うれる",
+      "meaning": "to sell (well)"
+    }
+  ]
+}

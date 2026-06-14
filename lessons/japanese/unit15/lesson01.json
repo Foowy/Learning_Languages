@@ -1,0 +1,67 @@
+{
+  "unit": 15,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 1601–1610",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "サラブレッド",
+      "romaji": "サラブレッド",
+      "meaning": "thoroughbred (horse)"
+    },
+    {
+      "type": "kana",
+      "character": "サラリー",
+      "romaji": "サラリー",
+      "meaning": "salary"
+    },
+    {
+      "type": "kana",
+      "character": "サラリーマン",
+      "romaji": "サラリーマン",
+      "meaning": "office worker; company employee"
+    },
+    {
+      "type": "kana",
+      "character": "サリー",
+      "romaji": "サリー",
+      "meaning": "sari; saree"
+    },
+    {
+      "type": "kana",
+      "character": "サリン",
+      "romaji": "サリン",
+      "meaning": "sarin (nerve agent)"
+    },
+    {
+      "type": "kana",
+      "character": "サルーン",
+      "romaji": "サルーン",
+      "meaning": "saloon"
+    },
+    {
+      "type": "kana",
+      "character": "サルサ",
+      "romaji": "サルサ",
+      "meaning": "salsa (dance)"
+    },
+    {
+      "type": "kana",
+      "character": "サルバルサン",
+      "romaji": "サルバルサン",
+      "meaning": "Salvarsan (brand of arsphenamine)"
+    },
+    {
+      "type": "kana",
+      "character": "サロン",
+      "romaji": "サロン",
+      "meaning": "salon; saloon"
+    },
+    {
+      "type": "kana",
+      "character": "サンキュー",
+      "romaji": "サンキュー",
+      "meaning": "thank you; thanks"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 89,
+  "lesson": 16,
+  "title": "Vocabulary — Frequency 16551–16560",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "母校",
+      "romaji": "ぼこう",
+      "meaning": "alma mater"
+    },
+    {
+      "type": "kanji",
+      "character": "母国",
+      "romaji": "ぼこく",
+      "meaning": "one's home country; one's homeland"
+    },
+    {
+      "type": "kanji",
+      "character": "母国語",
+      "romaji": "ぼこくご",
+      "meaning": "language of one's country; mother tongue"
+    },
+    {
+      "type": "kanji",
+      "character": "母子",
+      "romaji": "ぼし",
+      "meaning": "mother and child"
+    },
+    {
+      "type": "kanji",
+      "character": "母親",
+      "romaji": "ははおや",
+      "meaning": "mother"
+    },
+    {
+      "type": "kanji",
+      "character": "母性",
+      "romaji": "ぼせい",
+      "meaning": "motherhood; maternity"
+    },
+    {
+      "type": "kanji",
+      "character": "母体",
+      "romaji": "ぼたい",
+      "meaning": "mother's body (esp. when pregnant or after giving birth)"
+    },
+    {
+      "type": "kanji",
+      "character": "母胎",
+      "romaji": "ぼたい",
+      "meaning": "womb; uterus"
+    },
+    {
+      "type": "kanji",
+      "character": "母乳",
+      "romaji": "ぼにゅう",
+      "meaning": "mother's milk"
+    },
+    {
+      "type": "kanji",
+      "character": "母方",
+      "romaji": "ははかた",
+      "meaning": "mother's side of family"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 9,
+  "lesson": 4,
+  "title": "Vocabulary — Frequency 431–440",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "めく",
+      "romaji": "めく",
+      "meaning": "to show signs of ...; to have the appearance of ..."
+    },
+    {
+      "type": "kana",
+      "character": "めっきり",
+      "romaji": "めっきり",
+      "meaning": "remarkably; noticeably"
+    },
+    {
+      "type": "kana",
+      "character": "もう",
+      "romaji": "もう",
+      "meaning": "already; yet"
+    },
+    {
+      "type": "kanji",
+      "character": "藻掻く",
+      "romaji": "もがく",
+      "meaning": "to struggle; to writhe"
+    },
+    {
+      "type": "kanji",
+      "character": "若し",
+      "romaji": "もし",
+      "meaning": "if; in case"
+    },
+    {
+      "type": "kanji",
+      "character": "若しかしたら",
+      "romaji": "もしかしたら",
+      "meaning": "perhaps; maybe"
+    },
+    {
+      "type": "kanji",
+      "character": "若しかして",
+      "romaji": "もしかして",
+      "meaning": "perhaps; possibly"
+    },
+    {
+      "type": "kanji",
+      "character": "若しかすると",
+      "romaji": "もしかすると",
+      "meaning": "perhaps; possibly"
+    },
+    {
+      "type": "kana",
+      "character": "もしもし",
+      "romaji": "もしもし",
+      "meaning": "hello (e.g. on phone)"
+    },
+    {
+      "type": "kana",
+      "character": "もっと",
+      "romaji": "もっと",
+      "meaning": "(some) more; even more"
+    }
+  ]
+}

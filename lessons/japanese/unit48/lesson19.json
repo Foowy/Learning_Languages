@@ -1,0 +1,67 @@
+{
+  "unit": 48,
+  "lesson": 19,
+  "title": "Vocabulary — Frequency 8381–8390",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "公使",
+      "romaji": "こうし",
+      "meaning": "envoy; diplomat below the rank of ambassador (e.g. deputy chief of mission, charge d'affaires)"
+    },
+    {
+      "type": "kanji",
+      "character": "公司",
+      "romaji": "コンス",
+      "meaning": "company (in China); firm"
+    },
+    {
+      "type": "kanji",
+      "character": "公子",
+      "romaji": "こうし",
+      "meaning": "young nobleman"
+    },
+    {
+      "type": "kanji",
+      "character": "公私",
+      "romaji": "こうし",
+      "meaning": "public and private matters; official and personal affairs"
+    },
+    {
+      "type": "kanji",
+      "character": "公示",
+      "romaji": "こうじ",
+      "meaning": "public announcement; official notice"
+    },
+    {
+      "type": "kanji",
+      "character": "公式",
+      "romaji": "こうしき",
+      "meaning": "official; formal"
+    },
+    {
+      "type": "kanji",
+      "character": "公社",
+      "romaji": "こうしゃ",
+      "meaning": "public corporation"
+    },
+    {
+      "type": "kanji",
+      "character": "公社債",
+      "romaji": "こうしゃさい",
+      "meaning": "public bonds"
+    },
+    {
+      "type": "kanji",
+      "character": "公爵",
+      "romaji": "こうしゃく",
+      "meaning": "prince; duke"
+    },
+    {
+      "type": "kanji",
+      "character": "公衆",
+      "romaji": "こうしゅう",
+      "meaning": "the public; general public"
+    }
+  ]
+}

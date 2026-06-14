@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 19,
+  "title": "HSK 6 Vocabulary — Part 19",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "布告",
+      "romaji": "bù gào",
+      "meaning": "posting on a bulletin board; notice; bulletin; to announce"
+    },
+    {
+      "type": "hanzi",
+      "character": "布局",
+      "romaji": "bù jú",
+      "meaning": "arrangement; composition; layout; opening (chess jargon)"
+    },
+    {
+      "type": "hanzi",
+      "character": "布置",
+      "romaji": "bù zhì",
+      "meaning": "to put in order; to arrange; to decorate; to fix up; to deploy"
+    },
+    {
+      "type": "hanzi",
+      "character": "步伐",
+      "romaji": "bù fá",
+      "meaning": "pace; (measured) step; march"
+    },
+    {
+      "type": "hanzi",
+      "character": "部署",
+      "romaji": "bù shǔ",
+      "meaning": "to dispose; to deploy; deployment"
+    },
+    {
+      "type": "hanzi",
+      "character": "部位",
+      "romaji": "bù wèi",
+      "meaning": "position; place"
+    },
+    {
+      "type": "hanzi",
+      "character": "才干",
+      "romaji": "cái gàn",
+      "meaning": "ability; competence"
+    },
+    {
+      "type": "hanzi",
+      "character": "财富",
+      "romaji": "cái fù",
+      "meaning": "wealth; riches"
+    },
+    {
+      "type": "hanzi",
+      "character": "财务",
+      "romaji": "cái wù",
+      "meaning": "financial affairs"
+    },
+    {
+      "type": "hanzi",
+      "character": "财政",
+      "romaji": "cái zhèng",
+      "meaning": "finances (public); financial"
+    }
+  ]
+}

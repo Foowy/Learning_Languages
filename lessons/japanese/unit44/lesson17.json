@@ -1,0 +1,67 @@
+{
+  "unit": 44,
+  "lesson": 17,
+  "title": "Vocabulary — Frequency 7561–7570",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "形容",
+      "romaji": "けいよう",
+      "meaning": "description; expression (in words)"
+    },
+    {
+      "type": "kanji",
+      "character": "形容詞",
+      "romaji": "けいようし",
+      "meaning": "adjective; i-adjective (in Japanese)"
+    },
+    {
+      "type": "kanji",
+      "character": "恵み",
+      "romaji": "めぐみ",
+      "meaning": "blessing; grace"
+    },
+    {
+      "type": "kanji",
+      "character": "恵む",
+      "romaji": "めぐむ",
+      "meaning": "to bless; to show mercy to"
+    },
+    {
+      "type": "kanji",
+      "character": "恵比寿",
+      "romaji": "えびす",
+      "meaning": "Ebisu; god of fishing and commerce"
+    },
+    {
+      "type": "kanji",
+      "character": "慶事",
+      "romaji": "けいじ",
+      "meaning": "happy event; auspicious event"
+    },
+    {
+      "type": "kanji",
+      "character": "慶祝",
+      "romaji": "けいしゅく",
+      "meaning": "congratulation; celebration"
+    },
+    {
+      "type": "kanji",
+      "character": "慶弔",
+      "romaji": "けいちょう",
+      "meaning": "congratulations and condolences"
+    },
+    {
+      "type": "kanji",
+      "character": "憩い",
+      "romaji": "いこい",
+      "meaning": "rest; relaxation"
+    },
+    {
+      "type": "kanji",
+      "character": "憩う",
+      "romaji": "いこう",
+      "meaning": "to rest; to relax"
+    }
+  ]
+}

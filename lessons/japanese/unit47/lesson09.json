@@ -1,0 +1,67 @@
+{
+  "unit": 47,
+  "lesson": 9,
+  "title": "Vocabulary — Frequency 8081–8090",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "現地",
+      "romaji": "げんち",
+      "meaning": "actual place; actual location"
+    },
+    {
+      "type": "kanji",
+      "character": "現物",
+      "romaji": "げんぶつ",
+      "meaning": "actual article or goods"
+    },
+    {
+      "type": "kanji",
+      "character": "現役",
+      "romaji": "げんえき",
+      "meaning": "active duty; active service"
+    },
+    {
+      "type": "kanji",
+      "character": "言い回し",
+      "romaji": "いいまわし",
+      "meaning": "expression; phraseology"
+    },
+    {
+      "type": "kanji",
+      "character": "言い出す",
+      "romaji": "いいだす",
+      "meaning": "to begin to say; to start talking"
+    },
+    {
+      "type": "kanji",
+      "character": "言い切る",
+      "romaji": "いいきる",
+      "meaning": "to declare; to assert"
+    },
+    {
+      "type": "kanji",
+      "character": "言い渡す",
+      "romaji": "いいわたす",
+      "meaning": "to announce; to tell"
+    },
+    {
+      "type": "kanji",
+      "character": "言い表す",
+      "romaji": "いいあらわす",
+      "meaning": "to express (in words)"
+    },
+    {
+      "type": "kanji",
+      "character": "言い分",
+      "romaji": "いいぶん",
+      "meaning": "one's say; one's point"
+    },
+    {
+      "type": "kanji",
+      "character": "言い返す",
+      "romaji": "いいかえす",
+      "meaning": "to talk back; to answer back"
+    }
+  ]
+}

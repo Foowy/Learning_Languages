@@ -1,0 +1,67 @@
+{
+  "unit": 19,
+  "lesson": 5,
+  "title": "Vocabulary — Frequency 2441–2450",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "デシ",
+      "romaji": "デシ",
+      "meaning": "deci-; 10^-1"
+    },
+    {
+      "type": "kana",
+      "character": "デシベル",
+      "romaji": "デシベル",
+      "meaning": "decibel; dB"
+    },
+    {
+      "type": "kana",
+      "character": "デジタル",
+      "romaji": "デジタル",
+      "meaning": "digital"
+    },
+    {
+      "type": "kana",
+      "character": "デスク",
+      "romaji": "デスク",
+      "meaning": "desk"
+    },
+    {
+      "type": "kana",
+      "character": "デタント",
+      "romaji": "デタント",
+      "meaning": "detente"
+    },
+    {
+      "type": "kana",
+      "character": "デッキ",
+      "romaji": "デッキ",
+      "meaning": "deck (of a ship)"
+    },
+    {
+      "type": "kana",
+      "character": "デッサン",
+      "romaji": "デッサン",
+      "meaning": "rough sketch"
+    },
+    {
+      "type": "kana",
+      "character": "デッド",
+      "romaji": "デッド",
+      "meaning": "dead (money, stock, etc.)"
+    },
+    {
+      "type": "kana",
+      "character": "デッドヒート",
+      "romaji": "デッドヒート",
+      "meaning": "fiercely fought contest; close game (match, race, etc.)"
+    },
+    {
+      "type": "kana",
+      "character": "デニール",
+      "romaji": "デニール",
+      "meaning": "denier"
+    }
+  ]
+}

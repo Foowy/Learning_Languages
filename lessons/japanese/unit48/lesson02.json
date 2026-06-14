@@ -1,0 +1,67 @@
+{
+  "unit": 48,
+  "lesson": 2,
+  "title": "Vocabulary — Frequency 8211–8220",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "五十音",
+      "romaji": "ごじゅうおん",
+      "meaning": "the Japanese syllabary"
+    },
+    {
+      "type": "kanji",
+      "character": "五十三次",
+      "romaji": "ごじゅうさんつぎ",
+      "meaning": "fifty-three stations on the Tōkaidō (Edo-Kyoto highway in Edo-period Japan)"
+    },
+    {
+      "type": "kanji",
+      "character": "五体",
+      "romaji": "ごたい",
+      "meaning": "the whole body"
+    },
+    {
+      "type": "kanji",
+      "character": "５日",
+      "romaji": "いつか",
+      "meaning": "5th day of the month"
+    },
+    {
+      "type": "kanji",
+      "character": "五分",
+      "romaji": "ごぶ",
+      "meaning": "half; 50%"
+    },
+    {
+      "type": "kanji",
+      "character": "互い",
+      "romaji": "たがい",
+      "meaning": "each other; one another"
+    },
+    {
+      "type": "kanji",
+      "character": "互いに",
+      "romaji": "たがいに",
+      "meaning": "mutually; with each other"
+    },
+    {
+      "type": "kanji",
+      "character": "互い違い",
+      "romaji": "たがいちがい",
+      "meaning": "alternate; alternation"
+    },
+    {
+      "type": "kanji",
+      "character": "互角",
+      "romaji": "ごかく",
+      "meaning": "equal (in ability); even"
+    },
+    {
+      "type": "kanji",
+      "character": "互換",
+      "romaji": "ごかん",
+      "meaning": "interchange"
+    }
+  ]
+}

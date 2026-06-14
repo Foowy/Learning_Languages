@@ -1,0 +1,67 @@
+{
+  "unit": 12,
+  "lesson": 15,
+  "title": "Vocabulary — Frequency 1141–1150",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "キリスト教",
+      "romaji": "キリストきょう",
+      "meaning": "Christianity"
+    },
+    {
+      "type": "kana",
+      "character": "キリル",
+      "romaji": "キリル",
+      "meaning": "Cyrillic"
+    },
+    {
+      "type": "kana",
+      "character": "キル",
+      "romaji": "キル",
+      "meaning": "kill"
+    },
+    {
+      "type": "kana",
+      "character": "キロ",
+      "romaji": "キロ",
+      "meaning": "kilo-; 1000"
+    },
+    {
+      "type": "kanji",
+      "character": "瓩",
+      "romaji": "キログラム",
+      "meaning": "kilogram; kilogramme"
+    },
+    {
+      "type": "kanji",
+      "character": "粁",
+      "romaji": "キロメートル",
+      "meaning": "kilometer; kilometre"
+    },
+    {
+      "type": "kana",
+      "character": "キロワット",
+      "romaji": "キロワット",
+      "meaning": "kilowatt; kW"
+    },
+    {
+      "type": "kana",
+      "character": "キング",
+      "romaji": "キング",
+      "meaning": "king"
+    },
+    {
+      "type": "kana",
+      "character": "ギア",
+      "romaji": "ギア",
+      "meaning": "gear"
+    },
+    {
+      "type": "kana",
+      "character": "ギガ",
+      "romaji": "ギガ",
+      "meaning": "giga-; 10^9"
+    }
+  ]
+}

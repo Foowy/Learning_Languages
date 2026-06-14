@@ -1,0 +1,67 @@
+{
+  "unit": 18,
+  "lesson": 4,
+  "title": "Vocabulary — Frequency 2231–2240",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "タンクローリー",
+      "romaji": "タンクローリー",
+      "meaning": "tank truck; tanker truck"
+    },
+    {
+      "type": "kana",
+      "character": "タンザニア",
+      "romaji": "タンザニア",
+      "meaning": "Tanzania"
+    },
+    {
+      "type": "kana",
+      "character": "タンデム",
+      "romaji": "タンデム",
+      "meaning": "tandem; (riding with a) passenger on a motorcycle"
+    },
+    {
+      "type": "kana",
+      "character": "ダーク",
+      "romaji": "ダーク",
+      "meaning": "dark"
+    },
+    {
+      "type": "kanji",
+      "character": "打",
+      "romaji": "ダース",
+      "meaning": "dozen"
+    },
+    {
+      "type": "kana",
+      "character": "ダーリン",
+      "romaji": "ダーリン",
+      "meaning": "darling"
+    },
+    {
+      "type": "kana",
+      "character": "ダイアグラム",
+      "romaji": "ダイアグラム",
+      "meaning": "diagram"
+    },
+    {
+      "type": "kana",
+      "character": "ダイエット",
+      "romaji": "ダイエット",
+      "meaning": "diet; dieting"
+    },
+    {
+      "type": "kana",
+      "character": "ダイオード",
+      "romaji": "ダイオード",
+      "meaning": "diode"
+    },
+    {
+      "type": "kana",
+      "character": "ダイジェスト",
+      "romaji": "ダイジェスト",
+      "meaning": "digest; summary"
+    }
+  ]
+}

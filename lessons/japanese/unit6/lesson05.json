@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 5,
+  "title": "JLPT N2/N1 Kanji — Part 5",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "士",
+      "romaji": "シ / さむらい",
+      "meaning": "gentleman; scholar; samurai"
+    },
+    {
+      "type": "kanji",
+      "character": "討",
+      "romaji": "トウ / う.つ",
+      "meaning": "chastise; attack; defeat"
+    },
+    {
+      "type": "kanji",
+      "character": "攻",
+      "romaji": "コウ / せ.める",
+      "meaning": "aggression; attack; criticize"
+    },
+    {
+      "type": "kanji",
+      "character": "崎",
+      "romaji": "キ / さき・さい・みさき",
+      "meaning": "promontory; cape; spit"
+    },
+    {
+      "type": "kanji",
+      "character": "督",
+      "romaji": "トク",
+      "meaning": "coach; command; urge"
+    },
+    {
+      "type": "kanji",
+      "character": "催",
+      "romaji": "サイ / もよう.す・もよお.す",
+      "meaning": "sponsor; hold (a meeting); give (a dinner)"
+    },
+    {
+      "type": "kanji",
+      "character": "及",
+      "romaji": "キュウ / およ.ぶ・およ.び・および・およ.ぼす",
+      "meaning": "reach out; exert; exercise"
+    },
+    {
+      "type": "kanji",
+      "character": "憲",
+      "romaji": "ケン",
+      "meaning": "constitution; law"
+    },
+    {
+      "type": "kanji",
+      "character": "離",
+      "romaji": "リ / はな.れる・はな.す",
+      "meaning": "detach; separation; disjoin"
+    },
+    {
+      "type": "kanji",
+      "character": "激",
+      "romaji": "ゲキ / はげ.しい",
+      "meaning": "violent; get excited; enraged"
+    }
+  ]
+}

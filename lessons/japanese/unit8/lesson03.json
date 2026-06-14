@@ -1,0 +1,67 @@
+{
+  "unit": 8,
+  "lesson": 3,
+  "title": "Vocabulary — Frequency 221–230",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "す可き",
+      "romaji": "すべき",
+      "meaning": "should do; ought to do"
+    },
+    {
+      "type": "kana",
+      "character": "すやすや",
+      "romaji": "すやすや",
+      "meaning": "(sleeping) peacefully; quietly"
+    },
+    {
+      "type": "kana",
+      "character": "スラスラ",
+      "romaji": "スラスラ",
+      "meaning": "smoothly; easily"
+    },
+    {
+      "type": "kana",
+      "character": "すると",
+      "romaji": "すると",
+      "meaning": "(and) then; and"
+    },
+    {
+      "type": "kanji",
+      "character": "擦れ擦れ",
+      "romaji": "すれすれ",
+      "meaning": "grazing; skimming"
+    },
+    {
+      "type": "kana",
+      "character": "ズキズキ",
+      "romaji": "ズキズキ",
+      "meaning": "throbbingly (of pain)"
+    },
+    {
+      "type": "kana",
+      "character": "ずっと",
+      "romaji": "ずっと",
+      "meaning": "continuously; the whole time"
+    },
+    {
+      "type": "kana",
+      "character": "ズバリ",
+      "romaji": "ズバリ",
+      "meaning": "decisively; decidedly"
+    },
+    {
+      "type": "kana",
+      "character": "ずらす",
+      "romaji": "ずらす",
+      "meaning": "to shift; to move"
+    },
+    {
+      "type": "kana",
+      "character": "ずるずる",
+      "romaji": "ずるずる",
+      "meaning": "(dragging a large or heavy item) slowly"
+    }
+  ]
+}

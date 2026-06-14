@@ -1,0 +1,67 @@
+{
+  "unit": 10,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 601–610",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "アンサンブル",
+      "romaji": "アンサンブル",
+      "meaning": "ensemble"
+    },
+    {
+      "type": "kana",
+      "character": "アンソロジー",
+      "romaji": "アンソロジー",
+      "meaning": "anthology"
+    },
+    {
+      "type": "kana",
+      "character": "アンダー",
+      "romaji": "アンダー",
+      "meaning": "under"
+    },
+    {
+      "type": "kana",
+      "character": "アンダーライン",
+      "romaji": "アンダーライン",
+      "meaning": "underline"
+    },
+    {
+      "type": "kana",
+      "character": "アンチ",
+      "romaji": "アンチ",
+      "meaning": "anti-"
+    },
+    {
+      "type": "kana",
+      "character": "アンティーク",
+      "romaji": "アンティーク",
+      "meaning": "antique"
+    },
+    {
+      "type": "kana",
+      "character": "アンテナ",
+      "romaji": "アンテナ",
+      "meaning": "antenna"
+    },
+    {
+      "type": "kanji",
+      "character": "＆",
+      "romaji": "アンド",
+      "meaning": "and"
+    },
+    {
+      "type": "kana",
+      "character": "アンドロイド",
+      "romaji": "アンドロイド",
+      "meaning": "android"
+    },
+    {
+      "type": "kana",
+      "character": "アンバランス",
+      "romaji": "アンバランス",
+      "meaning": "unbalance; imbalance"
+    }
+  ]
+}

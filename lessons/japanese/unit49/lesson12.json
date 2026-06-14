@@ -1,0 +1,67 @@
+{
+  "unit": 49,
+  "lesson": 12,
+  "title": "Vocabulary — Frequency 8511–8520",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "工夫",
+      "romaji": "くふう",
+      "meaning": "devising (a way); contriving"
+    },
+    {
+      "type": "kanji",
+      "character": "工兵",
+      "romaji": "こうへい",
+      "meaning": "combat engineer; military engineer"
+    },
+    {
+      "type": "kanji",
+      "character": "工法",
+      "romaji": "こうほう",
+      "meaning": "method of construction"
+    },
+    {
+      "type": "kanji",
+      "character": "工房",
+      "romaji": "こうぼう",
+      "meaning": "workshop; studio"
+    },
+    {
+      "type": "kanji",
+      "character": "工務",
+      "romaji": "こうむ",
+      "meaning": "engineering; engineering works"
+    },
+    {
+      "type": "kanji",
+      "character": "巧み",
+      "romaji": "たくみ",
+      "meaning": "skillful; adroit"
+    },
+    {
+      "type": "kanji",
+      "character": "巧者",
+      "romaji": "こうしゃ",
+      "meaning": "cleverness; skill"
+    },
+    {
+      "type": "kanji",
+      "character": "巧拙",
+      "romaji": "こうせつ",
+      "meaning": "skill; workmanship"
+    },
+    {
+      "type": "kanji",
+      "character": "巧妙",
+      "romaji": "こうみょう",
+      "meaning": "ingenious; skillful"
+    },
+    {
+      "type": "kanji",
+      "character": "巷",
+      "romaji": "ちまた",
+      "meaning": "the public; the street (e.g. \"word on the street\")"
+    }
+  ]
+}

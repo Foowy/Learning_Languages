@@ -1,0 +1,67 @@
+{
+  "unit": 23,
+  "lesson": 2,
+  "title": "Vocabulary — Frequency 3211–3220",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "ファンダメンタルズ",
+      "romaji": "ファンダメンタルズ",
+      "meaning": "fundamentals"
+    },
+    {
+      "type": "kana",
+      "character": "ファンデーション",
+      "romaji": "ファンデーション",
+      "meaning": "foundation (makeup)"
+    },
+    {
+      "type": "kana",
+      "character": "ファントム",
+      "romaji": "ファントム",
+      "meaning": "phantom"
+    },
+    {
+      "type": "kana",
+      "character": "ファンド",
+      "romaji": "ファンド",
+      "meaning": "fund"
+    },
+    {
+      "type": "kana",
+      "character": "フィーダ",
+      "romaji": "フィーダ",
+      "meaning": "feeder"
+    },
+    {
+      "type": "kanji",
+      "character": "呎",
+      "romaji": "フィート",
+      "meaning": "feet; foot"
+    },
+    {
+      "type": "kana",
+      "character": "フィードバック",
+      "romaji": "フィードバック",
+      "meaning": "feedback (on a product, person's performance, etc.)"
+    },
+    {
+      "type": "kana",
+      "character": "フィーバー",
+      "romaji": "フィーバー",
+      "meaning": "fever (state of excitement)"
+    },
+    {
+      "type": "kana",
+      "character": "フィーリング",
+      "romaji": "フィーリング",
+      "meaning": "feeling"
+    },
+    {
+      "type": "kana",
+      "character": "フィールド",
+      "romaji": "フィールド",
+      "meaning": "field"
+    }
+  ]
+}

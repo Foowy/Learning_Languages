@@ -1,0 +1,67 @@
+{
+  "unit": 16,
+  "lesson": 3,
+  "title": "Vocabulary — Frequency 1821–1830",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "ジャージー",
+      "romaji": "ジャージー",
+      "meaning": "jersey (fabric)"
+    },
+    {
+      "type": "kana",
+      "character": "ジャーナリスト",
+      "romaji": "ジャーナリスト",
+      "meaning": "journalist"
+    },
+    {
+      "type": "kana",
+      "character": "ジャーナリズム",
+      "romaji": "ジャーナリズム",
+      "meaning": "journalism"
+    },
+    {
+      "type": "kana",
+      "character": "ジャーナル",
+      "romaji": "ジャーナル",
+      "meaning": "journal; log"
+    },
+    {
+      "type": "kana",
+      "character": "ジャイアント",
+      "romaji": "ジャイアント",
+      "meaning": "giant"
+    },
+    {
+      "type": "kana",
+      "character": "ジャイロスコープ",
+      "romaji": "ジャイロスコープ",
+      "meaning": "gyroscope"
+    },
+    {
+      "type": "kana",
+      "character": "ジャカルタ",
+      "romaji": "ジャカルタ",
+      "meaning": "Jakarta (Indonesia)"
+    },
+    {
+      "type": "kana",
+      "character": "ジャガー",
+      "romaji": "ジャガー",
+      "meaning": "jaguar (Panthera onca)"
+    },
+    {
+      "type": "kana",
+      "character": "ジャケット",
+      "romaji": "ジャケット",
+      "meaning": "jacket"
+    },
+    {
+      "type": "kanji",
+      "character": "ＪＡＳ",
+      "romaji": "ジャス",
+      "meaning": "Japanese Agricultural Standard; JAS"
+    }
+  ]
+}

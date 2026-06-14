@@ -1,0 +1,67 @@
+{
+  "unit": 117,
+  "lesson": 9,
+  "title": "Vocabulary — Frequency 22081–22090",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "方がいい",
+      "romaji": "ほうがいい",
+      "meaning": "had better ..."
+    },
+    {
+      "type": "kanji",
+      "character": "独",
+      "romaji": "どく",
+      "meaning": "Germany"
+    },
+    {
+      "type": "kanji",
+      "character": "神戸",
+      "romaji": "こうべ",
+      "meaning": "Kobe (city)"
+    },
+    {
+      "type": "kanji",
+      "character": "横浜",
+      "romaji": "よこはま",
+      "meaning": "Yokohama (city)"
+    },
+    {
+      "type": "kanji",
+      "character": "名古屋",
+      "romaji": "なごや",
+      "meaning": "Nagoya (city)"
+    },
+    {
+      "type": "kanji",
+      "character": "北九州",
+      "romaji": "きたきゅうしゅう",
+      "meaning": "Kitakyushu (city)"
+    },
+    {
+      "type": "kanji",
+      "character": "福岡",
+      "romaji": "ふくおか",
+      "meaning": "Fukuoka (city, prefecture)"
+    },
+    {
+      "type": "kanji",
+      "character": "川崎",
+      "romaji": "かわさき",
+      "meaning": "Kawasaki (city)"
+    },
+    {
+      "type": "kanji",
+      "character": "札幌",
+      "romaji": "さっぽろ",
+      "meaning": "Sapporo (city in Hokkaido)"
+    },
+    {
+      "type": "kanji",
+      "character": "広島",
+      "romaji": "ひろしま",
+      "meaning": "Hiroshima (city, prefecture)"
+    }
+  ]
+}

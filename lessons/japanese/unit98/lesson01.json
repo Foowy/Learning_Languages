@@ -1,0 +1,67 @@
+{
+  "unit": 98,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 18201–18210",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "論外",
+      "romaji": "ろんがい",
+      "meaning": "out of the question; outrageous"
+    },
+    {
+      "type": "kanji",
+      "character": "論議",
+      "romaji": "ろんぎ",
+      "meaning": "discussion; argument"
+    },
+    {
+      "type": "kanji",
+      "character": "論客",
+      "romaji": "ろんきゃく",
+      "meaning": "controversialist; polemic"
+    },
+    {
+      "type": "kanji",
+      "character": "論拠",
+      "romaji": "ろんきょ",
+      "meaning": "grounds of an argument"
+    },
+    {
+      "type": "kanji",
+      "character": "論旨",
+      "romaji": "ろんし",
+      "meaning": "point of an argument; drift of an argument"
+    },
+    {
+      "type": "kanji",
+      "character": "論者",
+      "romaji": "ろんしゃ",
+      "meaning": "advocate; disputant"
+    },
+    {
+      "type": "kanji",
+      "character": "論説",
+      "romaji": "ろんせつ",
+      "meaning": "article; discourse"
+    },
+    {
+      "type": "kanji",
+      "character": "論戦",
+      "romaji": "ろんせん",
+      "meaning": "battle of words; debate"
+    },
+    {
+      "type": "kanji",
+      "character": "論争",
+      "romaji": "ろんそう",
+      "meaning": "dispute; controversy"
+    },
+    {
+      "type": "kanji",
+      "character": "論調",
+      "romaji": "ろんちょう",
+      "meaning": "tone (of argument); tenor"
+    }
+  ]
+}

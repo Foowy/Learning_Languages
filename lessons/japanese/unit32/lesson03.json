@@ -1,0 +1,67 @@
+{
+  "unit": 32,
+  "lesson": 3,
+  "title": "Vocabulary — Frequency 5021–5030",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "引っ越す",
+      "romaji": "ひっこす",
+      "meaning": "to move (house); to change residence"
+    },
+    {
+      "type": "kanji",
+      "character": "引っかかる",
+      "romaji": "ひっかかる",
+      "meaning": "to be caught in; to be stuck in"
+    },
+    {
+      "type": "kanji",
+      "character": "引っ掛ける",
+      "romaji": "ひっかける",
+      "meaning": "to hang (something) on (something); to throw on (clothes)"
+    },
+    {
+      "type": "kanji",
+      "character": "引っ込む",
+      "romaji": "ひっこむ",
+      "meaning": "to draw back; to sink"
+    },
+    {
+      "type": "kanji",
+      "character": "引責",
+      "romaji": "いんせき",
+      "meaning": "taking responsibility"
+    },
+    {
+      "type": "kanji",
+      "character": "引退",
+      "romaji": "いんたい",
+      "meaning": "retirement"
+    },
+    {
+      "type": "kanji",
+      "character": "引用",
+      "romaji": "いんよう",
+      "meaning": "quotation; citation"
+    },
+    {
+      "type": "kanji",
+      "character": "引力",
+      "romaji": "いんりょく",
+      "meaning": "attraction (e.g. magnetic, gravitation); affinity"
+    },
+    {
+      "type": "kanji",
+      "character": "飲む",
+      "romaji": "のむ",
+      "meaning": "to drink; to swallow"
+    },
+    {
+      "type": "kanji",
+      "character": "飲酒",
+      "romaji": "いんしゅ",
+      "meaning": "drinking alcohol"
+    }
+  ]
+}

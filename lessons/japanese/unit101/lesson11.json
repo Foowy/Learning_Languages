@@ -1,0 +1,67 @@
+{
+  "unit": 101,
+  "lesson": 11,
+  "title": "Vocabulary — Frequency 18901–18910",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "歌う",
+      "romaji": "うたう",
+      "meaning": "to sing"
+    },
+    {
+      "type": "kanji",
+      "character": "打ち明ける",
+      "romaji": "うちあける",
+      "meaning": "to confide; to reveal"
+    },
+    {
+      "type": "kanji",
+      "character": "打ち合わせ",
+      "romaji": "うちあわせ",
+      "meaning": "(preparatory) meeting; briefing session"
+    },
+    {
+      "type": "kanji",
+      "character": "打ち合わせる",
+      "romaji": "うちあわせる",
+      "meaning": "to knock together; to strike against each other"
+    },
+    {
+      "type": "kanji",
+      "character": "打ち消し",
+      "romaji": "うちけし",
+      "meaning": "negation; denial"
+    },
+    {
+      "type": "kanji",
+      "character": "内堀",
+      "romaji": "うちぼり",
+      "meaning": "inner moat; moat within the castle walls"
+    },
+    {
+      "type": "kanji",
+      "character": "写す",
+      "romaji": "うつす",
+      "meaning": "to copy; to duplicate"
+    },
+    {
+      "type": "kanji",
+      "character": "映す",
+      "romaji": "うつす",
+      "meaning": "to project; to reflect"
+    },
+    {
+      "type": "kanji",
+      "character": "生む",
+      "romaji": "うむ",
+      "meaning": "to give birth; to bear (child)"
+    },
+    {
+      "type": "kanji",
+      "character": "埋め立て地",
+      "romaji": "うめたてち",
+      "meaning": "reclaimed land"
+    }
+  ]
+}

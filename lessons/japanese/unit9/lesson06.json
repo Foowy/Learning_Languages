@@ -1,0 +1,67 @@
+{
+  "unit": 9,
+  "lesson": 6,
+  "title": "Vocabulary — Frequency 451–460",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "やり方",
+      "romaji": "やりかた",
+      "meaning": "way (of doing); manner"
+    },
+    {
+      "type": "kanji",
+      "character": "遣る",
+      "romaji": "やる",
+      "meaning": "to do; to undertake"
+    },
+    {
+      "type": "kana",
+      "character": "やれやれ",
+      "romaji": "やれやれ",
+      "meaning": "oh!; ah!"
+    },
+    {
+      "type": "kana",
+      "character": "ゆっくり",
+      "romaji": "ゆっくり",
+      "meaning": "slowly; unhurriedly"
+    },
+    {
+      "type": "kana",
+      "character": "ゆとり",
+      "romaji": "ゆとり",
+      "meaning": "elbowroom; leeway"
+    },
+    {
+      "type": "kanji",
+      "character": "揺ら揺ら",
+      "romaji": "ゆらゆら",
+      "meaning": "swaying; swinging"
+    },
+    {
+      "type": "kana",
+      "character": "ようこそ",
+      "romaji": "ようこそ",
+      "meaning": "welcome"
+    },
+    {
+      "type": "kanji",
+      "character": "様に",
+      "romaji": "ように",
+      "meaning": "like; as"
+    },
+    {
+      "type": "kanji",
+      "character": "様にする",
+      "romaji": "ようにする",
+      "meaning": "to see to it that ...; to make sure that ..."
+    },
+    {
+      "type": "kanji",
+      "character": "様になる",
+      "romaji": "ようになる",
+      "meaning": "to reach the point where ...; to come to ..."
+    }
+  ]
+}

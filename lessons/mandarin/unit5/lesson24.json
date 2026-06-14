@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 24,
+  "title": "HSK 5 Vocabulary — Part 24",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "独立",
+      "romaji": "dú lì",
+      "meaning": "independent; independence; to stand alone"
+    },
+    {
+      "type": "hanzi",
+      "character": "独特",
+      "romaji": "dú tè",
+      "meaning": "unique; distinct; having special characteristics"
+    },
+    {
+      "type": "hanzi",
+      "character": "度过",
+      "romaji": "dù guò",
+      "meaning": "to pass; to spend (time); to survive; to get through"
+    },
+    {
+      "type": "hanzi",
+      "character": "短信",
+      "romaji": "duǎn xìn",
+      "meaning": "text message; SMS"
+    },
+    {
+      "type": "hanzi",
+      "character": "堆",
+      "romaji": "duī",
+      "meaning": "to pile up; to heap up; a mass; pile; heap; stack; large amount"
+    },
+    {
+      "type": "hanzi",
+      "character": "对比",
+      "romaji": "duì bǐ",
+      "meaning": "to contrast; contrast; ratio; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "对待",
+      "romaji": "duì dài",
+      "meaning": "to treat; treatment"
+    },
+    {
+      "type": "hanzi",
+      "character": "对方",
+      "romaji": "duì fāng",
+      "meaning": "counterpart; other person involved; opposite side; other side; receiving party"
+    },
+    {
+      "type": "hanzi",
+      "character": "对手",
+      "romaji": "duì shǒu",
+      "meaning": "opponent; adversary; match"
+    },
+    {
+      "type": "hanzi",
+      "character": "对象",
+      "romaji": "duì xiàng",
+      "meaning": "target; object; partner; boyfriend; girlfriend; CL:個|个[gè]"
+    }
+  ]
+}

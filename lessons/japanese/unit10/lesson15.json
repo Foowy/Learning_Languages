@@ -1,0 +1,67 @@
+{
+  "unit": 10,
+  "lesson": 15,
+  "title": "Vocabulary — Frequency 741–750",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "エキスパート",
+      "romaji": "エキスパート",
+      "meaning": "expert"
+    },
+    {
+      "type": "kana",
+      "character": "エキスポ",
+      "romaji": "エキスポ",
+      "meaning": "expo; exposition"
+    },
+    {
+      "type": "kana",
+      "character": "エキゾチック",
+      "romaji": "エキゾチック",
+      "meaning": "exotic"
+    },
+    {
+      "type": "kanji",
+      "character": "厄瓜多",
+      "romaji": "エクアドル",
+      "meaning": "Ecuador"
+    },
+    {
+      "type": "kana",
+      "character": "エクステンション",
+      "romaji": "エクステンション",
+      "meaning": "extension"
+    },
+    {
+      "type": "kana",
+      "character": "エクスプレス",
+      "romaji": "エクスプレス",
+      "meaning": "express"
+    },
+    {
+      "type": "kana",
+      "character": "エグゼクティブ",
+      "romaji": "エグゼクティブ",
+      "meaning": "executive"
+    },
+    {
+      "type": "kana",
+      "character": "エコー",
+      "romaji": "エコー",
+      "meaning": "echo"
+    },
+    {
+      "type": "kana",
+      "character": "エコノミー",
+      "romaji": "エコノミー",
+      "meaning": "economy; economics"
+    },
+    {
+      "type": "kana",
+      "character": "エコノミスト",
+      "romaji": "エコノミスト",
+      "meaning": "economist"
+    }
+  ]
+}

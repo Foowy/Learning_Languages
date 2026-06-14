@@ -1,0 +1,67 @@
+{
+  "unit": 25,
+  "lesson": 13,
+  "title": "Vocabulary — Frequency 3721–3730",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "ボランティア",
+      "romaji": "ボランティア",
+      "meaning": "volunteer"
+    },
+    {
+      "type": "kana",
+      "character": "ボリューム",
+      "romaji": "ボリューム",
+      "meaning": "volume (sound level)"
+    },
+    {
+      "type": "kana",
+      "character": "ボルテージ",
+      "romaji": "ボルテージ",
+      "meaning": "voltage"
+    },
+    {
+      "type": "kana",
+      "character": "ボルト",
+      "romaji": "ボルト",
+      "meaning": "volt"
+    },
+    {
+      "type": "kana",
+      "character": "ボレー",
+      "romaji": "ボレー",
+      "meaning": "volley"
+    },
+    {
+      "type": "kana",
+      "character": "ボレロ",
+      "romaji": "ボレロ",
+      "meaning": "bolero (dance)"
+    },
+    {
+      "type": "kana",
+      "character": "ボン",
+      "romaji": "ボン",
+      "meaning": "good"
+    },
+    {
+      "type": "kana",
+      "character": "ボンド",
+      "romaji": "ボンド",
+      "meaning": "bond"
+    },
+    {
+      "type": "kana",
+      "character": "ボンネット",
+      "romaji": "ボンネット",
+      "meaning": "bonnet; (car) hood"
+    },
+    {
+      "type": "kana",
+      "character": "ボンベ",
+      "romaji": "ボンベ",
+      "meaning": "compressed gas cylinder; aerosol spray can"
+    }
+  ]
+}

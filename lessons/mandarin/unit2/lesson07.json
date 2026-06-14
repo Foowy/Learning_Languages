@@ -1,0 +1,67 @@
+{
+  "unit": 2,
+  "lesson": 7,
+  "title": "HSK 2 Vocabulary — Part 7",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "快",
+      "romaji": "kuài",
+      "meaning": "rapid; quick; speed; rate; soon; almost; to make haste; clever; sharp (of knives or wits); forthright; plain-spoken; gratified; pleased; pleasant"
+    },
+    {
+      "type": "hanzi",
+      "character": "快乐",
+      "romaji": "kuài lè",
+      "meaning": "happy; merry"
+    },
+    {
+      "type": "hanzi",
+      "character": "累",
+      "romaji": "lèi",
+      "meaning": "tired; weary; to strain; to wear out; to work hard"
+    },
+    {
+      "type": "hanzi",
+      "character": "离",
+      "romaji": "lí",
+      "meaning": "to leave; to part from; to be away from; (in giving distances) from; without (sth); independent of; one of the Eight Trigrams 八卦; symbolizing fire; ☲"
+    },
+    {
+      "type": "hanzi",
+      "character": "两",
+      "romaji": "liǎng",
+      "meaning": "both; two; ounce; some; a few; tael; weight equal to 50 grams"
+    },
+    {
+      "type": "hanzi",
+      "character": "路",
+      "romaji": "lù",
+      "meaning": "road; CL:條|条[tiáo]; journey; route; line (bus etc); sort; kind"
+    },
+    {
+      "type": "hanzi",
+      "character": "旅游",
+      "romaji": "lǚ yóu",
+      "meaning": "trip; journey; tourism; travel; tour"
+    },
+    {
+      "type": "hanzi",
+      "character": "卖",
+      "romaji": "mài",
+      "meaning": "to sell; to betray; to spare no effort; to show off or flaunt"
+    },
+    {
+      "type": "hanzi",
+      "character": "慢",
+      "romaji": "màn",
+      "meaning": "slow"
+    },
+    {
+      "type": "hanzi",
+      "character": "忙",
+      "romaji": "máng",
+      "meaning": "busy; hurriedly; to hurry; to rush"
+    }
+  ]
+}

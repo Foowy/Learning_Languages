@@ -1,0 +1,67 @@
+{
+  "unit": 3,
+  "lesson": 7,
+  "title": "HSK 3 Vocabulary — Part 7",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "短",
+      "romaji": "duǎn",
+      "meaning": "short or brief; to lack; weak point; fault"
+    },
+    {
+      "type": "hanzi",
+      "character": "段",
+      "romaji": "duàn",
+      "meaning": "paragraph; section; segment; stage (of a process); classifier for stories; periods of time; lengths of thread etc"
+    },
+    {
+      "type": "hanzi",
+      "character": "锻炼",
+      "romaji": "duàn liàn",
+      "meaning": "to engage in physical exercise; to work out; to toughen; to temper"
+    },
+    {
+      "type": "hanzi",
+      "character": "多么",
+      "romaji": "duō me",
+      "meaning": "how (wonderful etc); what (a great idea etc); however (difficult it may be etc)"
+    },
+    {
+      "type": "hanzi",
+      "character": "饿",
+      "romaji": "è",
+      "meaning": "to be hungry; hungry"
+    },
+    {
+      "type": "hanzi",
+      "character": "而且",
+      "romaji": "ér qiě",
+      "meaning": "(not only ...) but also; moreover; in addition; furthermore"
+    },
+    {
+      "type": "hanzi",
+      "character": "耳朵",
+      "romaji": "ěr duo",
+      "meaning": "ear; CL:隻|只; 個|个; 對|对[duì]"
+    },
+    {
+      "type": "hanzi",
+      "character": "发烧",
+      "romaji": "fā shāo",
+      "meaning": "to have a high temperature (from illness); to have a fever"
+    },
+    {
+      "type": "hanzi",
+      "character": "发现",
+      "romaji": "fā xiàn",
+      "meaning": "to find; to discover"
+    },
+    {
+      "type": "hanzi",
+      "character": "方便",
+      "romaji": "fāng biàn",
+      "meaning": "convenient; to help out; to make things easy for people; convenience; suitable; having money to spare; (euphemism) to go to the toilet"
+    }
+  ]
+}

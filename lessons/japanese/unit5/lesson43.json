@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 43,
+  "title": "JLPT N3 Kanji — Part 43",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "略",
+      "romaji": "リャク / ほぼ・はぶ.く・おか.す・おさ.める・はかりごと・はか.る",
+      "meaning": "abbreviation; omission; outline"
+    },
+    {
+      "type": "kanji",
+      "character": "承",
+      "romaji": "ショウ・ジョウ / うけたまわ.る・う.ける",
+      "meaning": "acquiesce; hear; listen to"
+    },
+    {
+      "type": "kanji",
+      "character": "浮",
+      "romaji": "フ / う.く・う.かれる・う.かぶ・う.かべる",
+      "meaning": "floating; float; rise to surface"
+    },
+    {
+      "type": "kanji",
+      "character": "順",
+      "romaji": "ジュン",
+      "meaning": "obey; order; turn"
+    },
+    {
+      "type": "kanji",
+      "character": "絶",
+      "romaji": "ゼツ / た.える・た.やす・た.つ",
+      "meaning": "discontinue; sever; cut off"
+    },
+    {
+      "type": "kanji",
+      "character": "級",
+      "romaji": "キュウ",
+      "meaning": "class; rank; grade"
+    },
+    {
+      "type": "kanji",
+      "character": "幸",
+      "romaji": "コウ / さいわ.い・さち・しあわ.せ",
+      "meaning": "happiness; blessing; fortune"
+    },
+    {
+      "type": "kanji",
+      "character": "岩",
+      "romaji": "ガン / いわ",
+      "meaning": "boulder; rock; cliff"
+    },
+    {
+      "type": "kanji",
+      "character": "練",
+      "romaji": "レン / ね.る・ね.り",
+      "meaning": "practice; gloss; train"
+    },
+    {
+      "type": "kanji",
+      "character": "押",
+      "romaji": "オウ / お.す・お.し-・お.っ-・お.さえる・おさ.える",
+      "meaning": "push; stop; check"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 34,
+  "title": "JLPT N2/N1 Kanji — Part 34",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "桜",
+      "romaji": "オウ・ヨウ / さくら",
+      "meaning": "cherry"
+    },
+    {
+      "type": "kanji",
+      "character": "滑",
+      "romaji": "カツ・コツ / すべ.る・なめ.らか",
+      "meaning": "slippery; slide; slip"
+    },
+    {
+      "type": "kanji",
+      "character": "孤",
+      "romaji": "コ",
+      "meaning": "orphan; alone"
+    },
+    {
+      "type": "kanji",
+      "character": "炎",
+      "romaji": "エン / ほのお",
+      "meaning": "inflammation; flame; blaze"
+    },
+    {
+      "type": "kanji",
+      "character": "賠",
+      "romaji": "バイ",
+      "meaning": "compensation; indemnify"
+    },
+    {
+      "type": "kanji",
+      "character": "句",
+      "romaji": "ク",
+      "meaning": "phrase; clause; sentence"
+    },
+    {
+      "type": "kanji",
+      "character": "寿",
+      "romaji": "ジュ・ス・シュウ / ことぶき・ことぶ.く・ことほ.ぐ",
+      "meaning": "longevity; congratulations; one's natural life"
+    },
+    {
+      "type": "kanji",
+      "character": "鋼",
+      "romaji": "コウ / はがね",
+      "meaning": "steel"
+    },
+    {
+      "type": "kanji",
+      "character": "頑",
+      "romaji": "ガン / かたく.な",
+      "meaning": "stubborn; foolish; firmly"
+    },
+    {
+      "type": "kanji",
+      "character": "鎖",
+      "romaji": "サ / くさり・とざ.す",
+      "meaning": "chain; irons; connection"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 34,
+  "title": "JLPT N3 Kanji — Part 34",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "歴",
+      "romaji": "レキ・レッキ",
+      "meaning": "curriculum; continuation; passage of time"
+    },
+    {
+      "type": "kanji",
+      "character": "辞",
+      "romaji": "ジ / や.める・いな.む",
+      "meaning": "resign; word; term"
+    },
+    {
+      "type": "kanji",
+      "character": "将",
+      "romaji": "ショウ・ソウ / まさ.に・はた・まさ・ひきい.る・もって",
+      "meaning": "leader; commander; general"
+    },
+    {
+      "type": "kanji",
+      "character": "因",
+      "romaji": "イン / よ.る・ちな.む",
+      "meaning": "cause; factor; be associated with"
+    },
+    {
+      "type": "kanji",
+      "character": "馬",
+      "romaji": "バ / うま・うま-・ま",
+      "meaning": "horse"
+    },
+    {
+      "type": "kanji",
+      "character": "愛",
+      "romaji": "アイ / いと.しい・かな.しい・め.でる・お.しむ・まな",
+      "meaning": "love; affection; favourite"
+    },
+    {
+      "type": "kanji",
+      "character": "幅",
+      "romaji": "フク / はば",
+      "meaning": "hanging scroll; width"
+    },
+    {
+      "type": "kanji",
+      "character": "富",
+      "romaji": "フ・フウ / と.む・とみ",
+      "meaning": "wealth; enrich; abundant"
+    },
+    {
+      "type": "kanji",
+      "character": "彼",
+      "romaji": "ヒ / かれ・かの・か.の",
+      "meaning": "he; that; the"
+    },
+    {
+      "type": "kanji",
+      "character": "般",
+      "romaji": "ハン",
+      "meaning": "carrier; carry; all"
+    }
+  ]
+}

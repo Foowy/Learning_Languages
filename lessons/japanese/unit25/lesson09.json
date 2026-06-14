@@ -1,0 +1,67 @@
+{
+  "unit": 25,
+  "lesson": 9,
+  "title": "Vocabulary — Frequency 3681–3690",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "ボーカリスト",
+      "romaji": "ボーカリスト",
+      "meaning": "vocalist"
+    },
+    {
+      "type": "kana",
+      "character": "ボーカル",
+      "romaji": "ボーカル",
+      "meaning": "vocal (performance); vocals"
+    },
+    {
+      "type": "kana",
+      "character": "ボーク",
+      "romaji": "ボーク",
+      "meaning": "balk"
+    },
+    {
+      "type": "kana",
+      "character": "ボーダー",
+      "romaji": "ボーダー",
+      "meaning": "border; boundary"
+    },
+    {
+      "type": "kana",
+      "character": "ボーダーライン",
+      "romaji": "ボーダーライン",
+      "meaning": "border line"
+    },
+    {
+      "type": "kana",
+      "character": "ボート",
+      "romaji": "ボート",
+      "meaning": "boat"
+    },
+    {
+      "type": "kana",
+      "character": "ボートピープル",
+      "romaji": "ボートピープル",
+      "meaning": "boat people (esp. from Vietnam); boat refugees"
+    },
+    {
+      "type": "kana",
+      "character": "ボード",
+      "romaji": "ボード",
+      "meaning": "board"
+    },
+    {
+      "type": "kana",
+      "character": "ボードセーリング",
+      "romaji": "ボードセーリング",
+      "meaning": "boardsailing; windsurfing"
+    },
+    {
+      "type": "kana",
+      "character": "ボーナス",
+      "romaji": "ボーナス",
+      "meaning": "bonus"
+    }
+  ]
+}

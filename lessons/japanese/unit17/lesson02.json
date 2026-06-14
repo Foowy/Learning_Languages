@@ -1,0 +1,67 @@
+{
+  "unit": 17,
+  "lesson": 2,
+  "title": "Vocabulary — Frequency 2011–2020",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "ストロベリー",
+      "romaji": "ストロベリー",
+      "meaning": "strawberry"
+    },
+    {
+      "type": "kana",
+      "character": "ストロボ",
+      "romaji": "ストロボ",
+      "meaning": "stroboscope; strobe lamp"
+    },
+    {
+      "type": "kana",
+      "character": "ストロンチウム",
+      "romaji": "ストロンチウム",
+      "meaning": "strontium (Sr)"
+    },
+    {
+      "type": "kana",
+      "character": "スナック",
+      "romaji": "スナック",
+      "meaning": "snack; light meal"
+    },
+    {
+      "type": "kana",
+      "character": "スナッチ",
+      "romaji": "スナッチ",
+      "meaning": "snatch (weightlifting)"
+    },
+    {
+      "type": "kana",
+      "character": "スナップ",
+      "romaji": "スナップ",
+      "meaning": "snap (of the wrist; in baseball, golf, etc.)"
+    },
+    {
+      "type": "kana",
+      "character": "スニーカー",
+      "romaji": "スニーカー",
+      "meaning": "sneaker; sneakers"
+    },
+    {
+      "type": "kana",
+      "character": "スネーク",
+      "romaji": "スネーク",
+      "meaning": "snake"
+    },
+    {
+      "type": "kana",
+      "character": "スノー",
+      "romaji": "スノー",
+      "meaning": "snow"
+    },
+    {
+      "type": "kana",
+      "character": "スノーボート",
+      "romaji": "スノーボート",
+      "meaning": "(plastic) toboggan"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 50,
+  "title": "HSK 5 Vocabulary — Part 50",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "交换",
+      "romaji": "jiāo huàn",
+      "meaning": "to exchange; to swap; to switch (telecom); commutative (math); to commute"
+    },
+    {
+      "type": "hanzi",
+      "character": "交际",
+      "romaji": "jiāo jì",
+      "meaning": "communication; social intercourse"
+    },
+    {
+      "type": "hanzi",
+      "character": "郊区",
+      "romaji": "jiāo qū",
+      "meaning": "suburban district; outskirts; suburbs; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "胶水",
+      "romaji": "jiāo shuǐ",
+      "meaning": "glue"
+    },
+    {
+      "type": "hanzi",
+      "character": "角度",
+      "romaji": "jiǎo dù",
+      "meaning": "angle; point of view"
+    },
+    {
+      "type": "hanzi",
+      "character": "狡猾",
+      "romaji": "jiǎo huá",
+      "meaning": "crafty; cunning; sly"
+    },
+    {
+      "type": "hanzi",
+      "character": "教材",
+      "romaji": "jiào cái",
+      "meaning": "teaching material; CL:本[běn]"
+    },
+    {
+      "type": "hanzi",
+      "character": "教练",
+      "romaji": "jiào liàn",
+      "meaning": "instructor; sports coach; trainer; CL:個|个; 位; 名[míng]"
+    },
+    {
+      "type": "hanzi",
+      "character": "教训",
+      "romaji": "jiào xun",
+      "meaning": "lesson; moral; to chide sb; to lecture sb"
+    },
+    {
+      "type": "hanzi",
+      "character": "接触",
+      "romaji": "jiē chù",
+      "meaning": "to touch; to contact; access; in touch with"
+    }
+  ]
+}

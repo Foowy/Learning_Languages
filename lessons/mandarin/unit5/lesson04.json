@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 4,
+  "title": "HSK 5 Vocabulary — Part 4",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "本质",
+      "romaji": "běn zhì",
+      "meaning": "essence; nature; innate character; intrinsic quality"
+    },
+    {
+      "type": "hanzi",
+      "character": "比例",
+      "romaji": "bǐ lì",
+      "meaning": "proportion; scale"
+    },
+    {
+      "type": "hanzi",
+      "character": "比如",
+      "romaji": "bǐ rú",
+      "meaning": "for example; for instance; such as"
+    },
+    {
+      "type": "hanzi",
+      "character": "彼此",
+      "romaji": "bǐ cǐ",
+      "meaning": "each other; one another"
+    },
+    {
+      "type": "hanzi",
+      "character": "必然",
+      "romaji": "bì rán",
+      "meaning": "inevitable; certain; necessity"
+    },
+    {
+      "type": "hanzi",
+      "character": "必需",
+      "romaji": "bì xū",
+      "meaning": "to need; to require; essential; indispensable"
+    },
+    {
+      "type": "hanzi",
+      "character": "必要",
+      "romaji": "bì yào",
+      "meaning": "necessary; essential; indispensable; required"
+    },
+    {
+      "type": "hanzi",
+      "character": "毕竟",
+      "romaji": "bì jìng",
+      "meaning": "after all; all in all; when all is said and done; in the final analysis"
+    },
+    {
+      "type": "hanzi",
+      "character": "避免",
+      "romaji": "bì miǎn",
+      "meaning": "to avert; to prevent; to avoid; to refrain from"
+    },
+    {
+      "type": "hanzi",
+      "character": "鞭炮",
+      "romaji": "biān pào",
+      "meaning": "firecrackers; a string of small firecrackers; CL:枚[méi]"
+    }
+  ]
+}

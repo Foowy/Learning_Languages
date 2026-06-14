@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 7,
+  "title": "JLPT N2/N1 Kanji — Part 7",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "献",
+      "romaji": "ケン・コン / たてまつ.る",
+      "meaning": "offering; counter for drinks; present"
+    },
+    {
+      "type": "kanji",
+      "character": "厳",
+      "romaji": "ゲン・ゴン / おごそ.か・きび.しい・いか.めしい・いつくし",
+      "meaning": "stern; strictness; severity"
+    },
+    {
+      "type": "kanji",
+      "character": "維",
+      "romaji": "イ",
+      "meaning": "fiber; tie; rope"
+    },
+    {
+      "type": "kanji",
+      "character": "浜",
+      "romaji": "ヒン / はま",
+      "meaning": "seacoast; beach; seashore"
+    },
+    {
+      "type": "kanji",
+      "character": "遺",
+      "romaji": "イ・ユイ / のこ.す",
+      "meaning": "bequeath; leave behind; reserve"
+    },
+    {
+      "type": "kanji",
+      "character": "塁",
+      "romaji": "ルイ・ライ・スイ / とりで",
+      "meaning": "bases; fort; rampart"
+    },
+    {
+      "type": "kanji",
+      "character": "邦",
+      "romaji": "ホウ / くに",
+      "meaning": "home country; country; Japan"
+    },
+    {
+      "type": "kanji",
+      "character": "素",
+      "romaji": "ソ・ス / もと",
+      "meaning": "elementary; principle; naked"
+    },
+    {
+      "type": "kanji",
+      "character": "遣",
+      "romaji": "ケン / つか.う・-つか.い・-づか.い・つか.わす・や.る",
+      "meaning": "dispatch; despatch; send"
+    },
+    {
+      "type": "kanji",
+      "character": "抗",
+      "romaji": "コウ / あらが.う",
+      "meaning": "confront; resist; defy"
+    }
+  ]
+}

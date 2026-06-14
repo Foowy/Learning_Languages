@@ -1,0 +1,67 @@
+{
+  "unit": 89,
+  "lesson": 10,
+  "title": "Vocabulary — Frequency 16491–16500",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "保護",
+      "romaji": "ほご",
+      "meaning": "protection; safeguard"
+    },
+    {
+      "type": "kanji",
+      "character": "保護者",
+      "romaji": "ほごしゃ",
+      "meaning": "guardian; protector"
+    },
+    {
+      "type": "kanji",
+      "character": "保持",
+      "romaji": "ほじ",
+      "meaning": "retention; maintenance"
+    },
+    {
+      "type": "kanji",
+      "character": "保釈",
+      "romaji": "ほしゃく",
+      "meaning": "bail; releasing on bail"
+    },
+    {
+      "type": "kanji",
+      "character": "保守",
+      "romaji": "ほしゅ",
+      "meaning": "maintenance"
+    },
+    {
+      "type": "kanji",
+      "character": "保守党",
+      "romaji": "ほしゅとう",
+      "meaning": "Conservative Party"
+    },
+    {
+      "type": "kanji",
+      "character": "保証金",
+      "romaji": "ほしょうきん",
+      "meaning": "deposit (esp. on renting a house); security money"
+    },
+    {
+      "type": "kanji",
+      "character": "保証人",
+      "romaji": "ほしょうにん",
+      "meaning": "guarantor; surety"
+    },
+    {
+      "type": "kanji",
+      "character": "保証付き",
+      "romaji": "ほしょうつき",
+      "meaning": "guaranteed; certified"
+    },
+    {
+      "type": "kanji",
+      "character": "保全",
+      "romaji": "ほぜん",
+      "meaning": "preservation; conservation"
+    }
+  ]
+}

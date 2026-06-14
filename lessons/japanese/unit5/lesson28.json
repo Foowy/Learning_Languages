@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 28,
+  "title": "JLPT N3 Kanji — Part 28",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "科",
+      "romaji": "カ",
+      "meaning": "department; course; section"
+    },
+    {
+      "type": "kanji",
+      "character": "授",
+      "romaji": "ジュ / さず.ける・さず.かる",
+      "meaning": "impart; instruct; grant"
+    },
+    {
+      "type": "kanji",
+      "character": "細",
+      "romaji": "サイ / ほそ.い・ほそ.る・こま.か・こま.かい",
+      "meaning": "dainty; get thin; taper"
+    },
+    {
+      "type": "kanji",
+      "character": "効",
+      "romaji": "コウ / き.く・ききめ・なら.う",
+      "meaning": "merit; efficacy; efficiency"
+    },
+    {
+      "type": "kanji",
+      "character": "積",
+      "romaji": "セキ / つ.む・-づ.み・つ.もる・つ.もり",
+      "meaning": "volume; product (x*y); acreage"
+    },
+    {
+      "type": "kanji",
+      "character": "丸",
+      "romaji": "ガン / まる・まる.める・まる.い",
+      "meaning": "round; full (month); perfection"
+    },
+    {
+      "type": "kanji",
+      "character": "他",
+      "romaji": "タ / ほか",
+      "meaning": "other; another; the others"
+    },
+    {
+      "type": "kanji",
+      "character": "湾",
+      "romaji": "ワン / いりえ",
+      "meaning": "gulf; bay; inlet"
+    },
+    {
+      "type": "kanji",
+      "character": "録",
+      "romaji": "ロク / しる.す・と.る",
+      "meaning": "record"
+    },
+    {
+      "type": "kanji",
+      "character": "処",
+      "romaji": "ショ / ところ・-こ・お.る",
+      "meaning": "dispose; manage; deal with"
+    }
+  ]
+}

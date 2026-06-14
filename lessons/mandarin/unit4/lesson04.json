@@ -1,0 +1,67 @@
+{
+  "unit": 4,
+  "lesson": 4,
+  "title": "HSK 4 Vocabulary — Part 4",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "不仅",
+      "romaji": "bù jǐn",
+      "meaning": "not only (this one); not just (...) but also"
+    },
+    {
+      "type": "hanzi",
+      "character": "部分",
+      "romaji": "bù fèn",
+      "meaning": "part; share; section; piece; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "擦",
+      "romaji": "cā",
+      "meaning": "to wipe; to erase; rubbing (brush stroke in painting); to clean; to polish"
+    },
+    {
+      "type": "hanzi",
+      "character": "猜",
+      "romaji": "cāi",
+      "meaning": "to guess"
+    },
+    {
+      "type": "hanzi",
+      "character": "材料",
+      "romaji": "cái liào",
+      "meaning": "material; data; makings; stuff; CL:個|个; 種|种[zhǒng]"
+    },
+    {
+      "type": "hanzi",
+      "character": "参观",
+      "romaji": "cān guān",
+      "meaning": "to look around; to tour; to visit"
+    },
+    {
+      "type": "hanzi",
+      "character": "差不多",
+      "romaji": "chà bu duō",
+      "meaning": "almost; nearly; more or less; about the same; good enough; not bad"
+    },
+    {
+      "type": "hanzi",
+      "character": "长城",
+      "romaji": "Cháng chéng",
+      "meaning": "the Great Wall"
+    },
+    {
+      "type": "hanzi",
+      "character": "长江",
+      "romaji": "Cháng Jiāng",
+      "meaning": "Yangtze River; or Chang Jiang"
+    },
+    {
+      "type": "hanzi",
+      "character": "尝",
+      "romaji": "cháng",
+      "meaning": "to taste"
+    }
+  ]
+}

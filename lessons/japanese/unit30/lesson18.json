@@ -1,0 +1,67 @@
+{
+  "unit": 30,
+  "lesson": 18,
+  "title": "Vocabulary — Frequency 4771–4780",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "遺児",
+      "romaji": "いじ",
+      "meaning": "orphan; child left by the deceased"
+    },
+    {
+      "type": "kanji",
+      "character": "遺失物",
+      "romaji": "いしつぶつ",
+      "meaning": "lost article; lost property"
+    },
+    {
+      "type": "kanji",
+      "character": "遺書",
+      "romaji": "いしょ",
+      "meaning": "note left by a dead person; suicide note"
+    },
+    {
+      "type": "kanji",
+      "character": "遺跡",
+      "romaji": "いせき",
+      "meaning": "(archeological) remains; ruins"
+    },
+    {
+      "type": "kanji",
+      "character": "遺族",
+      "romaji": "いぞく",
+      "meaning": "bereaved family; surviving family"
+    },
+    {
+      "type": "kanji",
+      "character": "遺体",
+      "romaji": "いたい",
+      "meaning": "(dead) body; corpse"
+    },
+    {
+      "type": "kanji",
+      "character": "遺伝",
+      "romaji": "いでん",
+      "meaning": "heredity; (genetic) inheritance"
+    },
+    {
+      "type": "kanji",
+      "character": "遺伝子",
+      "romaji": "いでんし",
+      "meaning": "gene"
+    },
+    {
+      "type": "kanji",
+      "character": "遺品",
+      "romaji": "いひん",
+      "meaning": "things left (to one) by the deceased; inherited item"
+    },
+    {
+      "type": "kanji",
+      "character": "遺物",
+      "romaji": "いぶつ",
+      "meaning": "relic; remains"
+    }
+  ]
+}

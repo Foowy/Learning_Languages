@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 81,
+  "title": "JLPT N2/N1 Kanji — Part 81",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "又",
+      "romaji": "ユウ / また・また-・また.の-",
+      "meaning": "or again; furthermore; on the other hand"
+    },
+    {
+      "type": "kanji",
+      "character": "慨",
+      "romaji": "ガイ / なげ.く",
+      "meaning": "rue; be sad; sigh"
+    },
+    {
+      "type": "kanji",
+      "character": "紡",
+      "romaji": "ボウ / つむ.ぐ",
+      "meaning": "spinning"
+    },
+    {
+      "type": "kanji",
+      "character": "恨",
+      "romaji": "コン / うら.む・うら.めしい",
+      "meaning": "regret; bear a grudge; resentment"
+    },
+    {
+      "type": "kanji",
+      "character": "肪",
+      "romaji": "ボウ",
+      "meaning": "obese; fat"
+    },
+    {
+      "type": "kanji",
+      "character": "扶",
+      "romaji": "フ / たす.ける",
+      "meaning": "aid; help; assist"
+    },
+    {
+      "type": "kanji",
+      "character": "戯",
+      "romaji": "ギ・ゲ / たわむ.れる・ざ.れる・じゃ.れる",
+      "meaning": "frolic; play; sport"
+    },
+    {
+      "type": "kanji",
+      "character": "伍",
+      "romaji": "ゴ / いつつ",
+      "meaning": "five; five-man squad; file"
+    },
+    {
+      "type": "kanji",
+      "character": "忌",
+      "romaji": "キ / い.む・い.み・い.まわしい",
+      "meaning": "mourning; abhor; detestable"
+    },
+    {
+      "type": "kanji",
+      "character": "濁",
+      "romaji": "ダク・ジョク / にご.る・にご.す",
+      "meaning": "voiced; uncleanness; wrong"
+    }
+  ]
+}

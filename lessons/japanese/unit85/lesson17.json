@@ -1,0 +1,67 @@
+{
+  "unit": 85,
+  "lesson": 17,
+  "title": "Vocabulary — Frequency 15761–15770",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "氷",
+      "romaji": "こおり",
+      "meaning": "ice"
+    },
+    {
+      "type": "kanji",
+      "character": "氷河",
+      "romaji": "ひょうが",
+      "meaning": "glacier"
+    },
+    {
+      "type": "kanji",
+      "character": "氷山",
+      "romaji": "ひょうざん",
+      "meaning": "iceberg"
+    },
+    {
+      "type": "kanji",
+      "character": "氷点下",
+      "romaji": "ひょうてんか",
+      "meaning": "below freezing"
+    },
+    {
+      "type": "kanji",
+      "character": "漂う",
+      "romaji": "ただよう",
+      "meaning": "to drift; to float"
+    },
+    {
+      "type": "kanji",
+      "character": "漂着",
+      "romaji": "ひょうちゃく",
+      "meaning": "drifting ashore"
+    },
+    {
+      "type": "kanji",
+      "character": "漂白",
+      "romaji": "ひょうはく",
+      "meaning": "blanching; bleaching"
+    },
+    {
+      "type": "kanji",
+      "character": "漂白剤",
+      "romaji": "ひょうはくざい",
+      "meaning": "bleaching agent; bleach"
+    },
+    {
+      "type": "kanji",
+      "character": "漂流",
+      "romaji": "ひょうりゅう",
+      "meaning": "drifting; drift"
+    },
+    {
+      "type": "kanji",
+      "character": "票",
+      "romaji": "ひょう",
+      "meaning": "vote; ballot"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 3,
+  "lesson": 2,
+  "title": "JLPT N5 Kanji — Part 2",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "中",
+      "romaji": "チュウ / なか・うち・あた.る",
+      "meaning": "in; inside; middle"
+    },
+    {
+      "type": "kanji",
+      "character": "長",
+      "romaji": "チョウ / なが.い・おさ",
+      "meaning": "long; leader; superior"
+    },
+    {
+      "type": "kanji",
+      "character": "出",
+      "romaji": "シュツ・スイ / で.る・-で・だ.す・-だ.す・い.でる・い.だす",
+      "meaning": "exit; leave; go out"
+    },
+    {
+      "type": "kanji",
+      "character": "三",
+      "romaji": "サン・ゾウ / み・み.つ・みっ.つ",
+      "meaning": "three"
+    },
+    {
+      "type": "kanji",
+      "character": "時",
+      "romaji": "ジ / とき・-どき",
+      "meaning": "time; hour"
+    },
+    {
+      "type": "kanji",
+      "character": "行",
+      "romaji": "コウ・ギョウ・アン / い.く・ゆ.く・-ゆ.き・-ゆき・-い.き・-いき・おこな.う・おこ.なう",
+      "meaning": "going; journey; carry out"
+    },
+    {
+      "type": "kanji",
+      "character": "社",
+      "romaji": "シャ / やしろ",
+      "meaning": "company; firm; office"
+    },
+    {
+      "type": "kanji",
+      "character": "見",
+      "romaji": "ケン / み.る・み.える・み.せる",
+      "meaning": "see; hopes; chances"
+    },
+    {
+      "type": "kanji",
+      "character": "月",
+      "romaji": "ゲツ・ガツ / つき",
+      "meaning": "month; moon"
+    },
+    {
+      "type": "kanji",
+      "character": "分",
+      "romaji": "ブン・フン・ブ / わ.ける・わ.け・わ.かれる・わ.かる・わ.かつ",
+      "meaning": "part; minute of time; segment"
+    }
+  ]
+}

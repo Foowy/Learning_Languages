@@ -1,0 +1,67 @@
+{
+  "unit": 4,
+  "lesson": 4,
+  "title": "JLPT N4 Kanji — Part 4",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "作",
+      "romaji": "サク・サ / つく.る・つく.り・-づく.り",
+      "meaning": "make; production; prepare"
+    },
+    {
+      "type": "kanji",
+      "character": "用",
+      "romaji": "ヨウ / もち.いる",
+      "meaning": "utilize; business; service"
+    },
+    {
+      "type": "kanji",
+      "character": "度",
+      "romaji": "ド・ト・タク / たび・-た.い",
+      "meaning": "degrees; occurrence; time"
+    },
+    {
+      "type": "kanji",
+      "character": "強",
+      "romaji": "キョウ・ゴウ / つよ.い・つよ.まる・つよ.める・し.いる・こわ.い",
+      "meaning": "strong"
+    },
+    {
+      "type": "kanji",
+      "character": "持",
+      "romaji": "ジ / も.つ・-も.ち・も.てる",
+      "meaning": "hold; have"
+    },
+    {
+      "type": "kanji",
+      "character": "野",
+      "romaji": "ヤ・ショ / の・の-",
+      "meaning": "plains; field; rustic"
+    },
+    {
+      "type": "kanji",
+      "character": "都",
+      "romaji": "ト・ツ / みやこ",
+      "meaning": "metropolis; capital; all"
+    },
+    {
+      "type": "kanji",
+      "character": "以",
+      "romaji": "イ / もっ.て",
+      "meaning": "by means of; because; in view of"
+    },
+    {
+      "type": "kanji",
+      "character": "思",
+      "romaji": "シ / おも.う・おもえら.く・おぼ.す",
+      "meaning": "think"
+    },
+    {
+      "type": "kanji",
+      "character": "家",
+      "romaji": "カ・ケ / いえ・や・うち",
+      "meaning": "house; home; family"
+    }
+  ]
+}

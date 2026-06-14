@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 70,
+  "title": "JLPT N3 Kanji — Part 70",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "湿",
+      "romaji": "シツ・シュウ / しめ.る・しめ.す・うるお.う・うるお.す",
+      "meaning": "damp; wet; moist"
+    },
+    {
+      "type": "kanji",
+      "character": "咲",
+      "romaji": "ショウ / さ.く・-ざき",
+      "meaning": "blossom; bloom"
+    },
+    {
+      "type": "kanji",
+      "character": "召",
+      "romaji": "ショウ / め.す",
+      "meaning": "seduce; call; send for"
+    },
+    {
+      "type": "kanji",
+      "character": "脂",
+      "romaji": "シ / あぶら",
+      "meaning": "fat; grease; tallow"
+    },
+    {
+      "type": "kanji",
+      "character": "蒸",
+      "romaji": "ジョウ・セイ / む.す・む.れる・む.らす",
+      "meaning": "steam; heat; sultry"
+    },
+    {
+      "type": "kanji",
+      "character": "肌",
+      "romaji": "キ / はだ",
+      "meaning": "texture; skin; body"
+    },
+    {
+      "type": "kanji",
+      "character": "靴",
+      "romaji": "カ / くつ",
+      "meaning": "shoes"
+    },
+    {
+      "type": "kanji",
+      "character": "耕",
+      "romaji": "コウ / たがや.す",
+      "meaning": "till; plow; cultivate"
+    },
+    {
+      "type": "kanji",
+      "character": "鈍",
+      "romaji": "ドン / にぶ.い・にぶ.る・にぶ-・なま.る・なまく.ら",
+      "meaning": "dull; slow; foolish"
+    },
+    {
+      "type": "kanji",
+      "character": "恥",
+      "romaji": "チ / は.じる・はじ・は.じらう・は.ずかしい",
+      "meaning": "shame; dishonor"
+    }
+  ]
+}

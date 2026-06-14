@@ -1,0 +1,67 @@
+{
+  "unit": 12,
+  "lesson": 17,
+  "title": "Vocabulary — Frequency 1161–1170",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "ギャルソン",
+      "romaji": "ギャルソン",
+      "meaning": "(male) waiter"
+    },
+    {
+      "type": "kana",
+      "character": "ギャロッピングインフレ",
+      "romaji": "ギャロッピングインフレ",
+      "meaning": "galloping inflation"
+    },
+    {
+      "type": "kana",
+      "character": "ギャング",
+      "romaji": "ギャング",
+      "meaning": "gang"
+    },
+    {
+      "type": "kana",
+      "character": "ギャンブラー",
+      "romaji": "ギャンブラー",
+      "meaning": "gambler"
+    },
+    {
+      "type": "kana",
+      "character": "ギャンブル",
+      "romaji": "ギャンブル",
+      "meaning": "gambling"
+    },
+    {
+      "type": "kanji",
+      "character": "希臘",
+      "romaji": "ギリシャ",
+      "meaning": "Greece"
+    },
+    {
+      "type": "kana",
+      "character": "ギルド",
+      "romaji": "ギルド",
+      "meaning": "guild"
+    },
+    {
+      "type": "kana",
+      "character": "ギロチン",
+      "romaji": "ギロチン",
+      "meaning": "guillotine"
+    },
+    {
+      "type": "kana",
+      "character": "クーキー",
+      "romaji": "クーキー",
+      "meaning": "kooky; weird"
+    },
+    {
+      "type": "kana",
+      "character": "クーデター",
+      "romaji": "クーデター",
+      "meaning": "coup d'état; coup"
+    }
+  ]
+}

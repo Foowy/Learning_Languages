@@ -1,0 +1,67 @@
+{
+  "unit": 50,
+  "lesson": 15,
+  "title": "Vocabulary — Frequency 8741–8750",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "高官",
+      "romaji": "こうかん",
+      "meaning": "high official"
+    },
+    {
+      "type": "kanji",
+      "character": "高気圧",
+      "romaji": "こうきあつ",
+      "meaning": "high (atmospheric) pressure; high-pressure system"
+    },
+    {
+      "type": "kanji",
+      "character": "高級",
+      "romaji": "こうきゅう",
+      "meaning": "high-class; high-grade"
+    },
+    {
+      "type": "kanji",
+      "character": "高給",
+      "romaji": "こうきゅう",
+      "meaning": "high salary"
+    },
+    {
+      "type": "kanji",
+      "character": "高潔",
+      "romaji": "こうけつ",
+      "meaning": "noble; lofty"
+    },
+    {
+      "type": "kanji",
+      "character": "高血圧",
+      "romaji": "こうけつあつ",
+      "meaning": "high blood pressure; hypertension"
+    },
+    {
+      "type": "kanji",
+      "character": "高見",
+      "romaji": "こうけん",
+      "meaning": "your views; your opinion"
+    },
+    {
+      "type": "kanji",
+      "character": "高原",
+      "romaji": "こうげん",
+      "meaning": "tableland; plateau"
+    },
+    {
+      "type": "kanji",
+      "character": "高校",
+      "romaji": "こうこう",
+      "meaning": "senior high school; high school"
+    },
+    {
+      "type": "kanji",
+      "character": "高校生",
+      "romaji": "こうこうせい",
+      "meaning": "senior high school student"
+    }
+  ]
+}

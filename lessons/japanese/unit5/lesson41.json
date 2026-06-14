@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 41,
+  "title": "JLPT N3 Kanji — Part 41",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "羽",
+      "romaji": "ウ / は・わ・はね",
+      "meaning": "feathers; counter for birds, rabbits"
+    },
+    {
+      "type": "kanji",
+      "character": "努",
+      "romaji": "ド / つと.める",
+      "meaning": "toil; diligent; as much as possible"
+    },
+    {
+      "type": "kanji",
+      "character": "固",
+      "romaji": "コ / かた.める・かた.まる・かた.まり・かた.い",
+      "meaning": "harden; set; clot"
+    },
+    {
+      "type": "kanji",
+      "character": "精",
+      "romaji": "セイ・ショウ / しら.げる・くわ.しい",
+      "meaning": "refined; ghost; fairy"
+    },
+    {
+      "type": "kanji",
+      "character": "則",
+      "romaji": "ソク / のっと.る・のり・すなわち",
+      "meaning": "rule; law; follow"
+    },
+    {
+      "type": "kanji",
+      "character": "乱",
+      "romaji": "ラン・ロン / みだ.れる・みだ.る・みだ.す・みだ・おさ.める・わた.る",
+      "meaning": "riot; war; disorder"
+    },
+    {
+      "type": "kanji",
+      "character": "普",
+      "romaji": "フ / あまね.く・あまねし",
+      "meaning": "universal; wide(ly); generally"
+    },
+    {
+      "type": "kanji",
+      "character": "散",
+      "romaji": "サン / ち.る・ち.らす・-ち.らす・ち.らかす・ち.らかる・ち.らばる・ばら・ばら.ける",
+      "meaning": "scatter; disperse; spend"
+    },
+    {
+      "type": "kanji",
+      "character": "司",
+      "romaji": "シ / つかさど.る",
+      "meaning": "director; official; govt office"
+    },
+    {
+      "type": "kanji",
+      "character": "康",
+      "romaji": "コウ",
+      "meaning": "ease; peace"
+    }
+  ]
+}

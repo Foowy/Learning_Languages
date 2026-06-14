@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 90,
+  "title": "HSK 5 Vocabulary — Part 90",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "输入",
+      "romaji": "shū rù",
+      "meaning": "to import; to input"
+    },
+    {
+      "type": "hanzi",
+      "character": "蔬菜",
+      "romaji": "shū cài",
+      "meaning": "vegetables; produce; CL:種|种[zhǒng]"
+    },
+    {
+      "type": "hanzi",
+      "character": "舒适",
+      "romaji": "shū shì",
+      "meaning": "cozy; snug"
+    },
+    {
+      "type": "hanzi",
+      "character": "梳子",
+      "romaji": "shū zi",
+      "meaning": "comb; CL:把[bǎ]"
+    },
+    {
+      "type": "hanzi",
+      "character": "熟练",
+      "romaji": "shú liàn",
+      "meaning": "practiced; proficient; skilled; skillful"
+    },
+    {
+      "type": "hanzi",
+      "character": "鼠标",
+      "romaji": "shǔ biāo",
+      "meaning": "mouse (computing)"
+    },
+    {
+      "type": "hanzi",
+      "character": "属于",
+      "romaji": "shǔ yú",
+      "meaning": "to be classified as; to belong to; to be part of"
+    },
+    {
+      "type": "hanzi",
+      "character": "数据",
+      "romaji": "shù jù",
+      "meaning": "data; numbers; digital"
+    },
+    {
+      "type": "hanzi",
+      "character": "数码",
+      "romaji": "shù mǎ",
+      "meaning": "number; numerals; figures; digital; amount; numerical code"
+    },
+    {
+      "type": "hanzi",
+      "character": "摔",
+      "romaji": "shuāi",
+      "meaning": "to throw down; to fall; to drop and break"
+    }
+  ]
+}

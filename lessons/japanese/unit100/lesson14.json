@@ -1,0 +1,67 @@
+{
+  "unit": 100,
+  "lesson": 14,
+  "title": "Vocabulary — Frequency 18731–18740",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "別人",
+      "romaji": "べつじん",
+      "meaning": "different person; another person"
+    },
+    {
+      "type": "kanji",
+      "character": "別名",
+      "romaji": "べつめい",
+      "meaning": "another name; different name"
+    },
+    {
+      "type": "kanji",
+      "character": "編者",
+      "romaji": "へんしゃ",
+      "meaning": "editor; compiler"
+    },
+    {
+      "type": "kanji",
+      "character": "保育所",
+      "romaji": "ほいくしょ",
+      "meaning": "nursery school; day care center"
+    },
+    {
+      "type": "kanji",
+      "character": "保健所",
+      "romaji": "ほけんじょ",
+      "meaning": "health care center; health care centre"
+    },
+    {
+      "type": "kanji",
+      "character": "保養所",
+      "romaji": "ほようじょ",
+      "meaning": "recreation facility (usu. corporate-owned and for the exclusive use of the corporation's employees); rest home"
+    },
+    {
+      "type": "kanji",
+      "character": "墓参り",
+      "romaji": "はかまいり",
+      "meaning": "visit to a grave"
+    },
+    {
+      "type": "kanji",
+      "character": "墓石",
+      "romaji": "ぼせき",
+      "meaning": "tombstone; gravestone"
+    },
+    {
+      "type": "kanji",
+      "character": "墓地",
+      "romaji": "ぼち",
+      "meaning": "cemetery; graveyard"
+    },
+    {
+      "type": "kanji",
+      "character": "包む",
+      "romaji": "つつむ",
+      "meaning": "to wrap up; to pack"
+    }
+  ]
+}

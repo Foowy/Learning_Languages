@@ -1,0 +1,67 @@
+{
+  "unit": 10,
+  "lesson": 12,
+  "title": "Vocabulary — Frequency 711–720",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "ウェット",
+      "romaji": "ウェット",
+      "meaning": "wet; moist"
+    },
+    {
+      "type": "kana",
+      "character": "ウェディングドレス",
+      "romaji": "ウェディングドレス",
+      "meaning": "wedding dress"
+    },
+    {
+      "type": "kana",
+      "character": "ウェルカム",
+      "romaji": "ウェルカム",
+      "meaning": "welcome"
+    },
+    {
+      "type": "kana",
+      "character": "ウォッカ",
+      "romaji": "ウォッカ",
+      "meaning": "vodka"
+    },
+    {
+      "type": "kana",
+      "character": "ウォン",
+      "romaji": "ウォン",
+      "meaning": "won (currency of North Korea and South Korea)"
+    },
+    {
+      "type": "kana",
+      "character": "ウォッチング",
+      "romaji": "ウォッチング",
+      "meaning": "watching"
+    },
+    {
+      "type": "kanji",
+      "character": "烏克蘭",
+      "romaji": "ウクライナ",
+      "meaning": "Ukraine"
+    },
+    {
+      "type": "kana",
+      "character": "ウクレレ",
+      "romaji": "ウクレレ",
+      "meaning": "ukulele"
+    },
+    {
+      "type": "kana",
+      "character": "ウッド",
+      "romaji": "ウッド",
+      "meaning": "wood"
+    },
+    {
+      "type": "kana",
+      "character": "ウラン",
+      "romaji": "ウラン",
+      "meaning": "uranium (U)"
+    }
+  ]
+}

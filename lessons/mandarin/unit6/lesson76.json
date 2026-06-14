@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 76,
+  "title": "HSK 6 Vocabulary — Part 76",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "海拔",
+      "romaji": "hǎi bá",
+      "meaning": "height above sea level; elevation"
+    },
+    {
+      "type": "hanzi",
+      "character": "海滨",
+      "romaji": "hǎi bīn",
+      "meaning": "shore; seaside"
+    },
+    {
+      "type": "hanzi",
+      "character": "含糊",
+      "romaji": "hán hú",
+      "meaning": "obscurity; vague"
+    },
+    {
+      "type": "hanzi",
+      "character": "含义",
+      "romaji": "hán yì",
+      "meaning": "meaning (implicit in a phrase); implied meaning; hidden meaning; hint; connotation"
+    },
+    {
+      "type": "hanzi",
+      "character": "寒暄",
+      "romaji": "hán xuān",
+      "meaning": "exchanging conventional greetings; to talk about the weather"
+    },
+    {
+      "type": "hanzi",
+      "character": "罕见",
+      "romaji": "hǎn jiàn",
+      "meaning": "rare; rarely seen"
+    },
+    {
+      "type": "hanzi",
+      "character": "捍卫",
+      "romaji": "hàn wèi",
+      "meaning": "to defend; to uphold; to safeguard"
+    },
+    {
+      "type": "hanzi",
+      "character": "航空",
+      "romaji": "háng kōng",
+      "meaning": "aviation"
+    },
+    {
+      "type": "hanzi",
+      "character": "航天",
+      "romaji": "háng tiān",
+      "meaning": "space flight"
+    },
+    {
+      "type": "hanzi",
+      "character": "航行",
+      "romaji": "háng xíng",
+      "meaning": "to sail; to fly; to navigate"
+    }
+  ]
+}

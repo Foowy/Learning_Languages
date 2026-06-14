@@ -1,0 +1,67 @@
+{
+  "unit": 65,
+  "lesson": 19,
+  "title": "Vocabulary — Frequency 11781–11790",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "推理",
+      "romaji": "すいり",
+      "meaning": "reasoning; inference"
+    },
+    {
+      "type": "kanji",
+      "character": "推量",
+      "romaji": "すいりょう",
+      "meaning": "guess; conjecture"
+    },
+    {
+      "type": "kanji",
+      "character": "推論",
+      "romaji": "すいろん",
+      "meaning": "inference; deduction"
+    },
+    {
+      "type": "kanji",
+      "character": "推敲",
+      "romaji": "すいこう",
+      "meaning": "polishing (a piece of writing); improvement"
+    },
+    {
+      "type": "kanji",
+      "character": "水",
+      "romaji": "みず",
+      "meaning": "water (esp. cool or cold)"
+    },
+    {
+      "type": "kanji",
+      "character": "水域",
+      "romaji": "すいいき",
+      "meaning": "waters; water area"
+    },
+    {
+      "type": "kanji",
+      "character": "水稲",
+      "romaji": "すいとう",
+      "meaning": "wet-land rice"
+    },
+    {
+      "type": "kanji",
+      "character": "水泳",
+      "romaji": "すいえい",
+      "meaning": "swimming"
+    },
+    {
+      "type": "kanji",
+      "character": "水温",
+      "romaji": "すいおん",
+      "meaning": "water temperature"
+    },
+    {
+      "type": "kanji",
+      "character": "水害",
+      "romaji": "すいがい",
+      "meaning": "water damage; flood disaster"
+    }
+  ]
+}

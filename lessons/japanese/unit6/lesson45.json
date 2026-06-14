@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 45,
+  "title": "JLPT N2/N1 Kanji — Part 45",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "啓",
+      "romaji": "ケイ / ひら.く・さと.す",
+      "meaning": "disclose; open; say"
+    },
+    {
+      "type": "kanji",
+      "character": "也",
+      "romaji": "ヤ・エ / なり・か・また",
+      "meaning": "to be (classical)"
+    },
+    {
+      "type": "kanji",
+      "character": "丘",
+      "romaji": "キュウ / おか",
+      "meaning": "hill; knoll"
+    },
+    {
+      "type": "kanji",
+      "character": "棟",
+      "romaji": "トウ / むね・むな-",
+      "meaning": "ridgepole; ridge"
+    },
+    {
+      "type": "kanji",
+      "character": "壌",
+      "romaji": "ジョウ / つち",
+      "meaning": "lot; earth; soil"
+    },
+    {
+      "type": "kanji",
+      "character": "漫",
+      "romaji": "マン / みだり.に・そぞ.ろ",
+      "meaning": "cartoon; involuntarily; unrestrained"
+    },
+    {
+      "type": "kanji",
+      "character": "玄",
+      "romaji": "ゲン / くろ・くろ.い",
+      "meaning": "mysterious; occultness; black"
+    },
+    {
+      "type": "kanji",
+      "character": "粘",
+      "romaji": "ネン / ねば.る",
+      "meaning": "sticky; glutinous; greasy"
+    },
+    {
+      "type": "kanji",
+      "character": "悟",
+      "romaji": "ゴ / さと.る",
+      "meaning": "enlightenment; perceive; discern"
+    },
+    {
+      "type": "kanji",
+      "character": "舗",
+      "romaji": "ホ",
+      "meaning": "shop; store; pave"
+    }
+  ]
+}

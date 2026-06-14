@@ -1,0 +1,67 @@
+{
+  "unit": 62,
+  "lesson": 10,
+  "title": "Vocabulary — Frequency 11091–11100",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "焦る",
+      "romaji": "あせる",
+      "meaning": "to be in a hurry; to be impatient"
+    },
+    {
+      "type": "kanji",
+      "character": "焦燥",
+      "romaji": "しょうそう",
+      "meaning": "impatience; irritation"
+    },
+    {
+      "type": "kanji",
+      "character": "焦点",
+      "romaji": "しょうてん",
+      "meaning": "focus; focal point"
+    },
+    {
+      "type": "kanji",
+      "character": "照らす",
+      "romaji": "てらす",
+      "meaning": "to shine on; to illuminate"
+    },
+    {
+      "type": "kanji",
+      "character": "照る",
+      "romaji": "てる",
+      "meaning": "to shine"
+    },
+    {
+      "type": "kanji",
+      "character": "照れる",
+      "romaji": "てれる",
+      "meaning": "to be shy; to be bashful"
+    },
+    {
+      "type": "kanji",
+      "character": "照会",
+      "romaji": "しょうかい",
+      "meaning": "inquiry; query"
+    },
+    {
+      "type": "kanji",
+      "character": "照射",
+      "romaji": "しょうしゃ",
+      "meaning": "irradiation; radiation"
+    },
+    {
+      "type": "kanji",
+      "character": "照準",
+      "romaji": "しょうじゅん",
+      "meaning": "sight (e.g. of a gun); aim"
+    },
+    {
+      "type": "kanji",
+      "character": "照明",
+      "romaji": "しょうめい",
+      "meaning": "illumination; lighting"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 3,
+  "lesson": 16,
+  "title": "HSK 3 Vocabulary — Part 16",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "练习",
+      "romaji": "liàn xí",
+      "meaning": "exercise; drill; practice; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "辆",
+      "romaji": "liàng",
+      "meaning": "classifier for vehicles"
+    },
+    {
+      "type": "hanzi",
+      "character": "了解",
+      "romaji": "liǎo jiě",
+      "meaning": "to understand; to realize; to find out"
+    },
+    {
+      "type": "hanzi",
+      "character": "邻居",
+      "romaji": "lín jū",
+      "meaning": "neighbor; next door; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "楼",
+      "romaji": "lóu",
+      "meaning": "house with more than 1 story; storied building; floor; CL:層|层; 座; 棟|栋[dòng]"
+    },
+    {
+      "type": "hanzi",
+      "character": "绿",
+      "romaji": "lǜ",
+      "meaning": "green"
+    },
+    {
+      "type": "hanzi",
+      "character": "马",
+      "romaji": "mǎ",
+      "meaning": "horse; CL:匹pi; horse or cavalry piece in Chinese chess; knight in Western chess"
+    },
+    {
+      "type": "hanzi",
+      "character": "马上",
+      "romaji": "mǎ shàng",
+      "meaning": "at once; right away; immediately; on horseback (i.e. by military force)"
+    },
+    {
+      "type": "hanzi",
+      "character": "满意",
+      "romaji": "mǎn yì",
+      "meaning": "satisfied; pleased; to one's satisfaction"
+    },
+    {
+      "type": "hanzi",
+      "character": "帽子",
+      "romaji": "mào zi",
+      "meaning": "hat; cap; (fig.) label; bad name; CL:頂|顶[dǐng]"
+    }
+  ]
+}

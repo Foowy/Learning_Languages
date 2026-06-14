@@ -1,0 +1,67 @@
+{
+  "unit": 12,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 1001–1010",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "カルシウム",
+      "romaji": "カルシウム",
+      "meaning": "calcium (Ca)"
+    },
+    {
+      "type": "kana",
+      "character": "カルダモン",
+      "romaji": "カルダモン",
+      "meaning": "cardamom; cardamon"
+    },
+    {
+      "type": "kana",
+      "character": "カルチャー",
+      "romaji": "カルチャー",
+      "meaning": "culture"
+    },
+    {
+      "type": "kana",
+      "character": "カルチャーショック",
+      "romaji": "カルチャーショック",
+      "meaning": "culture shock"
+    },
+    {
+      "type": "kana",
+      "character": "カルチャーセンター",
+      "romaji": "カルチャーセンター",
+      "meaning": "cultural center; cultural centre"
+    },
+    {
+      "type": "kana",
+      "character": "カルテ",
+      "romaji": "カルテ",
+      "meaning": "patient's chart; clinical records"
+    },
+    {
+      "type": "kana",
+      "character": "カルテット",
+      "romaji": "カルテット",
+      "meaning": "quartet"
+    },
+    {
+      "type": "kana",
+      "character": "カルテル",
+      "romaji": "カルテル",
+      "meaning": "cartel"
+    },
+    {
+      "type": "kana",
+      "character": "カルデラ",
+      "romaji": "カルデラ",
+      "meaning": "caldera"
+    },
+    {
+      "type": "kana",
+      "character": "カルト",
+      "romaji": "カルト",
+      "meaning": "cult"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 3,
+  "lesson": 2,
+  "title": "HSK 3 Vocabulary — Part 2",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "办公室",
+      "romaji": "bàn gōng shì",
+      "meaning": "office; business premises; bureau; CL:間|间[jiān]"
+    },
+    {
+      "type": "hanzi",
+      "character": "帮忙",
+      "romaji": "bāng máng",
+      "meaning": "to help; to lend a hand; to do a favor; to do a good turn"
+    },
+    {
+      "type": "hanzi",
+      "character": "包",
+      "romaji": "bāo",
+      "meaning": "to cover; to wrap; to hold; to include; to take charge of; to contract (to or for); package; wrapper; container; bag; to hold or embrace; bundle; packet; CL:個|个; 隻|只[zhī]"
+    },
+    {
+      "type": "hanzi",
+      "character": "饱",
+      "romaji": "bǎo",
+      "meaning": "to eat till full; satisfied"
+    },
+    {
+      "type": "hanzi",
+      "character": "北方",
+      "romaji": "běi fāng",
+      "meaning": "north; the northern part a country; China north of the Yellow River"
+    },
+    {
+      "type": "hanzi",
+      "character": "被",
+      "romaji": "bèi",
+      "meaning": "quilt; by; (indicates passive-voice clauses); (literary) to cover; to meet with"
+    },
+    {
+      "type": "hanzi",
+      "character": "鼻子",
+      "romaji": "bí zi",
+      "meaning": "nose; CL:個|个; 隻|只[zhī]"
+    },
+    {
+      "type": "hanzi",
+      "character": "比较",
+      "romaji": "bǐ jiào",
+      "meaning": "to compare; to contrast; comparatively; relatively; quite; comparison"
+    },
+    {
+      "type": "hanzi",
+      "character": "比赛",
+      "romaji": "bǐ sài",
+      "meaning": "competition (sports etc); match; CL:場|场; 次[cì]"
+    },
+    {
+      "type": "hanzi",
+      "character": "必须",
+      "romaji": "bì xū",
+      "meaning": "to have to; must; compulsory; necessarily"
+    }
+  ]
+}

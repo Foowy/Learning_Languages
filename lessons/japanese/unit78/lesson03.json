@@ -1,0 +1,67 @@
+{
+  "unit": 78,
+  "lesson": 3,
+  "title": "Vocabulary — Frequency 14221–14230",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "添加物",
+      "romaji": "てんかぶつ",
+      "meaning": "additive"
+    },
+    {
+      "type": "kanji",
+      "character": "添削",
+      "romaji": "てんさく",
+      "meaning": "correction; looking over"
+    },
+    {
+      "type": "kanji",
+      "character": "添付",
+      "romaji": "てんぷ",
+      "meaning": "attaching (documents, etc.); appending"
+    },
+    {
+      "type": "kanji",
+      "character": "纏め",
+      "romaji": "まとめ",
+      "meaning": "summary; recapitulation"
+    },
+    {
+      "type": "kanji",
+      "character": "纏める",
+      "romaji": "まとめる",
+      "meaning": "to collect; to put (it all) together"
+    },
+    {
+      "type": "kanji",
+      "character": "貼付",
+      "romaji": "ちょうふ",
+      "meaning": "pasting; sticking"
+    },
+    {
+      "type": "kanji",
+      "character": "転がす",
+      "romaji": "ころがす",
+      "meaning": "to roll; to wheel"
+    },
+    {
+      "type": "kanji",
+      "character": "転がる",
+      "romaji": "ころがる",
+      "meaning": "to roll; to tumble"
+    },
+    {
+      "type": "kanji",
+      "character": "転じる",
+      "romaji": "てんじる",
+      "meaning": "to turn; to shift"
+    },
+    {
+      "type": "kanji",
+      "character": "転嫁",
+      "romaji": "てんか",
+      "meaning": "imputation; shifting (blame, responsibility, etc.)"
+    }
+  ]
+}

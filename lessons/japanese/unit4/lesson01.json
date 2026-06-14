@@ -1,0 +1,67 @@
+{
+  "unit": 4,
+  "lesson": 1,
+  "title": "JLPT N4 Kanji — Part 1",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "同",
+      "romaji": "ドウ / おな.じ",
+      "meaning": "same; agree; equal"
+    },
+    {
+      "type": "kanji",
+      "character": "事",
+      "romaji": "ジ・ズ / こと・つか.う・つか.える",
+      "meaning": "matter; thing; fact"
+    },
+    {
+      "type": "kanji",
+      "character": "自",
+      "romaji": "ジ・シ / みずか.ら・おの.ずから・おの.ずと",
+      "meaning": "oneself"
+    },
+    {
+      "type": "kanji",
+      "character": "民",
+      "romaji": "ミン / たみ",
+      "meaning": "people; nation; subjects"
+    },
+    {
+      "type": "kanji",
+      "character": "発",
+      "romaji": "ハツ・ホツ / た.つ・あば.く・おこ.る・つか.わす・はな.つ",
+      "meaning": "departure; discharge; publish"
+    },
+    {
+      "type": "kanji",
+      "character": "者",
+      "romaji": "シャ / もの",
+      "meaning": "someone; person"
+    },
+    {
+      "type": "kanji",
+      "character": "地",
+      "romaji": "チ・ジ",
+      "meaning": "ground; earth"
+    },
+    {
+      "type": "kanji",
+      "character": "合",
+      "romaji": "ゴウ・ガッ・カッ / あ.う・-あ.う・あ.い・あい-・-あ.い・-あい・あ.わす・あ.わせる・-あ.わせる",
+      "meaning": "fit; suit; join"
+    },
+    {
+      "type": "kanji",
+      "character": "市",
+      "romaji": "シ / いち",
+      "meaning": "market; city; town"
+    },
+    {
+      "type": "kanji",
+      "character": "業",
+      "romaji": "ギョウ・ゴウ / わざ",
+      "meaning": "business; vocation; arts"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 61,
+  "lesson": 12,
+  "title": "Vocabulary — Frequency 10911–10920",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "序盤",
+      "romaji": "じょばん",
+      "meaning": "opening (in a game of go, chess, etc.)"
+    },
+    {
+      "type": "kanji",
+      "character": "序文",
+      "romaji": "じょぶん",
+      "meaning": "preface; foreword"
+    },
+    {
+      "type": "kanji",
+      "character": "序幕",
+      "romaji": "じょまく",
+      "meaning": "curtain-raiser; prologue"
+    },
+    {
+      "type": "kanji",
+      "character": "序列",
+      "romaji": "じょれつ",
+      "meaning": "rank; ranking order"
+    },
+    {
+      "type": "kanji",
+      "character": "徐行",
+      "romaji": "じょこう",
+      "meaning": "going slowly (esp. to enable a vehicle to stop immediately); going at a reduced speed"
+    },
+    {
+      "type": "kana",
+      "character": "そろそろ",
+      "romaji": "そろそろ",
+      "meaning": "soon; before long"
+    },
+    {
+      "type": "kanji",
+      "character": "除いて",
+      "romaji": "のぞいて",
+      "meaning": "except; save"
+    },
+    {
+      "type": "kanji",
+      "character": "除く",
+      "romaji": "のぞく",
+      "meaning": "to remove; to get rid of"
+    },
+    {
+      "type": "kanji",
+      "character": "除外",
+      "romaji": "じょがい",
+      "meaning": "exception; exclusion"
+    },
+    {
+      "type": "kanji",
+      "character": "除去",
+      "romaji": "じょきょ",
+      "meaning": "removal; getting rid of"
+    }
+  ]
+}

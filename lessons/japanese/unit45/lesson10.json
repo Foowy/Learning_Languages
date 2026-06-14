@@ -1,0 +1,67 @@
+{
+  "unit": 45,
+  "lesson": 10,
+  "title": "Vocabulary — Frequency 7691–7700",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "劇薬",
+      "romaji": "げきやく",
+      "meaning": "powerful medicine; strong poison"
+    },
+    {
+      "type": "kanji",
+      "character": "撃つ",
+      "romaji": "うつ",
+      "meaning": "to shoot (a gun, person, etc.); to fire"
+    },
+    {
+      "type": "kanji",
+      "character": "撃沈",
+      "romaji": "げきちん",
+      "meaning": "(attacking and) sinking (a ship); sending (a ship) to the bottom"
+    },
+    {
+      "type": "kanji",
+      "character": "撃墜",
+      "romaji": "げきつい",
+      "meaning": "shooting down (an aircraft)"
+    },
+    {
+      "type": "kanji",
+      "character": "激化",
+      "romaji": "げきか",
+      "meaning": "intensification; aggravation"
+    },
+    {
+      "type": "kanji",
+      "character": "激減",
+      "romaji": "げきげん",
+      "meaning": "dramatic decrease; sharp drop"
+    },
+    {
+      "type": "kanji",
+      "character": "激情",
+      "romaji": "げきじょう",
+      "meaning": "violent emotion; passion"
+    },
+    {
+      "type": "kanji",
+      "character": "激戦",
+      "romaji": "げきせん",
+      "meaning": "fierce battle; hard-fought battle"
+    },
+    {
+      "type": "kanji",
+      "character": "激怒",
+      "romaji": "げきど",
+      "meaning": "rage; fury"
+    },
+    {
+      "type": "kanji",
+      "character": "激動",
+      "romaji": "げきどう",
+      "meaning": "violent shock; agitation"
+    }
+  ]
+}

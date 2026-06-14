@@ -1,0 +1,67 @@
+{
+  "unit": 48,
+  "lesson": 20,
+  "title": "Vocabulary — Frequency 8391–8400",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "公衆衛生",
+      "romaji": "こうしゅうえいせい",
+      "meaning": "public health; public hygiene"
+    },
+    {
+      "type": "kanji",
+      "character": "公衆電話",
+      "romaji": "こうしゅうでんわ",
+      "meaning": "public telephone; pay phone"
+    },
+    {
+      "type": "kanji",
+      "character": "公称",
+      "romaji": "こうしょう",
+      "meaning": "public announcement; official statement"
+    },
+    {
+      "type": "kanji",
+      "character": "公職",
+      "romaji": "こうしょく",
+      "meaning": "public office"
+    },
+    {
+      "type": "kanji",
+      "character": "公人",
+      "romaji": "こうじん",
+      "meaning": "public character"
+    },
+    {
+      "type": "kanji",
+      "character": "公正",
+      "romaji": "こうせい",
+      "meaning": "justice; fairness"
+    },
+    {
+      "type": "kanji",
+      "character": "公設",
+      "romaji": "こうせつ",
+      "meaning": "public (institution)"
+    },
+    {
+      "type": "kanji",
+      "character": "公選",
+      "romaji": "こうせん",
+      "meaning": "public election; election by popular vote"
+    },
+    {
+      "type": "kanji",
+      "character": "公然",
+      "romaji": "こうぜん",
+      "meaning": "open; public"
+    },
+    {
+      "type": "kanji",
+      "character": "公訴",
+      "romaji": "こうそ",
+      "meaning": "(public) prosecution; indictment"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 3,
+  "lesson": 25,
+  "title": "HSK 3 Vocabulary — Part 25",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "像",
+      "romaji": "xiàng",
+      "meaning": "to resemble; to be like; to look as if; such as; appearance; image; portrait; image under a mapping (math.)"
+    },
+    {
+      "type": "hanzi",
+      "character": "小心",
+      "romaji": "xiǎo xīn",
+      "meaning": "to be careful; to take care"
+    },
+    {
+      "type": "hanzi",
+      "character": "校长",
+      "romaji": "xiào zhǎng",
+      "meaning": "(college; university) president; headmaster; CL:個|个; 位; 名[míng]"
+    },
+    {
+      "type": "hanzi",
+      "character": "鞋",
+      "romaji": "xié",
+      "meaning": "shoe; CL:雙|双; 隻|只[zhī]"
+    },
+    {
+      "type": "hanzi",
+      "character": "新闻",
+      "romaji": "xīn wén",
+      "meaning": "news; CL:條|条; 個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "新鲜",
+      "romaji": "xīn xiān",
+      "meaning": "fresh (experience; food etc); freshness; novel; uncommon"
+    },
+    {
+      "type": "hanzi",
+      "character": "信",
+      "romaji": "xìn",
+      "meaning": "letter; mail; CL:封[fēng]; to trust; to believe; to profess faith in; truthful; confidence; trust; at will; at random"
+    },
+    {
+      "type": "hanzi",
+      "character": "行李箱",
+      "romaji": "xíng li xiāng",
+      "meaning": "suitcase"
+    },
+    {
+      "type": "hanzi",
+      "character": "兴趣",
+      "romaji": "xìng qù",
+      "meaning": "interest (desire to know about sth); interest (thing in which one is interested); hobby; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "熊猫",
+      "romaji": "xióng māo",
+      "meaning": "panda; CL:隻|只[zhī]"
+    }
+  ]
+}

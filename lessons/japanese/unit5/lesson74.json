@@ -1,0 +1,61 @@
+{
+  "unit": 5,
+  "lesson": 74,
+  "title": "JLPT N3 Kanji — Part 74",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "皿",
+      "romaji": "ベイ / さら",
+      "meaning": "dish; a helping; plate"
+    },
+    {
+      "type": "kanji",
+      "character": "肯",
+      "romaji": "コウ / がえんじ.る",
+      "meaning": "agreement; consent; comply with"
+    },
+    {
+      "type": "kanji",
+      "character": "燥",
+      "romaji": "ソウ / はしゃ.ぐ",
+      "meaning": "parch; dry up"
+    },
+    {
+      "type": "kanji",
+      "character": "畜",
+      "romaji": "チク",
+      "meaning": "livestock; domestic fowl and animals"
+    },
+    {
+      "type": "kanji",
+      "character": "坊",
+      "romaji": "ボウ・ボッ",
+      "meaning": "boy; priest's residence; priest"
+    },
+    {
+      "type": "kanji",
+      "character": "挟",
+      "romaji": "キョウ・ショウ / はさ.む・はさ.まる・わきばさ.む・さしはさ.む",
+      "meaning": "pinch; between"
+    },
+    {
+      "type": "kanji",
+      "character": "曇",
+      "romaji": "ドン / くも.る",
+      "meaning": "cloudy weather; cloud up"
+    },
+    {
+      "type": "kanji",
+      "character": "滴",
+      "romaji": "テキ / しずく・したた.る",
+      "meaning": "drip; drop"
+    },
+    {
+      "type": "kanji",
+      "character": "伺",
+      "romaji": "シ / うかが.う",
+      "meaning": "pay respects; visit; ask"
+    }
+  ]
+}

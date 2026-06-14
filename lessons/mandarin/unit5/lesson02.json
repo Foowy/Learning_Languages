@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 2,
+  "title": "HSK 5 Vocabulary — Part 2",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "办理",
+      "romaji": "bàn lǐ",
+      "meaning": "to handle; to transact; to conduct"
+    },
+    {
+      "type": "hanzi",
+      "character": "棒",
+      "romaji": "bàng",
+      "meaning": "a stick; club or cudgel; smart; capable; strong; wonderful; classifier for legs of a relay race"
+    },
+    {
+      "type": "hanzi",
+      "character": "傍晚",
+      "romaji": "bàng wǎn",
+      "meaning": "in the evening; when night falls; towards evening; at night fall; at dusk"
+    },
+    {
+      "type": "hanzi",
+      "character": "包裹",
+      "romaji": "bāo guǒ",
+      "meaning": "wrap up; bind up; bundle; parcel; package; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "包含",
+      "romaji": "bāo hán",
+      "meaning": "to contain; to embody; to include"
+    },
+    {
+      "type": "hanzi",
+      "character": "包子",
+      "romaji": "bāo zi",
+      "meaning": "steamed stuffed bun; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "薄",
+      "romaji": "báo",
+      "meaning": "thin; cold in manner; indifferent; weak; light; infertile"
+    },
+    {
+      "type": "hanzi",
+      "character": "宝贝",
+      "romaji": "bǎo bèi",
+      "meaning": "treasured object; treasure; darling; baby; cowry; good-for-nothing or queer character"
+    },
+    {
+      "type": "hanzi",
+      "character": "宝贵",
+      "romaji": "bǎo guì",
+      "meaning": "valuable; precious; to value; to treasure; to set store by"
+    },
+    {
+      "type": "hanzi",
+      "character": "保持",
+      "romaji": "bǎo chí",
+      "meaning": "to keep; to maintain; to hold; to preserve"
+    }
+  ]
+}

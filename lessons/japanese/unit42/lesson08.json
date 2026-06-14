@@ -1,0 +1,67 @@
+{
+  "unit": 42,
+  "lesson": 8,
+  "title": "Vocabulary — Frequency 7071–7080",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "共産",
+      "romaji": "きょうさん",
+      "meaning": "communism"
+    },
+    {
+      "type": "kanji",
+      "character": "共産主義",
+      "romaji": "きょうさんしゅぎ",
+      "meaning": "communism"
+    },
+    {
+      "type": "kanji",
+      "character": "共産党",
+      "romaji": "きょうさんとう",
+      "meaning": "Communist Party"
+    },
+    {
+      "type": "kanji",
+      "character": "共生",
+      "romaji": "きょうせい",
+      "meaning": "coexistence; living together"
+    },
+    {
+      "type": "kanji",
+      "character": "共著",
+      "romaji": "きょうちょ",
+      "meaning": "joint authorship; co-authorship"
+    },
+    {
+      "type": "kanji",
+      "character": "共通",
+      "romaji": "きょうつう",
+      "meaning": "common; shared"
+    },
+    {
+      "type": "kanji",
+      "character": "共通語",
+      "romaji": "きょうつうご",
+      "meaning": "common language; lingua franca"
+    },
+    {
+      "type": "kanji",
+      "character": "共通点",
+      "romaji": "きょうつうてん",
+      "meaning": "point in common; common feature"
+    },
+    {
+      "type": "kanji",
+      "character": "共倒れ",
+      "romaji": "ともだおれ",
+      "meaning": "falling together; mutual destruction"
+    },
+    {
+      "type": "kanji",
+      "character": "共闘",
+      "romaji": "きょうとう",
+      "meaning": "joint struggle; common (united) front"
+    }
+  ]
+}

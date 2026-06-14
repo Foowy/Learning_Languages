@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 12,
+  "title": "HSK 5 Vocabulary — Part 12",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "承受",
+      "romaji": "chéng shòu",
+      "meaning": "to bear; to support; to inherit"
+    },
+    {
+      "type": "hanzi",
+      "character": "成分",
+      "romaji": "chéng fèn",
+      "meaning": "composition; make-up; ingredient; element; component; one's social status; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "成果",
+      "romaji": "chéng guǒ",
+      "meaning": "result; achievement; gain; profit; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "成就",
+      "romaji": "chéng jiù",
+      "meaning": "accomplishment; success; attain a result; achievement; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "成立",
+      "romaji": "chéng lì",
+      "meaning": "to establish; to set up; to be tenable; to hold water"
+    },
+    {
+      "type": "hanzi",
+      "character": "成语",
+      "romaji": "chéng yǔ",
+      "meaning": "Chinese set expression; often made up of 4 characters or two couplets of 4 characters each; often alluding to a story or historical quotation; idiom; proverb; saying; adage; set expression; CL:條|条; 本; 句[jù]"
+    },
+    {
+      "type": "hanzi",
+      "character": "成长",
+      "romaji": "chéng zhǎng",
+      "meaning": "to mature; to grow; growth"
+    },
+    {
+      "type": "hanzi",
+      "character": "程度",
+      "romaji": "chéng dù",
+      "meaning": "degree (level or extent); level; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "程序",
+      "romaji": "chéng xù",
+      "meaning": "procedures; sequence; order; computer program"
+    },
+    {
+      "type": "hanzi",
+      "character": "诚恳",
+      "romaji": "chéng kěn",
+      "meaning": "sincere; honest; cordial"
+    }
+  ]
+}

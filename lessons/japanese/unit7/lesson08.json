@@ -1,0 +1,67 @@
+{
+  "unit": 7,
+  "lesson": 8,
+  "title": "Vocabulary — Frequency 71–80",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "お巡りさん",
+      "romaji": "おまわりさん",
+      "meaning": "police officer"
+    },
+    {
+      "type": "kanji",
+      "character": "お嬢さん",
+      "romaji": "おじょうさん",
+      "meaning": "(another's) daughter"
+    },
+    {
+      "type": "kanji",
+      "character": "お世辞",
+      "romaji": "おせじ",
+      "meaning": "flattery; compliment"
+    },
+    {
+      "type": "kanji",
+      "character": "お世話になる",
+      "romaji": "おせわになる",
+      "meaning": "to receive favor; to receive assistance"
+    },
+    {
+      "type": "kanji",
+      "character": "お先に",
+      "romaji": "おさきに",
+      "meaning": "before; previously"
+    },
+    {
+      "type": "kanji",
+      "character": "お前",
+      "romaji": "おまえ",
+      "meaning": "you"
+    },
+    {
+      "type": "kanji",
+      "character": "お祖父さん",
+      "romaji": "おじいさん",
+      "meaning": "grandfather"
+    },
+    {
+      "type": "kanji",
+      "character": "お祖母さん",
+      "romaji": "おばあさん",
+      "meaning": "grandmother"
+    },
+    {
+      "type": "kanji",
+      "character": "お早うございます",
+      "romaji": "おはようございます",
+      "meaning": "good morning"
+    },
+    {
+      "type": "kanji",
+      "character": "お袋",
+      "romaji": "おふくろ",
+      "meaning": "(one's) mother"
+    }
+  ]
+}

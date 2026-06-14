@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 4,
+  "title": "JLPT N3 Kanji — Part 4",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "務",
+      "romaji": "ム / つと.める",
+      "meaning": "task; duties"
+    },
+    {
+      "type": "kanji",
+      "character": "成",
+      "romaji": "セイ・ジョウ / な.る・な.す・-な.す",
+      "meaning": "turn into; become; get"
+    },
+    {
+      "type": "kanji",
+      "character": "期",
+      "romaji": "キ・ゴ",
+      "meaning": "period; time; date"
+    },
+    {
+      "type": "kanji",
+      "character": "公",
+      "romaji": "コウ・ク / おおやけ",
+      "meaning": "public; prince; official"
+    },
+    {
+      "type": "kanji",
+      "character": "協",
+      "romaji": "キョウ",
+      "meaning": "co-; cooperation"
+    },
+    {
+      "type": "kanji",
+      "character": "取",
+      "romaji": "シュ / と.る・と.り・と.り-・とり・-ど.り",
+      "meaning": "take; fetch; take up"
+    },
+    {
+      "type": "kanji",
+      "character": "和",
+      "romaji": "ワ・オ・カ / やわ.らぐ・やわ.らげる・なご.む・なご.やか・あ.える",
+      "meaning": "harmony; Japanese style; peace"
+    },
+    {
+      "type": "kanji",
+      "character": "機",
+      "romaji": "キ / はた",
+      "meaning": "loom; mechanism; machine"
+    },
+    {
+      "type": "kanji",
+      "character": "平",
+      "romaji": "ヘイ・ビョウ・ヒョウ / たい.ら・たい.らげる・ひら",
+      "meaning": "even; flat; peace"
+    },
+    {
+      "type": "kanji",
+      "character": "総",
+      "romaji": "ソウ / す.べて・すべ.て・ふさ",
+      "meaning": "general; whole; all"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 73,
+  "title": "JLPT N3 Kanji — Part 73",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "沸",
+      "romaji": "フツ / わ.く・わ.かす",
+      "meaning": "seethe; boil; ferment"
+    },
+    {
+      "type": "kanji",
+      "character": "灰",
+      "romaji": "カイ / はい",
+      "meaning": "ashes; puckery juice; cremate"
+    },
+    {
+      "type": "kanji",
+      "character": "菓",
+      "romaji": "カ",
+      "meaning": "candy; cakes; fruit"
+    },
+    {
+      "type": "kanji",
+      "character": "帽",
+      "romaji": "ボウ・モウ / ずきん・おお.う",
+      "meaning": "cap; headgear"
+    },
+    {
+      "type": "kanji",
+      "character": "枯",
+      "romaji": "コ / か.れる・か.らす",
+      "meaning": "wither; die; dry up"
+    },
+    {
+      "type": "kanji",
+      "character": "涼",
+      "romaji": "リョウ / すず.しい・すず.む・すず.やか・うす.い・ひや.す・まことに",
+      "meaning": "refreshing; nice and cool"
+    },
+    {
+      "type": "kanji",
+      "character": "舟",
+      "romaji": "シュウ / ふね・ふな-・-ぶね",
+      "meaning": "boat; ship"
+    },
+    {
+      "type": "kanji",
+      "character": "貝",
+      "romaji": "バイ / かい",
+      "meaning": "shellfish"
+    },
+    {
+      "type": "kanji",
+      "character": "符",
+      "romaji": "フ",
+      "meaning": "token; sign; mark"
+    },
+    {
+      "type": "kanji",
+      "character": "憎",
+      "romaji": "ゾウ / にく.む・にく.い・にく.らしい・にく.しみ",
+      "meaning": "hate; detest"
+    }
+  ]
+}

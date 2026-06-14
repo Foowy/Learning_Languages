@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 6,
+  "title": "JLPT N3 Kanji — Part 6",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "指",
+      "romaji": "シ / ゆび・さ.す・-さ.し",
+      "meaning": "finger; point to; indicate"
+    },
+    {
+      "type": "kanji",
+      "character": "権",
+      "romaji": "ケン・ゴン / おもり・かり・はか.る",
+      "meaning": "authority; power; rights"
+    },
+    {
+      "type": "kanji",
+      "character": "支",
+      "romaji": "シ / ささ.える・つか.える・か.う",
+      "meaning": "branch; support; sustain"
+    },
+    {
+      "type": "kanji",
+      "character": "第",
+      "romaji": "ダイ・テイ",
+      "meaning": "No.; residence"
+    },
+    {
+      "type": "kanji",
+      "character": "結",
+      "romaji": "ケツ・ケチ / むす.ぶ・ゆ.う・ゆ.わえる",
+      "meaning": "tie; bind; contract"
+    },
+    {
+      "type": "kanji",
+      "character": "点",
+      "romaji": "テン / つ.ける・つ.く・た.てる・さ.す・とぼ.す・とも.す・ぼち",
+      "meaning": "spot; point; mark"
+    },
+    {
+      "type": "kanji",
+      "character": "報",
+      "romaji": "ホウ / むく.いる",
+      "meaning": "report; news; reward"
+    },
+    {
+      "type": "kanji",
+      "character": "済",
+      "romaji": "サイ・セイ / す.む・-ず.み・-ずみ・す.まない・す.ます・-す.ます・すく.う・な.す・わたし・わた.る",
+      "meaning": "settle (debt, etc.); relieve (burden); finish"
+    },
+    {
+      "type": "kanji",
+      "character": "府",
+      "romaji": "フ",
+      "meaning": "borough; urban prefecture; govt office"
+    },
+    {
+      "type": "kanji",
+      "character": "活",
+      "romaji": "カツ / い.きる・い.かす・い.ける",
+      "meaning": "lively; resuscitation; being helped"
+    }
+  ]
+}

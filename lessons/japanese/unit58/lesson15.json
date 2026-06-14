@@ -1,0 +1,67 @@
+{
+  "unit": 58,
+  "lesson": 15,
+  "title": "Vocabulary — Frequency 10341–10350",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "趣",
+      "romaji": "おもむき",
+      "meaning": "meaning; tenor"
+    },
+    {
+      "type": "kanji",
+      "character": "趣向",
+      "romaji": "しゅこう",
+      "meaning": "plan; idea"
+    },
+    {
+      "type": "kanji",
+      "character": "趣旨",
+      "romaji": "しゅし",
+      "meaning": "meaning; point (e.g. of a statement)"
+    },
+    {
+      "type": "kanji",
+      "character": "趣味",
+      "romaji": "しゅみ",
+      "meaning": "hobby; pastime"
+    },
+    {
+      "type": "kanji",
+      "character": "酒",
+      "romaji": "さけ",
+      "meaning": "alcohol; sake"
+    },
+    {
+      "type": "kanji",
+      "character": "酒屋",
+      "romaji": "さかや",
+      "meaning": "liquor store; wine shop"
+    },
+    {
+      "type": "kanji",
+      "character": "酒場",
+      "romaji": "さかば",
+      "meaning": "bar; pub"
+    },
+    {
+      "type": "kanji",
+      "character": "酒造",
+      "romaji": "しゅぞう",
+      "meaning": "brewing (sake); distilling (e.g. whisky)"
+    },
+    {
+      "type": "kanji",
+      "character": "酒類",
+      "romaji": "しゅるい",
+      "meaning": "alcoholic drinks; liquor"
+    },
+    {
+      "type": "kanji",
+      "character": "首飾り",
+      "romaji": "くびかざり",
+      "meaning": "necklace; choker"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 10,
+  "lesson": 6,
+  "title": "Vocabulary — Frequency 651–660",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "インストラクター",
+      "romaji": "インストラクター",
+      "meaning": "instructor"
+    },
+    {
+      "type": "kana",
+      "character": "インスピレーション",
+      "romaji": "インスピレーション",
+      "meaning": "inspiration"
+    },
+    {
+      "type": "kana",
+      "character": "インセンティブ",
+      "romaji": "インセンティブ",
+      "meaning": "incentive"
+    },
+    {
+      "type": "kana",
+      "character": "インター",
+      "romaji": "インター",
+      "meaning": "interchange"
+    },
+    {
+      "type": "kana",
+      "character": "インターナショナル",
+      "romaji": "インターナショナル",
+      "meaning": "international"
+    },
+    {
+      "type": "kana",
+      "character": "インターネット",
+      "romaji": "インターネット",
+      "meaning": "Internet"
+    },
+    {
+      "type": "kana",
+      "character": "インターン",
+      "romaji": "インターン",
+      "meaning": "intern; internship"
+    },
+    {
+      "type": "kana",
+      "character": "インタビュー",
+      "romaji": "インタビュー",
+      "meaning": "interview (on television, in a newspaper, etc.)"
+    },
+    {
+      "type": "kana",
+      "character": "インタラクティブ",
+      "romaji": "インタラクティブ",
+      "meaning": "interactive"
+    },
+    {
+      "type": "kana",
+      "character": "インダストリアル",
+      "romaji": "インダストリアル",
+      "meaning": "industrial (style, manufacturing, architecture, etc.)"
+    }
+  ]
+}

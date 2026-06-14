@@ -1,0 +1,67 @@
+{
+  "unit": 10,
+  "lesson": 10,
+  "title": "Vocabulary — Frequency 691–700",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "ウィークリー",
+      "romaji": "ウィークリー",
+      "meaning": "weekly"
+    },
+    {
+      "type": "kana",
+      "character": "ウィジェット",
+      "romaji": "ウィジェット",
+      "meaning": "widget"
+    },
+    {
+      "type": "kana",
+      "character": "ウイスキー",
+      "romaji": "ウイスキー",
+      "meaning": "whisky; whiskey"
+    },
+    {
+      "type": "kana",
+      "character": "ウインカー",
+      "romaji": "ウインカー",
+      "meaning": "(car) turn signal; blinker"
+    },
+    {
+      "type": "kana",
+      "character": "ウィンター",
+      "romaji": "ウィンター",
+      "meaning": "winter"
+    },
+    {
+      "type": "kana",
+      "character": "ウィンドウ",
+      "romaji": "ウィンドウ",
+      "meaning": "window"
+    },
+    {
+      "type": "kana",
+      "character": "ウインド",
+      "romaji": "ウインド",
+      "meaning": "wind"
+    },
+    {
+      "type": "kana",
+      "character": "ウイルス",
+      "romaji": "ウイルス",
+      "meaning": "virus"
+    },
+    {
+      "type": "kana",
+      "character": "ウインク",
+      "romaji": "ウインク",
+      "meaning": "wink"
+    },
+    {
+      "type": "kana",
+      "character": "ウイング",
+      "romaji": "ウイング",
+      "meaning": "wing (of a bird, aircraft, etc.)"
+    }
+  ]
+}

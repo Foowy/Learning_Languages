@@ -1,0 +1,67 @@
+{
+  "unit": 85,
+  "lesson": 5,
+  "title": "Vocabulary — Frequency 15641–15650",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "肥大",
+      "romaji": "ひだい",
+      "meaning": "swelling; enlargement"
+    },
+    {
+      "type": "kanji",
+      "character": "肥満",
+      "romaji": "ひまん",
+      "meaning": "corpulence; fatness"
+    },
+    {
+      "type": "kanji",
+      "character": "肥料",
+      "romaji": "ひりょう",
+      "meaning": "manure; fertilizer"
+    },
+    {
+      "type": "kanji",
+      "character": "被せる",
+      "romaji": "かぶせる",
+      "meaning": "to cover (with something)"
+    },
+    {
+      "type": "kanji",
+      "character": "被る",
+      "romaji": "かぶる",
+      "meaning": "to put on (one's head); to wear"
+    },
+    {
+      "type": "kanji",
+      "character": "被害",
+      "romaji": "ひがい",
+      "meaning": "(suffering) damage; injury"
+    },
+    {
+      "type": "kanji",
+      "character": "被害者",
+      "romaji": "ひがいしゃ",
+      "meaning": "victim; injured party"
+    },
+    {
+      "type": "kanji",
+      "character": "被告",
+      "romaji": "ひこく",
+      "meaning": "defendant; the accused"
+    },
+    {
+      "type": "kanji",
+      "character": "被告人",
+      "romaji": "ひこくにん",
+      "meaning": "accused; defendant"
+    },
+    {
+      "type": "kanji",
+      "character": "被災",
+      "romaji": "ひさい",
+      "meaning": "suffering (from a disaster); being hit (by an earthquake, typhoon, etc.)"
+    }
+  ]
+}

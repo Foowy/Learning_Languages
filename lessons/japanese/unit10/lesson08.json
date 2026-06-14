@@ -1,0 +1,67 @@
+{
+  "unit": 10,
+  "lesson": 8,
+  "title": "Vocabulary — Frequency 671–680",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "インデックス",
+      "romaji": "インデックス",
+      "meaning": "index"
+    },
+    {
+      "type": "kana",
+      "character": "イントネーション",
+      "romaji": "イントネーション",
+      "meaning": "intonation"
+    },
+    {
+      "type": "kana",
+      "character": "イントロ",
+      "romaji": "イントロ",
+      "meaning": "intro; introduction"
+    },
+    {
+      "type": "kanji",
+      "character": "印度",
+      "romaji": "インド",
+      "meaning": "India"
+    },
+    {
+      "type": "kana",
+      "character": "インドア",
+      "romaji": "インドア",
+      "meaning": "indoor"
+    },
+    {
+      "type": "kanji",
+      "character": "印度支那",
+      "romaji": "インドシナ",
+      "meaning": "Indochina"
+    },
+    {
+      "type": "kanji",
+      "character": "印度尼西亜",
+      "romaji": "インドネシア",
+      "meaning": "Indonesia"
+    },
+    {
+      "type": "kana",
+      "character": "インバーター",
+      "romaji": "インバーター",
+      "meaning": "inverter"
+    },
+    {
+      "type": "kana",
+      "character": "インパクト",
+      "romaji": "インパクト",
+      "meaning": "impact (on); (strong) impression"
+    },
+    {
+      "type": "kana",
+      "character": "インフォメーション",
+      "romaji": "インフォメーション",
+      "meaning": "information"
+    }
+  ]
+}

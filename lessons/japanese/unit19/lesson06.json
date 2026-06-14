@@ -1,0 +1,67 @@
+{
+  "unit": 19,
+  "lesson": 6,
+  "title": "Vocabulary — Frequency 2451–2460",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "デニム",
+      "romaji": "デニム",
+      "meaning": "denim"
+    },
+    {
+      "type": "kana",
+      "character": "デノミ",
+      "romaji": "デノミ",
+      "meaning": "denomination (reducing the face value of currency after inflation)"
+    },
+    {
+      "type": "kana",
+      "character": "デバイス",
+      "romaji": "デバイス",
+      "meaning": "device"
+    },
+    {
+      "type": "kana",
+      "character": "デパート",
+      "romaji": "デパート",
+      "meaning": "department store"
+    },
+    {
+      "type": "kana",
+      "character": "デビスカップ",
+      "romaji": "デビスカップ",
+      "meaning": "Davis Cup (tennis tournament)"
+    },
+    {
+      "type": "kana",
+      "character": "デビュー",
+      "romaji": "デビュー",
+      "meaning": "debut; doing something for the first time"
+    },
+    {
+      "type": "kana",
+      "character": "デフォルメ",
+      "romaji": "デフォルメ",
+      "meaning": "distortion (often used for caricature in manga, etc.); deformation"
+    },
+    {
+      "type": "kana",
+      "character": "デフレ",
+      "romaji": "デフレ",
+      "meaning": "deflation"
+    },
+    {
+      "type": "kana",
+      "character": "デブ",
+      "romaji": "デブ",
+      "meaning": "fat; chubby"
+    },
+    {
+      "type": "kana",
+      "character": "デベロッパー",
+      "romaji": "デベロッパー",
+      "meaning": "developer"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 33,
+  "lesson": 11,
+  "title": "Vocabulary — Frequency 5301–5310",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "押し入る",
+      "romaji": "おしいる",
+      "meaning": "to push in; to force into"
+    },
+    {
+      "type": "kanji",
+      "character": "押し付ける",
+      "romaji": "おしつける",
+      "meaning": "to press against; to push against"
+    },
+    {
+      "type": "kanji",
+      "character": "押し問答",
+      "romaji": "おしもんどう",
+      "meaning": "arguing back and forth; bandying words"
+    },
+    {
+      "type": "kanji",
+      "character": "押す",
+      "romaji": "おす",
+      "meaning": "to push; to thrust"
+    },
+    {
+      "type": "kanji",
+      "character": "押収",
+      "romaji": "おうしゅう",
+      "meaning": "seizure; confiscation"
+    },
+    {
+      "type": "kanji",
+      "character": "旺盛",
+      "romaji": "おうせい",
+      "meaning": "lively; vigorous"
+    },
+    {
+      "type": "kanji",
+      "character": "横",
+      "romaji": "よこ",
+      "meaning": "horizontal (as opposed to vertical)"
+    },
+    {
+      "type": "kanji",
+      "character": "横たわる",
+      "romaji": "よこたわる",
+      "meaning": "to lie down; to stretch out"
+    },
+    {
+      "type": "kanji",
+      "character": "横顔",
+      "romaji": "よこがお",
+      "meaning": "profile; face in profile"
+    },
+    {
+      "type": "kanji",
+      "character": "横綱",
+      "romaji": "よこづな",
+      "meaning": "yokozuna (highest rank in sumo); grand champion"
+    }
+  ]
+}

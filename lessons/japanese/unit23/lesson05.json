@@ -1,0 +1,67 @@
+{
+  "unit": 23,
+  "lesson": 5,
+  "title": "Vocabulary — Frequency 3241–3250",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "フィルム",
+      "romaji": "フィルム",
+      "meaning": "film"
+    },
+    {
+      "type": "kana",
+      "character": "フィン",
+      "romaji": "フィン",
+      "meaning": "(diving) fin; swim fin"
+    },
+    {
+      "type": "kanji",
+      "character": "芬蘭",
+      "romaji": "フィンランド",
+      "meaning": "Finland"
+    },
+    {
+      "type": "kana",
+      "character": "フェア",
+      "romaji": "フェア",
+      "meaning": "fair"
+    },
+    {
+      "type": "kana",
+      "character": "フェアウェイ",
+      "romaji": "フェアウェイ",
+      "meaning": "fairway"
+    },
+    {
+      "type": "kana",
+      "character": "フェアプレー",
+      "romaji": "フェアプレー",
+      "meaning": "fair play"
+    },
+    {
+      "type": "kana",
+      "character": "フェイク",
+      "romaji": "フェイク",
+      "meaning": "fake"
+    },
+    {
+      "type": "kana",
+      "character": "フェイス",
+      "romaji": "フェイス",
+      "meaning": "face"
+    },
+    {
+      "type": "kana",
+      "character": "フェイント",
+      "romaji": "フェイント",
+      "meaning": "feint"
+    },
+    {
+      "type": "kana",
+      "character": "フェスティバル",
+      "romaji": "フェスティバル",
+      "meaning": "festival (esp. music, film, etc.)"
+    }
+  ]
+}

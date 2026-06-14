@@ -1,0 +1,67 @@
+{
+  "unit": 7,
+  "lesson": 3,
+  "title": "Vocabulary — Frequency 21–30",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "いそいそ",
+      "romaji": "いそいそ",
+      "meaning": "cheerfully; joyously"
+    },
+    {
+      "type": "kana",
+      "character": "いらっしゃい",
+      "romaji": "いらっしゃい",
+      "meaning": "come; go"
+    },
+    {
+      "type": "kana",
+      "character": "いらっしゃいませ",
+      "romaji": "いらっしゃいませ",
+      "meaning": "welcome"
+    },
+    {
+      "type": "kanji",
+      "character": "居らっしゃる",
+      "romaji": "いらっしゃる",
+      "meaning": "to come; to go"
+    },
+    {
+      "type": "kana",
+      "character": "うずうず",
+      "romaji": "うずうず",
+      "meaning": "itching to do something; impatient"
+    },
+    {
+      "type": "kana",
+      "character": "うっかり",
+      "romaji": "うっかり",
+      "meaning": "carelessly; thoughtlessly"
+    },
+    {
+      "type": "kana",
+      "character": "うとうと",
+      "romaji": "うとうと",
+      "meaning": "falling into a doze; dozing off"
+    },
+    {
+      "type": "kanji",
+      "character": "畝り",
+      "romaji": "うねり",
+      "meaning": "undulation; winding"
+    },
+    {
+      "type": "kana",
+      "character": "うろうろ",
+      "romaji": "うろうろ",
+      "meaning": "restlessly; aimlessly"
+    },
+    {
+      "type": "kana",
+      "character": "うん",
+      "romaji": "うん",
+      "meaning": "yes; yeah"
+    }
+  ]
+}

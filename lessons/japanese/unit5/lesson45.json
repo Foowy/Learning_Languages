@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 45,
+  "title": "JLPT N3 Kanji — Part 45",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "角",
+      "romaji": "カク / かど・つの",
+      "meaning": "angle; corner; square"
+    },
+    {
+      "type": "kanji",
+      "character": "絡",
+      "romaji": "ラク / から.む・から.まる",
+      "meaning": "entwine; coil around; get caught in"
+    },
+    {
+      "type": "kanji",
+      "character": "損",
+      "romaji": "ソン / そこ.なう・そこな.う・-そこ.なう・そこ.ねる・-そこ.ねる",
+      "meaning": "damage; loss; disadvantage"
+    },
+    {
+      "type": "kanji",
+      "character": "募",
+      "romaji": "ボ / つの.る",
+      "meaning": "recruit; campaign; gather (contributions)"
+    },
+    {
+      "type": "kanji",
+      "character": "曲",
+      "romaji": "キョク / ま.がる・ま.げる・くま",
+      "meaning": "bend; music; melody"
+    },
+    {
+      "type": "kanji",
+      "character": "裏",
+      "romaji": "リ / うら",
+      "meaning": "back; amidst; in"
+    },
+    {
+      "type": "kanji",
+      "character": "払",
+      "romaji": "フツ・ヒツ・ホツ / はら.う・-はら.い・-ばら.い",
+      "meaning": "pay; clear out; prune"
+    },
+    {
+      "type": "kanji",
+      "character": "庭",
+      "romaji": "テイ / にわ",
+      "meaning": "courtyard; garden; yard"
+    },
+    {
+      "type": "kanji",
+      "character": "徒",
+      "romaji": "ト / いたずら・あだ",
+      "meaning": "on foot; junior; emptiness"
+    },
+    {
+      "type": "kanji",
+      "character": "仏",
+      "romaji": "ブツ・フツ / ほとけ",
+      "meaning": "Buddha; the dead; France"
+    }
+  ]
+}

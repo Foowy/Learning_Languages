@@ -1,0 +1,67 @@
+{
+  "unit": 4,
+  "lesson": 10,
+  "title": "JLPT N4 Kanji — Part 10",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "研",
+      "romaji": "ケン / と.ぐ",
+      "meaning": "polish; study of; sharpen"
+    },
+    {
+      "type": "kanji",
+      "character": "究",
+      "romaji": "キュウ・ク / きわ.める",
+      "meaning": "research; study"
+    },
+    {
+      "type": "kanji",
+      "character": "楽",
+      "romaji": "ガク・ラク・ゴウ / たの.しい・たの.しむ・この.む",
+      "meaning": "music; comfort; ease"
+    },
+    {
+      "type": "kanji",
+      "character": "起",
+      "romaji": "キ / お.きる・お.こる・お.こす・おこ.す・た.つ",
+      "meaning": "rouse; wake up; get up"
+    },
+    {
+      "type": "kanji",
+      "character": "着",
+      "romaji": "チャク・ジャク / き.る・き.せる・つ.く・つ.ける",
+      "meaning": "don; arrive; wear"
+    },
+    {
+      "type": "kanji",
+      "character": "乗",
+      "romaji": "ジョウ・ショウ / の.る・-の.り・の.せる",
+      "meaning": "ride; power; multiplication"
+    },
+    {
+      "type": "kanji",
+      "character": "病",
+      "romaji": "ビョウ・ヘイ / や.む・-や.み・やまい",
+      "meaning": "ill; sick"
+    },
+    {
+      "type": "kanji",
+      "character": "声",
+      "romaji": "セイ・ショウ / こえ・こわ-",
+      "meaning": "voice"
+    },
+    {
+      "type": "kanji",
+      "character": "質",
+      "romaji": "シツ・シチ・チ / たち・ただ.す・もと・わりふ",
+      "meaning": "substance; quality; matter"
+    },
+    {
+      "type": "kanji",
+      "character": "待",
+      "romaji": "タイ / ま.つ・-ま.ち",
+      "meaning": "wait; depend on"
+    }
+  ]
+}

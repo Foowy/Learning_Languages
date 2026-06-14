@@ -1,0 +1,67 @@
+{
+  "unit": 107,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 20001–20010",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "麓",
+      "romaji": "ふもと",
+      "meaning": "foot (of a mountain or hill); bottom"
+    },
+    {
+      "type": "kana",
+      "character": "ブラシ",
+      "romaji": "ブラシ",
+      "meaning": "brush"
+    },
+    {
+      "type": "kanji",
+      "character": "府立",
+      "romaji": "ふりつ",
+      "meaning": "prefectural; managed by an urban prefecture (Osaka or Kyoto)"
+    },
+    {
+      "type": "kanji",
+      "character": "プロ野球",
+      "romaji": "プロやきゅう",
+      "meaning": "professional baseball"
+    },
+    {
+      "type": "kanji",
+      "character": "偏差値",
+      "romaji": "へんさち",
+      "meaning": "deviation value (usu. scaled to mean of 50, standard deviation of 10, and often used for academic grades); deviation"
+    },
+    {
+      "type": "kanji",
+      "character": "法学部",
+      "romaji": "ほうがくぶ",
+      "meaning": "faculty of law; school of law"
+    },
+    {
+      "type": "kanji",
+      "character": "封建主義",
+      "romaji": "ほうけんしゅぎ",
+      "meaning": "feudalism"
+    },
+    {
+      "type": "kanji",
+      "character": "封建的",
+      "romaji": "ほうけんてき",
+      "meaning": "feudal; feudalistic"
+    },
+    {
+      "type": "kanji",
+      "character": "防戦",
+      "romaji": "ぼうせん",
+      "meaning": "defensive fight (battle)"
+    },
+    {
+      "type": "kanji",
+      "character": "歩行者天国",
+      "romaji": "ほこうしゃてんごく",
+      "meaning": "pedestrian mall; car-free mall"
+    }
+  ]
+}

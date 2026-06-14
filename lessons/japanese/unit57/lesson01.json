@@ -1,0 +1,67 @@
+{
+  "unit": 57,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 10001–10010",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "失礼しました",
+      "romaji": "しつれいしました",
+      "meaning": "my apologies; I'm sorry"
+    },
+    {
+      "type": "kanji",
+      "character": "失恋",
+      "romaji": "しつれん",
+      "meaning": "disappointed love; broken heart"
+    },
+    {
+      "type": "kanji",
+      "character": "失踪",
+      "romaji": "しっそう",
+      "meaning": "disappearance; running away"
+    },
+    {
+      "type": "kanji",
+      "character": "嫉妬",
+      "romaji": "しっと",
+      "meaning": "jealousy; envy"
+    },
+    {
+      "type": "kanji",
+      "character": "室",
+      "romaji": "しつ",
+      "meaning": "room"
+    },
+    {
+      "type": "kanji",
+      "character": "室長",
+      "romaji": "しつちょう",
+      "meaning": "section chief; laboratory manager"
+    },
+    {
+      "type": "kanji",
+      "character": "室内",
+      "romaji": "しつない",
+      "meaning": "indoor; inside the room"
+    },
+    {
+      "type": "kanji",
+      "character": "室内楽",
+      "romaji": "しつないがく",
+      "meaning": "chamber music"
+    },
+    {
+      "type": "kanji",
+      "character": "湿る",
+      "romaji": "しめる",
+      "meaning": "to become damp; to become moist"
+    },
+    {
+      "type": "kanji",
+      "character": "湿気",
+      "romaji": "しっけ",
+      "meaning": "moisture; humidity"
+    }
+  ]
+}

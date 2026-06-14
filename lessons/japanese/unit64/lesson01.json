@@ -1,0 +1,67 @@
+{
+  "unit": 64,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 11401–11410",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "寝床",
+      "romaji": "ねどこ",
+      "meaning": "bed; berth"
+    },
+    {
+      "type": "kanji",
+      "character": "寝息",
+      "romaji": "ねいき",
+      "meaning": "breathing of a sleeping person"
+    },
+    {
+      "type": "kanji",
+      "character": "寝不足",
+      "romaji": "ねぶそく",
+      "meaning": "lack of sleep; insufficient sleep"
+    },
+    {
+      "type": "kanji",
+      "character": "寝付く",
+      "romaji": "ねつく",
+      "meaning": "to go to bed; to go to sleep"
+    },
+    {
+      "type": "kanji",
+      "character": "寝返る",
+      "romaji": "ねがえる",
+      "meaning": "to change sides; to double-cross"
+    },
+    {
+      "type": "kanji",
+      "character": "寝坊",
+      "romaji": "ねぼう",
+      "meaning": "sleeping in late; oversleeping"
+    },
+    {
+      "type": "kanji",
+      "character": "審議",
+      "romaji": "しんぎ",
+      "meaning": "deliberation; discussion"
+    },
+    {
+      "type": "kanji",
+      "character": "審査",
+      "romaji": "しんさ",
+      "meaning": "judging; inspection"
+    },
+    {
+      "type": "kanji",
+      "character": "審判",
+      "romaji": "しんぱん",
+      "meaning": "judgement; judgment"
+    },
+    {
+      "type": "kanji",
+      "character": "審問",
+      "romaji": "しんもん",
+      "meaning": "trial; hearing"
+    }
+  ]
+}

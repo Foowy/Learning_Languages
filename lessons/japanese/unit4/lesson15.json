@@ -1,0 +1,67 @@
+{
+  "unit": 4,
+  "lesson": 15,
+  "title": "JLPT N4 Kanji — Part 15",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "色",
+      "romaji": "ショク・シキ / いろ",
+      "meaning": "color"
+    },
+    {
+      "type": "kanji",
+      "character": "走",
+      "romaji": "ソウ / はし.る",
+      "meaning": "run"
+    },
+    {
+      "type": "kanji",
+      "character": "秋",
+      "romaji": "シュウ / あき・とき",
+      "meaning": "autumn"
+    },
+    {
+      "type": "kanji",
+      "character": "林",
+      "romaji": "リン / はやし",
+      "meaning": "grove; forest"
+    },
+    {
+      "type": "kanji",
+      "character": "夏",
+      "romaji": "カ・ガ・ゲ / なつ",
+      "meaning": "summer"
+    },
+    {
+      "type": "kanji",
+      "character": "顔",
+      "romaji": "ガン / かお",
+      "meaning": "face; expression"
+    },
+    {
+      "type": "kanji",
+      "character": "短",
+      "romaji": "タン / みじか.い",
+      "meaning": "short; brevity; fault"
+    },
+    {
+      "type": "kanji",
+      "character": "薬",
+      "romaji": "ヤク / くすり",
+      "meaning": "medicine; chemical; enamel"
+    },
+    {
+      "type": "kanji",
+      "character": "習",
+      "romaji": "シュウ・ジュ / なら.う・なら.い",
+      "meaning": "learn"
+    },
+    {
+      "type": "kanji",
+      "character": "便",
+      "romaji": "ベン・ビン / たよ.り",
+      "meaning": "convenience; facility; excrement"
+    }
+  ]
+}

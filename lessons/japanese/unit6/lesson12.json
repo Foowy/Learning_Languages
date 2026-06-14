@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 12,
+  "title": "JLPT N2/N1 Kanji — Part 12",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "削",
+      "romaji": "サク / けず.る・はつ.る・そ.ぐ",
+      "meaning": "plane; sharpen; whittle"
+    },
+    {
+      "type": "kanji",
+      "character": "密",
+      "romaji": "ミツ / ひそ.か",
+      "meaning": "secrecy; density (pop); minuteness"
+    },
+    {
+      "type": "kanji",
+      "character": "措",
+      "romaji": "ソ / お.く",
+      "meaning": "set aside; give up; suspend"
+    },
+    {
+      "type": "kanji",
+      "character": "載",
+      "romaji": "サイ / の.せる・の.る",
+      "meaning": "ride; board; get on"
+    },
+    {
+      "type": "kanji",
+      "character": "陣",
+      "romaji": "ジン",
+      "meaning": "camp; battle array; ranks"
+    },
+    {
+      "type": "kanji",
+      "character": "我",
+      "romaji": "ガ / われ・わ・わ.が-・わが-",
+      "meaning": "ego; I; selfish"
+    },
+    {
+      "type": "kanji",
+      "character": "為",
+      "romaji": "イ / ため・な.る・な.す・す.る・たり・つく.る・なり",
+      "meaning": "do; change; make"
+    },
+    {
+      "type": "kanji",
+      "character": "抑",
+      "romaji": "ヨク / おさ.える",
+      "meaning": "repress; well; now"
+    },
+    {
+      "type": "kanji",
+      "character": "幕",
+      "romaji": "マク・バク / とばり",
+      "meaning": "curtain; bunting; act of play"
+    },
+    {
+      "type": "kanji",
+      "character": "染",
+      "romaji": "セン / そ.める・そ.まる・し.みる・し.み",
+      "meaning": "dye; color; paint"
+    }
+  ]
+}

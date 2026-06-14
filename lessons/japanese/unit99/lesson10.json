@@ -1,0 +1,67 @@
+{
+  "unit": 99,
+  "lesson": 10,
+  "title": "Vocabulary — Frequency 18491–18500",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "口数",
+      "romaji": "くちかず",
+      "meaning": "number of words a person speaks"
+    },
+    {
+      "type": "kanji",
+      "character": "工場",
+      "romaji": "こうじょう",
+      "meaning": "factory; plant"
+    },
+    {
+      "type": "kanji",
+      "character": "溝",
+      "romaji": "みぞ",
+      "meaning": "ditch; drain"
+    },
+    {
+      "type": "kanji",
+      "character": "甲",
+      "romaji": "こう",
+      "meaning": "carapace; shell"
+    },
+    {
+      "type": "kanji",
+      "character": "甲板",
+      "romaji": "かんぱん",
+      "meaning": "deck (of a ship)"
+    },
+    {
+      "type": "kanji",
+      "character": "紅",
+      "romaji": "くれない",
+      "meaning": "deep red; crimson"
+    },
+    {
+      "type": "kanji",
+      "character": "紅葉",
+      "romaji": "こうよう",
+      "meaning": "leaves turning red (in autumn); red leaves"
+    },
+    {
+      "type": "kanji",
+      "character": "行き",
+      "romaji": "いき",
+      "meaning": "the way there; outbound leg"
+    },
+    {
+      "type": "kanji",
+      "character": "行き違い",
+      "romaji": "いきちがい",
+      "meaning": "crossing without meeting (e.g. letters in the post, people on the road); going astray"
+    },
+    {
+      "type": "kanji",
+      "character": "行き詰まり",
+      "romaji": "いきづまり",
+      "meaning": "deadlock; stalemate"
+    }
+  ]
+}

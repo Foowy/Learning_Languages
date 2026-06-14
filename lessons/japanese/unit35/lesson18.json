@@ -1,0 +1,67 @@
+{
+  "unit": 35,
+  "lesson": 18,
+  "title": "Vocabulary — Frequency 5771–5780",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "解体",
+      "romaji": "かいたい",
+      "meaning": "demolition; taking down"
+    },
+    {
+      "type": "kanji",
+      "character": "解答",
+      "romaji": "かいとう",
+      "meaning": "answer; solution"
+    },
+    {
+      "type": "kanji",
+      "character": "解読",
+      "romaji": "かいどく",
+      "meaning": "deciphering; decoding"
+    },
+    {
+      "type": "kanji",
+      "character": "解任",
+      "romaji": "かいにん",
+      "meaning": "dismissal (from a post); discharge"
+    },
+    {
+      "type": "kanji",
+      "character": "解熱",
+      "romaji": "げねつ",
+      "meaning": "lowering a fever; alleviation of fever"
+    },
+    {
+      "type": "kanji",
+      "character": "解放",
+      "romaji": "かいほう",
+      "meaning": "release; unleashing"
+    },
+    {
+      "type": "kanji",
+      "character": "解剖",
+      "romaji": "かいぼう",
+      "meaning": "dissection; autopsy"
+    },
+    {
+      "type": "kanji",
+      "character": "解剖学",
+      "romaji": "かいぼうがく",
+      "meaning": "anatomy"
+    },
+    {
+      "type": "kanji",
+      "character": "解明",
+      "romaji": "かいめい",
+      "meaning": "elucidation; explication"
+    },
+    {
+      "type": "kanji",
+      "character": "解約",
+      "romaji": "かいやく",
+      "meaning": "cancellation of a contract"
+    }
+  ]
+}

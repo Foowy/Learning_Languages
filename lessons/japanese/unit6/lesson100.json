@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 100,
+  "title": "JLPT N2/N1 Kanji — Part 100",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "慧",
+      "romaji": "ケイ・エ / さとい",
+      "meaning": "wise"
+    },
+    {
+      "type": "kanji",
+      "character": "愁",
+      "romaji": "シュウ / うれ.える・うれ.い",
+      "meaning": "distress; grieve; lament"
+    },
+    {
+      "type": "kanji",
+      "character": "楼",
+      "romaji": "ロウ / たかどの",
+      "meaning": "watchtower; lookout; high building"
+    },
+    {
+      "type": "kanji",
+      "character": "彬",
+      "romaji": "ヒン・フン / うるわ.しい・あき.らか",
+      "meaning": "refined; gentle"
+    },
+    {
+      "type": "kanji",
+      "character": "匡",
+      "romaji": "キョウ・オウ / すく.う・ただ.す",
+      "meaning": "correct; save; assist"
+    },
+    {
+      "type": "kanji",
+      "character": "眉",
+      "romaji": "ビ・ミ / まゆ",
+      "meaning": "eyebrow"
+    },
+    {
+      "type": "kanji",
+      "character": "欽",
+      "romaji": "キン・コン / つつし.む",
+      "meaning": "respect; revere; long for"
+    },
+    {
+      "type": "kanji",
+      "character": "薪",
+      "romaji": "シン / たきぎ・まき",
+      "meaning": "fuel; firewood; kindling"
+    },
+    {
+      "type": "kanji",
+      "character": "褐",
+      "romaji": "カツ",
+      "meaning": "brown; woollen kimono"
+    },
+    {
+      "type": "kanji",
+      "character": "賜",
+      "romaji": "シ / たまわ.る・たま.う・たも.う",
+      "meaning": "grant; gift; boon"
+    }
+  ]
+}

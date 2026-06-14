@@ -1,0 +1,67 @@
+{
+  "unit": 50,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 8601–8610",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "港",
+      "romaji": "みなと",
+      "meaning": "harbour; harbor"
+    },
+    {
+      "type": "kanji",
+      "character": "港内",
+      "romaji": "こうない",
+      "meaning": "inside the harbour; inside the harbor"
+    },
+    {
+      "type": "kanji",
+      "character": "港湾",
+      "romaji": "こうわん",
+      "meaning": "harbour; harbor"
+    },
+    {
+      "type": "kanji",
+      "character": "甲乙",
+      "romaji": "こうおつ",
+      "meaning": "first and second; A and B"
+    },
+    {
+      "type": "kanji",
+      "character": "甲高い",
+      "romaji": "かんだかい",
+      "meaning": "high-pitched; shrill"
+    },
+    {
+      "type": "kanji",
+      "character": "甲種",
+      "romaji": "こうしゅ",
+      "meaning": "A-grade; first-class"
+    },
+    {
+      "type": "kanji",
+      "character": "甲状腺",
+      "romaji": "こうじょうせん",
+      "meaning": "thyroid (gland)"
+    },
+    {
+      "type": "kanji",
+      "character": "甲斐",
+      "romaji": "かい",
+      "meaning": "result (that makes an act worthwhile); worth (in doing something)"
+    },
+    {
+      "type": "kanji",
+      "character": "皇位",
+      "romaji": "こうい",
+      "meaning": "imperial throne"
+    },
+    {
+      "type": "kanji",
+      "character": "皇居",
+      "romaji": "こうきょ",
+      "meaning": "Imperial Palace (of Japan); imperial residence"
+    }
+  ]
+}

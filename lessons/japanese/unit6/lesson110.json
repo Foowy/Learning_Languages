@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 110,
+  "title": "JLPT N2/N1 Kanji — Part 110",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "倣",
+      "romaji": "ホウ / なら.う",
+      "meaning": "emulate; imitate"
+    },
+    {
+      "type": "kanji",
+      "character": "碧",
+      "romaji": "ヘキ・ヒャク",
+      "meaning": "blue; green"
+    },
+    {
+      "type": "kanji",
+      "character": "啄",
+      "romaji": "タク・ツク・トク / ついば.む・つつ.く",
+      "meaning": "peck; pick up"
+    },
+    {
+      "type": "kanji",
+      "character": "穣",
+      "romaji": "ジョウ / わら・ゆたか",
+      "meaning": "good crops; prosperity; 10**28"
+    },
+    {
+      "type": "kanji",
+      "character": "酉",
+      "romaji": "ユウ / とり",
+      "meaning": "west; bird; sign of the bird"
+    },
+    {
+      "type": "kanji",
+      "character": "悌",
+      "romaji": "テイ・ダイ",
+      "meaning": "serving our elders"
+    },
+    {
+      "type": "kanji",
+      "character": "倹",
+      "romaji": "ケン / つま.しい・つづまやか",
+      "meaning": "frugal; economy; thrifty"
+    },
+    {
+      "type": "kanji",
+      "character": "柚",
+      "romaji": "ユ・ユウ・ジク / ゆず",
+      "meaning": "citron"
+    },
+    {
+      "type": "kanji",
+      "character": "繭",
+      "romaji": "ケン / まゆ・きぬ",
+      "meaning": "cocoon"
+    },
+    {
+      "type": "kanji",
+      "character": "亥",
+      "romaji": "ガイ・カイ / い",
+      "meaning": "sign of the hog; 9-11PM; twelfth sign of the Chinese zodiac"
+    }
+  ]
+}

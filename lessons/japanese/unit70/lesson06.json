@@ -1,0 +1,67 @@
+{
+  "unit": 70,
+  "lesson": 6,
+  "title": "Vocabulary — Frequency 12651–12660",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "素直",
+      "romaji": "すなお",
+      "meaning": "obedient; meek"
+    },
+    {
+      "type": "kanji",
+      "character": "素敵",
+      "romaji": "すてき",
+      "meaning": "lovely; wonderful"
+    },
+    {
+      "type": "kanji",
+      "character": "素描",
+      "romaji": "そびょう",
+      "meaning": "drawing; sketch"
+    },
+    {
+      "type": "kanji",
+      "character": "素朴",
+      "romaji": "そぼく",
+      "meaning": "simple; artless"
+    },
+    {
+      "type": "kanji",
+      "character": "素粒子",
+      "romaji": "そりゅうし",
+      "meaning": "elementary particle; particle"
+    },
+    {
+      "type": "kanji",
+      "character": "組",
+      "romaji": "くみ",
+      "meaning": "class (of students)"
+    },
+    {
+      "type": "kanji",
+      "character": "組み合わせる",
+      "romaji": "くみあわせる",
+      "meaning": "to put together; to combine"
+    },
+    {
+      "type": "kanji",
+      "character": "組み込む",
+      "romaji": "くみこむ",
+      "meaning": "to insert; to include"
+    },
+    {
+      "type": "kanji",
+      "character": "組み替え",
+      "romaji": "くみかえ",
+      "meaning": "rearrangement (of classes); recomposition"
+    },
+    {
+      "type": "kanji",
+      "character": "組み立てる",
+      "romaji": "くみたてる",
+      "meaning": "to assemble; to put together"
+    }
+  ]
+}

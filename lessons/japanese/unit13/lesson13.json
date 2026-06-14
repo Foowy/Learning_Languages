@@ -1,0 +1,67 @@
+{
+  "unit": 13,
+  "lesson": 13,
+  "title": "Vocabulary — Frequency 1321–1330",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "ケープ",
+      "romaji": "ケープ",
+      "meaning": "cape"
+    },
+    {
+      "type": "kana",
+      "character": "ケア",
+      "romaji": "ケア",
+      "meaning": "care (e.g. medical); attention"
+    },
+    {
+      "type": "kana",
+      "character": "ケチャップ",
+      "romaji": "ケチャップ",
+      "meaning": "ketchup; catsup"
+    },
+    {
+      "type": "kana",
+      "character": "ケベック",
+      "romaji": "ケベック",
+      "meaning": "Quebec (Canada)"
+    },
+    {
+      "type": "kana",
+      "character": "ケミカル",
+      "romaji": "ケミカル",
+      "meaning": "chemical"
+    },
+    {
+      "type": "kana",
+      "character": "ケルン",
+      "romaji": "ケルン",
+      "meaning": "Cologne (Germany)"
+    },
+    {
+      "type": "kana",
+      "character": "ケロイド",
+      "romaji": "ケロイド",
+      "meaning": "keloid"
+    },
+    {
+      "type": "kana",
+      "character": "ゲージ",
+      "romaji": "ゲージ",
+      "meaning": "gauge"
+    },
+    {
+      "type": "kana",
+      "character": "ゲート",
+      "romaji": "ゲート",
+      "meaning": "gate (for entry, boarding, etc.)"
+    },
+    {
+      "type": "kana",
+      "character": "ゲートボール",
+      "romaji": "ゲートボール",
+      "meaning": "gateball (mallet sport similar to croquet)"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 20,
+  "lesson": 12,
+  "title": "Vocabulary — Frequency 2711–2720",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "ノート",
+      "romaji": "ノート",
+      "meaning": "notebook; copy-book"
+    },
+    {
+      "type": "kana",
+      "character": "ノーヒットノーランゲーム",
+      "romaji": "ノーヒットノーランゲーム",
+      "meaning": "no-hit no-run game"
+    },
+    {
+      "type": "kana",
+      "character": "ノーブル",
+      "romaji": "ノーブル",
+      "meaning": "noble"
+    },
+    {
+      "type": "kanji",
+      "character": "ノーベル賞",
+      "romaji": "ノーベルしょう",
+      "meaning": "Nobel Prize"
+    },
+    {
+      "type": "kana",
+      "character": "ノーマーク",
+      "romaji": "ノーマーク",
+      "meaning": "not under observation; not on one's radar"
+    },
+    {
+      "type": "kana",
+      "character": "ノーマライズ",
+      "romaji": "ノーマライズ",
+      "meaning": "normalize; normalise"
+    },
+    {
+      "type": "kana",
+      "character": "ノーマル",
+      "romaji": "ノーマル",
+      "meaning": "normal"
+    },
+    {
+      "type": "kanji",
+      "character": "ＮＯＲ",
+      "romaji": "ノア",
+      "meaning": "NOR (Boolean operator)"
+    },
+    {
+      "type": "kana",
+      "character": "ノイズ",
+      "romaji": "ノイズ",
+      "meaning": "noise"
+    },
+    {
+      "type": "kana",
+      "character": "ノイローゼ",
+      "romaji": "ノイローゼ",
+      "meaning": "neurosis; nervous breakdown"
+    }
+  ]
+}

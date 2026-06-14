@@ -1,0 +1,67 @@
+{
+  "unit": 38,
+  "lesson": 18,
+  "title": "Vocabulary — Frequency 6371–6380",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "緩やか",
+      "romaji": "ゆるやか",
+      "meaning": "loose; slack"
+    },
+    {
+      "type": "kanji",
+      "character": "緩急",
+      "romaji": "かんきゅう",
+      "meaning": "high and low speed; fast and slow"
+    },
+    {
+      "type": "kanji",
+      "character": "緩衝地帯",
+      "romaji": "かんしょうちたい",
+      "meaning": "buffer zone"
+    },
+    {
+      "type": "kanji",
+      "character": "緩慢",
+      "romaji": "かんまん",
+      "meaning": "slow; sluggish"
+    },
+    {
+      "type": "kanji",
+      "character": "緩和",
+      "romaji": "かんわ",
+      "meaning": "relief; mitigation"
+    },
+    {
+      "type": "kanji",
+      "character": "缶",
+      "romaji": "かん",
+      "meaning": "can; tin"
+    },
+    {
+      "type": "kanji",
+      "character": "缶詰",
+      "romaji": "かんづめ",
+      "meaning": "canned food; tinned food"
+    },
+    {
+      "type": "kanji",
+      "character": "肝",
+      "romaji": "きも",
+      "meaning": "liver; innards"
+    },
+    {
+      "type": "kanji",
+      "character": "肝炎",
+      "romaji": "かんえん",
+      "meaning": "hepatitis"
+    },
+    {
+      "type": "kanji",
+      "character": "肝硬変",
+      "romaji": "かんこうへん",
+      "meaning": "cirrhosis (of the liver)"
+    }
+  ]
+}

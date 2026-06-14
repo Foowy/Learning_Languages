@@ -1,0 +1,67 @@
+{
+  "unit": 39,
+  "lesson": 2,
+  "title": "Vocabulary — Frequency 6411–6420",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "間",
+      "romaji": "ま",
+      "meaning": "time; pause"
+    },
+    {
+      "type": "kanji",
+      "character": "間に合う",
+      "romaji": "まにあう",
+      "meaning": "to be in time (for)"
+    },
+    {
+      "type": "kanji",
+      "character": "間もなく",
+      "romaji": "まもなく",
+      "meaning": "soon; shortly"
+    },
+    {
+      "type": "kanji",
+      "character": "間違い",
+      "romaji": "まちがい",
+      "meaning": "mistake; error"
+    },
+    {
+      "type": "kanji",
+      "character": "間違える",
+      "romaji": "まちがえる",
+      "meaning": "to make a mistake (in); to commit an error"
+    },
+    {
+      "type": "kanji",
+      "character": "間一髪",
+      "romaji": "かんいっぱつ",
+      "meaning": "hair's breadth"
+    },
+    {
+      "type": "kanji",
+      "character": "間隔",
+      "romaji": "かんかく",
+      "meaning": "space; interval"
+    },
+    {
+      "type": "kanji",
+      "character": "間近",
+      "romaji": "まぢか",
+      "meaning": "near; close (to)"
+    },
+    {
+      "type": "kanji",
+      "character": "間口",
+      "romaji": "まぐち",
+      "meaning": "frontage; width (of a building, plot of land, etc.)"
+    },
+    {
+      "type": "kanji",
+      "character": "間際",
+      "romaji": "まぎわ",
+      "meaning": "the point just before ...; the point of (doing)"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 41,
+  "lesson": 3,
+  "title": "Vocabulary — Frequency 6821–6830",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "吉報",
+      "romaji": "きっぽう",
+      "meaning": "good news"
+    },
+    {
+      "type": "kanji",
+      "character": "吃る",
+      "romaji": "どもる",
+      "meaning": "to stammer; to stutter"
+    },
+    {
+      "type": "kanji",
+      "character": "吃驚",
+      "romaji": "びっくり",
+      "meaning": "to be surprised; to be amazed"
+    },
+    {
+      "type": "kanji",
+      "character": "喫する",
+      "romaji": "きっする",
+      "meaning": "to eat; to drink"
+    },
+    {
+      "type": "kanji",
+      "character": "喫煙",
+      "romaji": "きつえん",
+      "meaning": "smoking (tobacco)"
+    },
+    {
+      "type": "kanji",
+      "character": "喫茶",
+      "romaji": "きっさ",
+      "meaning": "tea drinking"
+    },
+    {
+      "type": "kanji",
+      "character": "喫茶店",
+      "romaji": "きっさてん",
+      "meaning": "coffee shop; tearoom"
+    },
+    {
+      "type": "kanji",
+      "character": "橘",
+      "romaji": "たちばな",
+      "meaning": "tachibana orange (Citrus tachibana)"
+    },
+    {
+      "type": "kanji",
+      "character": "詰まらせる",
+      "romaji": "つまらせる",
+      "meaning": "to clog; to block"
+    },
+    {
+      "type": "kanji",
+      "character": "詰まる",
+      "romaji": "つまる",
+      "meaning": "to be packed (with); to be filled"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 4,
+  "lesson": 17,
+  "title": "JLPT N4 Kanji — Part 17",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "肉",
+      "romaji": "ニク / しし",
+      "meaning": "meat"
+    },
+    {
+      "type": "kanji",
+      "character": "貸",
+      "romaji": "タイ / か.す・か.し-・かし-",
+      "meaning": "lend"
+    },
+    {
+      "type": "kanji",
+      "character": "堂",
+      "romaji": "ドウ",
+      "meaning": "public chamber; hall"
+    },
+    {
+      "type": "kanji",
+      "character": "暗",
+      "romaji": "アン / くら.い・くら.む・くれ.る",
+      "meaning": "darkness; disappear; shade"
+    },
+    {
+      "type": "kanji",
+      "character": "鳥",
+      "romaji": "チョウ / とり",
+      "meaning": "bird; chicken"
+    },
+    {
+      "type": "kanji",
+      "character": "飯",
+      "romaji": "ハン / めし",
+      "meaning": "meal; boiled rice"
+    },
+    {
+      "type": "kanji",
+      "character": "勉",
+      "romaji": "ベン / つと.める",
+      "meaning": "exertion; endeavour; encourage"
+    },
+    {
+      "type": "kanji",
+      "character": "冬",
+      "romaji": "トウ / ふゆ",
+      "meaning": "winter"
+    },
+    {
+      "type": "kanji",
+      "character": "昼",
+      "romaji": "チュウ / ひる",
+      "meaning": "daytime; noon"
+    },
+    {
+      "type": "kanji",
+      "character": "茶",
+      "romaji": "チャ・サ",
+      "meaning": "tea"
+    }
+  ]
+}

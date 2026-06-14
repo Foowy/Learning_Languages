@@ -1,0 +1,67 @@
+{
+  "unit": 78,
+  "lesson": 6,
+  "title": "Vocabulary — Frequency 14251–14260",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "点字",
+      "romaji": "てんじ",
+      "meaning": "braille"
+    },
+    {
+      "type": "kanji",
+      "character": "点数",
+      "romaji": "てんすう",
+      "meaning": "marks; points"
+    },
+    {
+      "type": "kanji",
+      "character": "点滴",
+      "romaji": "てんてき",
+      "meaning": "raindrops; falling drop of water"
+    },
+    {
+      "type": "kanji",
+      "character": "点滅",
+      "romaji": "てんめつ",
+      "meaning": "switching on and off (of a light); flashing"
+    },
+    {
+      "type": "kanji",
+      "character": "伝う",
+      "romaji": "つたう",
+      "meaning": "to go along; to walk along"
+    },
+    {
+      "type": "kanji",
+      "character": "伝える",
+      "romaji": "つたえる",
+      "meaning": "to convey; to report"
+    },
+    {
+      "type": "kanji",
+      "character": "伝わる",
+      "romaji": "つたわる",
+      "meaning": "to spread (of a rumour, news, etc.); to travel"
+    },
+    {
+      "type": "kanji",
+      "character": "伝記",
+      "romaji": "でんき",
+      "meaning": "biography; life story"
+    },
+    {
+      "type": "kanji",
+      "character": "伝承",
+      "romaji": "でんしょう",
+      "meaning": "handing down (information); legend"
+    },
+    {
+      "type": "kanji",
+      "character": "伝説",
+      "romaji": "でんせつ",
+      "meaning": "legend; folklore"
+    }
+  ]
+}

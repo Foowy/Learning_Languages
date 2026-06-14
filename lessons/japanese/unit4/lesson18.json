@@ -1,0 +1,67 @@
+{
+  "unit": 4,
+  "lesson": 18,
+  "title": "JLPT N4 Kanji — Part 18",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "弟",
+      "romaji": "テイ・ダイ・デ / おとうと",
+      "meaning": "younger brother; faithful service to elders"
+    },
+    {
+      "type": "kanji",
+      "character": "洗",
+      "romaji": "セン / あら.う",
+      "meaning": "wash; inquire into; probe"
+    },
+    {
+      "type": "kanji",
+      "character": "牛",
+      "romaji": "ギュウ / うし",
+      "meaning": "cow"
+    },
+    {
+      "type": "kanji",
+      "character": "兄",
+      "romaji": "ケイ・キョウ / あに",
+      "meaning": "elder brother; big brother"
+    },
+    {
+      "type": "kanji",
+      "character": "犬",
+      "romaji": "ケン / いぬ・いぬ-",
+      "meaning": "dog"
+    },
+    {
+      "type": "kanji",
+      "character": "菜",
+      "romaji": "サイ / な",
+      "meaning": "vegetable; side dish; greens"
+    },
+    {
+      "type": "kanji",
+      "character": "暑",
+      "romaji": "ショ / あつ.い",
+      "meaning": "sultry; hot; summer heat"
+    },
+    {
+      "type": "kanji",
+      "character": "妹",
+      "romaji": "マイ / いもうと",
+      "meaning": "younger sister"
+    },
+    {
+      "type": "kanji",
+      "character": "寒",
+      "romaji": "カン / さむ.い",
+      "meaning": "cold"
+    },
+    {
+      "type": "kanji",
+      "character": "姉",
+      "romaji": "シ / あね・はは",
+      "meaning": "elder sister"
+    }
+  ]
+}

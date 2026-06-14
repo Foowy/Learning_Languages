@@ -1,0 +1,67 @@
+{
+  "unit": 21,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 2801–2810",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "ハングリー",
+      "romaji": "ハングリー",
+      "meaning": "hungry (e.g. for success)"
+    },
+    {
+      "type": "kana",
+      "character": "ハングル",
+      "romaji": "ハングル",
+      "meaning": "hangul (Korean script)"
+    },
+    {
+      "type": "kana",
+      "character": "ハンサム",
+      "romaji": "ハンサム",
+      "meaning": "handsome"
+    },
+    {
+      "type": "kana",
+      "character": "ハンスト",
+      "romaji": "ハンスト",
+      "meaning": "hunger strike"
+    },
+    {
+      "type": "kana",
+      "character": "ハンター",
+      "romaji": "ハンター",
+      "meaning": "hunter"
+    },
+    {
+      "type": "kana",
+      "character": "ハンティング",
+      "romaji": "ハンティング",
+      "meaning": "hunting"
+    },
+    {
+      "type": "kana",
+      "character": "ハンディキャップ",
+      "romaji": "ハンディキャップ",
+      "meaning": "handicap"
+    },
+    {
+      "type": "kana",
+      "character": "ハンド",
+      "romaji": "ハンド",
+      "meaning": "hand"
+    },
+    {
+      "type": "kana",
+      "character": "ハンドバッグ",
+      "romaji": "ハンドバッグ",
+      "meaning": "handbag; purse"
+    },
+    {
+      "type": "kana",
+      "character": "ハンドブック",
+      "romaji": "ハンドブック",
+      "meaning": "handbook"
+    }
+  ]
+}

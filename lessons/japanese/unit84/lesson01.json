@@ -1,0 +1,67 @@
+{
+  "unit": 84,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 15401–15410",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "発芽",
+      "romaji": "はつが",
+      "meaning": "germination; sprouting"
+    },
+    {
+      "type": "kanji",
+      "character": "発覚",
+      "romaji": "はっかく",
+      "meaning": "detection (of a plot, fraud, etc.); discovery"
+    },
+    {
+      "type": "kanji",
+      "character": "発刊",
+      "romaji": "はっかん",
+      "meaning": "publication; issue"
+    },
+    {
+      "type": "kanji",
+      "character": "発汗",
+      "romaji": "はっかん",
+      "meaning": "sweating; perspiration"
+    },
+    {
+      "type": "kanji",
+      "character": "発揮",
+      "romaji": "はっき",
+      "meaning": "show (of power, ability, etc.); exhibition"
+    },
+    {
+      "type": "kanji",
+      "character": "発禁",
+      "romaji": "はっきん",
+      "meaning": "prohibition of sale; ban on sale"
+    },
+    {
+      "type": "kanji",
+      "character": "発掘",
+      "romaji": "はっくつ",
+      "meaning": "excavation; exhumation"
+    },
+    {
+      "type": "kanji",
+      "character": "発見",
+      "romaji": "はっけん",
+      "meaning": "discovery; detection"
+    },
+    {
+      "type": "kanji",
+      "character": "発言",
+      "romaji": "はつげん",
+      "meaning": "statement; remark"
+    },
+    {
+      "type": "kanji",
+      "character": "発光",
+      "romaji": "はっこう",
+      "meaning": "emission (of light); radiation (of light)"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 83,
+  "title": "JLPT N2/N1 Kanji — Part 83",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "茅",
+      "romaji": "ボウ・ミョウ / かや・ちがや",
+      "meaning": "miscanthus reed"
+    },
+    {
+      "type": "kanji",
+      "character": "藩",
+      "romaji": "ハン",
+      "meaning": "clan; enclosure"
+    },
+    {
+      "type": "kanji",
+      "character": "沙",
+      "romaji": "サ・シャ / すな・よなげる",
+      "meaning": "sand"
+    },
+    {
+      "type": "kanji",
+      "character": "輔",
+      "romaji": "ホ・フ / たす.ける",
+      "meaning": "help"
+    },
+    {
+      "type": "kanji",
+      "character": "媒",
+      "romaji": "バイ / なこうど",
+      "meaning": "mediator; go-between"
+    },
+    {
+      "type": "kanji",
+      "character": "鶏",
+      "romaji": "ケイ / にわとり・とり",
+      "meaning": "chicken"
+    },
+    {
+      "type": "kanji",
+      "character": "禅",
+      "romaji": "ゼン・セン / しずか・ゆず.る",
+      "meaning": "Zen; silent meditation"
+    },
+    {
+      "type": "kanji",
+      "character": "嘱",
+      "romaji": "ショク / しょく.する・たの.む",
+      "meaning": "entrust; request; send a message"
+    },
+    {
+      "type": "kanji",
+      "character": "胴",
+      "romaji": "ドウ",
+      "meaning": "trunk; torso; hull (ship)"
+    },
+    {
+      "type": "kanji",
+      "character": "迭",
+      "romaji": "テツ",
+      "meaning": "transfer; alternation"
+    }
+  ]
+}

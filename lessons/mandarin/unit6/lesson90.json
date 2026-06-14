@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 90,
+  "title": "HSK 6 Vocabulary — Part 90",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "忌讳",
+      "romaji": "jì huì",
+      "meaning": "taboo; to avoid as taboo; to abstain from"
+    },
+    {
+      "type": "hanzi",
+      "character": "寂静",
+      "romaji": "jì jìng",
+      "meaning": "quiet"
+    },
+    {
+      "type": "hanzi",
+      "character": "纪要",
+      "romaji": "jì yào",
+      "meaning": "minutes; written summary of a meeting"
+    },
+    {
+      "type": "hanzi",
+      "character": "技能",
+      "romaji": "jì néng",
+      "meaning": "technical ability; skill"
+    },
+    {
+      "type": "hanzi",
+      "character": "技巧",
+      "romaji": "jì qiǎo",
+      "meaning": "skill; technique"
+    },
+    {
+      "type": "hanzi",
+      "character": "迹象",
+      "romaji": "jì xiàng",
+      "meaning": "mark; indication; sign; indicator"
+    },
+    {
+      "type": "hanzi",
+      "character": "家常",
+      "romaji": "jiā cháng",
+      "meaning": "the daily life of a family"
+    },
+    {
+      "type": "hanzi",
+      "character": "家伙",
+      "romaji": "jiā huo",
+      "meaning": "household dish; implement or furniture; domestic animal; guy (slang); chap"
+    },
+    {
+      "type": "hanzi",
+      "character": "家属",
+      "romaji": "jiā shǔ",
+      "meaning": "family member; (family) dependent"
+    },
+    {
+      "type": "hanzi",
+      "character": "家喻户晓",
+      "romaji": "jiā yù hù xiǎo",
+      "meaning": "understood by everyone (idiom); well known; a household name"
+    }
+  ]
+}

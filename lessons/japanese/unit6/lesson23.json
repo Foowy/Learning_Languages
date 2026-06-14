@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 23,
+  "title": "JLPT N2/N1 Kanji — Part 23",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "綱",
+      "romaji": "コウ / つな",
+      "meaning": "hawser; class (genus); rope"
+    },
+    {
+      "type": "kanji",
+      "character": "典",
+      "romaji": "テン・デン / ふみ・のり",
+      "meaning": "code; ceremony; law"
+    },
+    {
+      "type": "kanji",
+      "character": "賀",
+      "romaji": "ガ",
+      "meaning": "congratulations; joy"
+    },
+    {
+      "type": "kanji",
+      "character": "扱",
+      "romaji": "ソウ・キュウ / あつか.い・あつか.う・あつか.る・こ.く",
+      "meaning": "handle; entertain; thresh"
+    },
+    {
+      "type": "kanji",
+      "character": "顧",
+      "romaji": "コ / かえり.みる",
+      "meaning": "look back; review; examine oneself"
+    },
+    {
+      "type": "kanji",
+      "character": "弘",
+      "romaji": "コウ・グ / ひろ.い",
+      "meaning": "vast; broad; wide"
+    },
+    {
+      "type": "kanji",
+      "character": "訟",
+      "romaji": "ショウ",
+      "meaning": "sue; accuse"
+    },
+    {
+      "type": "kanji",
+      "character": "戒",
+      "romaji": "カイ / いまし.める",
+      "meaning": "commandment"
+    },
+    {
+      "type": "kanji",
+      "character": "祉",
+      "romaji": "シ",
+      "meaning": "welfare; happiness"
+    },
+    {
+      "type": "kanji",
+      "character": "誉",
+      "romaji": "ヨ / ほま.れ・ほ.める",
+      "meaning": "reputation; praise; honor"
+    }
+  ]
+}

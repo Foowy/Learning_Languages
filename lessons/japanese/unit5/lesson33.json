@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 33,
+  "title": "JLPT N3 Kanji — Part 33",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "故",
+      "romaji": "コ / ゆえ・ふる.い・もと",
+      "meaning": "happenstance; especially; intentionally"
+    },
+    {
+      "type": "kanji",
+      "character": "給",
+      "romaji": "キュウ / たま.う・たも.う・-たま.え",
+      "meaning": "salary; wage; gift"
+    },
+    {
+      "type": "kanji",
+      "character": "介",
+      "romaji": "カイ",
+      "meaning": "jammed in; shellfish; mediate"
+    },
+    {
+      "type": "kanji",
+      "character": "根",
+      "romaji": "コン / ね・-ね",
+      "meaning": "root; radical; head (pimple)"
+    },
+    {
+      "type": "kanji",
+      "character": "苦",
+      "romaji": "ク / くる.しい・-ぐる.しい・くる.しむ・くる.しめる・にが.い・にが.る",
+      "meaning": "suffering; trial; worry"
+    },
+    {
+      "type": "kanji",
+      "character": "迎",
+      "romaji": "ゲイ / むか.える",
+      "meaning": "welcome; meet; greet"
+    },
+    {
+      "type": "kanji",
+      "character": "販",
+      "romaji": "ハン",
+      "meaning": "marketing; sell; trade"
+    },
+    {
+      "type": "kanji",
+      "character": "園",
+      "romaji": "エン / その",
+      "meaning": "park; garden; yard"
+    },
+    {
+      "type": "kanji",
+      "character": "具",
+      "romaji": "グ / そな.える・つぶさ.に",
+      "meaning": "tool; utensil; means"
+    },
+    {
+      "type": "kanji",
+      "character": "異",
+      "romaji": "イ / こと・こと.なる・け",
+      "meaning": "uncommon; different; queerness"
+    }
+  ]
+}

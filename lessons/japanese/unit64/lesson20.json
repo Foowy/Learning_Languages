@@ -1,0 +1,67 @@
+{
+  "unit": 64,
+  "lesson": 20,
+  "title": "Vocabulary — Frequency 11591–11600",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "親戚",
+      "romaji": "しんせき",
+      "meaning": "relative; relation"
+    },
+    {
+      "type": "kanji",
+      "character": "親切",
+      "romaji": "しんせつ",
+      "meaning": "kind; gentle"
+    },
+    {
+      "type": "kanji",
+      "character": "親善",
+      "romaji": "しんぜん",
+      "meaning": "friendship; goodwill"
+    },
+    {
+      "type": "kanji",
+      "character": "親族",
+      "romaji": "しんぞく",
+      "meaning": "relative; relation"
+    },
+    {
+      "type": "kanji",
+      "character": "親日",
+      "romaji": "しんにち",
+      "meaning": "pro-Japanese"
+    },
+    {
+      "type": "kanji",
+      "character": "親バカ",
+      "romaji": "おやばか",
+      "meaning": "over-fond parent; doting parent"
+    },
+    {
+      "type": "kanji",
+      "character": "親不孝",
+      "romaji": "おやふこう",
+      "meaning": "lack of filial piety; disobedience to one's parents"
+    },
+    {
+      "type": "kanji",
+      "character": "親父",
+      "romaji": "おやじ",
+      "meaning": "one's father; one's old man"
+    },
+    {
+      "type": "kanji",
+      "character": "親分",
+      "romaji": "おやぶん",
+      "meaning": "boss; leader"
+    },
+    {
+      "type": "kanji",
+      "character": "親方",
+      "romaji": "おやかた",
+      "meaning": "master; boss"
+    }
+  ]
+}

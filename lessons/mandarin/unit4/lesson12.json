@@ -1,0 +1,67 @@
+{
+  "unit": 4,
+  "lesson": 12,
+  "title": "HSK 4 Vocabulary — Part 12",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "方法",
+      "romaji": "fāng fǎ",
+      "meaning": "method; way; means; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "方面",
+      "romaji": "fāng miàn",
+      "meaning": "respect; aspect; field; side; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "方向",
+      "romaji": "fāng xiàng",
+      "meaning": "direction; orientation; path to follow; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "访问",
+      "romaji": "fǎng wèn",
+      "meaning": "to visit; to call on; to interview; CL:次[cì]"
+    },
+    {
+      "type": "hanzi",
+      "character": "放弃",
+      "romaji": "fàng qì",
+      "meaning": "to renounce; to abandon; to give up"
+    },
+    {
+      "type": "hanzi",
+      "character": "放暑假",
+      "romaji": "fàng shǔ jià",
+      "meaning": "The summer holidays"
+    },
+    {
+      "type": "hanzi",
+      "character": "分之",
+      "romaji": "fēn zhī",
+      "meaning": "(indicating a fraction)"
+    },
+    {
+      "type": "hanzi",
+      "character": "份",
+      "romaji": "fèn",
+      "meaning": "classifier for gifts; newspaper; magazine; papers; reports; contracts etc; variant of 分[fèn]"
+    },
+    {
+      "type": "hanzi",
+      "character": "风景",
+      "romaji": "fēng jǐng",
+      "meaning": "scenery; landscape; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "丰富",
+      "romaji": "fēng fù",
+      "meaning": "to enrich; rich; plentiful; abundant"
+    }
+  ]
+}

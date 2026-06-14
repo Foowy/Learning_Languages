@@ -1,0 +1,67 @@
+{
+  "unit": 22,
+  "lesson": 15,
+  "title": "Vocabulary — Frequency 3141–3150",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "ピクニック",
+      "romaji": "ピクニック",
+      "meaning": "picnic"
+    },
+    {
+      "type": "kana",
+      "character": "ピケ",
+      "romaji": "ピケ",
+      "meaning": "pique"
+    },
+    {
+      "type": "kana",
+      "character": "ピコ",
+      "romaji": "ピコ",
+      "meaning": "pico-; 10^-12"
+    },
+    {
+      "type": "kana",
+      "character": "ピザ",
+      "romaji": "ピザ",
+      "meaning": "pizza"
+    },
+    {
+      "type": "kana",
+      "character": "ピストル",
+      "romaji": "ピストル",
+      "meaning": "pistol"
+    },
+    {
+      "type": "kana",
+      "character": "ピストン",
+      "romaji": "ピストン",
+      "meaning": "piston; plunger"
+    },
+    {
+      "type": "kana",
+      "character": "ピッキング",
+      "romaji": "ピッキング",
+      "meaning": "order picking (taking goods from a warehouse to fulfil customer orders)"
+    },
+    {
+      "type": "kana",
+      "character": "ピック",
+      "romaji": "ピック",
+      "meaning": "pick; plectrum"
+    },
+    {
+      "type": "kana",
+      "character": "ピックアップサービス",
+      "romaji": "ピックアップサービス",
+      "meaning": "pickup service"
+    },
+    {
+      "type": "kana",
+      "character": "ピッチ",
+      "romaji": "ピッチ",
+      "meaning": "pace; speed"
+    }
+  ]
+}

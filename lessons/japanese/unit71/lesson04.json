@@ -1,0 +1,67 @@
+{
+  "unit": 71,
+  "lesson": 4,
+  "title": "Vocabulary — Frequency 12831–12840",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "走り高跳び",
+      "romaji": "はしりたかとび",
+      "meaning": "(running) high jump"
+    },
+    {
+      "type": "kanji",
+      "character": "走り出す",
+      "romaji": "はしりだす",
+      "meaning": "to begin to run; to start running"
+    },
+    {
+      "type": "kanji",
+      "character": "走り書き",
+      "romaji": "はしりがき",
+      "meaning": "scribbling; scrawl"
+    },
+    {
+      "type": "kanji",
+      "character": "走り幅跳び",
+      "romaji": "はしりはばとび",
+      "meaning": "long jump"
+    },
+    {
+      "type": "kanji",
+      "character": "走る",
+      "romaji": "はしる",
+      "meaning": "to run"
+    },
+    {
+      "type": "kanji",
+      "character": "走行",
+      "romaji": "そうこう",
+      "meaning": "running (of a car, bus, etc.); traveling"
+    },
+    {
+      "type": "kanji",
+      "character": "走者",
+      "romaji": "そうしゃ",
+      "meaning": "runner"
+    },
+    {
+      "type": "kanji",
+      "character": "送り",
+      "romaji": "おくり",
+      "meaning": "seeing off; sending off"
+    },
+    {
+      "type": "kanji",
+      "character": "送り仮名",
+      "romaji": "おくりがな",
+      "meaning": "kana written after a kanji to complete the full (usually kun) reading of the word; declensional kana ending"
+    },
+    {
+      "type": "kanji",
+      "character": "送り込む",
+      "romaji": "おくりこむ",
+      "meaning": "to send in"
+    }
+  ]
+}

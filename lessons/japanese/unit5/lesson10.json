@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 10,
+  "title": "JLPT N3 Kanji — Part 10",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "昨",
+      "romaji": "サク",
+      "meaning": "yesterday; previous"
+    },
+    {
+      "type": "kanji",
+      "character": "論",
+      "romaji": "ロン / あげつら.う",
+      "meaning": "argument; discourse"
+    },
+    {
+      "type": "kanji",
+      "character": "官",
+      "romaji": "カン",
+      "meaning": "bureaucrat; the government; organ"
+    },
+    {
+      "type": "kanji",
+      "character": "増",
+      "romaji": "ゾウ / ま.す・ま.し・ふ.える・ふ.やす",
+      "meaning": "increase; add; augment"
+    },
+    {
+      "type": "kanji",
+      "character": "係",
+      "romaji": "ケイ / かか.る・かかり・-がかり・かか.わる",
+      "meaning": "person in charge; connection; duty"
+    },
+    {
+      "type": "kanji",
+      "character": "感",
+      "romaji": "カン",
+      "meaning": "emotion; feeling; sensation"
+    },
+    {
+      "type": "kanji",
+      "character": "情",
+      "romaji": "ジョウ・セイ / なさ.け",
+      "meaning": "feelings; emotion; passion"
+    },
+    {
+      "type": "kanji",
+      "character": "投",
+      "romaji": "トウ / な.げる・-な.げ",
+      "meaning": "throw; discard; abandon"
+    },
+    {
+      "type": "kanji",
+      "character": "示",
+      "romaji": "ジ・シ / しめ.す",
+      "meaning": "show; indicate; point out"
+    },
+    {
+      "type": "kanji",
+      "character": "変",
+      "romaji": "ヘン / か.わる・か.わり・か.える",
+      "meaning": "unusual; change; strange"
+    }
+  ]
+}

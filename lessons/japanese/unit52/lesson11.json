@@ -1,0 +1,67 @@
+{
+  "unit": 52,
+  "lesson": 11,
+  "title": "Vocabulary — Frequency 9101–9110",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "最終",
+      "romaji": "さいしゅう",
+      "meaning": "last; final"
+    },
+    {
+      "type": "kanji",
+      "character": "最初",
+      "romaji": "さいしょ",
+      "meaning": "beginning; outset"
+    },
+    {
+      "type": "kanji",
+      "character": "最小",
+      "romaji": "さいしょう",
+      "meaning": "smallest (in size, degree, etc.); least"
+    },
+    {
+      "type": "kanji",
+      "character": "最小限",
+      "romaji": "さいしょうげん",
+      "meaning": "minimum; lowest"
+    },
+    {
+      "type": "kanji",
+      "character": "最少",
+      "romaji": "さいしょう",
+      "meaning": "fewest; least"
+    },
+    {
+      "type": "kanji",
+      "character": "最新",
+      "romaji": "さいしん",
+      "meaning": "latest; newest"
+    },
+    {
+      "type": "kanji",
+      "character": "最盛期",
+      "romaji": "さいせいき",
+      "meaning": "golden age; prime"
+    },
+    {
+      "type": "kanji",
+      "character": "最先端",
+      "romaji": "さいせんたん",
+      "meaning": "cutting edge; leading edge"
+    },
+    {
+      "type": "kanji",
+      "character": "最前線",
+      "romaji": "さいぜんせん",
+      "meaning": "front line; forefront"
+    },
+    {
+      "type": "kanji",
+      "character": "最善",
+      "romaji": "さいぜん",
+      "meaning": "the very best; utmost"
+    }
+  ]
+}

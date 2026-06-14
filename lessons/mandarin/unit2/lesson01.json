@@ -1,0 +1,67 @@
+{
+  "unit": 2,
+  "lesson": 1,
+  "title": "HSK 2 Vocabulary — Part 1",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "吧",
+      "romaji": "ba",
+      "meaning": "(modal particle indicating suggestion or surmise); ...right?; ...OK?; ...I presume."
+    },
+    {
+      "type": "hanzi",
+      "character": "白",
+      "romaji": "bái",
+      "meaning": "white; snowy; pure; bright; empty; blank; plain; clear; to make clear; in vain; gratuitous; free of charge; reactionary; anti-communist; funeral; to stare coldly; to write wrong character; to state; to explain; vernacular; spoken lines in opera"
+    },
+    {
+      "type": "hanzi",
+      "character": "百",
+      "romaji": "bǎi",
+      "meaning": "hundred; numerous; all kinds of"
+    },
+    {
+      "type": "hanzi",
+      "character": "帮助",
+      "romaji": "bāng zhù",
+      "meaning": "assistance; aid; to help; to assist"
+    },
+    {
+      "type": "hanzi",
+      "character": "报纸",
+      "romaji": "bào zhǐ",
+      "meaning": "newspaper; newsprint; CL:份; 期; 張|张[zhāng]"
+    },
+    {
+      "type": "hanzi",
+      "character": "比",
+      "romaji": "bǐ",
+      "meaning": "(particle used for comparison and \"-er than\"); to compare; to contrast; to gesture (with hands); ratio"
+    },
+    {
+      "type": "hanzi",
+      "character": "别",
+      "romaji": "bié",
+      "meaning": "to leave; to depart; to separate; to distinguish; to classify; other; another; do not; must not; to pin"
+    },
+    {
+      "type": "hanzi",
+      "character": "长",
+      "romaji": "cháng",
+      "meaning": "length; long; forever; always; constantly"
+    },
+    {
+      "type": "hanzi",
+      "character": "唱歌",
+      "romaji": "chàng gē",
+      "meaning": "to sing a song"
+    },
+    {
+      "type": "hanzi",
+      "character": "出",
+      "romaji": "chū",
+      "meaning": "to go out; to come out; to occur; to produce; to go beyond; to rise; to put forth; to happen; classifier for dramas; plays; operas etc"
+    }
+  ]
+}

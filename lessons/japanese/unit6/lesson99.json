@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 99,
+  "title": "JLPT N2/N1 Kanji — Part 99",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "韻",
+      "romaji": "イン",
+      "meaning": "rhyme; elegance; tone"
+    },
+    {
+      "type": "kanji",
+      "character": "霜",
+      "romaji": "ソウ / しも",
+      "meaning": "frost"
+    },
+    {
+      "type": "kanji",
+      "character": "硝",
+      "romaji": "ショウ",
+      "meaning": "nitrate; saltpeter"
+    },
+    {
+      "type": "kanji",
+      "character": "勅",
+      "romaji": "チョク / いまし.める・みことのり",
+      "meaning": "imperial order"
+    },
+    {
+      "type": "kanji",
+      "character": "芹",
+      "romaji": "キン / せり",
+      "meaning": "parsley"
+    },
+    {
+      "type": "kanji",
+      "character": "杏",
+      "romaji": "キョウ・アン・コウ / あんず",
+      "meaning": "apricot"
+    },
+    {
+      "type": "kanji",
+      "character": "棺",
+      "romaji": "カン",
+      "meaning": "coffin; casket"
+    },
+    {
+      "type": "kanji",
+      "character": "儒",
+      "romaji": "ジュ",
+      "meaning": "Confucian"
+    },
+    {
+      "type": "kanji",
+      "character": "鳳",
+      "romaji": "ホウ・フウ",
+      "meaning": "male mythical bird"
+    },
+    {
+      "type": "kanji",
+      "character": "馨",
+      "romaji": "ケイ・キョウ / かお.る・かおり",
+      "meaning": "fragrant; balmy; favourable"
+    }
+  ]
+}

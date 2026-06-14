@@ -1,0 +1,67 @@
+{
+  "unit": 8,
+  "lesson": 12,
+  "title": "Vocabulary — Frequency 311–320",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "としても",
+      "romaji": "としても",
+      "meaning": "even if ...; even supposing that ..."
+    },
+    {
+      "type": "kana",
+      "character": "とすると",
+      "romaji": "とすると",
+      "meaning": "then; if so"
+    },
+    {
+      "type": "kanji",
+      "character": "迚も",
+      "romaji": "とても",
+      "meaning": "very; awfully"
+    },
+    {
+      "type": "kana",
+      "character": "とろ",
+      "romaji": "とろ",
+      "meaning": "fatty cut (esp. of tuna belly)"
+    },
+    {
+      "type": "kanji",
+      "character": "飛んだ",
+      "romaji": "とんだ",
+      "meaning": "unexpected; unlikely"
+    },
+    {
+      "type": "kanji",
+      "character": "とんでも無い",
+      "romaji": "とんでもない",
+      "meaning": "unthinkable; unexpected"
+    },
+    {
+      "type": "kana",
+      "character": "とんとん",
+      "romaji": "とんとん",
+      "meaning": "with a tap; with a knock"
+    },
+    {
+      "type": "kanji",
+      "character": "と言えば",
+      "romaji": "といえば",
+      "meaning": "speaking of ..."
+    },
+    {
+      "type": "kanji",
+      "character": "如何",
+      "romaji": "どう",
+      "meaning": "how; in what way"
+    },
+    {
+      "type": "kanji",
+      "character": "どう言う",
+      "romaji": "どういう",
+      "meaning": "what kind of; what sort of"
+    }
+  ]
+}

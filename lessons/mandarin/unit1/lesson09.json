@@ -1,0 +1,67 @@
+{
+  "unit": 1,
+  "lesson": 9,
+  "title": "HSK 1 Vocabulary — Part 9",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "前面",
+      "romaji": "qián miàn",
+      "meaning": "ahead; in front; preceding; above"
+    },
+    {
+      "type": "hanzi",
+      "character": "请",
+      "romaji": "qǐng",
+      "meaning": "to ask; to invite; please (do sth); to treat (to a meal etc); to request"
+    },
+    {
+      "type": "hanzi",
+      "character": "去",
+      "romaji": "qù",
+      "meaning": "to go; to go to (a place); to cause to go or send (sb); to remove; to get rid of; (when used either before or after a verb) to go in order to do sth; to be apart from in space or time; (after a verb of motion indicates movement away from the speaker); (used after certain verbs to indicate detachment or separation); (of a time or an event etc) just passed or elapsed"
+    },
+    {
+      "type": "hanzi",
+      "character": "热",
+      "romaji": "rè",
+      "meaning": "to warm up; to heat up; hot (of weather); heat; fervent"
+    },
+    {
+      "type": "hanzi",
+      "character": "人",
+      "romaji": "rén",
+      "meaning": "man; person; people; CL:個|个; 位[wèi]"
+    },
+    {
+      "type": "hanzi",
+      "character": "认识",
+      "romaji": "rèn shi",
+      "meaning": "to know; to recognize; to be familiar with; to get acquainted with sb; knowledge; understanding; awareness; cognition"
+    },
+    {
+      "type": "hanzi",
+      "character": "日",
+      "romaji": "rì",
+      "meaning": "sun; day; date; day of the month; abbr. for 日本 Japan"
+    },
+    {
+      "type": "hanzi",
+      "character": "三",
+      "romaji": "sān",
+      "meaning": "three; 3"
+    },
+    {
+      "type": "hanzi",
+      "character": "商店",
+      "romaji": "shāng diàn",
+      "meaning": "store; shop; CL:家; 個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "上",
+      "romaji": "shàng",
+      "meaning": "on top; upon; above; upper; previous; first (of multiple parts); to climb; to get onto; to go up; to attend (class or university)"
+    }
+  ]
+}

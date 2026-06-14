@@ -1,0 +1,67 @@
+{
+  "unit": 17,
+  "lesson": 3,
+  "title": "Vocabulary — Frequency 2021–2030",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "スパーク",
+      "romaji": "スパーク",
+      "meaning": "spark"
+    },
+    {
+      "type": "kana",
+      "character": "スパート",
+      "romaji": "スパート",
+      "meaning": "spurt"
+    },
+    {
+      "type": "kana",
+      "character": "スパーリング",
+      "romaji": "スパーリング",
+      "meaning": "sparring"
+    },
+    {
+      "type": "kana",
+      "character": "スパイ",
+      "romaji": "スパイ",
+      "meaning": "spy; spying"
+    },
+    {
+      "type": "kana",
+      "character": "スパイク",
+      "romaji": "スパイク",
+      "meaning": "spike (on a shoe or tyre); stud"
+    },
+    {
+      "type": "kana",
+      "character": "スパイス",
+      "romaji": "スパイス",
+      "meaning": "spice"
+    },
+    {
+      "type": "kana",
+      "character": "スパイラル",
+      "romaji": "スパイラル",
+      "meaning": "spiral"
+    },
+    {
+      "type": "kana",
+      "character": "スパゲティ",
+      "romaji": "スパゲティ",
+      "meaning": "spaghetti"
+    },
+    {
+      "type": "kana",
+      "character": "スパッツ",
+      "romaji": "スパッツ",
+      "meaning": "leggings (stretchy skin-tight trousers)"
+    },
+    {
+      "type": "kana",
+      "character": "スパン",
+      "romaji": "スパン",
+      "meaning": "span"
+    }
+  ]
+}

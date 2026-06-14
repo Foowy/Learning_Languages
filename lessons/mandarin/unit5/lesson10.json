@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 10,
+  "title": "HSK 5 Vocabulary — Part 10",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "产品",
+      "romaji": "chǎn pǐn",
+      "meaning": "goods; merchandise; product; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "产生",
+      "romaji": "chǎn shēng",
+      "meaning": "to arise; to come into being; to come about; to give rise to; to bring into being; to bring about; to produce; to engender; to generate; to appear; appearance; emergence; generation; production; yield"
+    },
+    {
+      "type": "hanzi",
+      "character": "长途",
+      "romaji": "cháng tú",
+      "meaning": "long distance"
+    },
+    {
+      "type": "hanzi",
+      "character": "常识",
+      "romaji": "cháng shí",
+      "meaning": "common sense; general knowledge; CL:門|门[mén]"
+    },
+    {
+      "type": "hanzi",
+      "character": "抄",
+      "romaji": "chāo",
+      "meaning": "to make a copy; to plagiarize; to search and seize; to raid; to grab; to go off with; to take a shortcut; to make a turning move; to fold one's arms"
+    },
+    {
+      "type": "hanzi",
+      "character": "朝",
+      "romaji": "cháo",
+      "meaning": "imperial or royal court; government; dynasty; reign of a sovereign or emperor; court or assembly held by a sovereign or emperor; to make a pilgrimage to; facing; towards"
+    },
+    {
+      "type": "hanzi",
+      "character": "朝代",
+      "romaji": "cháo dài",
+      "meaning": "dynasty; reign (of a king)"
+    },
+    {
+      "type": "hanzi",
+      "character": "炒",
+      "romaji": "chǎo",
+      "meaning": "to sauté; to stir-fry; to speculate; to hype; to fire (sb)"
+    },
+    {
+      "type": "hanzi",
+      "character": "吵架",
+      "romaji": "chǎo jià",
+      "meaning": "to quarrel; to have a row; quarrel; CL:頓|顿[dùn]"
+    },
+    {
+      "type": "hanzi",
+      "character": "车库",
+      "romaji": "chē kù",
+      "meaning": "garage"
+    }
+  ]
+}

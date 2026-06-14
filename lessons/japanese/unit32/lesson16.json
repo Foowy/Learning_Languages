@@ -1,0 +1,67 @@
+{
+  "unit": 32,
+  "lesson": 16,
+  "title": "Vocabulary — Frequency 5151–5160",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "英文学",
+      "romaji": "えいぶんがく",
+      "meaning": "English(-language) literature"
+    },
+    {
+      "type": "kanji",
+      "character": "英訳",
+      "romaji": "えいやく",
+      "meaning": "English translation"
+    },
+    {
+      "type": "kanji",
+      "character": "英雄",
+      "romaji": "えいゆう",
+      "meaning": "hero; heroine"
+    },
+    {
+      "type": "kanji",
+      "character": "英和",
+      "romaji": "えいわ",
+      "meaning": "English-Japanese"
+    },
+    {
+      "type": "kanji",
+      "character": "衛星",
+      "romaji": "えいせい",
+      "meaning": "(natural) satellite; moon"
+    },
+    {
+      "type": "kanji",
+      "character": "衛生",
+      "romaji": "えいせい",
+      "meaning": "hygiene; sanitation"
+    },
+    {
+      "type": "kanji",
+      "character": "詠む",
+      "romaji": "よむ",
+      "meaning": "to compose (a Japanese poem); to write"
+    },
+    {
+      "type": "kanji",
+      "character": "鋭い",
+      "romaji": "するどい",
+      "meaning": "sharp (knife, claws, etc.); pointed"
+    },
+    {
+      "type": "kanji",
+      "character": "鋭角",
+      "romaji": "えいかく",
+      "meaning": "acute angle"
+    },
+    {
+      "type": "kanji",
+      "character": "鋭敏",
+      "romaji": "えいびん",
+      "meaning": "sharp (eyes, ears, etc.); keen"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 71,
+  "lesson": 9,
+  "title": "Vocabulary — Frequency 12881–12890",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "憎い",
+      "romaji": "にくい",
+      "meaning": "hateful; detestable"
+    },
+    {
+      "type": "kanji",
+      "character": "憎しみ",
+      "romaji": "にくしみ",
+      "meaning": "hatred"
+    },
+    {
+      "type": "kanji",
+      "character": "憎む",
+      "romaji": "にくむ",
+      "meaning": "to hate; to detest"
+    },
+    {
+      "type": "kanji",
+      "character": "憎らしい",
+      "romaji": "にくらしい",
+      "meaning": "odious; hateful"
+    },
+    {
+      "type": "kanji",
+      "character": "憎悪",
+      "romaji": "ぞうお",
+      "meaning": "hatred; abhorrence"
+    },
+    {
+      "type": "kanji",
+      "character": "臓",
+      "romaji": "ぞう",
+      "meaning": "viscera; bowels"
+    },
+    {
+      "type": "kanji",
+      "character": "臓器",
+      "romaji": "ぞうき",
+      "meaning": "internal organs; viscera"
+    },
+    {
+      "type": "kanji",
+      "character": "蔵書",
+      "romaji": "ぞうしょ",
+      "meaning": "collection of books; (personal) library"
+    },
+    {
+      "type": "kanji",
+      "character": "蔵相",
+      "romaji": "ぞうしょう",
+      "meaning": "Minister of Finance"
+    },
+    {
+      "type": "kanji",
+      "character": "贈り主",
+      "romaji": "おくりぬし",
+      "meaning": "sender (of a present)"
+    }
+  ]
+}

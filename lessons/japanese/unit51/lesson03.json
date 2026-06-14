@@ -1,0 +1,67 @@
+{
+  "unit": 51,
+  "lesson": 3,
+  "title": "Vocabulary — Frequency 8821–8830",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "克明",
+      "romaji": "こくめい",
+      "meaning": "detailed; scrupulous"
+    },
+    {
+      "type": "kanji",
+      "character": "刻",
+      "romaji": "こく",
+      "meaning": "period of time (usu. a period of approx. two hours corresponding to one of the signs of the Chinese zodiac)"
+    },
+    {
+      "type": "kanji",
+      "character": "刻々",
+      "romaji": "こっこく",
+      "meaning": "moment by moment; hour by hour"
+    },
+    {
+      "type": "kanji",
+      "character": "刻み",
+      "romaji": "きざみ",
+      "meaning": "mincing; cutting"
+    },
+    {
+      "type": "kanji",
+      "character": "刻む",
+      "romaji": "きざむ",
+      "meaning": "to mince; to cut fine"
+    },
+    {
+      "type": "kanji",
+      "character": "刻一刻",
+      "romaji": "こくいっこく",
+      "meaning": "moment by moment; hour by hour"
+    },
+    {
+      "type": "kanji",
+      "character": "告げる",
+      "romaji": "つげる",
+      "meaning": "to tell; to inform"
+    },
+    {
+      "type": "kanji",
+      "character": "告示",
+      "romaji": "こくじ",
+      "meaning": "notice; bulletin"
+    },
+    {
+      "type": "kanji",
+      "character": "告訴",
+      "romaji": "こくそ",
+      "meaning": "accusation; complaint"
+    },
+    {
+      "type": "kanji",
+      "character": "告知",
+      "romaji": "こくち",
+      "meaning": "notice; notification"
+    }
+  ]
+}

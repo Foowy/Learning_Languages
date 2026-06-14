@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 22,
+  "title": "JLPT N3 Kanji — Part 22",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "辺",
+      "romaji": "ヘン / あた.り・ほと.り・-べ",
+      "meaning": "environs; boundary; border"
+    },
+    {
+      "type": "kanji",
+      "character": "造",
+      "romaji": "ゾウ / つく.る・つく.り・-づく.り",
+      "meaning": "create; make; structure"
+    },
+    {
+      "type": "kanji",
+      "character": "被",
+      "romaji": "ヒ / こうむ.る・おお.う・かぶ.る・かぶ.せる",
+      "meaning": "incur; cover; veil"
+    },
+    {
+      "type": "kanji",
+      "character": "技",
+      "romaji": "ギ / わざ",
+      "meaning": "skill; art; craft"
+    },
+    {
+      "type": "kanji",
+      "character": "復",
+      "romaji": "フク / また",
+      "meaning": "restore; return to; revert"
+    },
+    {
+      "type": "kanji",
+      "character": "負",
+      "romaji": "フ / ま.ける・ま.かす・お.う",
+      "meaning": "defeat; negative; -"
+    },
+    {
+      "type": "kanji",
+      "character": "渡",
+      "romaji": "ト / わた.る・-わた.る・わた.す",
+      "meaning": "transit; ford; ferry"
+    },
+    {
+      "type": "kanji",
+      "character": "失",
+      "romaji": "シツ / うしな.う・う.せる",
+      "meaning": "lose; error; fault"
+    },
+    {
+      "type": "kanji",
+      "character": "移",
+      "romaji": "イ / うつ.る・うつ.す",
+      "meaning": "shift; move; change"
+    },
+    {
+      "type": "kanji",
+      "character": "差",
+      "romaji": "サ / さ.す・さ.し",
+      "meaning": "distinction; difference; variation"
+    }
+  ]
+}

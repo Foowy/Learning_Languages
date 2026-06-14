@@ -1,0 +1,67 @@
+{
+  "unit": 98,
+  "lesson": 4,
+  "title": "Vocabulary — Frequency 18231–18240",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "和風",
+      "romaji": "わふう",
+      "meaning": "Japanese style"
+    },
+    {
+      "type": "kanji",
+      "character": "和服",
+      "romaji": "わふく",
+      "meaning": "Japanese clothes"
+    },
+    {
+      "type": "kanji",
+      "character": "和文",
+      "romaji": "わぶん",
+      "meaning": "Japanese text; sentence in Japanese"
+    },
+    {
+      "type": "kanji",
+      "character": "和平",
+      "romaji": "わへい",
+      "meaning": "peace"
+    },
+    {
+      "type": "kanji",
+      "character": "和洋折衷",
+      "romaji": "わようせっちゅう",
+      "meaning": "blending of Japanese and Western styles"
+    },
+    {
+      "type": "kanji",
+      "character": "話しかける",
+      "romaji": "はなしかける",
+      "meaning": "to address (someone); to accost a person"
+    },
+    {
+      "type": "kanji",
+      "character": "話し合う",
+      "romaji": "はなしあう",
+      "meaning": "to discuss; to talk together"
+    },
+    {
+      "type": "kanji",
+      "character": "話し込む",
+      "romaji": "はなしこむ",
+      "meaning": "to be deep in talk"
+    },
+    {
+      "type": "kanji",
+      "character": "話し方",
+      "romaji": "はなしかた",
+      "meaning": "way of talking; speaking style"
+    },
+    {
+      "type": "kanji",
+      "character": "話す",
+      "romaji": "はなす",
+      "meaning": "to talk; to speak"
+    }
+  ]
+}

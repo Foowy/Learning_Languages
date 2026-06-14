@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 46,
+  "title": "JLPT N3 Kanji — Part 46",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "績",
+      "romaji": "セキ",
+      "meaning": "exploits; achievements; unreeling cocoons"
+    },
+    {
+      "type": "kanji",
+      "character": "築",
+      "romaji": "チク / きず.く",
+      "meaning": "fabricate; build; construct"
+    },
+    {
+      "type": "kanji",
+      "character": "貨",
+      "romaji": "カ / たから",
+      "meaning": "freight; goods; property"
+    },
+    {
+      "type": "kanji",
+      "character": "志",
+      "romaji": "シ / シリング・こころざ.す・こころざし",
+      "meaning": "intention; plan; resolve"
+    },
+    {
+      "type": "kanji",
+      "character": "混",
+      "romaji": "コン / ま.じる・-ま.じり・ま.ざる・ま.ぜる・こ.む",
+      "meaning": "mix; blend; confuse"
+    },
+    {
+      "type": "kanji",
+      "character": "昇",
+      "romaji": "ショウ / のぼ.る",
+      "meaning": "rise up"
+    },
+    {
+      "type": "kanji",
+      "character": "勤",
+      "romaji": "キン・ゴン / つと.める・-づと.め・つと.まる・いそ.しむ",
+      "meaning": "diligence; become employed; serve"
+    },
+    {
+      "type": "kanji",
+      "character": "血",
+      "romaji": "ケツ / ち",
+      "meaning": "blood"
+    },
+    {
+      "type": "kanji",
+      "character": "遅",
+      "romaji": "チ / おく.れる・おく.らす・おそ.い",
+      "meaning": "slow; late; back"
+    },
+    {
+      "type": "kanji",
+      "character": "居",
+      "romaji": "キョ・コ / い.る・-い・お.る",
+      "meaning": "reside; to be; exist"
+    }
+  ]
+}

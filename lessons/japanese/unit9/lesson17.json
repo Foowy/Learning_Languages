@@ -1,0 +1,67 @@
+{
+  "unit": 9,
+  "lesson": 17,
+  "title": "Vocabulary — Frequency 561–570",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "アベニュー",
+      "romaji": "アベニュー",
+      "meaning": "avenue; boulevard"
+    },
+    {
+      "type": "kana",
+      "character": "アマ",
+      "romaji": "アマ",
+      "meaning": "amateur"
+    },
+    {
+      "type": "kana",
+      "character": "アマチュア",
+      "romaji": "アマチュア",
+      "meaning": "amateur"
+    },
+    {
+      "type": "kanji",
+      "character": "アミノ酸",
+      "romaji": "アミノさん",
+      "meaning": "amino acid"
+    },
+    {
+      "type": "kana",
+      "character": "アミューズメント",
+      "romaji": "アミューズメント",
+      "meaning": "amusement"
+    },
+    {
+      "type": "kana",
+      "character": "アメーバ",
+      "romaji": "アメーバ",
+      "meaning": "amoeba; ameba"
+    },
+    {
+      "type": "kanji",
+      "character": "ＡＭｅＤＡＳ",
+      "romaji": "アメダス",
+      "meaning": "Automated Meteorological Data Acquisition System; AMeDAS"
+    },
+    {
+      "type": "kana",
+      "character": "アメフト",
+      "romaji": "アメフト",
+      "meaning": "American football"
+    },
+    {
+      "type": "kana",
+      "character": "アメリカン",
+      "romaji": "アメリカン",
+      "meaning": "American"
+    },
+    {
+      "type": "kanji",
+      "character": "アメリカ人",
+      "romaji": "アメリカじん",
+      "meaning": "American (person)"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 21,
+  "title": "JLPT N3 Kanji — Part 21",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "葉",
+      "romaji": "ヨウ / は",
+      "meaning": "leaf; plane; lobe"
+    },
+    {
+      "type": "kanji",
+      "character": "伝",
+      "romaji": "デン・テン / つた.わる・つた.える・つた.う・つだ.う・-づた.い・つて",
+      "meaning": "transmit; go along; walk along"
+    },
+    {
+      "type": "kanji",
+      "character": "形",
+      "romaji": "ケイ・ギョウ / かた・-がた・かたち・なり",
+      "meaning": "shape; form; style"
+    },
+    {
+      "type": "kanji",
+      "character": "景",
+      "romaji": "ケイ",
+      "meaning": "scenery; view"
+    },
+    {
+      "type": "kanji",
+      "character": "落",
+      "romaji": "ラク / お.ちる・お.ち・お.とす",
+      "meaning": "fall; drop; come down"
+    },
+    {
+      "type": "kanji",
+      "character": "欧",
+      "romaji": "オウ / うた.う・は.く",
+      "meaning": "Europe"
+    },
+    {
+      "type": "kanji",
+      "character": "担",
+      "romaji": "タン / かつ.ぐ・にな.う",
+      "meaning": "shouldering; carry; raise"
+    },
+    {
+      "type": "kanji",
+      "character": "退",
+      "romaji": "タイ / しりぞ.く・しりぞ.ける・ひ.く・の.く・の.ける・ど.く",
+      "meaning": "retreat; withdraw; retire"
+    },
+    {
+      "type": "kanji",
+      "character": "準",
+      "romaji": "ジュン / じゅん.じる・じゅん.ずる・なぞら.える・のり・ひと.しい・みずもり",
+      "meaning": "semi-; correspond to; proportionate to"
+    },
+    {
+      "type": "kanji",
+      "character": "賞",
+      "romaji": "ショウ / ほ.める",
+      "meaning": "prize; reward; praise"
+    }
+  ]
+}

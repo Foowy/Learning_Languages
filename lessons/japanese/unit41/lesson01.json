@@ -1,0 +1,67 @@
+{
+  "unit": 41,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 6801–6810",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "義務",
+      "romaji": "ぎむ",
+      "meaning": "duty; obligation"
+    },
+    {
+      "type": "kanji",
+      "character": "義務教育",
+      "romaji": "ぎむきょういく",
+      "meaning": "compulsory education"
+    },
+    {
+      "type": "kanji",
+      "character": "義理",
+      "romaji": "ぎり",
+      "meaning": "duty; sense of duty"
+    },
+    {
+      "type": "kanji",
+      "character": "蟻",
+      "romaji": "あり",
+      "meaning": "ant"
+    },
+    {
+      "type": "kanji",
+      "character": "議案",
+      "romaji": "ぎあん",
+      "meaning": "legislative bill; measure"
+    },
+    {
+      "type": "kanji",
+      "character": "議員",
+      "romaji": "ぎいん",
+      "meaning": "member of an assembly; member of the Diet"
+    },
+    {
+      "type": "kanji",
+      "character": "議院",
+      "romaji": "ぎいん",
+      "meaning": "parliament; congress"
+    },
+    {
+      "type": "kanji",
+      "character": "議会",
+      "romaji": "ぎかい",
+      "meaning": "congress; parliament"
+    },
+    {
+      "type": "kanji",
+      "character": "議決",
+      "romaji": "ぎけつ",
+      "meaning": "resolution; decision"
+    },
+    {
+      "type": "kanji",
+      "character": "議事",
+      "romaji": "ぎじ",
+      "meaning": "proceedings (e.g. parliament, congress); business (of the day)"
+    }
+  ]
+}

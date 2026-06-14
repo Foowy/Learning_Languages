@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 44,
+  "title": "JLPT N3 Kanji — Part 44",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "倒",
+      "romaji": "トウ / たお.れる・-だお.れ・たお.す・さかさま・さかさ・さかしま",
+      "meaning": "overthrow; fall; collapse"
+    },
+    {
+      "type": "kanji",
+      "character": "了",
+      "romaji": "リョウ",
+      "meaning": "complete; finish"
+    },
+    {
+      "type": "kanji",
+      "character": "庁",
+      "romaji": "チョウ・テイ / やくしょ",
+      "meaning": "government office"
+    },
+    {
+      "type": "kanji",
+      "character": "城",
+      "romaji": "ジョウ・セイ / しろ",
+      "meaning": "castle"
+    },
+    {
+      "type": "kanji",
+      "character": "等",
+      "romaji": "トウ / ひと.しい・など・-ら",
+      "meaning": "etc.; and so forth; class (first)"
+    },
+    {
+      "type": "kanji",
+      "character": "救",
+      "romaji": "キュウ / すく.う",
+      "meaning": "salvation; save; help"
+    },
+    {
+      "type": "kanji",
+      "character": "層",
+      "romaji": "ソウ",
+      "meaning": "stratum; social class; layer"
+    },
+    {
+      "type": "kanji",
+      "character": "版",
+      "romaji": "ハン",
+      "meaning": "printing block; printing plate; edition"
+    },
+    {
+      "type": "kanji",
+      "character": "老",
+      "romaji": "ロウ / お.いる・ふ.ける",
+      "meaning": "old man; old age; grow old"
+    },
+    {
+      "type": "kanji",
+      "character": "令",
+      "romaji": "レイ",
+      "meaning": "orders; laws; command"
+    }
+  ]
+}

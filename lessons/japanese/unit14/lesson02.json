@@ -1,0 +1,67 @@
+{
+  "unit": 14,
+  "lesson": 2,
+  "title": "Vocabulary — Frequency 1411–1420",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "コミック",
+      "romaji": "コミック",
+      "meaning": "comic; comics"
+    },
+    {
+      "type": "kana",
+      "character": "コミックス",
+      "romaji": "コミックス",
+      "meaning": "comics; comic book"
+    },
+    {
+      "type": "kana",
+      "character": "コミッショナー",
+      "romaji": "コミッショナー",
+      "meaning": "commissioner"
+    },
+    {
+      "type": "kana",
+      "character": "コミッション",
+      "romaji": "コミッション",
+      "meaning": "commission"
+    },
+    {
+      "type": "kana",
+      "character": "コミット",
+      "romaji": "コミット",
+      "meaning": "committing (oneself to); commitment"
+    },
+    {
+      "type": "kana",
+      "character": "コミュニケ",
+      "romaji": "コミュニケ",
+      "meaning": "communiqué"
+    },
+    {
+      "type": "kana",
+      "character": "コミュニケーション",
+      "romaji": "コミュニケーション",
+      "meaning": "communication"
+    },
+    {
+      "type": "kana",
+      "character": "コミュニティ",
+      "romaji": "コミュニティ",
+      "meaning": "community"
+    },
+    {
+      "type": "kanji",
+      "character": "ＣＯＭ",
+      "romaji": "コム",
+      "meaning": "computer output microfilm system; COM"
+    },
+    {
+      "type": "kana",
+      "character": "コメディ",
+      "romaji": "コメディ",
+      "meaning": "comedy"
+    }
+  ]
+}

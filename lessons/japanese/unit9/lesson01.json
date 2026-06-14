@@ -1,0 +1,67 @@
+{
+  "unit": 9,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 401–410",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "ぶつぶつ",
+      "romaji": "ぶつぶつ",
+      "meaning": "grunt; grumble"
+    },
+    {
+      "type": "kana",
+      "character": "ぶらぶら",
+      "romaji": "ぶらぶら",
+      "meaning": "dangling; swaying"
+    },
+    {
+      "type": "kanji",
+      "character": "ぶら下がる",
+      "romaji": "ぶらさがる",
+      "meaning": "to hang down (from); to dangle"
+    },
+    {
+      "type": "kanji",
+      "character": "ぶら下げる",
+      "romaji": "ぶらさげる",
+      "meaning": "to hang; to suspend"
+    },
+    {
+      "type": "kana",
+      "character": "ぶるぶる",
+      "romaji": "ぶるぶる",
+      "meaning": "trembling (with fear, anger, etc.); shivering (with cold)"
+    },
+    {
+      "type": "kana",
+      "character": "ヘトヘト",
+      "romaji": "ヘトヘト",
+      "meaning": "completely exhausted; dead tired"
+    },
+    {
+      "type": "kanji",
+      "character": "可き",
+      "romaji": "べき",
+      "meaning": "should; must"
+    },
+    {
+      "type": "kana",
+      "character": "ベタベタ",
+      "romaji": "ベタベタ",
+      "meaning": "sticky"
+    },
+    {
+      "type": "kana",
+      "character": "ペコペコ",
+      "romaji": "ペコペコ",
+      "meaning": "very hungry; starving"
+    },
+    {
+      "type": "kana",
+      "character": "ペラペラ",
+      "romaji": "ペラペラ",
+      "meaning": "fluently (speaking a foreign language)"
+    }
+  ]
+}

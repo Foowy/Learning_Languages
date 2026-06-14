@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 7,
+  "title": "JLPT N3 Kanji — Part 7",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "原",
+      "romaji": "ゲン / はら",
+      "meaning": "meadow; original; primitive"
+    },
+    {
+      "type": "kanji",
+      "character": "共",
+      "romaji": "キョウ / とも・とも.に・-ども",
+      "meaning": "together; both; neither"
+    },
+    {
+      "type": "kanji",
+      "character": "得",
+      "romaji": "トク / え.る・う.る",
+      "meaning": "gain; get; find"
+    },
+    {
+      "type": "kanji",
+      "character": "解",
+      "romaji": "カイ・ゲ / と.く・と.かす・と.ける・ほど.く・ほぐ.す・わか.る・さと.る",
+      "meaning": "unravel; notes; key"
+    },
+    {
+      "type": "kanji",
+      "character": "交",
+      "romaji": "コウ / まじ.わる・まじ.える・ま.じる・まじ.る・ま.ざる・ま.ぜる・-か.う・か.わす・かわ.す・こもごも",
+      "meaning": "mingle; mixing; association"
+    },
+    {
+      "type": "kanji",
+      "character": "資",
+      "romaji": "シ",
+      "meaning": "assets; resources; capital"
+    },
+    {
+      "type": "kanji",
+      "character": "予",
+      "romaji": "ヨ・シャ / あらかじ.め",
+      "meaning": "beforehand; previous; myself"
+    },
+    {
+      "type": "kanji",
+      "character": "向",
+      "romaji": "コウ / む.く・む.い・-む.き・む.ける・-む.け・む.かう・む.かい・む.こう・む.こう-・むこ・むか.い",
+      "meaning": "yonder; facing; beyond"
+    },
+    {
+      "type": "kanji",
+      "character": "際",
+      "romaji": "サイ / きわ・-ぎわ",
+      "meaning": "occasion; side; edge"
+    },
+    {
+      "type": "kanji",
+      "character": "査",
+      "romaji": "サ",
+      "meaning": "investigate"
+    }
+  ]
+}

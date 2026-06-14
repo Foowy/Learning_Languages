@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 1,
+  "title": "HSK 5 Vocabulary — Part 1",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "唉",
+      "romaji": "āi",
+      "meaning": "interjection or grunt of agreement or recognition (e.g. yes; it's me!); to sigh"
+    },
+    {
+      "type": "hanzi",
+      "character": "爱护",
+      "romaji": "ài hù",
+      "meaning": "to cherish; to treasure; to take care of; to love and protect"
+    },
+    {
+      "type": "hanzi",
+      "character": "爱惜",
+      "romaji": "ài xī",
+      "meaning": "to cherish; to treasure; to use sparingly"
+    },
+    {
+      "type": "hanzi",
+      "character": "爱心",
+      "romaji": "ài xīn",
+      "meaning": "compassion; CL:片[piàn]"
+    },
+    {
+      "type": "hanzi",
+      "character": "安慰",
+      "romaji": "ān wèi",
+      "meaning": "to comfort; to console; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "安装",
+      "romaji": "ān zhuāng",
+      "meaning": "to install; to erect; to fix; to mount; installation"
+    },
+    {
+      "type": "hanzi",
+      "character": "岸",
+      "romaji": "àn",
+      "meaning": "bank; shore; beach; coast; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "把握",
+      "romaji": "bǎ wò",
+      "meaning": "to grasp (also fig.); to seize; to hold; assurance; certainty; sure (of the outcome)"
+    },
+    {
+      "type": "hanzi",
+      "character": "摆",
+      "romaji": "bǎi",
+      "meaning": "to arrange; to exhibit; to move to and fro; a pendulum"
+    },
+    {
+      "type": "hanzi",
+      "character": "班主任",
+      "romaji": "bān zhǔ rèn",
+      "meaning": "teacher in charge of a class"
+    }
+  ]
+}

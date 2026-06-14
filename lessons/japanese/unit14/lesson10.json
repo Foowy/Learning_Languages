@@ -1,0 +1,67 @@
+{
+  "unit": 14,
+  "lesson": 10,
+  "title": "Vocabulary — Frequency 1491–1500",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "コンフィギュレーション",
+      "romaji": "コンフィギュレーション",
+      "meaning": "configuration"
+    },
+    {
+      "type": "kana",
+      "character": "コンブリオ",
+      "romaji": "コンブリオ",
+      "meaning": "con brio"
+    },
+    {
+      "type": "kana",
+      "character": "コンプレックス",
+      "romaji": "コンプレックス",
+      "meaning": "complex; inferiority complex"
+    },
+    {
+      "type": "kana",
+      "character": "コンプレッサー",
+      "romaji": "コンプレッサー",
+      "meaning": "compressor"
+    },
+    {
+      "type": "kana",
+      "character": "コンベンション",
+      "romaji": "コンベンション",
+      "meaning": "convention"
+    },
+    {
+      "type": "kana",
+      "character": "コンベンションセンター",
+      "romaji": "コンベンションセンター",
+      "meaning": "convention center; convention centre"
+    },
+    {
+      "type": "kana",
+      "character": "コンペ",
+      "romaji": "コンペ",
+      "meaning": "competition"
+    },
+    {
+      "type": "kana",
+      "character": "コンペティション",
+      "romaji": "コンペティション",
+      "meaning": "competition"
+    },
+    {
+      "type": "kana",
+      "character": "コンボイ",
+      "romaji": "コンボイ",
+      "meaning": "convoy"
+    },
+    {
+      "type": "kana",
+      "character": "コンポ",
+      "romaji": "コンポ",
+      "meaning": "component; component stereo"
+    }
+  ]
+}

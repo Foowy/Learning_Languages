@@ -1,0 +1,67 @@
+{
+  "unit": 20,
+  "lesson": 7,
+  "title": "Vocabulary — Frequency 2661–2670",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "ニッケル",
+      "romaji": "ニッケル",
+      "meaning": "nickel (Ni)"
+    },
+    {
+      "type": "kana",
+      "character": "ニット",
+      "romaji": "ニット",
+      "meaning": "knit; knitted fabric"
+    },
+    {
+      "type": "kana",
+      "character": "ニヒル",
+      "romaji": "ニヒル",
+      "meaning": "nihilistic"
+    },
+    {
+      "type": "kana",
+      "character": "ニュー",
+      "romaji": "ニュー",
+      "meaning": "new"
+    },
+    {
+      "type": "kanji",
+      "character": "新西蘭",
+      "romaji": "ニュージーランド",
+      "meaning": "New Zealand"
+    },
+    {
+      "type": "kana",
+      "character": "ニュージャージー",
+      "romaji": "ニュージャージー",
+      "meaning": "New Jersey"
+    },
+    {
+      "type": "kana",
+      "character": "ニュース",
+      "romaji": "ニュース",
+      "meaning": "news"
+    },
+    {
+      "type": "kana",
+      "character": "ニュースソース",
+      "romaji": "ニュースソース",
+      "meaning": "news source"
+    },
+    {
+      "type": "kana",
+      "character": "ニュースレター",
+      "romaji": "ニュースレター",
+      "meaning": "newsletter"
+    },
+    {
+      "type": "kana",
+      "character": "ニュータウン",
+      "romaji": "ニュータウン",
+      "meaning": "new town (esp. planned satellite towns of Osaka Prefecture); new housing development"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 80,
+  "lesson": 17,
+  "title": "Vocabulary — Frequency 14761–14770",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "独立",
+      "romaji": "どくりつ",
+      "meaning": "independence; self-reliance"
+    },
+    {
+      "type": "kanji",
+      "character": "読み",
+      "romaji": "よみ",
+      "meaning": "reading"
+    },
+    {
+      "type": "kanji",
+      "character": "読み書き",
+      "romaji": "よみかき",
+      "meaning": "reading and writing"
+    },
+    {
+      "type": "kanji",
+      "character": "読み上げる",
+      "romaji": "よみあげる",
+      "meaning": "to read out; to read aloud"
+    },
+    {
+      "type": "kanji",
+      "character": "読み返す",
+      "romaji": "よみかえす",
+      "meaning": "to reread; to read again"
+    },
+    {
+      "type": "kanji",
+      "character": "読み方",
+      "romaji": "よみかた",
+      "meaning": "pronunciation; reading (e.g. of a kanji)"
+    },
+    {
+      "type": "kanji",
+      "character": "読む",
+      "romaji": "よむ",
+      "meaning": "to read"
+    },
+    {
+      "type": "kanji",
+      "character": "読者",
+      "romaji": "どくしゃ",
+      "meaning": "reader"
+    },
+    {
+      "type": "kanji",
+      "character": "読書",
+      "romaji": "どくしょ",
+      "meaning": "reading (books)"
+    },
+    {
+      "type": "kanji",
+      "character": "読売",
+      "romaji": "よみうり",
+      "meaning": "Yomiuri (newspaper, etc. group)"
+    }
+  ]
+}

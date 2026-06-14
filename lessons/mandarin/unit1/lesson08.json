@@ -1,0 +1,67 @@
+{
+  "unit": 1,
+  "lesson": 8,
+  "title": "HSK 1 Vocabulary — Part 8",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "呢",
+      "romaji": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word (\"What about ...?\"; \"And ...?\"); particle for inquiring about location (\"Where is ...?\"); particle signaling a pause; to emphasize the preceding words and allow the listener time to take them on board (\"ok?\"; \"are you with me?\"); (at the end of a declarative sentence) particle indicating continuation of a state or action; particle indicating strong affirmation"
+    },
+    {
+      "type": "hanzi",
+      "character": "能",
+      "romaji": "néng",
+      "meaning": "to be able to; to be capable of; ability; capability; able; capable; can possibly; (usually used in the negative) to have the possibility of"
+    },
+    {
+      "type": "hanzi",
+      "character": "你",
+      "romaji": "nǐ",
+      "meaning": "you (informal; as opposed to courteous 您)"
+    },
+    {
+      "type": "hanzi",
+      "character": "年",
+      "romaji": "nián",
+      "meaning": "year; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "女儿",
+      "romaji": "nǚ ér",
+      "meaning": "daughter"
+    },
+    {
+      "type": "hanzi",
+      "character": "朋友",
+      "romaji": "péng you",
+      "meaning": "friend; CL:個|个; 位[wèi]"
+    },
+    {
+      "type": "hanzi",
+      "character": "漂亮",
+      "romaji": "piào liang",
+      "meaning": "pretty; beautiful"
+    },
+    {
+      "type": "hanzi",
+      "character": "苹果",
+      "romaji": "píng guǒ",
+      "meaning": "apple; CL:個|个; 顆|颗[kē]"
+    },
+    {
+      "type": "hanzi",
+      "character": "七",
+      "romaji": "qī",
+      "meaning": "seven; 7"
+    },
+    {
+      "type": "hanzi",
+      "character": "钱",
+      "romaji": "qián",
+      "meaning": "coin; money; CL:筆|笔[bǐ]; unit of weight; one tenth of a tael 兩|两[liǎng]"
+    }
+  ]
+}

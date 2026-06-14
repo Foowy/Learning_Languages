@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 51,
+  "title": "JLPT N2/N1 Kanji — Part 51",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "妨",
+      "romaji": "ボウ / さまた.げる",
+      "meaning": "disturb; prevent; hamper"
+    },
+    {
+      "type": "kanji",
+      "character": "擦",
+      "romaji": "サツ / す.る・す.れる・-ず.れ・こす.る・こす.れる",
+      "meaning": "grate; rub; scratch"
+    },
+    {
+      "type": "kanji",
+      "character": "鯨",
+      "romaji": "ゲイ / くじら",
+      "meaning": "whale"
+    },
+    {
+      "type": "kanji",
+      "character": "荘",
+      "romaji": "ソウ・ショウ・チャン / ほうき・おごそ.か",
+      "meaning": "villa; inn; cottage"
+    },
+    {
+      "type": "kanji",
+      "character": "諾",
+      "romaji": "ダク",
+      "meaning": "consent; assent; agreement"
+    },
+    {
+      "type": "kanji",
+      "character": "雷",
+      "romaji": "ライ / かみなり・いかずち・いかづち",
+      "meaning": "thunder; lightning bolt"
+    },
+    {
+      "type": "kanji",
+      "character": "漂",
+      "romaji": "ヒョウ / ただよ.う",
+      "meaning": "drift; float (on liquid)"
+    },
+    {
+      "type": "kanji",
+      "character": "懐",
+      "romaji": "カイ・エ / ふところ・なつ.かしい・なつ.かしむ・なつ.く・なつ.ける・なず.ける・いだ.く・おも.う",
+      "meaning": "feelings; heart; yearn"
+    },
+    {
+      "type": "kanji",
+      "character": "勘",
+      "romaji": "カン",
+      "meaning": "intuition; perception; check"
+    },
+    {
+      "type": "kanji",
+      "character": "栽",
+      "romaji": "サイ",
+      "meaning": "plantation; planting"
+    }
+  ]
+}

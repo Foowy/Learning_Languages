@@ -1,0 +1,67 @@
+{
+  "unit": 53,
+  "lesson": 11,
+  "title": "Vocabulary — Frequency 9301–9310",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "皿洗い",
+      "romaji": "さらあらい",
+      "meaning": "washing-up; dish-washing"
+    },
+    {
+      "type": "kanji",
+      "character": "三つ",
+      "romaji": "みっつ",
+      "meaning": "three"
+    },
+    {
+      "type": "kanji",
+      "character": "三回",
+      "romaji": "さんかい",
+      "meaning": "three times"
+    },
+    {
+      "type": "kanji",
+      "character": "三角",
+      "romaji": "さんかく",
+      "meaning": "triangle; triangular shape"
+    },
+    {
+      "type": "kanji",
+      "character": "３月",
+      "romaji": "さんがつ",
+      "meaning": "March"
+    },
+    {
+      "type": "kanji",
+      "character": "三権",
+      "romaji": "さんけん",
+      "meaning": "the three powers of government (legislative, executive and judicial)"
+    },
+    {
+      "type": "kanji",
+      "character": "３時",
+      "romaji": "さんじ",
+      "meaning": "3 o'clock"
+    },
+    {
+      "type": "kanji",
+      "character": "３次元",
+      "romaji": "さんじげん",
+      "meaning": "three dimensions; 3D"
+    },
+    {
+      "type": "kanji",
+      "character": "３０日",
+      "romaji": "さんじゅうにち",
+      "meaning": "30th day of the month"
+    },
+    {
+      "type": "kanji",
+      "character": "３８度線",
+      "romaji": "さんじゅうはちどせん",
+      "meaning": "38th parallel (that demarcates North Korea and South Korea)"
+    }
+  ]
+}

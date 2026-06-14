@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 65,
+  "title": "JLPT N2/N1 Kanji — Part 65",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "寸",
+      "romaji": "スン",
+      "meaning": "measurement; tenth of a shaku; a little"
+    },
+    {
+      "type": "kanji",
+      "character": "郭",
+      "romaji": "カク / くるわ",
+      "meaning": "enclosure; quarters; fortification"
+    },
+    {
+      "type": "kanji",
+      "character": "尿",
+      "romaji": "ニョウ / ゆばり・いばり・しと",
+      "meaning": "urine"
+    },
+    {
+      "type": "kanji",
+      "character": "凶",
+      "romaji": "キョウ",
+      "meaning": "villain; evil; bad luck"
+    },
+    {
+      "type": "kanji",
+      "character": "吐",
+      "romaji": "ト / は.く・つ.く",
+      "meaning": "spit; vomit; belch"
+    },
+    {
+      "type": "kanji",
+      "character": "宴",
+      "romaji": "エン / うたげ",
+      "meaning": "banquet; feast; party"
+    },
+    {
+      "type": "kanji",
+      "character": "鷹",
+      "romaji": "ヨウ・オウ / たか",
+      "meaning": "hawk"
+    },
+    {
+      "type": "kanji",
+      "character": "賓",
+      "romaji": "ヒン / まろうど・したがう",
+      "meaning": "V.I.P.; guest"
+    },
+    {
+      "type": "kanji",
+      "character": "虜",
+      "romaji": "リョ・ロ / とりこ・とりく",
+      "meaning": "captive; barbarian; low epithet for the enemy"
+    },
+    {
+      "type": "kanji",
+      "character": "陶",
+      "romaji": "トウ / すえ",
+      "meaning": "pottery; porcelain"
+    }
+  ]
+}

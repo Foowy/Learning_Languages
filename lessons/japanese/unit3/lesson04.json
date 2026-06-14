@@ -1,0 +1,67 @@
+{
+  "unit": 3,
+  "lesson": 4,
+  "title": "JLPT N5 Kanji — Part 4",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "金",
+      "romaji": "キン・コン・ゴン / かね・かな-・-がね",
+      "meaning": "gold"
+    },
+    {
+      "type": "kanji",
+      "character": "九",
+      "romaji": "キュウ・ク / ここの・ここの.つ",
+      "meaning": "nine"
+    },
+    {
+      "type": "kanji",
+      "character": "入",
+      "romaji": "ニュウ・ジュ / い.る・-い.る・-い.り・い.れる・-い.れ・はい.る",
+      "meaning": "enter; insert"
+    },
+    {
+      "type": "kanji",
+      "character": "立",
+      "romaji": "リツ・リュウ・リットル / た.つ・-た.つ・た.ち-・た.てる・-た.てる・た.て-・たて-・-た.て・-だ.て・-だ.てる",
+      "meaning": "stand up; rise; set up"
+    },
+    {
+      "type": "kanji",
+      "character": "手",
+      "romaji": "シュ・ズ / て・て-・-て・た-",
+      "meaning": "hand"
+    },
+    {
+      "type": "kanji",
+      "character": "学",
+      "romaji": "ガク / まな.ぶ",
+      "meaning": "study; learning; science"
+    },
+    {
+      "type": "kanji",
+      "character": "高",
+      "romaji": "コウ / たか.い・たか・-だか・たか.まる・たか.める",
+      "meaning": "tall; high; expensive"
+    },
+    {
+      "type": "kanji",
+      "character": "円",
+      "romaji": "エン / まる.い・まる・まど・まど.か・まろ.やか",
+      "meaning": "circle; yen; round"
+    },
+    {
+      "type": "kanji",
+      "character": "子",
+      "romaji": "シ・ス・ツ / こ・-こ・ね",
+      "meaning": "child; sign of the rat; 11PM-1AM"
+    },
+    {
+      "type": "kanji",
+      "character": "目",
+      "romaji": "モク・ボク / め・-め・ま-",
+      "meaning": "eye; class; look"
+    }
+  ]
+}

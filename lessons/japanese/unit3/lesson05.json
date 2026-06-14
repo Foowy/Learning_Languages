@@ -1,0 +1,67 @@
+{
+  "unit": 3,
+  "lesson": 5,
+  "title": "JLPT N5 Kanji — Part 5",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "外",
+      "romaji": "ガイ・ゲ / そと・ほか・はず.す・はず.れる・と-",
+      "meaning": "outside"
+    },
+    {
+      "type": "kanji",
+      "character": "言",
+      "romaji": "ゲン・ゴン / い.う・こと",
+      "meaning": "say; word"
+    },
+    {
+      "type": "kanji",
+      "character": "八",
+      "romaji": "ハチ・ハツ / や・や.つ・やっ.つ・よう",
+      "meaning": "eight; eight radical (no. 12)"
+    },
+    {
+      "type": "kanji",
+      "character": "六",
+      "romaji": "ロク・リク / む・む.つ・むっ.つ・むい",
+      "meaning": "six"
+    },
+    {
+      "type": "kanji",
+      "character": "下",
+      "romaji": "カ・ゲ / した・しも・もと・さ.げる・さ.がる・くだ.る・くだ.り・くだ.す・-くだ.す・くだ.さる・お.ろす・お.りる",
+      "meaning": "below; down; descend"
+    },
+    {
+      "type": "kanji",
+      "character": "来",
+      "romaji": "ライ・タイ / く.る・きた.る・きた.す・き.たす・き.たる・き・こ",
+      "meaning": "come; due; next"
+    },
+    {
+      "type": "kanji",
+      "character": "気",
+      "romaji": "キ・ケ / いき・き",
+      "meaning": "spirit; mind; air"
+    },
+    {
+      "type": "kanji",
+      "character": "小",
+      "romaji": "ショウ / ちい.さい・こ-・お-・さ-",
+      "meaning": "little; small"
+    },
+    {
+      "type": "kanji",
+      "character": "七",
+      "romaji": "シチ / なな・なな.つ・なの",
+      "meaning": "seven"
+    },
+    {
+      "type": "kanji",
+      "character": "山",
+      "romaji": "サン・セン / やま",
+      "meaning": "mountain"
+    }
+  ]
+}

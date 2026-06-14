@@ -1,0 +1,67 @@
+{
+  "unit": 101,
+  "lesson": 20,
+  "title": "Vocabulary — Frequency 18991–19000",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "夏季",
+      "romaji": "かき",
+      "meaning": "summer season; summer"
+    },
+    {
+      "type": "kanji",
+      "character": "書き換える",
+      "romaji": "かきかえる",
+      "meaning": "to rewrite; to overwrite"
+    },
+    {
+      "type": "kanji",
+      "character": "書き込み",
+      "romaji": "かきこみ",
+      "meaning": "writing"
+    },
+    {
+      "type": "kanji",
+      "character": "書き初め",
+      "romaji": "かきぞめ",
+      "meaning": "first calligraphy of the year"
+    },
+    {
+      "type": "kanji",
+      "character": "書留",
+      "romaji": "かきとめ",
+      "meaning": "registered mail; registered post"
+    },
+    {
+      "type": "kanji",
+      "character": "書き取り",
+      "romaji": "かきとり",
+      "meaning": "writing down from other written material; writing kanji text from hiragana"
+    },
+    {
+      "type": "kanji",
+      "character": "画一",
+      "romaji": "かくいつ",
+      "meaning": "uniformity; standardization"
+    },
+    {
+      "type": "kanji",
+      "character": "賭け",
+      "romaji": "かけ",
+      "meaning": "bet; wager"
+    },
+    {
+      "type": "kanji",
+      "character": "掛け金",
+      "romaji": "かけきん",
+      "meaning": "installment; instalment"
+    },
+    {
+      "type": "kanji",
+      "character": "掛け声",
+      "romaji": "かけごえ",
+      "meaning": "shout (of encouragement, etc.); yell (used to time or encourage activity, e.g. \"Heave ho!\")"
+    }
+  ]
+}

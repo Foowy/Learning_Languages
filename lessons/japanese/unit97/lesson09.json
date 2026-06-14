@@ -1,0 +1,67 @@
+{
+  "unit": 97,
+  "lesson": 9,
+  "title": "Vocabulary — Frequency 18081–18090",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "歴任",
+      "romaji": "れきにん",
+      "meaning": "successive jobs; consecutive jobs"
+    },
+    {
+      "type": "kanji",
+      "character": "歴訪",
+      "romaji": "れきほう",
+      "meaning": "round of calls; tour of visitation"
+    },
+    {
+      "type": "kanji",
+      "character": "列",
+      "romaji": "れつ",
+      "meaning": "row; line"
+    },
+    {
+      "type": "kanji",
+      "character": "列挙",
+      "romaji": "れっきょ",
+      "meaning": "enumeration; list"
+    },
+    {
+      "type": "kanji",
+      "character": "列国",
+      "romaji": "れっこく",
+      "meaning": "nations; states"
+    },
+    {
+      "type": "kanji",
+      "character": "列車",
+      "romaji": "れっしゃ",
+      "meaning": "train; railway train"
+    },
+    {
+      "type": "kanji",
+      "character": "列島",
+      "romaji": "れっとう",
+      "meaning": "archipelago; chain of islands"
+    },
+    {
+      "type": "kanji",
+      "character": "劣る",
+      "romaji": "おとる",
+      "meaning": "to be inferior to; to be less good at"
+    },
+    {
+      "type": "kanji",
+      "character": "劣悪",
+      "romaji": "れつあく",
+      "meaning": "poor (quality, conditions, etc.); bad"
+    },
+    {
+      "type": "kanji",
+      "character": "劣化",
+      "romaji": "れっか",
+      "meaning": "deterioration (in quality, performance, etc.); degradation"
+    }
+  ]
+}

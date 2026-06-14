@@ -1,0 +1,67 @@
+{
+  "unit": 24,
+  "lesson": 17,
+  "title": "Vocabulary — Frequency 3561–3570",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "Β",
+      "romaji": "ベータ",
+      "meaning": "beta"
+    },
+    {
+      "type": "kana",
+      "character": "ベートーヴェン",
+      "romaji": "ベートーヴェン",
+      "meaning": "Beethoven"
+    },
+    {
+      "type": "kana",
+      "character": "ベール",
+      "romaji": "ベール",
+      "meaning": "veil"
+    },
+    {
+      "type": "kana",
+      "character": "ベア",
+      "romaji": "ベア",
+      "meaning": "increase in basic salary"
+    },
+    {
+      "type": "kana",
+      "character": "ベアリング",
+      "romaji": "ベアリング",
+      "meaning": "bearing"
+    },
+    {
+      "type": "kana",
+      "character": "ベイルート",
+      "romaji": "ベイルート",
+      "meaning": "Beirut (Lebanon)"
+    },
+    {
+      "type": "kana",
+      "character": "ベオグラード",
+      "romaji": "ベオグラード",
+      "meaning": "Belgrade (Serbia)"
+    },
+    {
+      "type": "kana",
+      "character": "ベクター",
+      "romaji": "ベクター",
+      "meaning": "vector"
+    },
+    {
+      "type": "kana",
+      "character": "ベクトル",
+      "romaji": "ベクトル",
+      "meaning": "vector"
+    },
+    {
+      "type": "kana",
+      "character": "ベジタブル",
+      "romaji": "ベジタブル",
+      "meaning": "vegetable"
+    }
+  ]
+}

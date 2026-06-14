@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 43,
+  "title": "JLPT N2/N1 Kanji — Part 43",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "丈",
+      "romaji": "ジョウ / たけ・だけ",
+      "meaning": "length; ten shaku; measure"
+    },
+    {
+      "type": "kanji",
+      "character": "寛",
+      "romaji": "カン / くつろ.ぐ・ひろ.い・ゆる.やか",
+      "meaning": "tolerant; leniency; generosity"
+    },
+    {
+      "type": "kanji",
+      "character": "覆",
+      "romaji": "フク / おお.う・くつがえ.す・くつがえ.る",
+      "meaning": "capsize; cover; shade"
+    },
+    {
+      "type": "kanji",
+      "character": "胞",
+      "romaji": "ホウ",
+      "meaning": "placenta; sac; sheath"
+    },
+    {
+      "type": "kanji",
+      "character": "隔",
+      "romaji": "カク / へだ.てる・へだ.たる",
+      "meaning": "isolate; alternate; distance"
+    },
+    {
+      "type": "kanji",
+      "character": "浄",
+      "romaji": "ジョウ・セイ / きよ.める・きよ.い",
+      "meaning": "clean; purify; cleanse"
+    },
+    {
+      "type": "kanji",
+      "character": "没",
+      "romaji": "ボツ・モツ / おぼ.れる・しず.む・ない",
+      "meaning": "drown; sink; hide"
+    },
+    {
+      "type": "kanji",
+      "character": "暇",
+      "romaji": "カ / ひま・いとま",
+      "meaning": "spare time; rest; leisure"
+    },
+    {
+      "type": "kanji",
+      "character": "肺",
+      "romaji": "ハイ",
+      "meaning": "lungs"
+    },
+    {
+      "type": "kanji",
+      "character": "貞",
+      "romaji": "テイ・ジョウ / ただし.い・さだ",
+      "meaning": "upright; chastity; constancy"
+    }
+  ]
+}

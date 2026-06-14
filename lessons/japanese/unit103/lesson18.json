@@ -1,0 +1,67 @@
+{
+  "unit": 103,
+  "lesson": 18,
+  "title": "Vocabulary — Frequency 19371–19380",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "所々",
+      "romaji": "ところどころ",
+      "meaning": "here and there; in places"
+    },
+    {
+      "type": "kanji",
+      "character": "年寄り",
+      "romaji": "としより",
+      "meaning": "old person; elderly person"
+    },
+    {
+      "type": "kanji",
+      "character": "取っ手",
+      "romaji": "とって",
+      "meaning": "handle; grip"
+    },
+    {
+      "type": "kanji",
+      "character": "整う",
+      "romaji": "ととのう",
+      "meaning": "to be ready; to be prepared"
+    },
+    {
+      "type": "kanji",
+      "character": "届",
+      "romaji": "とどけ",
+      "meaning": "report; notification"
+    },
+    {
+      "type": "kanji",
+      "character": "留める",
+      "romaji": "とどめる",
+      "meaning": "to stop; to stay (e.g. the night)"
+    },
+    {
+      "type": "kanji",
+      "character": "隣り合う",
+      "romaji": "となりあう",
+      "meaning": "to adjoin each other; to sit side by side"
+    },
+    {
+      "type": "kanji",
+      "character": "飛び降りる",
+      "romaji": "とびおりる",
+      "meaning": "to jump down; to leap down"
+    },
+    {
+      "type": "kanji",
+      "character": "飛び切り",
+      "romaji": "とびきり",
+      "meaning": "best; extra-fine"
+    },
+    {
+      "type": "kanji",
+      "character": "飛び込み",
+      "romaji": "とびこみ",
+      "meaning": "jump; plunge"
+    }
+  ]
+}

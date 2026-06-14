@@ -1,0 +1,67 @@
+{
+  "unit": 50,
+  "lesson": 8,
+  "title": "Vocabulary — Frequency 8671–8680",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "行",
+      "romaji": "ぎょう",
+      "meaning": "line (of text); row"
+    },
+    {
+      "type": "kanji",
+      "character": "行き先",
+      "romaji": "いきさき",
+      "meaning": "destination"
+    },
+    {
+      "type": "kanji",
+      "character": "行き届く",
+      "romaji": "いきとどく",
+      "meaning": "to be scrupulous; to be attentive"
+    },
+    {
+      "type": "kanji",
+      "character": "行ったり来たり",
+      "romaji": "いったりきたり",
+      "meaning": "going to and fro; back and forth"
+    },
+    {
+      "type": "kanji",
+      "character": "行為",
+      "romaji": "こうい",
+      "meaning": "act; deed"
+    },
+    {
+      "type": "kanji",
+      "character": "行員",
+      "romaji": "こういん",
+      "meaning": "bank clerk"
+    },
+    {
+      "type": "kanji",
+      "character": "行革",
+      "romaji": "ぎょうかく",
+      "meaning": "administrative reform"
+    },
+    {
+      "type": "kanji",
+      "character": "行楽",
+      "romaji": "こうらく",
+      "meaning": "outing; excursion"
+    },
+    {
+      "type": "kanji",
+      "character": "行間",
+      "romaji": "ぎょうかん",
+      "meaning": "line-spacing in text; between the lines"
+    },
+    {
+      "type": "kanji",
+      "character": "行儀",
+      "romaji": "ぎょうぎ",
+      "meaning": "manners; behavior"
+    }
+  ]
+}

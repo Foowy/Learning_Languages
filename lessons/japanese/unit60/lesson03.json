@@ -1,0 +1,67 @@
+{
+  "unit": 60,
+  "lesson": 3,
+  "title": "Vocabulary — Frequency 10621–10630",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "宿る",
+      "romaji": "やどる",
+      "meaning": "to dwell (in); to exist (within)"
+    },
+    {
+      "type": "kanji",
+      "character": "宿屋",
+      "romaji": "やどや",
+      "meaning": "inn"
+    },
+    {
+      "type": "kanji",
+      "character": "宿舎",
+      "romaji": "しゅくしゃ",
+      "meaning": "lodging (house); accommodation"
+    },
+    {
+      "type": "kanji",
+      "character": "宿題",
+      "romaji": "しゅくだい",
+      "meaning": "homework; assignment"
+    },
+    {
+      "type": "kanji",
+      "character": "宿敵",
+      "romaji": "しゅくてき",
+      "meaning": "old enemy; longtime enemy"
+    },
+    {
+      "type": "kanji",
+      "character": "宿泊",
+      "romaji": "しゅくはく",
+      "meaning": "accommodation; lodging"
+    },
+    {
+      "type": "kanji",
+      "character": "宿命",
+      "romaji": "しゅくめい",
+      "meaning": "fate; destiny"
+    },
+    {
+      "type": "kanji",
+      "character": "淑やか",
+      "romaji": "しとやか",
+      "meaning": "graceful; ladylike"
+    },
+    {
+      "type": "kanji",
+      "character": "淑女",
+      "romaji": "しゅくじょ",
+      "meaning": "lady"
+    },
+    {
+      "type": "kanji",
+      "character": "淑徳",
+      "romaji": "しゅくとく",
+      "meaning": "womanly virtues"
+    }
+  ]
+}

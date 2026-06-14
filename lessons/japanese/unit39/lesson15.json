@@ -1,0 +1,67 @@
+{
+  "unit": 39,
+  "lesson": 15,
+  "title": "Vocabulary — Frequency 6541–6550",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "奇数",
+      "romaji": "きすう",
+      "meaning": "odd number"
+    },
+    {
+      "type": "kanji",
+      "character": "奇抜",
+      "romaji": "きばつ",
+      "meaning": "(very) unusual; unconventional"
+    },
+    {
+      "type": "kanji",
+      "character": "奇病",
+      "romaji": "きびょう",
+      "meaning": "strange disease; rare disease"
+    },
+    {
+      "type": "kanji",
+      "character": "奇妙",
+      "romaji": "きみょう",
+      "meaning": "strange; odd"
+    },
+    {
+      "type": "kanji",
+      "character": "嬉しい",
+      "romaji": "うれしい",
+      "meaning": "happy; glad"
+    },
+    {
+      "type": "kanji",
+      "character": "寄せ",
+      "romaji": "よせ",
+      "meaning": "yose; end game"
+    },
+    {
+      "type": "kanji",
+      "character": "寄せる",
+      "romaji": "よせる",
+      "meaning": "to come near; to let someone approach"
+    },
+    {
+      "type": "kanji",
+      "character": "寄せ集め",
+      "romaji": "よせあつめ",
+      "meaning": "mishmash; miscellany"
+    },
+    {
+      "type": "kanji",
+      "character": "寄り集まる",
+      "romaji": "よりあつまる",
+      "meaning": "to gather together"
+    },
+    {
+      "type": "kanji",
+      "character": "寄り道",
+      "romaji": "よりみち",
+      "meaning": "dropping in on the way; stopping off at"
+    }
+  ]
+}

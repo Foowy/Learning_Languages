@@ -1,0 +1,67 @@
+{
+  "unit": 1,
+  "lesson": 4,
+  "title": "HSK 1 Vocabulary — Part 4",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "高兴",
+      "romaji": "gāo xìng",
+      "meaning": "happy; glad; willing (to do sth); in a cheerful mood"
+    },
+    {
+      "type": "hanzi",
+      "character": "个",
+      "romaji": "gè",
+      "meaning": "variant of 個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "工作",
+      "romaji": "gōng zuò",
+      "meaning": "to work; (of a machine) to operate; job; work; task; CL:個|个; 份; 項|项[xiàng]"
+    },
+    {
+      "type": "hanzi",
+      "character": "狗",
+      "romaji": "gǒu",
+      "meaning": "dog; CL:隻|只; 條|条[tiáo]"
+    },
+    {
+      "type": "hanzi",
+      "character": "汉语",
+      "romaji": "Hàn yǔ",
+      "meaning": "Chinese language; CL:門|门[mén]"
+    },
+    {
+      "type": "hanzi",
+      "character": "好",
+      "romaji": "hǎo",
+      "meaning": "good; well; proper; good to; easy to; very; so; (suffix indicating completion or readiness)"
+    },
+    {
+      "type": "hanzi",
+      "character": "喝",
+      "romaji": "hē",
+      "meaning": "to drink; My goodness!"
+    },
+    {
+      "type": "hanzi",
+      "character": "和",
+      "romaji": "hé",
+      "meaning": "and; together with; with; sum; union; peace; harmony; Japanese related; Taiwan pr. [hàn]"
+    },
+    {
+      "type": "hanzi",
+      "character": "很",
+      "romaji": "hěn",
+      "meaning": "(adverb of degree); quite; very; awfully"
+    },
+    {
+      "type": "hanzi",
+      "character": "后面",
+      "romaji": "hòu mian",
+      "meaning": "rear; back; behind; later; afterwards"
+    }
+  ]
+}

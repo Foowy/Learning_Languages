@@ -1,0 +1,67 @@
+{
+  "unit": 15,
+  "lesson": 4,
+  "title": "Vocabulary — Frequency 1631–1640",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "サンプル",
+      "romaji": "サンプル",
+      "meaning": "sample; example"
+    },
+    {
+      "type": "kana",
+      "character": "サンボ",
+      "romaji": "サンボ",
+      "meaning": "sambo (martial art)"
+    },
+    {
+      "type": "kana",
+      "character": "サンルーフ",
+      "romaji": "サンルーフ",
+      "meaning": "sunroof"
+    },
+    {
+      "type": "kanji",
+      "character": "蝲蛄",
+      "romaji": "ザリガニ",
+      "meaning": "crayfish (esp. the Japanese crayfish or red swamp crayfish); crawfish"
+    },
+    {
+      "type": "kana",
+      "character": "ザンビア",
+      "romaji": "ザンビア",
+      "meaning": "Zambia"
+    },
+    {
+      "type": "kanji",
+      "character": "シーア派",
+      "romaji": "シーアは",
+      "meaning": "Shia (Islam)"
+    },
+    {
+      "type": "kanji",
+      "character": "ＣＭ",
+      "romaji": "シー・エム",
+      "meaning": "commercial (on radio, TV, etc.); advertisement"
+    },
+    {
+      "type": "kana",
+      "character": "シーク",
+      "romaji": "シーク",
+      "meaning": "seek"
+    },
+    {
+      "type": "kana",
+      "character": "シークレット",
+      "romaji": "シークレット",
+      "meaning": "secret"
+    },
+    {
+      "type": "kana",
+      "character": "シークレットサービス",
+      "romaji": "シークレットサービス",
+      "meaning": "secret service (intelligence agency)"
+    }
+  ]
+}

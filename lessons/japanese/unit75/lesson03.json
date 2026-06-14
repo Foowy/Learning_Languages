@@ -1,0 +1,67 @@
+{
+  "unit": 75,
+  "lesson": 3,
+  "title": "Vocabulary — Frequency 13621–13630",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "茶道",
+      "romaji": "さどう",
+      "meaning": "tea ceremony; Way of Tea"
+    },
+    {
+      "type": "kanji",
+      "character": "嫡子",
+      "romaji": "ちゃくし",
+      "meaning": "heir"
+    },
+    {
+      "type": "kanji",
+      "character": "着く",
+      "romaji": "つく",
+      "meaning": "to arrive at; to reach"
+    },
+    {
+      "type": "kanji",
+      "character": "着せる",
+      "romaji": "きせる",
+      "meaning": "to put clothes on (someone); to dress"
+    },
+    {
+      "type": "kanji",
+      "character": "着る",
+      "romaji": "きる",
+      "meaning": "to wear (from the shoulders down); to put on"
+    },
+    {
+      "type": "kanji",
+      "character": "着衣",
+      "romaji": "ちゃくい",
+      "meaning": "clothes (that one is wearing)"
+    },
+    {
+      "type": "kanji",
+      "character": "着工",
+      "romaji": "ちゃっこう",
+      "meaning": "starting (construction) work"
+    },
+    {
+      "type": "kanji",
+      "character": "着実",
+      "romaji": "ちゃくじつ",
+      "meaning": "steady; sound"
+    },
+    {
+      "type": "kanji",
+      "character": "着手",
+      "romaji": "ちゃくしゅ",
+      "meaning": "starting work (on); setting to work (on)"
+    },
+    {
+      "type": "kanji",
+      "character": "着飾る",
+      "romaji": "きかざる",
+      "meaning": "to dress up"
+    }
+  ]
+}

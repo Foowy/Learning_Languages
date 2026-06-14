@@ -1,0 +1,67 @@
+{
+  "unit": 19,
+  "lesson": 14,
+  "title": "Vocabulary — Frequency 2531–2540",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "トランプ",
+      "romaji": "トランプ",
+      "meaning": "(Western) playing cards"
+    },
+    {
+      "type": "kana",
+      "character": "トランペット",
+      "romaji": "トランペット",
+      "meaning": "trumpet"
+    },
+    {
+      "type": "kana",
+      "character": "トリートメント",
+      "romaji": "トリートメント",
+      "meaning": "treatment (esp. hair treatment)"
+    },
+    {
+      "type": "kana",
+      "character": "トリウム",
+      "romaji": "トリウム",
+      "meaning": "thorium (Th)"
+    },
+    {
+      "type": "kana",
+      "character": "トリオ",
+      "romaji": "トリオ",
+      "meaning": "trio"
+    },
+    {
+      "type": "kana",
+      "character": "トリガー",
+      "romaji": "トリガー",
+      "meaning": "trigger"
+    },
+    {
+      "type": "kana",
+      "character": "トリクロロエチレン",
+      "romaji": "トリクロロエチレン",
+      "meaning": "trichloroethylene"
+    },
+    {
+      "type": "kana",
+      "character": "トリック",
+      "romaji": "トリック",
+      "meaning": "trick"
+    },
+    {
+      "type": "kana",
+      "character": "トリップ",
+      "romaji": "トリップ",
+      "meaning": "trip; excursion"
+    },
+    {
+      "type": "kana",
+      "character": "トリニトロトルエン",
+      "romaji": "トリニトロトルエン",
+      "meaning": "trinitrotoluene; TNT"
+    }
+  ]
+}

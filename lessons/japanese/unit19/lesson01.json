@@ -1,0 +1,67 @@
+{
+  "unit": 19,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 2401–2410",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "テンション",
+      "romaji": "テンション",
+      "meaning": "spirits; excitement"
+    },
+    {
+      "type": "kana",
+      "character": "テント",
+      "romaji": "テント",
+      "meaning": "tent"
+    },
+    {
+      "type": "kana",
+      "character": "テンペラ",
+      "romaji": "テンペラ",
+      "meaning": "tempera"
+    },
+    {
+      "type": "kana",
+      "character": "テンポ",
+      "romaji": "テンポ",
+      "meaning": "tempo"
+    },
+    {
+      "type": "kana",
+      "character": "テンポラリー",
+      "romaji": "テンポラリー",
+      "meaning": "temporary"
+    },
+    {
+      "type": "kana",
+      "character": "デーゲーム",
+      "romaji": "デーゲーム",
+      "meaning": "day game"
+    },
+    {
+      "type": "kana",
+      "character": "データ",
+      "romaji": "データ",
+      "meaning": "data; datum"
+    },
+    {
+      "type": "kana",
+      "character": "データバンク",
+      "romaji": "データバンク",
+      "meaning": "data bank; databank"
+    },
+    {
+      "type": "kana",
+      "character": "データベース",
+      "romaji": "データベース",
+      "meaning": "database"
+    },
+    {
+      "type": "kanji",
+      "character": "データ通信",
+      "romaji": "データつうしん",
+      "meaning": "data communication"
+    }
+  ]
+}

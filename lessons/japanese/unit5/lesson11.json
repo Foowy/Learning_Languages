@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 11,
+  "title": "JLPT N3 Kanji — Part 11",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "打",
+      "romaji": "ダ・ダース / う.つ・う.ち-・ぶ.つ",
+      "meaning": "strike; hit; knock"
+    },
+    {
+      "type": "kanji",
+      "character": "基",
+      "romaji": "キ / もと・もとい",
+      "meaning": "fundamentals; radical (chem); counter for machines"
+    },
+    {
+      "type": "kanji",
+      "character": "各",
+      "romaji": "カク / おのおの",
+      "meaning": "each; every; either"
+    },
+    {
+      "type": "kanji",
+      "character": "島",
+      "romaji": "トウ / しま",
+      "meaning": "island"
+    },
+    {
+      "type": "kanji",
+      "character": "直",
+      "romaji": "チョク・ジキ・ジカ / ただ.ちに・なお.す・-なお.す・なお.る・なお.き・す.ぐ",
+      "meaning": "straightaway; honesty; frankness"
+    },
+    {
+      "type": "kanji",
+      "character": "両",
+      "romaji": "リョウ / てる・ふたつ",
+      "meaning": "both; old Japanese coin; counter for carriages (e.g., in a train)"
+    },
+    {
+      "type": "kanji",
+      "character": "革",
+      "romaji": "カク / かわ",
+      "meaning": "leather; skin; reform"
+    },
+    {
+      "type": "kanji",
+      "character": "価",
+      "romaji": "カ・ケ / あたい",
+      "meaning": "value; price"
+    },
+    {
+      "type": "kanji",
+      "character": "式",
+      "romaji": "シキ",
+      "meaning": "style; ceremony; rite"
+    },
+    {
+      "type": "kanji",
+      "character": "確",
+      "romaji": "カク・コウ / たし.か・たし.かめる",
+      "meaning": "assurance; firm; tight"
+    }
+  ]
+}

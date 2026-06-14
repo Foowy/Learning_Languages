@@ -1,0 +1,67 @@
+{
+  "unit": 50,
+  "lesson": 7,
+  "title": "Vocabulary — Frequency 8661–8670",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "航行",
+      "romaji": "こうこう",
+      "meaning": "cruise; navigation"
+    },
+    {
+      "type": "kanji",
+      "character": "航法",
+      "romaji": "こうほう",
+      "meaning": "sailing; navigation"
+    },
+    {
+      "type": "kanji",
+      "character": "航路",
+      "romaji": "こうろ",
+      "meaning": "(air or sea) route; course"
+    },
+    {
+      "type": "kanji",
+      "character": "荒い",
+      "romaji": "あらい",
+      "meaning": "rough; wild"
+    },
+    {
+      "type": "kanji",
+      "character": "荒っぽい",
+      "romaji": "あらっぽい",
+      "meaning": "wild; violent"
+    },
+    {
+      "type": "kanji",
+      "character": "荒らす",
+      "romaji": "あらす",
+      "meaning": "to lay waste; to devastate"
+    },
+    {
+      "type": "kanji",
+      "character": "荒れる",
+      "romaji": "あれる",
+      "meaning": "to become stormy; to become rough (of the sea)"
+    },
+    {
+      "type": "kanji",
+      "character": "荒波",
+      "romaji": "あらなみ",
+      "meaning": "raging waves; stormy seas"
+    },
+    {
+      "type": "kanji",
+      "character": "荒廃",
+      "romaji": "こうはい",
+      "meaning": "ruin; destruction"
+    },
+    {
+      "type": "kanji",
+      "character": "荒木",
+      "romaji": "あらき",
+      "meaning": "logs in bark; rough wood"
+    }
+  ]
+}

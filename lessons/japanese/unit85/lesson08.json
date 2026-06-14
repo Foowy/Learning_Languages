@@ -1,0 +1,67 @@
+{
+  "unit": 85,
+  "lesson": 8,
+  "title": "Vocabulary — Frequency 15671–15680",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "非礼",
+      "romaji": "ひれい",
+      "meaning": "impoliteness"
+    },
+    {
+      "type": "kanji",
+      "character": "飛ばす",
+      "romaji": "とばす",
+      "meaning": "to let fly; to make fly"
+    },
+    {
+      "type": "kanji",
+      "character": "飛び交う",
+      "romaji": "とびかう",
+      "meaning": "to fly about; to flutter about"
+    },
+    {
+      "type": "kanji",
+      "character": "飛び出す",
+      "romaji": "とびだす",
+      "meaning": "to jump out; to leap out"
+    },
+    {
+      "type": "kanji",
+      "character": "飛行",
+      "romaji": "ひこう",
+      "meaning": "flight; flying"
+    },
+    {
+      "type": "kanji",
+      "character": "飛行機",
+      "romaji": "ひこうき",
+      "meaning": "airplane; aeroplane"
+    },
+    {
+      "type": "kanji",
+      "character": "飛行士",
+      "romaji": "ひこうし",
+      "meaning": "pilot"
+    },
+    {
+      "type": "kanji",
+      "character": "飛行場",
+      "romaji": "ひこうじょう",
+      "meaning": "airfield; airport"
+    },
+    {
+      "type": "kanji",
+      "character": "飛行船",
+      "romaji": "ひこうせん",
+      "meaning": "airship; blimp"
+    },
+    {
+      "type": "kanji",
+      "character": "飛躍",
+      "romaji": "ひやく",
+      "meaning": "leap; jump"
+    }
+  ]
+}

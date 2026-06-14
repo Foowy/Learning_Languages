@@ -1,0 +1,67 @@
+{
+  "unit": 89,
+  "lesson": 7,
+  "title": "Vocabulary — Frequency 16461–16470",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "勉学",
+      "romaji": "べんがく",
+      "meaning": "study; pursuit of knowledge"
+    },
+    {
+      "type": "kanji",
+      "character": "勉強",
+      "romaji": "べんきょう",
+      "meaning": "study"
+    },
+    {
+      "type": "kanji",
+      "character": "勉強中",
+      "romaji": "べんきょうちゅう",
+      "meaning": "while studying; presently studying"
+    },
+    {
+      "type": "kanji",
+      "character": "弁",
+      "romaji": "べん",
+      "meaning": "speech; tongue"
+    },
+    {
+      "type": "kanji",
+      "character": "弁える",
+      "romaji": "わきまえる",
+      "meaning": "to discern (e.g. right from wrong); to discriminate"
+    },
+    {
+      "type": "kanji",
+      "character": "弁解",
+      "romaji": "べんかい",
+      "meaning": "explanation (e.g. for one's actions); excuse"
+    },
+    {
+      "type": "kanji",
+      "character": "弁慶",
+      "romaji": "べんけい",
+      "meaning": "strong person; person putting on a brave front"
+    },
+    {
+      "type": "kanji",
+      "character": "弁護",
+      "romaji": "べんご",
+      "meaning": "defense; defence"
+    },
+    {
+      "type": "kanji",
+      "character": "弁護士",
+      "romaji": "べんごし",
+      "meaning": "lawyer; attorney"
+    },
+    {
+      "type": "kanji",
+      "character": "弁護人",
+      "romaji": "べんごにん",
+      "meaning": "counsel; defender"
+    }
+  ]
+}

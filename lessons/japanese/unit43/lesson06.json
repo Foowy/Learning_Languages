@@ -1,0 +1,67 @@
+{
+  "unit": 43,
+  "lesson": 6,
+  "title": "Vocabulary — Frequency 7251–7260",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "曲折",
+      "romaji": "きょくせつ",
+      "meaning": "bending; winding"
+    },
+    {
+      "type": "kanji",
+      "character": "曲線",
+      "romaji": "きょくせん",
+      "meaning": "curve"
+    },
+    {
+      "type": "kanji",
+      "character": "曲目",
+      "romaji": "きょくもく",
+      "meaning": "name of a piece of music; (musical) number"
+    },
+    {
+      "type": "kanji",
+      "character": "極",
+      "romaji": "ごく",
+      "meaning": "quite; very"
+    },
+    {
+      "type": "kanji",
+      "character": "極み",
+      "romaji": "きわみ",
+      "meaning": "height; acme"
+    },
+    {
+      "type": "kanji",
+      "character": "極めて",
+      "romaji": "きわめて",
+      "meaning": "exceedingly; extremely"
+    },
+    {
+      "type": "kanji",
+      "character": "極右",
+      "romaji": "きょくう",
+      "meaning": "far right (in politics); extreme right"
+    },
+    {
+      "type": "kanji",
+      "character": "極楽",
+      "romaji": "ごくらく",
+      "meaning": "Sukhavati (Amitabha's Pure Land)"
+    },
+    {
+      "type": "kanji",
+      "character": "極寒",
+      "romaji": "ごっかん",
+      "meaning": "extreme cold; intense cold"
+    },
+    {
+      "type": "kanji",
+      "character": "極限",
+      "romaji": "きょくげん",
+      "meaning": "utmost limits; extremity"
+    }
+  ]
+}

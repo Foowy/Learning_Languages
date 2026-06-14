@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 31,
+  "title": "JLPT N3 Kanji — Part 31",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "号",
+      "romaji": "ゴウ / さけ.ぶ・よびな",
+      "meaning": "nickname; number; item"
+    },
+    {
+      "type": "kanji",
+      "character": "単",
+      "romaji": "タン / ひとえ",
+      "meaning": "simple; one; single"
+    },
+    {
+      "type": "kanji",
+      "character": "座",
+      "romaji": "ザ / すわ.る",
+      "meaning": "squat; seat; cushion"
+    },
+    {
+      "type": "kanji",
+      "character": "破",
+      "romaji": "ハ / やぶ.る・やぶ.れる・わ.れる",
+      "meaning": "rend; rip; tear"
+    },
+    {
+      "type": "kanji",
+      "character": "編",
+      "romaji": "ヘン / あ.む・-あ.み",
+      "meaning": "compilation; knit; plait"
+    },
+    {
+      "type": "kanji",
+      "character": "捜",
+      "romaji": "ソウ・シュ・シュウ / さが.す",
+      "meaning": "search; look for; locate"
+    },
+    {
+      "type": "kanji",
+      "character": "竹",
+      "romaji": "チク / たけ",
+      "meaning": "bamboo"
+    },
+    {
+      "type": "kanji",
+      "character": "除",
+      "romaji": "ジョ・ジ / のぞ.く・-よ.け",
+      "meaning": "exclude; division (x/3); remove"
+    },
+    {
+      "type": "kanji",
+      "character": "完",
+      "romaji": "カン",
+      "meaning": "perfect; completion; end"
+    },
+    {
+      "type": "kanji",
+      "character": "降",
+      "romaji": "コウ・ゴ / お.りる・お.ろす・ふ.る・ふ.り・くだ.る・くだ.す",
+      "meaning": "descend; precipitate; fall"
+    }
+  ]
+}

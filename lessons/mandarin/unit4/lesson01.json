@@ -1,0 +1,67 @@
+{
+  "unit": 4,
+  "lesson": 1,
+  "title": "HSK 4 Vocabulary — Part 1",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "爱情",
+      "romaji": "ài qíng",
+      "meaning": "romance; love (romantic); CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "安排",
+      "romaji": "ān pái",
+      "meaning": "to arrange; to plan; to set up"
+    },
+    {
+      "type": "hanzi",
+      "character": "安全",
+      "romaji": "ān quán",
+      "meaning": "safe; secure; safety; security"
+    },
+    {
+      "type": "hanzi",
+      "character": "暗",
+      "romaji": "àn",
+      "meaning": "to close (a door); to eclipse; muddled; stupid; ignorant; variant of 暗[àn]"
+    },
+    {
+      "type": "hanzi",
+      "character": "按时",
+      "romaji": "àn shí",
+      "meaning": "on time; before deadline; on schedule"
+    },
+    {
+      "type": "hanzi",
+      "character": "按照",
+      "romaji": "àn zhào",
+      "meaning": "according to; in accordance with; in the light of; on the basis of"
+    },
+    {
+      "type": "hanzi",
+      "character": "包括",
+      "romaji": "bāo kuò",
+      "meaning": "to comprise; to include; to involve; to incorporate; to consist of"
+    },
+    {
+      "type": "hanzi",
+      "character": "保护",
+      "romaji": "bǎo hù",
+      "meaning": "to protect; to defend; to safeguard; protection; CL:種|种[zhǒng]"
+    },
+    {
+      "type": "hanzi",
+      "character": "保证",
+      "romaji": "bǎo zhèng",
+      "meaning": "guarantee; to guarantee; to ensure; to safeguard; to pledge; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "抱",
+      "romaji": "bào",
+      "meaning": "to hold; to carry (in one's arms); to hug or embrace; surround; cherish"
+    }
+  ]
+}

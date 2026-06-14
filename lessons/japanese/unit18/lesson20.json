@@ -1,0 +1,67 @@
+{
+  "unit": 18,
+  "lesson": 20,
+  "title": "Vocabulary — Frequency 2391–2400",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "ＴＶゲーム",
+      "romaji": "テレビゲーム",
+      "meaning": "video game (played on a home console)"
+    },
+    {
+      "type": "kana",
+      "character": "テレビジョン",
+      "romaji": "テレビジョン",
+      "meaning": "television"
+    },
+    {
+      "type": "kanji",
+      "character": "テレビ局",
+      "romaji": "テレビきょく",
+      "meaning": "television station"
+    },
+    {
+      "type": "kana",
+      "character": "テレホン",
+      "romaji": "テレホン",
+      "meaning": "telephone"
+    },
+    {
+      "type": "kana",
+      "character": "テレメーター",
+      "romaji": "テレメーター",
+      "meaning": "telemeter"
+    },
+    {
+      "type": "kana",
+      "character": "テロ",
+      "romaji": "テロ",
+      "meaning": "terror; terrorism"
+    },
+    {
+      "type": "kana",
+      "character": "テロップ",
+      "romaji": "テロップ",
+      "meaning": "device used to superimpose text or images on a television screen"
+    },
+    {
+      "type": "kana",
+      "character": "テロリスト",
+      "romaji": "テロリスト",
+      "meaning": "terrorist"
+    },
+    {
+      "type": "kana",
+      "character": "テロリズム",
+      "romaji": "テロリズム",
+      "meaning": "terrorism"
+    },
+    {
+      "type": "kana",
+      "character": "テン",
+      "romaji": "テン",
+      "meaning": "10; ten"
+    }
+  ]
+}

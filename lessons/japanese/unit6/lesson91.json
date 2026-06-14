@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 91,
+  "title": "JLPT N2/N1 Kanji — Part 91",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "禍",
+      "romaji": "カ / わざわい",
+      "meaning": "calamity; misfortune; evil"
+    },
+    {
+      "type": "kanji",
+      "character": "蝶",
+      "romaji": "チョウ",
+      "meaning": "butterfly"
+    },
+    {
+      "type": "kanji",
+      "character": "酪",
+      "romaji": "ラク",
+      "meaning": "dairy products; whey; broth"
+    },
+    {
+      "type": "kanji",
+      "character": "茎",
+      "romaji": "ケイ・キョウ / くき",
+      "meaning": "stalk; stem"
+    },
+    {
+      "type": "kanji",
+      "character": "帥",
+      "romaji": "スイ",
+      "meaning": "commander; leading troops; governor"
+    },
+    {
+      "type": "kanji",
+      "character": "逝",
+      "romaji": "セイ / ゆ.く・い.く",
+      "meaning": "departed; die"
+    },
+    {
+      "type": "kanji",
+      "character": "汽",
+      "romaji": "キ",
+      "meaning": "vapor; steam"
+    },
+    {
+      "type": "kanji",
+      "character": "琢",
+      "romaji": "タク / みが.く",
+      "meaning": "polish"
+    },
+    {
+      "type": "kanji",
+      "character": "匿",
+      "romaji": "トク / かくま.う",
+      "meaning": "hide; shelter; shield"
+    },
+    {
+      "type": "kanji",
+      "character": "襟",
+      "romaji": "キン / えり",
+      "meaning": "collar; neck; lapel"
+    }
+  ]
+}

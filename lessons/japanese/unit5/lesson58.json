@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 58,
+  "title": "JLPT N3 Kanji — Part 58",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "皮",
+      "romaji": "ヒ / かわ",
+      "meaning": "pelt; skin; hide"
+    },
+    {
+      "type": "kanji",
+      "character": "漁",
+      "romaji": "ギョ・リョウ / あさ.る",
+      "meaning": "fishing; fishery"
+    },
+    {
+      "type": "kanji",
+      "character": "荒",
+      "romaji": "コウ / あ.らす・あ.れる・あら.い・すさ.ぶ・すさ.む・あ.らし",
+      "meaning": "laid waste; rough; rude"
+    },
+    {
+      "type": "kanji",
+      "character": "貯",
+      "romaji": "チョ / た.める・たくわ.える",
+      "meaning": "savings; store; lay in"
+    },
+    {
+      "type": "kanji",
+      "character": "硬",
+      "romaji": "コウ / かた.い",
+      "meaning": "stiff; hard"
+    },
+    {
+      "type": "kanji",
+      "character": "歯",
+      "romaji": "シ / よわい・は・よわ.い・よわい.する",
+      "meaning": "tooth; cog"
+    },
+    {
+      "type": "kanji",
+      "character": "埋",
+      "romaji": "マイ / う.める・う.まる・う.もれる・うず.める・うず.まる・い.ける",
+      "meaning": "bury; be filled up; embedded"
+    },
+    {
+      "type": "kanji",
+      "character": "柱",
+      "romaji": "チュウ / はしら",
+      "meaning": "pillar; post; cylinder"
+    },
+    {
+      "type": "kanji",
+      "character": "祭",
+      "romaji": "サイ / まつ.る・まつ.り・まつり",
+      "meaning": "ritual; offer prayers; celebrate"
+    },
+    {
+      "type": "kanji",
+      "character": "袋",
+      "romaji": "タイ・ダイ / ふくろ",
+      "meaning": "sack; bag; pouch"
+    }
+  ]
+}

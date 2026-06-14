@@ -1,0 +1,67 @@
+{
+  "unit": 1,
+  "lesson": 5,
+  "title": "HSK 1 Vocabulary — Part 5",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "回",
+      "romaji": "huí",
+      "meaning": "to curve; to return; to revolve"
+    },
+    {
+      "type": "hanzi",
+      "character": "会",
+      "romaji": "huì",
+      "meaning": "can; be possible; be able to; will; be likely to; be sure to; to assemble; to meet; to gather; to see; union; group; association; CL:個|个[gè]; a moment (Taiwan pr. for this sense is )"
+    },
+    {
+      "type": "hanzi",
+      "character": "火车站",
+      "romaji": "huǒ chē zhàn",
+      "meaning": "train station"
+    },
+    {
+      "type": "hanzi",
+      "character": "几",
+      "romaji": "jǐ",
+      "meaning": "how much; how many; several; a few"
+    },
+    {
+      "type": "hanzi",
+      "character": "家",
+      "romaji": "jiā",
+      "meaning": "home; family; classifier for families or businesses; refers to the philosophical schools of pre-Han China; noun suffix for specialists in some activity such as musician or revolutionary; corresponds to English -ist; -er; -ary or -ian; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "叫",
+      "romaji": "jiào",
+      "meaning": "to shout; to call; to order; to ask; to be called; by (indicates agent in the passive mood)"
+    },
+    {
+      "type": "hanzi",
+      "character": "今天",
+      "romaji": "jīn tiān",
+      "meaning": "today; at the present; now"
+    },
+    {
+      "type": "hanzi",
+      "character": "九",
+      "romaji": "jiǔ",
+      "meaning": "nine; 9"
+    },
+    {
+      "type": "hanzi",
+      "character": "开",
+      "romaji": "kāi",
+      "meaning": "to open; to start; to turn on; to boil; to write out (a medical prescription); to operate (vehicle); abbr. for 開爾文|开尔文 degrees Kelvin"
+    },
+    {
+      "type": "hanzi",
+      "character": "看",
+      "romaji": "kàn",
+      "meaning": "to see; to look at; to read; to watch; to consider; to regard as; to view as; to treat as; to judge; (after repeated verb) to give it a try; depending on (how you're judging); to visit; to call on; to treat (an illness); to look after; Watch out! (for a danger)"
+    }
+  ]
+}

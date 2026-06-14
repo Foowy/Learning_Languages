@@ -1,0 +1,67 @@
+{
+  "unit": 100,
+  "lesson": 2,
+  "title": "Vocabulary — Frequency 18611–18620",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "早急",
+      "romaji": "そうきゅう",
+      "meaning": "immediate; prompt"
+    },
+    {
+      "type": "kanji",
+      "character": "草木",
+      "romaji": "くさき",
+      "meaning": "plants; vegetation"
+    },
+    {
+      "type": "kanji",
+      "character": "側",
+      "romaji": "がわ",
+      "meaning": "side (of something, or taking someone's side); part"
+    },
+    {
+      "type": "kanji",
+      "character": "束ねる",
+      "romaji": "たばねる",
+      "meaning": "to tie up in a bundle (e.g. straw, hair, bills, letters); to bundle"
+    },
+    {
+      "type": "kanji",
+      "character": "足跡",
+      "romaji": "あしあと",
+      "meaning": "footprints"
+    },
+    {
+      "type": "kanji",
+      "character": "他人",
+      "romaji": "たにん",
+      "meaning": "another person; other people"
+    },
+    {
+      "type": "kanji",
+      "character": "他薦",
+      "romaji": "たせん",
+      "meaning": "recommendation (by others)"
+    },
+    {
+      "type": "kanji",
+      "character": "打ち込む",
+      "romaji": "うちこむ",
+      "meaning": "to drive in (a nail, stake, etc.); to hammer in"
+    },
+    {
+      "type": "kanji",
+      "character": "代替",
+      "romaji": "だいたい",
+      "meaning": "substitution"
+    },
+    {
+      "type": "kanji",
+      "character": "大河",
+      "romaji": "たいが",
+      "meaning": "large river"
+    }
+  ]
+}

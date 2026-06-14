@@ -1,0 +1,67 @@
+{
+  "unit": 35,
+  "lesson": 20,
+  "title": "Vocabulary — Frequency 5791–5800",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "回数券",
+      "romaji": "かいすうけん",
+      "meaning": "coupon tickets; discount tickets"
+    },
+    {
+      "type": "kanji",
+      "character": "回生",
+      "romaji": "かいせい",
+      "meaning": "resurrection; resuscitation"
+    },
+    {
+      "type": "kanji",
+      "character": "回線",
+      "romaji": "かいせん",
+      "meaning": "circuit; line"
+    },
+    {
+      "type": "kanji",
+      "character": "回想",
+      "romaji": "かいそう",
+      "meaning": "recollection; retrospection"
+    },
+    {
+      "type": "kanji",
+      "character": "回送",
+      "romaji": "かいそう",
+      "meaning": "forwarding; sending on"
+    },
+    {
+      "type": "kanji",
+      "character": "回転",
+      "romaji": "かいてん",
+      "meaning": "rotation; revolution"
+    },
+    {
+      "type": "kanji",
+      "character": "回答",
+      "romaji": "かいとう",
+      "meaning": "reply; answer"
+    },
+    {
+      "type": "kanji",
+      "character": "回避",
+      "romaji": "かいひ",
+      "meaning": "evasion; avoidance"
+    },
+    {
+      "type": "kanji",
+      "character": "回復",
+      "romaji": "かいふく",
+      "meaning": "restoration; recovery"
+    },
+    {
+      "type": "kanji",
+      "character": "回目",
+      "romaji": "かいめ",
+      "meaning": "nth time"
+    }
+  ]
+}

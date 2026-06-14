@@ -1,0 +1,67 @@
+{
+  "unit": 11,
+  "lesson": 2,
+  "title": "Vocabulary — Frequency 811–820",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "エントリー",
+      "romaji": "エントリー",
+      "meaning": "entry (in an event, competition, etc.); applying for entry"
+    },
+    {
+      "type": "kana",
+      "character": "エンド",
+      "romaji": "エンド",
+      "meaning": "end; ending"
+    },
+    {
+      "type": "kana",
+      "character": "エンドレス",
+      "romaji": "エンドレス",
+      "meaning": "endless"
+    },
+    {
+      "type": "kana",
+      "character": "エンブレム",
+      "romaji": "エンブレム",
+      "meaning": "emblem"
+    },
+    {
+      "type": "kana",
+      "character": "オーク",
+      "romaji": "オーク",
+      "meaning": "oak"
+    },
+    {
+      "type": "kana",
+      "character": "オークション",
+      "romaji": "オークション",
+      "meaning": "auction"
+    },
+    {
+      "type": "kana",
+      "character": "オークス",
+      "romaji": "オークス",
+      "meaning": "oaks"
+    },
+    {
+      "type": "kanji",
+      "character": "ＯＫ",
+      "romaji": "オッケー",
+      "meaning": "OK; okay"
+    },
+    {
+      "type": "kana",
+      "character": "オーケストラ",
+      "romaji": "オーケストラ",
+      "meaning": "orchestra"
+    },
+    {
+      "type": "kana",
+      "character": "オーシャン",
+      "romaji": "オーシャン",
+      "meaning": "ocean"
+    }
+  ]
+}

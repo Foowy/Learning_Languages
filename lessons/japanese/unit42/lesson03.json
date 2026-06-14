@@ -1,0 +1,67 @@
+{
+  "unit": 42,
+  "lesson": 3,
+  "title": "Vocabulary — Frequency 7021–7030",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "漁る",
+      "romaji": "あさる",
+      "meaning": "to fish"
+    },
+    {
+      "type": "kanji",
+      "character": "漁獲",
+      "romaji": "ぎょかく",
+      "meaning": "fishery; fishing"
+    },
+    {
+      "type": "kanji",
+      "character": "漁業",
+      "romaji": "ぎょぎょう",
+      "meaning": "fishing industry; fishery"
+    },
+    {
+      "type": "kanji",
+      "character": "漁港",
+      "romaji": "ぎょこう",
+      "meaning": "fishing harbour; fishing harbor"
+    },
+    {
+      "type": "kanji",
+      "character": "漁師",
+      "romaji": "りょうし",
+      "meaning": "fisherman"
+    },
+    {
+      "type": "kanji",
+      "character": "漁場",
+      "romaji": "ぎょじょう",
+      "meaning": "fishing grounds; permitted fishing zone"
+    },
+    {
+      "type": "kanji",
+      "character": "漁船",
+      "romaji": "ぎょせん",
+      "meaning": "fishing boat"
+    },
+    {
+      "type": "kanji",
+      "character": "漁村",
+      "romaji": "ぎょそん",
+      "meaning": "fishing village"
+    },
+    {
+      "type": "kanji",
+      "character": "魚屋",
+      "romaji": "さかなや",
+      "meaning": "fish market; fish dealer"
+    },
+    {
+      "type": "kanji",
+      "character": "魚介",
+      "romaji": "ぎょかい",
+      "meaning": "marine products; seafood"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 20,
+  "lesson": 14,
+  "title": "Vocabulary — Frequency 2731–2740",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "ノルディック",
+      "romaji": "ノルディック",
+      "meaning": "Nordic"
+    },
+    {
+      "type": "kana",
+      "character": "ノン",
+      "romaji": "ノン",
+      "meaning": "non-"
+    },
+    {
+      "type": "kana",
+      "character": "ノンストップ",
+      "romaji": "ノンストップ",
+      "meaning": "nonstop (journey)"
+    },
+    {
+      "type": "kana",
+      "character": "ノンフィクション",
+      "romaji": "ノンフィクション",
+      "meaning": "nonfiction"
+    },
+    {
+      "type": "kana",
+      "character": "ハート",
+      "romaji": "ハート",
+      "meaning": "heart"
+    },
+    {
+      "type": "kana",
+      "character": "ハード",
+      "romaji": "ハード",
+      "meaning": "hard; tough"
+    },
+    {
+      "type": "kana",
+      "character": "ハードウェア",
+      "romaji": "ハードウェア",
+      "meaning": "hardware"
+    },
+    {
+      "type": "kana",
+      "character": "ハードカバー",
+      "romaji": "ハードカバー",
+      "meaning": "hardcover; hardback"
+    },
+    {
+      "type": "kana",
+      "character": "ハードディスク",
+      "romaji": "ハードディスク",
+      "meaning": "hard disk (drive); hard drive"
+    },
+    {
+      "type": "kana",
+      "character": "ハードトップ",
+      "romaji": "ハードトップ",
+      "meaning": "hardtop"
+    }
+  ]
+}

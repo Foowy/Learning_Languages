@@ -1,0 +1,67 @@
+{
+  "unit": 11,
+  "lesson": 11,
+  "title": "Vocabulary — Frequency 901–910",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "オリエンテーション",
+      "romaji": "オリエンテーション",
+      "meaning": "orientation"
+    },
+    {
+      "type": "kana",
+      "character": "オリエンテーリング",
+      "romaji": "オリエンテーリング",
+      "meaning": "orienteering"
+    },
+    {
+      "type": "kana",
+      "character": "オリエント",
+      "romaji": "オリエント",
+      "meaning": "Orient"
+    },
+    {
+      "type": "kana",
+      "character": "オリオン",
+      "romaji": "オリオン",
+      "meaning": "Orion"
+    },
+    {
+      "type": "kana",
+      "character": "オリゴマー",
+      "romaji": "オリゴマー",
+      "meaning": "oligomer"
+    },
+    {
+      "type": "kana",
+      "character": "オリジナリティー",
+      "romaji": "オリジナリティー",
+      "meaning": "originality"
+    },
+    {
+      "type": "kana",
+      "character": "オリジナル",
+      "romaji": "オリジナル",
+      "meaning": "original"
+    },
+    {
+      "type": "kana",
+      "character": "オリンピック",
+      "romaji": "オリンピック",
+      "meaning": "Olympics; Olympic Games"
+    },
+    {
+      "type": "kana",
+      "character": "オルガン",
+      "romaji": "オルガン",
+      "meaning": "organ (musical instrument)"
+    },
+    {
+      "type": "kana",
+      "character": "オルグ",
+      "romaji": "オルグ",
+      "meaning": "organizer; organiser"
+    }
+  ]
+}

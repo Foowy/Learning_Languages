@@ -1,0 +1,67 @@
+{
+  "unit": 7,
+  "lesson": 18,
+  "title": "Vocabulary — Frequency 171–180",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "この間",
+      "romaji": "このあいだ",
+      "meaning": "the other day; lately"
+    },
+    {
+      "type": "kanji",
+      "character": "この頃",
+      "romaji": "このごろ",
+      "meaning": "these days; nowadays"
+    },
+    {
+      "type": "kanji",
+      "character": "この辺",
+      "romaji": "このへん",
+      "meaning": "this area; around here"
+    },
+    {
+      "type": "kanji",
+      "character": "此れから",
+      "romaji": "これから",
+      "meaning": "from now on; after this"
+    },
+    {
+      "type": "kana",
+      "character": "これで",
+      "romaji": "これで",
+      "meaning": "here; with this"
+    },
+    {
+      "type": "kanji",
+      "character": "これ迄",
+      "romaji": "これまで",
+      "meaning": "so far; up to now"
+    },
+    {
+      "type": "kanji",
+      "character": "これ等",
+      "romaji": "これら",
+      "meaning": "these"
+    },
+    {
+      "type": "kana",
+      "character": "コロコロ",
+      "romaji": "コロコロ",
+      "meaning": "(rolling) along; (rolling) over and over"
+    },
+    {
+      "type": "kana",
+      "character": "こんな",
+      "romaji": "こんな",
+      "meaning": "this sort of; this kind of"
+    },
+    {
+      "type": "kana",
+      "character": "こんなに",
+      "romaji": "こんなに",
+      "meaning": "so; like this"
+    }
+  ]
+}

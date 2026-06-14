@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 17,
+  "title": "JLPT N3 Kanji — Part 17",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "神",
+      "romaji": "シン・ジン / かみ・かん-・こう-",
+      "meaning": "gods; mind; soul"
+    },
+    {
+      "type": "kanji",
+      "character": "番",
+      "romaji": "バン / つが.い",
+      "meaning": "turn; number in a series"
+    },
+    {
+      "type": "kanji",
+      "character": "規",
+      "romaji": "キ",
+      "meaning": "standard; measure"
+    },
+    {
+      "type": "kanji",
+      "character": "術",
+      "romaji": "ジュツ / すべ",
+      "meaning": "art; technique; skill"
+    },
+    {
+      "type": "kanji",
+      "character": "展",
+      "romaji": "テン",
+      "meaning": "unfold; expand"
+    },
+    {
+      "type": "kanji",
+      "character": "導",
+      "romaji": "ドウ / みちび.く",
+      "meaning": "guidance; leading; conduct"
+    },
+    {
+      "type": "kanji",
+      "character": "備",
+      "romaji": "ビ / そな.える・そな.わる・つぶさ.に",
+      "meaning": "equip; provision; preparation"
+    },
+    {
+      "type": "kanji",
+      "character": "宅",
+      "romaji": "タク",
+      "meaning": "home; house; residence"
+    },
+    {
+      "type": "kanji",
+      "character": "害",
+      "romaji": "ガイ",
+      "meaning": "harm; injury"
+    },
+    {
+      "type": "kanji",
+      "character": "配",
+      "romaji": "ハイ / くば.る",
+      "meaning": "distribute; spouse; exile"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 17,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 2001–2010",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "ストライプ",
+      "romaji": "ストライプ",
+      "meaning": "stripe"
+    },
+    {
+      "type": "kana",
+      "character": "ストリーカー",
+      "romaji": "ストリーカー",
+      "meaning": "streaker"
+    },
+    {
+      "type": "kana",
+      "character": "ストリート",
+      "romaji": "ストリート",
+      "meaning": "street"
+    },
+    {
+      "type": "kana",
+      "character": "ストリッパー",
+      "romaji": "ストリッパー",
+      "meaning": "stripper"
+    },
+    {
+      "type": "kana",
+      "character": "ストリップ",
+      "romaji": "ストリップ",
+      "meaning": "strip show; striptease"
+    },
+    {
+      "type": "kana",
+      "character": "ストレート",
+      "romaji": "ストレート",
+      "meaning": "straight"
+    },
+    {
+      "type": "kana",
+      "character": "ストレス",
+      "romaji": "ストレス",
+      "meaning": "stress"
+    },
+    {
+      "type": "kana",
+      "character": "ストレッチ",
+      "romaji": "ストレッチ",
+      "meaning": "stretch (of a material); stretch material"
+    },
+    {
+      "type": "kana",
+      "character": "ストロー",
+      "romaji": "ストロー",
+      "meaning": "drinking straw"
+    },
+    {
+      "type": "kana",
+      "character": "ストローク",
+      "romaji": "ストローク",
+      "meaning": "stroke (of a racket, in swimming, etc.)"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 41,
+  "title": "JLPT N2/N1 Kanji — Part 41",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "遇",
+      "romaji": "グウ / あ.う",
+      "meaning": "meet; encounter; interview"
+    },
+    {
+      "type": "kanji",
+      "character": "諮",
+      "romaji": "シ / はか.る",
+      "meaning": "consult with"
+    },
+    {
+      "type": "kanji",
+      "character": "卓",
+      "romaji": "タク",
+      "meaning": "eminent; table; desk"
+    },
+    {
+      "type": "kanji",
+      "character": "亀",
+      "romaji": "キ・キュウ・キン / かめ",
+      "meaning": "tortoise; turtle"
+    },
+    {
+      "type": "kanji",
+      "character": "糧",
+      "romaji": "リョウ・ロウ / かて",
+      "meaning": "provisions; food; bread"
+    },
+    {
+      "type": "kanji",
+      "character": "簿",
+      "romaji": "ボ",
+      "meaning": "register; record book"
+    },
+    {
+      "type": "kanji",
+      "character": "炉",
+      "romaji": "ロ / いろり",
+      "meaning": "hearth; furnace; kiln"
+    },
+    {
+      "type": "kanji",
+      "character": "牧",
+      "romaji": "ボク / まき",
+      "meaning": "breed; care for; shepherd"
+    },
+    {
+      "type": "kanji",
+      "character": "殊",
+      "romaji": "シュ / こと",
+      "meaning": "particularly; especially; exceptionally"
+    },
+    {
+      "type": "kanji",
+      "character": "殖",
+      "romaji": "ショク / ふ.える・ふ.やす",
+      "meaning": "augment; increase; multiply"
+    }
+  ]
+}

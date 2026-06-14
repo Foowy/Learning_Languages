@@ -1,0 +1,67 @@
+{
+  "unit": 20,
+  "lesson": 3,
+  "title": "Vocabulary — Frequency 2621–2630",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "ナイフ",
+      "romaji": "ナイフ",
+      "meaning": "knife"
+    },
+    {
+      "type": "kanji",
+      "character": "尼羅",
+      "romaji": "ナイル",
+      "meaning": "Nile (river)"
+    },
+    {
+      "type": "kana",
+      "character": "ナイロン",
+      "romaji": "ナイロン",
+      "meaning": "nylon"
+    },
+    {
+      "type": "kana",
+      "character": "ナイン",
+      "romaji": "ナイン",
+      "meaning": "nine"
+    },
+    {
+      "type": "kana",
+      "character": "ナウ",
+      "romaji": "ナウ",
+      "meaning": "trendy; in"
+    },
+    {
+      "type": "kana",
+      "character": "ナショナリズム",
+      "romaji": "ナショナリズム",
+      "meaning": "nationalism"
+    },
+    {
+      "type": "kana",
+      "character": "ナショナル",
+      "romaji": "ナショナル",
+      "meaning": "national"
+    },
+    {
+      "type": "kana",
+      "character": "ナショナルチェーン",
+      "romaji": "ナショナルチェーン",
+      "meaning": "national chain"
+    },
+    {
+      "type": "kana",
+      "character": "ナショナルリーグ",
+      "romaji": "ナショナルリーグ",
+      "meaning": "National League"
+    },
+    {
+      "type": "kana",
+      "character": "ナチ",
+      "romaji": "ナチ",
+      "meaning": "Nazi; Nationalsozialist"
+    }
+  ]
+}

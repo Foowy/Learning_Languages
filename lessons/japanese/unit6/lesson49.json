@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 49,
+  "title": "JLPT N2/N1 Kanji — Part 49",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "虚",
+      "romaji": "キョ・コ / むな.しい・うつ.ろ",
+      "meaning": "void; emptiness; unpreparedness"
+    },
+    {
+      "type": "kanji",
+      "character": "霊",
+      "romaji": "レイ・リョウ / たま",
+      "meaning": "spirits; soul"
+    },
+    {
+      "type": "kanji",
+      "character": "帳",
+      "romaji": "チョウ / とばり",
+      "meaning": "notebook; account book; album"
+    },
+    {
+      "type": "kanji",
+      "character": "悔",
+      "romaji": "カイ / く.いる・く.やむ・くや.しい",
+      "meaning": "repent; regret"
+    },
+    {
+      "type": "kanji",
+      "character": "諭",
+      "romaji": "ユ / さと.す",
+      "meaning": "rebuke; admonish; charge"
+    },
+    {
+      "type": "kanji",
+      "character": "惨",
+      "romaji": "サン・ザン / みじ.め・いた.む・むご.い",
+      "meaning": "wretched; disaster; cruelty"
+    },
+    {
+      "type": "kanji",
+      "character": "虐",
+      "romaji": "ギャク / しいた.げる",
+      "meaning": "tyrannize; oppress"
+    },
+    {
+      "type": "kanji",
+      "character": "翻",
+      "romaji": "ホン・ハン / ひるがえ.る・ひるがえ.す",
+      "meaning": "flip; turn over; wave"
+    },
+    {
+      "type": "kanji",
+      "character": "墜",
+      "romaji": "ツイ / お.ちる・お.つ",
+      "meaning": "crash; fall (down)"
+    },
+    {
+      "type": "kanji",
+      "character": "沼",
+      "romaji": "ショウ / ぬま",
+      "meaning": "marsh; lake; bog"
+    }
+  ]
+}

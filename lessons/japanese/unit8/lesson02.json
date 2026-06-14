@@ -1,0 +1,67 @@
+{
+  "unit": 8,
+  "lesson": 2,
+  "title": "Vocabulary — Frequency 211–220",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "じっくり",
+      "romaji": "じっくり",
+      "meaning": "(slowly and) carefully; without haste"
+    },
+    {
+      "type": "kanji",
+      "character": "凝乎と",
+      "romaji": "じっと",
+      "meaning": "motionlessly (e.g. stand, wait); (be) still"
+    },
+    {
+      "type": "kana",
+      "character": "じめじめ",
+      "romaji": "じめじめ",
+      "meaning": "damp; humid"
+    },
+    {
+      "type": "kana",
+      "character": "じゃあ",
+      "romaji": "じゃあ",
+      "meaning": "then; well"
+    },
+    {
+      "type": "kanji",
+      "character": "じゃが芋",
+      "romaji": "じゃがいも",
+      "meaning": "potato (Solanum tuberosum)"
+    },
+    {
+      "type": "kana",
+      "character": "じゃぶじゃぶ",
+      "romaji": "じゃぶじゃぶ",
+      "meaning": "splashing (water); splashing about"
+    },
+    {
+      "type": "kanji",
+      "character": "じゃん拳",
+      "romaji": "じゃんけん",
+      "meaning": "rock-paper-scissors (game); janken"
+    },
+    {
+      "type": "kana",
+      "character": "すっかり",
+      "romaji": "すっかり",
+      "meaning": "all; completely"
+    },
+    {
+      "type": "kana",
+      "character": "すっきり",
+      "romaji": "すっきり",
+      "meaning": "refreshingly; with a feeling of relief"
+    },
+    {
+      "type": "kana",
+      "character": "すっと",
+      "romaji": "すっと",
+      "meaning": "straight; quickly"
+    }
+  ]
+}

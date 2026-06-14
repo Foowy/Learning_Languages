@@ -1,0 +1,67 @@
+{
+  "unit": 83,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 15201–15210",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "破損",
+      "romaji": "はそん",
+      "meaning": "damage; breakage"
+    },
+    {
+      "type": "kanji",
+      "character": "破綻",
+      "romaji": "はたん",
+      "meaning": "failure; collapse"
+    },
+    {
+      "type": "kanji",
+      "character": "破片",
+      "romaji": "はへん",
+      "meaning": "fragment; broken piece"
+    },
+    {
+      "type": "kanji",
+      "character": "破滅",
+      "romaji": "はめつ",
+      "meaning": "ruin; destruction"
+    },
+    {
+      "type": "kanji",
+      "character": "破裂",
+      "romaji": "はれつ",
+      "meaning": "bursting; rupture"
+    },
+    {
+      "type": "kanji",
+      "character": "罵る",
+      "romaji": "ののしる",
+      "meaning": "to abuse (verbally); to curse at"
+    },
+    {
+      "type": "kanji",
+      "character": "馬",
+      "romaji": "うま",
+      "meaning": "horse"
+    },
+    {
+      "type": "kanji",
+      "character": "馬車",
+      "romaji": "ばしゃ",
+      "meaning": "coach (horse-drawn); carriage"
+    },
+    {
+      "type": "kanji",
+      "character": "馬術",
+      "romaji": "ばじゅつ",
+      "meaning": "horsemanship; equestrian art"
+    },
+    {
+      "type": "kanji",
+      "character": "馬力",
+      "romaji": "ばりき",
+      "meaning": "horsepower; hp"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 2,
+  "lesson": 2,
+  "title": "HSK 2 Vocabulary — Part 2",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "穿",
+      "romaji": "chuān",
+      "meaning": "to bore through; to pierce; to perforate; to penetrate; to pass through; to dress; to wear; to put on; to thread"
+    },
+    {
+      "type": "hanzi",
+      "character": "船",
+      "romaji": "chuán",
+      "meaning": "a boat; vessel; ship; CL:條|条; 艘; 隻|只[zhī]"
+    },
+    {
+      "type": "hanzi",
+      "character": "次",
+      "romaji": "cì",
+      "meaning": "next in sequence; second; the second (day; time etc); secondary; vice-; sub-; infra-; inferior quality; substandard; order; sequence; hypo- (chemistry); classifier for enumerated events: time"
+    },
+    {
+      "type": "hanzi",
+      "character": "从",
+      "romaji": "cóng",
+      "meaning": "from; via; passing through; through (a gap); past; ever (followed by negative; meaning never); (formerly pr.  and related to 縱|纵) to follow; to comply with; to obey; to join; to engage in; adopting some mode of action or attitude; follower; retainer; accessory; accomplice; related by common paternal grandfather or earlier ancestor"
+    },
+    {
+      "type": "hanzi",
+      "character": "错",
+      "romaji": "cuò",
+      "meaning": "mistake; wrong; bad; interlocking; complex; to grind; to polish; to alternate; to stagger; to miss; to let slip; to evade; to inlay with gold or silver"
+    },
+    {
+      "type": "hanzi",
+      "character": "打篮球",
+      "romaji": "dá lán qiú",
+      "meaning": "Play basketball"
+    },
+    {
+      "type": "hanzi",
+      "character": "大家",
+      "romaji": "dà jiā",
+      "meaning": "everyone; influential family; great expert"
+    },
+    {
+      "type": "hanzi",
+      "character": "但是",
+      "romaji": "dàn shì",
+      "meaning": "but; however"
+    },
+    {
+      "type": "hanzi",
+      "character": "到",
+      "romaji": "dào",
+      "meaning": "to (a place); until (a time); up to; to go; to arrive"
+    },
+    {
+      "type": "hanzi",
+      "character": "得",
+      "romaji": "de",
+      "meaning": "structural particle: used after a verb (or adjective as main verb); linking it to following phrase indicating effect; degree; possibility etc"
+    }
+  ]
+}

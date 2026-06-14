@@ -1,0 +1,67 @@
+{
+  "unit": 26,
+  "lesson": 15,
+  "title": "Vocabulary — Frequency 3941–3950",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "ミニスカート",
+      "romaji": "ミニスカート",
+      "meaning": "miniskirt; mini-skirt"
+    },
+    {
+      "type": "kana",
+      "character": "ミニチュア",
+      "romaji": "ミニチュア",
+      "meaning": "miniature"
+    },
+    {
+      "type": "kana",
+      "character": "ミニディスク",
+      "romaji": "ミニディスク",
+      "meaning": "minidisc; MD"
+    },
+    {
+      "type": "kana",
+      "character": "ミニバッファ",
+      "romaji": "ミニバッファ",
+      "meaning": "minibuffer"
+    },
+    {
+      "type": "kana",
+      "character": "ミニマム",
+      "romaji": "ミニマム",
+      "meaning": "minimum"
+    },
+    {
+      "type": "kana",
+      "character": "ミネソタ",
+      "romaji": "ミネソタ",
+      "meaning": "Minnesota"
+    },
+    {
+      "type": "kana",
+      "character": "ミネラル",
+      "romaji": "ミネラル",
+      "meaning": "mineral"
+    },
+    {
+      "type": "kana",
+      "character": "ミミック",
+      "romaji": "ミミック",
+      "meaning": "mimic"
+    },
+    {
+      "type": "kana",
+      "character": "ミャンマー",
+      "romaji": "ミャンマー",
+      "meaning": "Myanmar"
+    },
+    {
+      "type": "kana",
+      "character": "ミュージアム",
+      "romaji": "ミュージアム",
+      "meaning": "museum"
+    }
+  ]
+}

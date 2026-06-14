@@ -1,0 +1,67 @@
+{
+  "unit": 3,
+  "lesson": 4,
+  "title": "HSK 3 Vocabulary — Part 4",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "层",
+      "romaji": "céng",
+      "meaning": "layer; stratum; laminated; floor (of a building); storey; classifier for layers; repeated; sheaf (math.)"
+    },
+    {
+      "type": "hanzi",
+      "character": "差",
+      "romaji": "chà",
+      "meaning": "to differ from; to fall short of; lacking; wrong; inferior"
+    },
+    {
+      "type": "hanzi",
+      "character": "超市",
+      "romaji": "chāo shì",
+      "meaning": "supermarket (abbr.); CL:家[jiā]"
+    },
+    {
+      "type": "hanzi",
+      "character": "衬衫",
+      "romaji": "chèn shān",
+      "meaning": "shirt; blouse; CL:件[jiàn]"
+    },
+    {
+      "type": "hanzi",
+      "character": "成绩",
+      "romaji": "chéng jì",
+      "meaning": "achievement; performance records; grades; CL:項|项; 個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "城市",
+      "romaji": "chéng shì",
+      "meaning": "city; town; CL:座[zuò]"
+    },
+    {
+      "type": "hanzi",
+      "character": "迟到",
+      "romaji": "chí dào",
+      "meaning": "to arrive late"
+    },
+    {
+      "type": "hanzi",
+      "character": "出现",
+      "romaji": "chū xiàn",
+      "meaning": "to appear; to arise; to emerge; to show up"
+    },
+    {
+      "type": "hanzi",
+      "character": "除了",
+      "romaji": "chú le",
+      "meaning": "besides; apart from (... also...); in addition to; except (for)"
+    },
+    {
+      "type": "hanzi",
+      "character": "厨房",
+      "romaji": "chú fáng",
+      "meaning": "kitchen; CL:間|间[jiān]"
+    }
+  ]
+}

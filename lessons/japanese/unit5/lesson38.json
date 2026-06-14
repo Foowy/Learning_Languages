@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 38,
+  "title": "JLPT N3 Kanji — Part 38",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "輪",
+      "romaji": "リン / わ",
+      "meaning": "wheel; ring; circle"
+    },
+    {
+      "type": "kanji",
+      "character": "占",
+      "romaji": "セン / し.める・うらな.う",
+      "meaning": "fortune-telling; divining; forecasting"
+    },
+    {
+      "type": "kanji",
+      "character": "背",
+      "romaji": "ハイ / せ・せい・そむ.く・そむ.ける",
+      "meaning": "stature; height; back"
+    },
+    {
+      "type": "kanji",
+      "character": "植",
+      "romaji": "ショク / う.える・う.わる",
+      "meaning": "plant"
+    },
+    {
+      "type": "kanji",
+      "character": "熱",
+      "romaji": "ネツ / あつ.い",
+      "meaning": "heat; temperature; fever"
+    },
+    {
+      "type": "kanji",
+      "character": "宿",
+      "romaji": "シュク / やど・やど.る・やど.す",
+      "meaning": "inn; lodging; relay station"
+    },
+    {
+      "type": "kanji",
+      "character": "清",
+      "romaji": "セイ・ショウ・シン / きよ.い・きよ.まる・きよ.める",
+      "meaning": "pure; purify; cleanse"
+    },
+    {
+      "type": "kanji",
+      "character": "険",
+      "romaji": "ケン / けわ.しい",
+      "meaning": "precipitous; inaccessible place; impregnable position"
+    },
+    {
+      "type": "kanji",
+      "character": "頼",
+      "romaji": "ライ / たの.む・たの.もしい・たよ.る",
+      "meaning": "trust; request"
+    },
+    {
+      "type": "kanji",
+      "character": "覚",
+      "romaji": "カク / おぼ.える・さ.ます・さ.める・さと.る",
+      "meaning": "memorize; learn; remember"
+    }
+  ]
+}

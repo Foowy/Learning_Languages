@@ -1,0 +1,67 @@
+{
+  "unit": 27,
+  "lesson": 11,
+  "title": "Vocabulary — Frequency 4101–4110",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "モンキー",
+      "romaji": "モンキー",
+      "meaning": "monkey"
+    },
+    {
+      "type": "kana",
+      "character": "モンゴリズム",
+      "romaji": "モンゴリズム",
+      "meaning": "mongolism; Down's syndrome"
+    },
+    {
+      "type": "kana",
+      "character": "モンスーン",
+      "romaji": "モンスーン",
+      "meaning": "monsoon"
+    },
+    {
+      "type": "kana",
+      "character": "モンスター",
+      "romaji": "モンスター",
+      "meaning": "monster; monstrosity"
+    },
+    {
+      "type": "kana",
+      "character": "モンタージュ",
+      "romaji": "モンタージュ",
+      "meaning": "montage"
+    },
+    {
+      "type": "kana",
+      "character": "モンタナ",
+      "romaji": "モンタナ",
+      "meaning": "Montana"
+    },
+    {
+      "type": "kana",
+      "character": "モンテカルロ",
+      "romaji": "モンテカルロ",
+      "meaning": "Monte Carlo (Monaco)"
+    },
+    {
+      "type": "kana",
+      "character": "モンパリ",
+      "romaji": "モンパリ",
+      "meaning": "my Paris"
+    },
+    {
+      "type": "kanji",
+      "character": "碼",
+      "romaji": "ヤード",
+      "meaning": "yard (unit of distance)"
+    },
+    {
+      "type": "kana",
+      "character": "ヤンガージェネレーション",
+      "romaji": "ヤンガージェネレーション",
+      "meaning": "younger generation"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 100,
+  "lesson": 16,
+  "title": "Vocabulary — Frequency 18751–18760",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "牧場",
+      "romaji": "ぼくじょう",
+      "meaning": "farm (livestock); stock farm"
+    },
+    {
+      "type": "kanji",
+      "character": "本文",
+      "romaji": "ほんぶん",
+      "meaning": "text (of a book, document, etc.); body (of a letter)"
+    },
+    {
+      "type": "kanji",
+      "character": "凡",
+      "romaji": "ぼん",
+      "meaning": "ordinary; common"
+    },
+    {
+      "type": "kanji",
+      "character": "凡人",
+      "romaji": "ぼんじん",
+      "meaning": "ordinary person; average person"
+    },
+    {
+      "type": "kanji",
+      "character": "埋まる",
+      "romaji": "うまる",
+      "meaning": "to be buried; to be covered"
+    },
+    {
+      "type": "kanji",
+      "character": "毎月",
+      "romaji": "まいつき",
+      "meaning": "every month; each month"
+    },
+    {
+      "type": "kanji",
+      "character": "毎年",
+      "romaji": "まいとし",
+      "meaning": "every year; yearly"
+    },
+    {
+      "type": "kanji",
+      "character": "末っ子",
+      "romaji": "すえっこ",
+      "meaning": "youngest child"
+    },
+    {
+      "type": "kanji",
+      "character": "万",
+      "romaji": "まん",
+      "meaning": "10,000; ten thousand"
+    },
+    {
+      "type": "kanji",
+      "character": "万人",
+      "romaji": "ばんにん",
+      "meaning": "all people; everybody"
+    }
+  ]
+}

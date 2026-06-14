@@ -1,0 +1,67 @@
+{
+  "unit": 88,
+  "lesson": 13,
+  "title": "Vocabulary — Frequency 16321–16330",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "平穏",
+      "romaji": "へいおん",
+      "meaning": "tranquil; calm"
+    },
+    {
+      "type": "kanji",
+      "character": "平仮名",
+      "romaji": "ひらがな",
+      "meaning": "hiragana; cursive Japanese syllabary used primarily for native Japanese words (esp. function words, inflections, etc.)"
+    },
+    {
+      "type": "kanji",
+      "character": "平気",
+      "romaji": "へいき",
+      "meaning": "cool; calm"
+    },
+    {
+      "type": "kanji",
+      "character": "平均点",
+      "romaji": "へいきんてん",
+      "meaning": "average mark; mean point"
+    },
+    {
+      "type": "kanji",
+      "character": "平行線",
+      "romaji": "へいこうせん",
+      "meaning": "parallel lines"
+    },
+    {
+      "type": "kanji",
+      "character": "平衡",
+      "romaji": "へいこう",
+      "meaning": "balance; equilibrium"
+    },
+    {
+      "type": "kanji",
+      "character": "平時",
+      "romaji": "へいじ",
+      "meaning": "peacetime; time of peace"
+    },
+    {
+      "type": "kanji",
+      "character": "平常",
+      "romaji": "へいじょう",
+      "meaning": "normal; usual"
+    },
+    {
+      "type": "kanji",
+      "character": "平静",
+      "romaji": "へいせい",
+      "meaning": "calm; peace"
+    },
+    {
+      "type": "kanji",
+      "character": "平等",
+      "romaji": "びょうどう",
+      "meaning": "equality; impartiality"
+    }
+  ]
+}

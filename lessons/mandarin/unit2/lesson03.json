@@ -1,0 +1,67 @@
+{
+  "unit": 2,
+  "lesson": 3,
+  "title": "HSK 2 Vocabulary — Part 3",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "得",
+      "romaji": "děi",
+      "meaning": "to have to; must; ought to; to need to"
+    },
+    {
+      "type": "hanzi",
+      "character": "弟弟",
+      "romaji": "dì di",
+      "meaning": "younger brother; CL:個|个; 位[wèi]"
+    },
+    {
+      "type": "hanzi",
+      "character": "第一",
+      "romaji": "dì yī",
+      "meaning": "first; number one"
+    },
+    {
+      "type": "hanzi",
+      "character": "懂",
+      "romaji": "dǒng",
+      "meaning": "to understand; to know"
+    },
+    {
+      "type": "hanzi",
+      "character": "房间",
+      "romaji": "fáng jiān",
+      "meaning": "room; CL:間|间[jiān]"
+    },
+    {
+      "type": "hanzi",
+      "character": "非常",
+      "romaji": "fēi cháng",
+      "meaning": "unusual; extraordinary; extreme; very; exceptional"
+    },
+    {
+      "type": "hanzi",
+      "character": "服务员",
+      "romaji": "fú wù yuán",
+      "meaning": "waiter; waitress; attendant; customer service personnel; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "高",
+      "romaji": "gāo",
+      "meaning": "high; tall; above average; loud; your (honorific)"
+    },
+    {
+      "type": "hanzi",
+      "character": "告诉",
+      "romaji": "gào su",
+      "meaning": "to tell; to inform; to let know"
+    },
+    {
+      "type": "hanzi",
+      "character": "哥哥",
+      "romaji": "gē ge",
+      "meaning": "older brother; CL:個|个; 位[wèi]"
+    }
+  ]
+}

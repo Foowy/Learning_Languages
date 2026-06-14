@@ -1,0 +1,67 @@
+{
+  "unit": 38,
+  "lesson": 3,
+  "title": "Vocabulary — Frequency 6221–6230",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "勘違い",
+      "romaji": "かんちがい",
+      "meaning": "misunderstanding; mistaken idea"
+    },
+    {
+      "type": "kanji",
+      "character": "勘定",
+      "romaji": "かんじょう",
+      "meaning": "calculation; computation"
+    },
+    {
+      "type": "kanji",
+      "character": "勘弁",
+      "romaji": "かんべん",
+      "meaning": "pardon; forgiveness"
+    },
+    {
+      "type": "kanji",
+      "character": "勧め",
+      "romaji": "すすめ",
+      "meaning": "recommendation; advice"
+    },
+    {
+      "type": "kanji",
+      "character": "勧業",
+      "romaji": "かんぎょう",
+      "meaning": "(encouragement of) industry"
+    },
+    {
+      "type": "kanji",
+      "character": "勧告",
+      "romaji": "かんこく",
+      "meaning": "advice; counsel"
+    },
+    {
+      "type": "kanji",
+      "character": "勧奨",
+      "romaji": "かんしょう",
+      "meaning": "encouragement; stimulation"
+    },
+    {
+      "type": "kanji",
+      "character": "勧進",
+      "romaji": "かんじん",
+      "meaning": "temple solicitation"
+    },
+    {
+      "type": "kanji",
+      "character": "勧善懲悪",
+      "romaji": "かんぜんちょうあく",
+      "meaning": "rewarding good and punishing evil; poetic justice"
+    },
+    {
+      "type": "kanji",
+      "character": "勧誘",
+      "romaji": "かんゆう",
+      "meaning": "invitation; solicitation"
+    }
+  ]
+}

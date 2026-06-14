@@ -1,0 +1,67 @@
+{
+  "unit": 112,
+  "lesson": 3,
+  "title": "Vocabulary — Frequency 21021–21030",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "訪問者",
+      "romaji": "ほうもんしゃ",
+      "meaning": "visitor"
+    },
+    {
+      "type": "kanji",
+      "character": "病理",
+      "romaji": "びょうり",
+      "meaning": "pathology"
+    },
+    {
+      "type": "kanji",
+      "character": "１８０度",
+      "romaji": "ひゃくはちじゅうど",
+      "meaning": "180 degrees"
+    },
+    {
+      "type": "kanji",
+      "character": "野中",
+      "romaji": "のなか",
+      "meaning": "in the middle of a field"
+    },
+    {
+      "type": "kanji",
+      "character": "野手",
+      "romaji": "やしゅ",
+      "meaning": "fielder"
+    },
+    {
+      "type": "kanji",
+      "character": "野末",
+      "romaji": "のずえ",
+      "meaning": "corners of a field"
+    },
+    {
+      "type": "kanji",
+      "character": "野合",
+      "romaji": "やごう",
+      "meaning": "illicit union; collusion"
+    },
+    {
+      "type": "kanji",
+      "character": "預り証",
+      "romaji": "あずかりしょう",
+      "meaning": "claim check; baggage check"
+    },
+    {
+      "type": "kanji",
+      "character": "推理小説",
+      "romaji": "すいりしょうせつ",
+      "meaning": "mystery novel; detective novel"
+    },
+    {
+      "type": "kanji",
+      "character": "春場所",
+      "romaji": "はるばしょ",
+      "meaning": "Spring Tournament (held in Osaka in March)"
+    }
+  ]
+}

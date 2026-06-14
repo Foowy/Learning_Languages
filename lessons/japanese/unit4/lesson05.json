@@ -1,0 +1,67 @@
+{
+  "unit": 4,
+  "lesson": 5,
+  "title": "JLPT N4 Kanji — Part 5",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "世",
+      "romaji": "セイ・セ・ソウ / よ",
+      "meaning": "generation; world; society"
+    },
+    {
+      "type": "kanji",
+      "character": "区",
+      "romaji": "ク・オウ・コウ",
+      "meaning": "ward; district"
+    },
+    {
+      "type": "kanji",
+      "character": "県",
+      "romaji": "ケン / か.ける",
+      "meaning": "prefecture"
+    },
+    {
+      "type": "kanji",
+      "character": "進",
+      "romaji": "シン / すす.む・すす.める",
+      "meaning": "advance; proceed; progress"
+    },
+    {
+      "type": "kanji",
+      "character": "正",
+      "romaji": "セイ・ショウ / ただ.しい・ただ.す・まさ・まさ.に",
+      "meaning": "correct; justice; righteous"
+    },
+    {
+      "type": "kanji",
+      "character": "院",
+      "romaji": "イン",
+      "meaning": "Inst.; institution; temple"
+    },
+    {
+      "type": "kanji",
+      "character": "心",
+      "romaji": "シン / こころ・-ごころ",
+      "meaning": "heart; mind; spirit"
+    },
+    {
+      "type": "kanji",
+      "character": "界",
+      "romaji": "カイ",
+      "meaning": "world; boundary"
+    },
+    {
+      "type": "kanji",
+      "character": "産",
+      "romaji": "サン / う.む・う.まれる・うぶ-・む.す",
+      "meaning": "products; bear; give birth"
+    },
+    {
+      "type": "kanji",
+      "character": "教",
+      "romaji": "キョウ / おし.える・おそ.わる",
+      "meaning": "teach; faith; doctrine"
+    }
+  ]
+}

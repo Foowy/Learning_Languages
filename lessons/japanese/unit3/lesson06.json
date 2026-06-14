@@ -1,0 +1,67 @@
+{
+  "unit": 3,
+  "lesson": 6,
+  "title": "JLPT N5 Kanji — Part 6",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "話",
+      "romaji": "ワ / はな.す・はなし",
+      "meaning": "tale; talk"
+    },
+    {
+      "type": "kanji",
+      "character": "多",
+      "romaji": "タ / おお.い・まさ.に・まさ.る",
+      "meaning": "many; frequent; much"
+    },
+    {
+      "type": "kanji",
+      "character": "安",
+      "romaji": "アン / やす.い・やす.まる・やす・やす.らか",
+      "meaning": "relax; cheap; low"
+    },
+    {
+      "type": "kanji",
+      "character": "女",
+      "romaji": "ジョ・ニョ・ニョウ / おんな・め",
+      "meaning": "woman; female"
+    },
+    {
+      "type": "kanji",
+      "character": "北",
+      "romaji": "ホク / きた",
+      "meaning": "north"
+    },
+    {
+      "type": "kanji",
+      "character": "午",
+      "romaji": "ゴ / うま",
+      "meaning": "noon; sign of the horse; 11AM-1PM"
+    },
+    {
+      "type": "kanji",
+      "character": "百",
+      "romaji": "ヒャク・ビャク / もも",
+      "meaning": "hundred"
+    },
+    {
+      "type": "kanji",
+      "character": "書",
+      "romaji": "ショ / か.く・-が.き・-がき",
+      "meaning": "write"
+    },
+    {
+      "type": "kanji",
+      "character": "先",
+      "romaji": "セン / さき・ま.ず",
+      "meaning": "before; ahead; previous"
+    },
+    {
+      "type": "kanji",
+      "character": "名",
+      "romaji": "メイ・ミョウ / な・-な",
+      "meaning": "name; noted; distinguished"
+    }
+  ]
+}

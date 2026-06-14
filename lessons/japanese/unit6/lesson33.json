@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 33,
+  "title": "JLPT N2/N1 Kanji — Part 33",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "酸",
+      "romaji": "サン / す.い",
+      "meaning": "acid; bitterness; sour"
+    },
+    {
+      "type": "kanji",
+      "character": "罰",
+      "romaji": "バツ・バチ・ハツ / ばっ.する",
+      "meaning": "penalty; punishment"
+    },
+    {
+      "type": "kanji",
+      "character": "滅",
+      "romaji": "メツ / ほろ.びる・ほろ.ぶ・ほろ.ぼす",
+      "meaning": "destroy; ruin; overthrow"
+    },
+    {
+      "type": "kanji",
+      "character": "礎",
+      "romaji": "ソ / いしずえ",
+      "meaning": "cornerstone; foundation stone"
+    },
+    {
+      "type": "kanji",
+      "character": "腐",
+      "romaji": "フ / くさ.る・-くさ.る・くさ.れる・くさ.れ・くさ.らす・くさ.す",
+      "meaning": "rot; decay; sour"
+    },
+    {
+      "type": "kanji",
+      "character": "脚",
+      "romaji": "キャク・キャ・カク / あし",
+      "meaning": "skids; leg; undercarriage"
+    },
+    {
+      "type": "kanji",
+      "character": "潮",
+      "romaji": "チョウ / しお・うしお",
+      "meaning": "tide; salt water; opportunity"
+    },
+    {
+      "type": "kanji",
+      "character": "梅",
+      "romaji": "バイ / うめ",
+      "meaning": "plum"
+    },
+    {
+      "type": "kanji",
+      "character": "尽",
+      "romaji": "ジン・サン / つ.きる・つ.くす・つ.かす・-づ.く・-ず.く・ことごと.く",
+      "meaning": "exhaust; use up; run out of"
+    },
+    {
+      "type": "kanji",
+      "character": "僕",
+      "romaji": "ボク / しもべ",
+      "meaning": "me; I (male); servant"
+    }
+  ]
+}

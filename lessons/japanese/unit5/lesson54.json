@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 54,
+  "title": "JLPT N3 Kanji — Part 54",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "草",
+      "romaji": "ソウ / くさ・くさ-・-ぐさ",
+      "meaning": "grass; weeds; herbs"
+    },
+    {
+      "type": "kanji",
+      "character": "雇",
+      "romaji": "コ / やと.う",
+      "meaning": "employ; hire"
+    },
+    {
+      "type": "kanji",
+      "character": "暮",
+      "romaji": "ボ / く.れる・く.らす",
+      "meaning": "evening; twilight; season's end"
+    },
+    {
+      "type": "kanji",
+      "character": "替",
+      "romaji": "タイ / か.える・か.え-・か.わる",
+      "meaning": "exchange; spare; substitute"
+    },
+    {
+      "type": "kanji",
+      "character": "預",
+      "romaji": "ヨ / あず.ける・あず.かる",
+      "meaning": "deposit; custody; leave with"
+    },
+    {
+      "type": "kanji",
+      "character": "焼",
+      "romaji": "ショウ / や.く・や.き・や.き-・-や.き・や.ける",
+      "meaning": "bake; burning"
+    },
+    {
+      "type": "kanji",
+      "character": "簡",
+      "romaji": "カン・ケン / えら.ぶ・ふだ",
+      "meaning": "simplicity; brevity"
+    },
+    {
+      "type": "kanji",
+      "character": "章",
+      "romaji": "ショウ",
+      "meaning": "badge; chapter; composition"
+    },
+    {
+      "type": "kanji",
+      "character": "臓",
+      "romaji": "ゾウ / はらわた",
+      "meaning": "entrails; viscera; bowels"
+    },
+    {
+      "type": "kanji",
+      "character": "律",
+      "romaji": "リツ・リチ・レツ",
+      "meaning": "rhythm; law; regulation"
+    }
+  ]
+}

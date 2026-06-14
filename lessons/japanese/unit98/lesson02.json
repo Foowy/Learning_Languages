@@ -1,0 +1,67 @@
+{
+  "unit": 98,
+  "lesson": 2,
+  "title": "Vocabulary — Frequency 18211–18220",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "論点",
+      "romaji": "ろんてん",
+      "meaning": "point in question (at issue)"
+    },
+    {
+      "type": "kanji",
+      "character": "論評",
+      "romaji": "ろんぴょう",
+      "meaning": "comment; criticism"
+    },
+    {
+      "type": "kanji",
+      "character": "論文",
+      "romaji": "ろんぶん",
+      "meaning": "thesis; essay"
+    },
+    {
+      "type": "kanji",
+      "character": "論理",
+      "romaji": "ろんり",
+      "meaning": "logic"
+    },
+    {
+      "type": "kanji",
+      "character": "論理的",
+      "romaji": "ろんりてき",
+      "meaning": "logical"
+    },
+    {
+      "type": "kanji",
+      "character": "和",
+      "romaji": "わ",
+      "meaning": "sum"
+    },
+    {
+      "type": "kanji",
+      "character": "和む",
+      "romaji": "なごむ",
+      "meaning": "to be softened; to calm down"
+    },
+    {
+      "type": "kanji",
+      "character": "和やか",
+      "romaji": "なごやか",
+      "meaning": "mild; calm"
+    },
+    {
+      "type": "kanji",
+      "character": "和らぐ",
+      "romaji": "やわらぐ",
+      "meaning": "to soften; to calm down"
+    },
+    {
+      "type": "kanji",
+      "character": "和らげる",
+      "romaji": "やわらげる",
+      "meaning": "to soften; to moderate"
+    }
+  ]
+}

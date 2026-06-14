@@ -1,0 +1,67 @@
+{
+  "unit": 89,
+  "lesson": 5,
+  "title": "Vocabulary — Frequency 16441–16450",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "返還",
+      "romaji": "へんかん",
+      "meaning": "return; restoration"
+    },
+    {
+      "type": "kanji",
+      "character": "返却",
+      "romaji": "へんきゃく",
+      "meaning": "return of something; repayment"
+    },
+    {
+      "type": "kanji",
+      "character": "返金",
+      "romaji": "へんきん",
+      "meaning": "refund; repayment"
+    },
+    {
+      "type": "kanji",
+      "character": "返済",
+      "romaji": "へんさい",
+      "meaning": "repayment; reimbursement"
+    },
+    {
+      "type": "kanji",
+      "character": "返事",
+      "romaji": "へんじ",
+      "meaning": "reply; answer"
+    },
+    {
+      "type": "kanji",
+      "character": "返上",
+      "romaji": "へんじょう",
+      "meaning": "return; giving back"
+    },
+    {
+      "type": "kanji",
+      "character": "返信",
+      "romaji": "へんしん",
+      "meaning": "reply (e.g. email, fax, letter); answer"
+    },
+    {
+      "type": "kanji",
+      "character": "返送",
+      "romaji": "へんそう",
+      "meaning": "sending back; return to sender"
+    },
+    {
+      "type": "kanji",
+      "character": "返答",
+      "romaji": "へんとう",
+      "meaning": "reply; answer"
+    },
+    {
+      "type": "kanji",
+      "character": "返品",
+      "romaji": "へんぴん",
+      "meaning": "returned goods; returning purchased goods"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 48,
+  "lesson": 12,
+  "title": "Vocabulary — Frequency 8311–8320",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "誤字",
+      "romaji": "ごじ",
+      "meaning": "misprint; misspelling"
+    },
+    {
+      "type": "kanji",
+      "character": "誤植",
+      "romaji": "ごしょく",
+      "meaning": "misprint; typographical error"
+    },
+    {
+      "type": "kanji",
+      "character": "誤認",
+      "romaji": "ごにん",
+      "meaning": "misrecognition; mistaking (x for y)"
+    },
+    {
+      "type": "kanji",
+      "character": "誤報",
+      "romaji": "ごほう",
+      "meaning": "false report; incorrect report"
+    },
+    {
+      "type": "kanji",
+      "character": "誤魔化す",
+      "romaji": "ごまかす",
+      "meaning": "to deceive; to cheat"
+    },
+    {
+      "type": "kanji",
+      "character": "護衛",
+      "romaji": "ごえい",
+      "meaning": "guard; convoy"
+    },
+    {
+      "type": "kanji",
+      "character": "護岸",
+      "romaji": "ごがん",
+      "meaning": "river dike"
+    },
+    {
+      "type": "kanji",
+      "character": "護憲",
+      "romaji": "ごけん",
+      "meaning": "protecting the constitution"
+    },
+    {
+      "type": "kanji",
+      "character": "護送",
+      "romaji": "ごそう",
+      "meaning": "escort (e.g. under guard); convoy"
+    },
+    {
+      "type": "kanji",
+      "character": "乞食",
+      "romaji": "こじき",
+      "meaning": "beggar"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 90,
+  "lesson": 6,
+  "title": "Vocabulary — Frequency 16651–16660",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "法務",
+      "romaji": "ほうむ",
+      "meaning": "judicial affairs"
+    },
+    {
+      "type": "kanji",
+      "character": "法務省",
+      "romaji": "ほうむしょう",
+      "meaning": "Ministry of Justice"
+    },
+    {
+      "type": "kanji",
+      "character": "法律",
+      "romaji": "ほうりつ",
+      "meaning": "law; legislation"
+    },
+    {
+      "type": "kanji",
+      "character": "法令",
+      "romaji": "ほうれい",
+      "meaning": "statute; law"
+    },
+    {
+      "type": "kanji",
+      "character": "泡",
+      "romaji": "あわ",
+      "meaning": "bubble; foam"
+    },
+    {
+      "type": "kanji",
+      "character": "砲",
+      "romaji": "ほう",
+      "meaning": "gun; cannon"
+    },
+    {
+      "type": "kanji",
+      "character": "砲火",
+      "romaji": "ほうか",
+      "meaning": "gunfire; fire"
+    },
+    {
+      "type": "kanji",
+      "character": "砲撃",
+      "romaji": "ほうげき",
+      "meaning": "bombarding; shelling"
+    },
+    {
+      "type": "kanji",
+      "character": "砲弾",
+      "romaji": "ほうだん",
+      "meaning": "shell; cannonball"
+    },
+    {
+      "type": "kanji",
+      "character": "砲兵",
+      "romaji": "ほうへい",
+      "meaning": "artillery; gunner"
+    }
+  ]
+}

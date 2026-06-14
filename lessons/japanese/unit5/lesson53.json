@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 53,
+  "title": "JLPT N3 Kanji — Part 53",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "巻",
+      "romaji": "カン・ケン / ま.く・まき・ま.き",
+      "meaning": "scroll; volume; book"
+    },
+    {
+      "type": "kanji",
+      "character": "君",
+      "romaji": "クン / きみ・-ぎみ",
+      "meaning": "mister; you; ruler"
+    },
+    {
+      "type": "kanji",
+      "character": "燃",
+      "romaji": "ネン / も.える・も.やす・も.す",
+      "meaning": "burn; blaze; glow"
+    },
+    {
+      "type": "kanji",
+      "character": "閉",
+      "romaji": "ヘイ / と.じる・と.ざす・し.める・し.まる・た.てる",
+      "meaning": "closed; shut"
+    },
+    {
+      "type": "kanji",
+      "character": "緒",
+      "romaji": "ショ・チョ / お・いとぐち",
+      "meaning": "thong; beginning; inception"
+    },
+    {
+      "type": "kanji",
+      "character": "包",
+      "romaji": "ホウ / つつ.む・くる.む",
+      "meaning": "wrap; pack up; cover"
+    },
+    {
+      "type": "kanji",
+      "character": "駐",
+      "romaji": "チュウ",
+      "meaning": "stop-over; reside in; resident"
+    },
+    {
+      "type": "kanji",
+      "character": "賃",
+      "romaji": "チン",
+      "meaning": "fare; fee; hire"
+    },
+    {
+      "type": "kanji",
+      "character": "折",
+      "romaji": "セツ・シャク / お.る・おり・お.り・-お.り・お.れる",
+      "meaning": "fold; break; fracture"
+    },
+    {
+      "type": "kanji",
+      "character": "紹",
+      "romaji": "ショウ",
+      "meaning": "introduce; inherit; help"
+    }
+  ]
+}

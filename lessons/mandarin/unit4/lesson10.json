@@ -1,0 +1,67 @@
+{
+  "unit": 4,
+  "lesson": 10,
+  "title": "HSK 4 Vocabulary — Part 10",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "堵车",
+      "romaji": "dǔ chē",
+      "meaning": "traffic jam; choking"
+    },
+    {
+      "type": "hanzi",
+      "character": "肚子",
+      "romaji": "dù zi",
+      "meaning": "belly; abdomen; stomach; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "断",
+      "romaji": "duàn",
+      "meaning": "to break; to snap; to cut off; to give up or abstain from sth; to judge; (usu. used in the negative) absolutely; definitely; decidedly"
+    },
+    {
+      "type": "hanzi",
+      "character": "对",
+      "romaji": "duì",
+      "meaning": "couple; pair; to be opposite; to oppose; to face; versus; for; to; correct (answer); to answer; to reply; to direct (towards sth); right"
+    },
+    {
+      "type": "hanzi",
+      "character": "对",
+      "romaji": "duì",
+      "meaning": "couple; pair; to be opposite; to oppose; to face; versus; for; to; correct (answer); to answer; to reply; to direct (towards sth); right"
+    },
+    {
+      "type": "hanzi",
+      "character": "对话",
+      "romaji": "duì huà",
+      "meaning": "dialog; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "对面",
+      "romaji": "duì miàn",
+      "meaning": "(sitting) opposite; across (the street); directly in front; to be face to face"
+    },
+    {
+      "type": "hanzi",
+      "character": "顿",
+      "romaji": "dùn",
+      "meaning": "to stop; to pause; to arrange; to lay out; to kowtow; to stamp (one's foot); at once; classifier for meals; beatings; scoldings etc: time; bout; spell; meal"
+    },
+    {
+      "type": "hanzi",
+      "character": "朵",
+      "romaji": "duǒ",
+      "meaning": "flower; earlobe; fig. item on both sides; classifier for flowers; clouds etc"
+    },
+    {
+      "type": "hanzi",
+      "character": "而",
+      "romaji": "ér",
+      "meaning": "and; as well as; and so; but (not); yet (not); (indicates causal relation); (indicates change of state); (indicates contrast)"
+    }
+  ]
+}

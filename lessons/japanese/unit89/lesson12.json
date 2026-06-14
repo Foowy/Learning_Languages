@@ -1,0 +1,67 @@
+{
+  "unit": 89,
+  "lesson": 12,
+  "title": "Vocabulary — Frequency 16511–16520",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "捕手",
+      "romaji": "ほしゅ",
+      "meaning": "catcher"
+    },
+    {
+      "type": "kanji",
+      "character": "捕虜",
+      "romaji": "ほりょ",
+      "meaning": "prisoner (of war); POW"
+    },
+    {
+      "type": "kanji",
+      "character": "歩",
+      "romaji": "ほ",
+      "meaning": "step; stride"
+    },
+    {
+      "type": "kanji",
+      "character": "歩き回る",
+      "romaji": "あるきまわる",
+      "meaning": "to walk about; to walk around"
+    },
+    {
+      "type": "kanji",
+      "character": "歩く",
+      "romaji": "あるく",
+      "meaning": "to walk"
+    },
+    {
+      "type": "kanji",
+      "character": "歩み",
+      "romaji": "あゆみ",
+      "meaning": "walking"
+    },
+    {
+      "type": "kanji",
+      "character": "歩み寄る",
+      "romaji": "あゆみよる",
+      "meaning": "to compromise; to meet halfway"
+    },
+    {
+      "type": "kanji",
+      "character": "歩む",
+      "romaji": "あゆむ",
+      "meaning": "to walk; to go on foot"
+    },
+    {
+      "type": "kanji",
+      "character": "歩行",
+      "romaji": "ほこう",
+      "meaning": "walking; walk"
+    },
+    {
+      "type": "kanji",
+      "character": "歩行者",
+      "romaji": "ほこうしゃ",
+      "meaning": "pedestrian; walker"
+    }
+  ]
+}

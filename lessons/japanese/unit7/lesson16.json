@@ -1,0 +1,67 @@
+{
+  "unit": 7,
+  "lesson": 16,
+  "title": "Vocabulary — Frequency 151–160",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "ぐるぐる",
+      "romaji": "ぐるぐる",
+      "meaning": "(turning) round and round; in circles"
+    },
+    {
+      "type": "kana",
+      "character": "けじめ",
+      "romaji": "けじめ",
+      "meaning": "distinction; difference (between two things)"
+    },
+    {
+      "type": "kana",
+      "character": "けど",
+      "romaji": "けど",
+      "meaning": "but; however"
+    },
+    {
+      "type": "kanji",
+      "character": "斯う",
+      "romaji": "こう",
+      "meaning": "in this way; like this"
+    },
+    {
+      "type": "kanji",
+      "character": "こう言う",
+      "romaji": "こういう",
+      "meaning": "such; this sort of"
+    },
+    {
+      "type": "kana",
+      "character": "こうすると",
+      "romaji": "こうすると",
+      "meaning": "having done this; if this is done"
+    },
+    {
+      "type": "kana",
+      "character": "こうすれば",
+      "romaji": "こうすれば",
+      "meaning": "if you do this; if this is the case"
+    },
+    {
+      "type": "kana",
+      "character": "こそ",
+      "romaji": "こそ",
+      "meaning": "it is ... that ...; precisely"
+    },
+    {
+      "type": "kana",
+      "character": "こそこそ",
+      "romaji": "こそこそ",
+      "meaning": "sneakily; secretly"
+    },
+    {
+      "type": "kanji",
+      "character": "拘る",
+      "romaji": "こだわる",
+      "meaning": "to be obsessive (about); to be overly concerned (with)"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 4,
+  "lesson": 30,
+  "title": "HSK 4 Vocabulary — Part 30",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "律师",
+      "romaji": "lǜ shī",
+      "meaning": "lawyer"
+    },
+    {
+      "type": "hanzi",
+      "character": "麻烦",
+      "romaji": "má fan",
+      "meaning": "inconvenient; troublesome; annoying; to trouble or bother sb; to put sb to trouble"
+    },
+    {
+      "type": "hanzi",
+      "character": "马虎",
+      "romaji": "mǎ hu",
+      "meaning": "careless; sloppy; negligent; skimpy"
+    },
+    {
+      "type": "hanzi",
+      "character": "满",
+      "romaji": "mǎn",
+      "meaning": "full; filled; packed; fully; completely; quite; to reach the limit; to satisfy; satisfied; contented; to fill; abbr. for Manchurian"
+    },
+    {
+      "type": "hanzi",
+      "character": "毛巾",
+      "romaji": "máo jīn",
+      "meaning": "towel; CL:條|条[tiáo]"
+    },
+    {
+      "type": "hanzi",
+      "character": "美丽",
+      "romaji": "měi lì",
+      "meaning": "beautiful"
+    },
+    {
+      "type": "hanzi",
+      "character": "梦",
+      "romaji": "mèng",
+      "meaning": "dream; CL:場|场; 個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "密码",
+      "romaji": "mì mǎ",
+      "meaning": "code; secret code; password; pin number"
+    },
+    {
+      "type": "hanzi",
+      "character": "免费",
+      "romaji": "miǎn fèi",
+      "meaning": "free (of charge)"
+    },
+    {
+      "type": "hanzi",
+      "character": "民族",
+      "romaji": "mín zú",
+      "meaning": "nationality; ethnic group; CL:個|个[gè]"
+    }
+  ]
+}

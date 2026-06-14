@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 222,
+  "title": "HSK 6 Vocabulary — Part 222",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "愈",
+      "romaji": "yù",
+      "meaning": "to heal"
+    },
+    {
+      "type": "hanzi",
+      "character": "预料",
+      "romaji": "yù liào",
+      "meaning": "to forecast; to anticipate; expectation"
+    },
+    {
+      "type": "hanzi",
+      "character": "预期",
+      "romaji": "yù qī",
+      "meaning": "to expect; to anticipate"
+    },
+    {
+      "type": "hanzi",
+      "character": "预赛",
+      "romaji": "yù sài",
+      "meaning": "preliminary competition; to hold preliminary heats"
+    },
+    {
+      "type": "hanzi",
+      "character": "预算",
+      "romaji": "yù suàn",
+      "meaning": "budget"
+    },
+    {
+      "type": "hanzi",
+      "character": "预先",
+      "romaji": "yù xiān",
+      "meaning": "beforehand; in advance"
+    },
+    {
+      "type": "hanzi",
+      "character": "预言",
+      "romaji": "yù yán",
+      "meaning": "to predict; prophecy"
+    },
+    {
+      "type": "hanzi",
+      "character": "预兆",
+      "romaji": "yù zhào",
+      "meaning": "omen; prognosis (in medicine)"
+    },
+    {
+      "type": "hanzi",
+      "character": "欲望",
+      "romaji": "yù wàng",
+      "meaning": "desire; longing; appetite; craving"
+    },
+    {
+      "type": "hanzi",
+      "character": "寓言",
+      "romaji": "yù yán",
+      "meaning": "fable; CL:則|则[zé]"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 28,
+  "lesson": 10,
+  "title": "Vocabulary — Frequency 4291–4300",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "リトルロック",
+      "romaji": "リトルロック",
+      "meaning": "Little Rock"
+    },
+    {
+      "type": "kana",
+      "character": "リニア",
+      "romaji": "リニア",
+      "meaning": "linear"
+    },
+    {
+      "type": "kana",
+      "character": "リニアモーターカー",
+      "romaji": "リニアモーターカー",
+      "meaning": "linear motor train; linear induction motor train"
+    },
+    {
+      "type": "kana",
+      "character": "リネーム",
+      "romaji": "リネーム",
+      "meaning": "rename"
+    },
+    {
+      "type": "kana",
+      "character": "リハーサル",
+      "romaji": "リハーサル",
+      "meaning": "rehearsal"
+    },
+    {
+      "type": "kana",
+      "character": "リハビリ",
+      "romaji": "リハビリ",
+      "meaning": "rehabilitation"
+    },
+    {
+      "type": "kana",
+      "character": "リハビリテーション",
+      "romaji": "リハビリテーション",
+      "meaning": "rehabilitation"
+    },
+    {
+      "type": "kana",
+      "character": "リバーシブル",
+      "romaji": "リバーシブル",
+      "meaning": "reversible"
+    },
+    {
+      "type": "kana",
+      "character": "リバイバル",
+      "romaji": "リバイバル",
+      "meaning": "revival"
+    },
+    {
+      "type": "kana",
+      "character": "リバウンド",
+      "romaji": "リバウンド",
+      "meaning": "rebound"
+    }
+  ]
+}

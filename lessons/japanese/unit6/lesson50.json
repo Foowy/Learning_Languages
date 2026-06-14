@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 50,
+  "title": "JLPT N2/N1 Kanji — Part 50",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "据",
+      "romaji": "キョ / す.える・す.わる",
+      "meaning": "set; lay a foundation; install"
+    },
+    {
+      "type": "kanji",
+      "character": "肥",
+      "romaji": "ヒ / こ.える・こえ・こ.やす・こ.やし・ふと.る",
+      "meaning": "fertilizer; get fat; fertile"
+    },
+    {
+      "type": "kanji",
+      "character": "徐",
+      "romaji": "ジョ / おもむ.ろに",
+      "meaning": "gradually; slowly; deliberately"
+    },
+    {
+      "type": "kanji",
+      "character": "糖",
+      "romaji": "トウ",
+      "meaning": "sugar"
+    },
+    {
+      "type": "kanji",
+      "character": "搭",
+      "romaji": "トウ",
+      "meaning": "board; load (a vehicle); ride"
+    },
+    {
+      "type": "kanji",
+      "character": "盾",
+      "romaji": "ジュン / たて",
+      "meaning": "shield; escutcheon; pretext"
+    },
+    {
+      "type": "kanji",
+      "character": "脈",
+      "romaji": "ミャク / すじ",
+      "meaning": "vein; pulse; hope"
+    },
+    {
+      "type": "kanji",
+      "character": "滝",
+      "romaji": "ロウ・ソウ / たき",
+      "meaning": "waterfall; rapids; cascade"
+    },
+    {
+      "type": "kanji",
+      "character": "軌",
+      "romaji": "キ",
+      "meaning": "rut; wheel; track"
+    },
+    {
+      "type": "kanji",
+      "character": "俵",
+      "romaji": "ヒョウ / たわら",
+      "meaning": "bag; bale; sack"
+    }
+  ]
+}

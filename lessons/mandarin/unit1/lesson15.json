@@ -1,0 +1,67 @@
+{
+  "unit": 1,
+  "lesson": 15,
+  "title": "HSK 1 Vocabulary — Part 15",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "怎么样",
+      "romaji": "zěn me yàng",
+      "meaning": "how?; how about?; how was it?; how are things?"
+    },
+    {
+      "type": "hanzi",
+      "character": "这",
+      "romaji": "zhè",
+      "meaning": "this; these; (commonly pr.  before a classifier; esp. in Beijing)"
+    },
+    {
+      "type": "hanzi",
+      "character": "中国",
+      "romaji": "Zhōng guó",
+      "meaning": "China; Middle Kingdom"
+    },
+    {
+      "type": "hanzi",
+      "character": "中午",
+      "romaji": "zhōng wǔ",
+      "meaning": "noon; midday; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "住",
+      "romaji": "zhù",
+      "meaning": "to live; to dwell; to stay; to reside; to stop; (suffix indicating firmness; steadiness; or coming to a halt)"
+    },
+    {
+      "type": "hanzi",
+      "character": "桌子",
+      "romaji": "zhuō zi",
+      "meaning": "table; desk; CL:張|张; 套[tào]"
+    },
+    {
+      "type": "hanzi",
+      "character": "字",
+      "romaji": "zì",
+      "meaning": "letter; symbol; character; word; CL:個|个[gè]; courtesy or style name traditionally given to males aged 20 in dynastic China"
+    },
+    {
+      "type": "hanzi",
+      "character": "昨天",
+      "romaji": "zuó tiān",
+      "meaning": "yesterday"
+    },
+    {
+      "type": "hanzi",
+      "character": "坐",
+      "romaji": "zuò",
+      "meaning": "to sit; to take a seat; to take (a bus; airplane etc); to bear fruit; variant of 座[zuò]"
+    },
+    {
+      "type": "hanzi",
+      "character": "做",
+      "romaji": "zuò",
+      "meaning": "to do; to make; to produce; to write; to compose; to act as; to engage in; to hold (a party); to be; to become; to function (in some capacity); to serve as; to be used for; to form (a bond or relationship); to pretend; to feign; to act a part; to put on appearance"
+    }
+  ]
+}

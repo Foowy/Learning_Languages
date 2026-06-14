@@ -1,0 +1,67 @@
+{
+  "unit": 61,
+  "lesson": 13,
+  "title": "Vocabulary — Frequency 10921–10930",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "除籍",
+      "romaji": "じょせき",
+      "meaning": "removing a name"
+    },
+    {
+      "type": "kanji",
+      "character": "除草",
+      "romaji": "じょそう",
+      "meaning": "weeding"
+    },
+    {
+      "type": "kanji",
+      "character": "除名",
+      "romaji": "じょめい",
+      "meaning": "striking off a name; dropping a name (from a list)"
+    },
+    {
+      "type": "kanji",
+      "character": "傷害",
+      "romaji": "しょうがい",
+      "meaning": "injury; inflicting bodily injury"
+    },
+    {
+      "type": "kanji",
+      "character": "傷口",
+      "romaji": "きずぐち",
+      "meaning": "(opening of a) wound; cut"
+    },
+    {
+      "type": "kanji",
+      "character": "傷者",
+      "romaji": "しょうしゃ",
+      "meaning": "wounded person; casualty"
+    },
+    {
+      "type": "kanji",
+      "character": "傷つける",
+      "romaji": "きずつける",
+      "meaning": "to wound; to injure"
+    },
+    {
+      "type": "kanji",
+      "character": "償い",
+      "romaji": "つぐない",
+      "meaning": "recompense; indemnity"
+    },
+    {
+      "type": "kanji",
+      "character": "償う",
+      "romaji": "つぐなう",
+      "meaning": "to make up for; to compensate for"
+    },
+    {
+      "type": "kanji",
+      "character": "償還",
+      "romaji": "しょうかん",
+      "meaning": "repayment; redemption"
+    }
+  ]
+}

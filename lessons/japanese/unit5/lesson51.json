@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 51,
+  "title": "JLPT N3 Kanji — Part 51",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "互",
+      "romaji": "ゴ / たが.い・かたみ.に",
+      "meaning": "mutually; reciprocally; together"
+    },
+    {
+      "type": "kanji",
+      "character": "複",
+      "romaji": "フク",
+      "meaning": "duplicate; double; compound"
+    },
+    {
+      "type": "kanji",
+      "character": "郵",
+      "romaji": "ユウ",
+      "meaning": "mail; stagecoach stop"
+    },
+    {
+      "type": "kanji",
+      "character": "束",
+      "romaji": "ソク / たば・たば.ねる・つか・つか.ねる",
+      "meaning": "bundle; sheaf; ream"
+    },
+    {
+      "type": "kanji",
+      "character": "仲",
+      "romaji": "チュウ / なか",
+      "meaning": "go-between; relationship"
+    },
+    {
+      "type": "kanji",
+      "character": "栄",
+      "romaji": "エイ・ヨウ / さか.える・は.え・-ば.え・は.える・え",
+      "meaning": "flourish; prosperity; honor"
+    },
+    {
+      "type": "kanji",
+      "character": "札",
+      "romaji": "サツ / ふだ",
+      "meaning": "tag; paper money; counter for bonds"
+    },
+    {
+      "type": "kanji",
+      "character": "似",
+      "romaji": "ジ / に.る・ひ.る",
+      "meaning": "becoming; resemble; counterfeit"
+    },
+    {
+      "type": "kanji",
+      "character": "恵",
+      "romaji": "ケイ・エ / めぐ.む・めぐ.み",
+      "meaning": "favor; blessing; grace"
+    },
+    {
+      "type": "kanji",
+      "character": "板",
+      "romaji": "ハン・バン / いた",
+      "meaning": "plank; board; plate"
+    }
+  ]
+}

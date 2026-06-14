@@ -1,0 +1,67 @@
+{
+  "unit": 57,
+  "lesson": 11,
+  "title": "Vocabulary — Frequency 10101–10110",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "煮込む",
+      "romaji": "にこむ",
+      "meaning": "to boil well; to stew"
+    },
+    {
+      "type": "kanji",
+      "character": "煮物",
+      "romaji": "にもの",
+      "meaning": "nimono; food cooked by boiling or stewing"
+    },
+    {
+      "type": "kanji",
+      "character": "社員",
+      "romaji": "しゃいん",
+      "meaning": "company employee"
+    },
+    {
+      "type": "kanji",
+      "character": "社会",
+      "romaji": "しゃかい",
+      "meaning": "society; public"
+    },
+    {
+      "type": "kanji",
+      "character": "社会科学",
+      "romaji": "しゃかいかがく",
+      "meaning": "social science"
+    },
+    {
+      "type": "kanji",
+      "character": "社会学",
+      "romaji": "しゃかいがく",
+      "meaning": "sociology"
+    },
+    {
+      "type": "kanji",
+      "character": "社会主義",
+      "romaji": "しゃかいしゅぎ",
+      "meaning": "socialism"
+    },
+    {
+      "type": "kanji",
+      "character": "社会人",
+      "romaji": "しゃかいじん",
+      "meaning": "working adult; full-fledged member of society"
+    },
+    {
+      "type": "kanji",
+      "character": "社会党",
+      "romaji": "しゃかいとう",
+      "meaning": "Socialist Party"
+    },
+    {
+      "type": "kanji",
+      "character": "社会福祉",
+      "romaji": "しゃかいふくし",
+      "meaning": "social welfare"
+    }
+  ]
+}

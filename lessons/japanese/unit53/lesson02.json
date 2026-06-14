@@ -1,0 +1,67 @@
+{
+  "unit": 53,
+  "lesson": 2,
+  "title": "Vocabulary — Frequency 9211–9220",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "財団法人",
+      "romaji": "ざいだんほうじん",
+      "meaning": "incorporated foundation; juridical foundation"
+    },
+    {
+      "type": "kanji",
+      "character": "財閥",
+      "romaji": "ざいばつ",
+      "meaning": "zaibatsu; financial conglomerate"
+    },
+    {
+      "type": "kanji",
+      "character": "財布",
+      "romaji": "さいふ",
+      "meaning": "wallet; purse"
+    },
+    {
+      "type": "kanji",
+      "character": "財務",
+      "romaji": "ざいむ",
+      "meaning": "financial affairs"
+    },
+    {
+      "type": "kanji",
+      "character": "冴える",
+      "romaji": "さえる",
+      "meaning": "to be clear (of a sight, sound, colour, etc.); to be bright"
+    },
+    {
+      "type": "kanji",
+      "character": "坂",
+      "romaji": "さか",
+      "meaning": "slope; incline"
+    },
+    {
+      "type": "kanji",
+      "character": "坂道",
+      "romaji": "さかみち",
+      "meaning": "hill road"
+    },
+    {
+      "type": "kanji",
+      "character": "阪神",
+      "romaji": "はんしん",
+      "meaning": "Osaka-Kobe"
+    },
+    {
+      "type": "kanji",
+      "character": "咲き乱れる",
+      "romaji": "さきみだれる",
+      "meaning": "to bloom in profusion"
+    },
+    {
+      "type": "kanji",
+      "character": "咲く",
+      "romaji": "さく",
+      "meaning": "to bloom; to flower"
+    }
+  ]
+}

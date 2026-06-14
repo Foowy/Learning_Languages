@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 56,
+  "title": "JLPT N3 Kanji — Part 56",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "詰",
+      "romaji": "キツ・キチ / つ.める・つ.め・-づ.め・つ.まる・つ.む",
+      "meaning": "packed; close; pressed"
+    },
+    {
+      "type": "kanji",
+      "character": "晴",
+      "romaji": "セイ / は.れる・は.れ・は.れ-・-ば.れ・は.らす",
+      "meaning": "clear up"
+    },
+    {
+      "type": "kanji",
+      "character": "双",
+      "romaji": "ソウ / ふた・たぐい・ならぶ・ふたつ",
+      "meaning": "pair; set; comparison"
+    },
+    {
+      "type": "kanji",
+      "character": "刺",
+      "romaji": "シ / さ.す・さ.さる・さ.し・さし・とげ",
+      "meaning": "thorn; pierce; stab"
+    },
+    {
+      "type": "kanji",
+      "character": "到",
+      "romaji": "トウ / いた.る",
+      "meaning": "arrival; proceed; reach"
+    },
+    {
+      "type": "kanji",
+      "character": "寝",
+      "romaji": "シン / ね.る・ね.かす・い.ぬ・みたまや・や.める",
+      "meaning": "lie down; sleep; rest"
+    },
+    {
+      "type": "kanji",
+      "character": "壁",
+      "romaji": "ヘキ / かべ",
+      "meaning": "wall; lining (stomach); fence"
+    },
+    {
+      "type": "kanji",
+      "character": "仮",
+      "romaji": "カ・ケ / かり・かり-",
+      "meaning": "sham; temporary; interim"
+    },
+    {
+      "type": "kanji",
+      "character": "純",
+      "romaji": "ジュン",
+      "meaning": "genuine; purity; innocence"
+    },
+    {
+      "type": "kanji",
+      "character": "盗",
+      "romaji": "トウ / ぬす.む・ぬす.み",
+      "meaning": "steal; rob; pilfer"
+    }
+  ]
+}

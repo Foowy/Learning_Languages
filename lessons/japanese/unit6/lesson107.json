@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 107,
+  "title": "JLPT N2/N1 Kanji — Part 107",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "旺",
+      "romaji": "オウ / さかん",
+      "meaning": "flourishing; successful; beautiful"
+    },
+    {
+      "type": "kanji",
+      "character": "萌",
+      "romaji": "ホウ / も.える・きざ.す・めばえ・きざ.し",
+      "meaning": "show symptoms of; sprout; bud"
+    },
+    {
+      "type": "kanji",
+      "character": "偲",
+      "romaji": "サイ・シ / しの.ぶ",
+      "meaning": "recollect; remember"
+    },
+    {
+      "type": "kanji",
+      "character": "壱",
+      "romaji": "イチ・イツ / ひとつ",
+      "meaning": "one (in documents)"
+    },
+    {
+      "type": "kanji",
+      "character": "瑠",
+      "romaji": "ル・リュウ",
+      "meaning": "lapis lazuli"
+    },
+    {
+      "type": "kanji",
+      "character": "允",
+      "romaji": "イン / じょう・まこと.に・ゆるす",
+      "meaning": "license; sincerity; permit"
+    },
+    {
+      "type": "kanji",
+      "character": "侯",
+      "romaji": "コウ",
+      "meaning": "marquis; lord; daimyo"
+    },
+    {
+      "type": "kanji",
+      "character": "蒔",
+      "romaji": "シ・ジ / う.える・ま.く",
+      "meaning": "sow (seeds)"
+    },
+    {
+      "type": "kanji",
+      "character": "鯉",
+      "romaji": "リ / こい",
+      "meaning": "carp"
+    },
+    {
+      "type": "kanji",
+      "character": "弧",
+      "romaji": "コ",
+      "meaning": "arc; arch; bow"
+    }
+  ]
+}

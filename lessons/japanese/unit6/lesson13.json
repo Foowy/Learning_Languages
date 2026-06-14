@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 13,
+  "title": "JLPT N2/N1 Kanji — Part 13",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "奈",
+      "romaji": "ナ・ナイ・ダイ / いかん・からなし",
+      "meaning": "Nara; what?"
+    },
+    {
+      "type": "kanji",
+      "character": "傷",
+      "romaji": "ショウ / きず・いた.む・いた.める",
+      "meaning": "wound; hurt; injure"
+    },
+    {
+      "type": "kanji",
+      "character": "択",
+      "romaji": "タク / えら.ぶ",
+      "meaning": "choose; select; elect"
+    },
+    {
+      "type": "kanji",
+      "character": "秀",
+      "romaji": "シュウ / ひい.でる",
+      "meaning": "excel; excellence; beauty"
+    },
+    {
+      "type": "kanji",
+      "character": "徴",
+      "romaji": "チョウ・チ / しるし",
+      "meaning": "indications; sign; omen"
+    },
+    {
+      "type": "kanji",
+      "character": "弾",
+      "romaji": "ダン・タン / ひ.く・-ひ.き・はず.む・たま・はじ.く・はじ.ける・ただ.す・はじ.きゆみ",
+      "meaning": "bullet; twang; flip"
+    },
+    {
+      "type": "kanji",
+      "character": "償",
+      "romaji": "ショウ / つぐな.う",
+      "meaning": "reparation; make up for; recompense"
+    },
+    {
+      "type": "kanji",
+      "character": "功",
+      "romaji": "コウ・ク / いさお",
+      "meaning": "achievement; merits; success"
+    },
+    {
+      "type": "kanji",
+      "character": "拠",
+      "romaji": "キョ・コ / よ.る",
+      "meaning": "foothold; based on; follow"
+    },
+    {
+      "type": "kanji",
+      "character": "秘",
+      "romaji": "ヒ / ひ.める・ひそ.か・かく.す",
+      "meaning": "secret; conceal"
+    }
+  ]
+}

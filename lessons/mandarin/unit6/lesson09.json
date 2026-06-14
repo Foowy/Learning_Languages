@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 9,
+  "title": "HSK 6 Vocabulary — Part 9",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "背叛",
+      "romaji": "bèi pàn",
+      "meaning": "to betray"
+    },
+    {
+      "type": "hanzi",
+      "character": "背诵",
+      "romaji": "bèi sòng",
+      "meaning": "recite; repeat from memory"
+    },
+    {
+      "type": "hanzi",
+      "character": "备份",
+      "romaji": "bèi fèn",
+      "meaning": "backup"
+    },
+    {
+      "type": "hanzi",
+      "character": "备忘录",
+      "romaji": "bèi wàng lù",
+      "meaning": "memorandum; aide-memoire; memorandum book"
+    },
+    {
+      "type": "hanzi",
+      "character": "贝壳",
+      "romaji": "bèi ké",
+      "meaning": "shell; conch; cowry; mother of pearl; hard outer skin; alternative reading; mostly written"
+    },
+    {
+      "type": "hanzi",
+      "character": "奔波",
+      "romaji": "bēn bō",
+      "meaning": "to rush about; to be constantly on the move"
+    },
+    {
+      "type": "hanzi",
+      "character": "奔驰",
+      "romaji": "bēn chí",
+      "meaning": "to run quickly; to speed; to gallop"
+    },
+    {
+      "type": "hanzi",
+      "character": "本能",
+      "romaji": "běn néng",
+      "meaning": "instinct"
+    },
+    {
+      "type": "hanzi",
+      "character": "本钱",
+      "romaji": "běn qián",
+      "meaning": "capital"
+    },
+    {
+      "type": "hanzi",
+      "character": "本人",
+      "romaji": "běn rén",
+      "meaning": "the person himself; I (humble form used in speeches); oneself; myself; in person; personal"
+    }
+  ]
+}

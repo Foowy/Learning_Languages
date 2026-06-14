@@ -1,0 +1,67 @@
+{
+  "unit": 8,
+  "lesson": 11,
+  "title": "Vocabulary — Frequency 301–310",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "でかい",
+      "romaji": "でかい",
+      "meaning": "huge; big"
+    },
+    {
+      "type": "kana",
+      "character": "でしょう",
+      "romaji": "でしょう",
+      "meaning": "it seems; I think"
+    },
+    {
+      "type": "kana",
+      "character": "ですから",
+      "romaji": "ですから",
+      "meaning": "so; therefore"
+    },
+    {
+      "type": "kana",
+      "character": "では",
+      "romaji": "では",
+      "meaning": "then; well"
+    },
+    {
+      "type": "kana",
+      "character": "でも",
+      "romaji": "でも",
+      "meaning": "but; however"
+    },
+    {
+      "type": "kana",
+      "character": "と",
+      "romaji": "と",
+      "meaning": "if; when"
+    },
+    {
+      "type": "kanji",
+      "character": "と言うもの",
+      "romaji": "というもの",
+      "meaning": "something like ...; something called ..."
+    },
+    {
+      "type": "kana",
+      "character": "とか",
+      "romaji": "とか",
+      "meaning": "and the like; such as"
+    },
+    {
+      "type": "kanji",
+      "character": "所が",
+      "romaji": "ところが",
+      "meaning": "even so; however"
+    },
+    {
+      "type": "kana",
+      "character": "として",
+      "romaji": "として",
+      "meaning": "as (i.e. in the role of); for (i.e. from the viewpoint of)"
+    }
+  ]
+}

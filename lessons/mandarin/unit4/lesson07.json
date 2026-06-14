@@ -1,0 +1,67 @@
+{
+  "unit": 4,
+  "lesson": 7,
+  "title": "HSK 4 Vocabulary — Part 7",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "打扮",
+      "romaji": "dǎ ban",
+      "meaning": "to decorate; to dress; to make up; to adorn; manner of dressing; style of dress"
+    },
+    {
+      "type": "hanzi",
+      "character": "打扰",
+      "romaji": "dǎ rǎo",
+      "meaning": "to disturb; to bother; to trouble"
+    },
+    {
+      "type": "hanzi",
+      "character": "打印",
+      "romaji": "dǎ yìn",
+      "meaning": "to print; to seal; to stamp"
+    },
+    {
+      "type": "hanzi",
+      "character": "打折",
+      "romaji": "dǎ zhé",
+      "meaning": "to give a discount"
+    },
+    {
+      "type": "hanzi",
+      "character": "打针",
+      "romaji": "dǎ zhēn",
+      "meaning": "to give or have an injection"
+    },
+    {
+      "type": "hanzi",
+      "character": "大概",
+      "romaji": "dà gài",
+      "meaning": "roughly; probably; rough; approximate; about"
+    },
+    {
+      "type": "hanzi",
+      "character": "大使馆",
+      "romaji": "dà shǐ guǎn",
+      "meaning": "embassy; CL:座; 個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "大约",
+      "romaji": "dà yuē",
+      "meaning": "approximately; about"
+    },
+    {
+      "type": "hanzi",
+      "character": "戴",
+      "romaji": "dài",
+      "meaning": "to put on or wear (glasses; hat; gloves etc); to respect; to bear; to support"
+    },
+    {
+      "type": "hanzi",
+      "character": "代表",
+      "romaji": "dài biǎo",
+      "meaning": "representative; delegate; CL:位; 個|个; 名[míng]; to represent; to stand for; on behalf of; in the name of"
+    }
+  ]
+}

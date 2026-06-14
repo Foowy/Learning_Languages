@@ -1,0 +1,67 @@
+{
+  "unit": 9,
+  "lesson": 7,
+  "title": "Vocabulary — Frequency 461–470",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "寄越す",
+      "romaji": "よこす",
+      "meaning": "to send; to forward"
+    },
+    {
+      "type": "kanji",
+      "character": "涎",
+      "romaji": "よだれ",
+      "meaning": "drool"
+    },
+    {
+      "type": "kana",
+      "character": "ヨチヨチ",
+      "romaji": "ヨチヨチ",
+      "meaning": "totteringly; with tottering steps"
+    },
+    {
+      "type": "kana",
+      "character": "より",
+      "romaji": "より",
+      "meaning": "than"
+    },
+    {
+      "type": "kana",
+      "character": "よれば",
+      "romaji": "よれば",
+      "meaning": "according to"
+    },
+    {
+      "type": "kanji",
+      "character": "蹌踉めく",
+      "romaji": "よろめく",
+      "meaning": "to stagger; to stumble"
+    },
+    {
+      "type": "kana",
+      "character": "よろよろ",
+      "romaji": "よろよろ",
+      "meaning": "tottering; staggering"
+    },
+    {
+      "type": "kana",
+      "character": "らしい",
+      "romaji": "らしい",
+      "meaning": "seeming ...; appearing ..."
+    },
+    {
+      "type": "kana",
+      "character": "ワイワイ",
+      "romaji": "ワイワイ",
+      "meaning": "noisily; clamorously"
+    },
+    {
+      "type": "kana",
+      "character": "わくわく",
+      "romaji": "わくわく",
+      "meaning": "to be excited; to be nervous"
+    }
+  ]
+}

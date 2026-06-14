@@ -1,0 +1,67 @@
+{
+  "unit": 3,
+  "lesson": 3,
+  "title": "JLPT N5 Kanji — Part 3",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "後",
+      "romaji": "ゴ・コウ / のち・うし.ろ・うしろ・あと・おく.れる",
+      "meaning": "behind; back; later"
+    },
+    {
+      "type": "kanji",
+      "character": "前",
+      "romaji": "ゼン / まえ・-まえ",
+      "meaning": "in front; before"
+    },
+    {
+      "type": "kanji",
+      "character": "生",
+      "romaji": "セイ・ショウ / い.きる・い.かす・い.ける・う.まれる・うま.れる・う.まれ・うまれ・う.む・お.う・は.える・は.やす・き・なま・なま-・な.る・な.す・む.す・-う",
+      "meaning": "life; genuine; birth"
+    },
+    {
+      "type": "kanji",
+      "character": "五",
+      "romaji": "ゴ / いつ・いつ.つ",
+      "meaning": "five"
+    },
+    {
+      "type": "kanji",
+      "character": "間",
+      "romaji": "カン・ケン / あいだ・ま・あい",
+      "meaning": "interval; space"
+    },
+    {
+      "type": "kanji",
+      "character": "上",
+      "romaji": "ジョウ・ショウ・シャン / うえ・-うえ・うわ-・かみ・あ.げる・-あ.げる・あ.がる・-あ.がる・あ.がり・-あ.がり・のぼ.る・のぼ.り・のぼ.せる・のぼ.す・たてまつ.る",
+      "meaning": "above; up"
+    },
+    {
+      "type": "kanji",
+      "character": "東",
+      "romaji": "トウ / ひがし",
+      "meaning": "east"
+    },
+    {
+      "type": "kanji",
+      "character": "四",
+      "romaji": "シ / よ・よ.つ・よっ.つ・よん",
+      "meaning": "four"
+    },
+    {
+      "type": "kanji",
+      "character": "今",
+      "romaji": "コン・キン / いま",
+      "meaning": "now"
+    },
+    {
+      "type": "kanji",
+      "character": "新",
+      "romaji": "シン / あたら.しい・あら.た・あら-・にい-",
+      "meaning": "new"
+    }
+  ]
+}

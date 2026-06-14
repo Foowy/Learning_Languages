@@ -1,0 +1,67 @@
+{
+  "unit": 65,
+  "lesson": 3,
+  "title": "Vocabulary — Frequency 11621–11630",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "身長",
+      "romaji": "しんちょう",
+      "meaning": "height (of a person); stature"
+    },
+    {
+      "type": "kanji",
+      "character": "身投げ",
+      "romaji": "みなげ",
+      "meaning": "throwing oneself (e.g. into the water to commit suicide)"
+    },
+    {
+      "type": "kanji",
+      "character": "身内",
+      "romaji": "みうち",
+      "meaning": "relatives; one's family"
+    },
+    {
+      "type": "kanji",
+      "character": "身分",
+      "romaji": "みぶん",
+      "meaning": "(social) standing; status"
+    },
+    {
+      "type": "kanji",
+      "character": "身分証明書",
+      "romaji": "みぶんしょうめいしょ",
+      "meaning": "identification papers; piece of identification"
+    },
+    {
+      "type": "kanji",
+      "character": "身柄",
+      "romaji": "みがら",
+      "meaning": "one's person"
+    },
+    {
+      "type": "kanji",
+      "character": "身辺",
+      "romaji": "しんぺん",
+      "meaning": "one's person; around one's person"
+    },
+    {
+      "type": "kanji",
+      "character": "辛い",
+      "romaji": "からい",
+      "meaning": "spicy; hot"
+    },
+    {
+      "type": "kanji",
+      "character": "辛い",
+      "romaji": "つらい",
+      "meaning": "painful; bitter"
+    },
+    {
+      "type": "kanji",
+      "character": "辛うじて",
+      "romaji": "かろうじて",
+      "meaning": "barely; narrowly"
+    }
+  ]
+}

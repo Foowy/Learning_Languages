@@ -1,0 +1,67 @@
+{
+  "unit": 4,
+  "lesson": 6,
+  "title": "JLPT N4 Kanji — Part 6",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "文",
+      "romaji": "ブン・モン / ふみ・あや",
+      "meaning": "sentence; literature; style"
+    },
+    {
+      "type": "kanji",
+      "character": "元",
+      "romaji": "ゲン・ガン / もと",
+      "meaning": "beginning; former time; origin"
+    },
+    {
+      "type": "kanji",
+      "character": "重",
+      "romaji": "ジュウ・チョウ / え・おも.い・おも.り・おも.なう・かさ.ねる・かさ.なる・おも",
+      "meaning": "heavy; important; esteem"
+    },
+    {
+      "type": "kanji",
+      "character": "近",
+      "romaji": "キン・コン / ちか.い",
+      "meaning": "near; early; akin"
+    },
+    {
+      "type": "kanji",
+      "character": "考",
+      "romaji": "コウ / かんが.える・かんが.え",
+      "meaning": "consider; think over"
+    },
+    {
+      "type": "kanji",
+      "character": "画",
+      "romaji": "ガ・カク・エ・カイ / えが.く・かく.する・かぎ.る・はかりごと・はか.る",
+      "meaning": "brush-stroke; picture"
+    },
+    {
+      "type": "kanji",
+      "character": "海",
+      "romaji": "カイ / うみ",
+      "meaning": "sea; ocean"
+    },
+    {
+      "type": "kanji",
+      "character": "売",
+      "romaji": "バイ / う.る・う.れる",
+      "meaning": "sell"
+    },
+    {
+      "type": "kanji",
+      "character": "知",
+      "romaji": "チ / し.る・し.らせる",
+      "meaning": "know; wisdom"
+    },
+    {
+      "type": "kanji",
+      "character": "集",
+      "romaji": "シュウ / あつ.まる・あつ.める・つど.う",
+      "meaning": "gather; meet; congregate"
+    }
+  ]
+}

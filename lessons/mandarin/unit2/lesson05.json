@@ -1,0 +1,67 @@
+{
+  "unit": 2,
+  "lesson": 5,
+  "title": "HSK 2 Vocabulary — Part 5",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "红",
+      "romaji": "hóng",
+      "meaning": "red; popular; revolutionary; bonus"
+    },
+    {
+      "type": "hanzi",
+      "character": "欢迎",
+      "romaji": "huān yíng",
+      "meaning": "to welcome; welcome"
+    },
+    {
+      "type": "hanzi",
+      "character": "还",
+      "romaji": "huán",
+      "meaning": "to pay back; to return"
+    },
+    {
+      "type": "hanzi",
+      "character": "回答",
+      "romaji": "huí dá",
+      "meaning": "to reply; to answer; the answer; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "机场",
+      "romaji": "jī chǎng",
+      "meaning": "airport; airfield; CL:家; 處|处[chù]"
+    },
+    {
+      "type": "hanzi",
+      "character": "鸡蛋",
+      "romaji": "jī dàn",
+      "meaning": "(chicken) egg; hen's egg; CL:個|个; 打[dá]"
+    },
+    {
+      "type": "hanzi",
+      "character": "件",
+      "romaji": "jiàn",
+      "meaning": "item; component; classifier for events; things; clothes etc"
+    },
+    {
+      "type": "hanzi",
+      "character": "教室",
+      "romaji": "jiào shì",
+      "meaning": "classroom; CL:間|间[jiān]"
+    },
+    {
+      "type": "hanzi",
+      "character": "姐姐",
+      "romaji": "jiě jie",
+      "meaning": "older sister; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "介绍",
+      "romaji": "jiè shào",
+      "meaning": "to introduce (sb to sb); to give a presentation; to present (sb for a job etc); introduction"
+    }
+  ]
+}

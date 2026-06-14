@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 18,
+  "title": "JLPT N3 Kanji — Part 18",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "副",
+      "romaji": "フク",
+      "meaning": "vice-; assistant; aide"
+    },
+    {
+      "type": "kanji",
+      "character": "算",
+      "romaji": "サン / そろ",
+      "meaning": "calculate; divining; number"
+    },
+    {
+      "type": "kanji",
+      "character": "条",
+      "romaji": "ジョウ・チョウ・デキ / えだ・すじ",
+      "meaning": "article; clause; counter for articles, clauses, paragraphs, etc."
+    },
+    {
+      "type": "kanji",
+      "character": "独",
+      "romaji": "ドク・トク / ひと.り",
+      "meaning": "single; alone; spontaneously"
+    },
+    {
+      "type": "kanji",
+      "character": "警",
+      "romaji": "ケイ / いまし.める",
+      "meaning": "admonish; commandment"
+    },
+    {
+      "type": "kanji",
+      "character": "育",
+      "romaji": "イク / そだ.つ・そだ.ち・そだ.てる・はぐく.む",
+      "meaning": "bring up; grow up; raise"
+    },
+    {
+      "type": "kanji",
+      "character": "席",
+      "romaji": "セキ / むしろ",
+      "meaning": "seat; mat; occasion"
+    },
+    {
+      "type": "kanji",
+      "character": "輸",
+      "romaji": "ユ・シュ",
+      "meaning": "transport; send; be inferior"
+    },
+    {
+      "type": "kanji",
+      "character": "訪",
+      "romaji": "ホウ / おとず.れる・たず.ねる・と.う",
+      "meaning": "call on; visit; look up"
+    },
+    {
+      "type": "kanji",
+      "character": "述",
+      "romaji": "ジュツ / の.べる",
+      "meaning": "mention; state; speak"
+    }
+  ]
+}

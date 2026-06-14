@@ -1,0 +1,67 @@
+{
+  "unit": 43,
+  "lesson": 11,
+  "title": "Vocabulary — Frequency 7301–7310",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "筋違い",
+      "romaji": "すじちがい",
+      "meaning": "cramp; sprain"
+    },
+    {
+      "type": "kanji",
+      "character": "筋書き",
+      "romaji": "すじがき",
+      "meaning": "synopsis; outline"
+    },
+    {
+      "type": "kanji",
+      "character": "筋道",
+      "romaji": "すじみち",
+      "meaning": "reason; logic"
+    },
+    {
+      "type": "kanji",
+      "character": "筋肉",
+      "romaji": "きんにく",
+      "meaning": "muscle"
+    },
+    {
+      "type": "kanji",
+      "character": "筋力",
+      "romaji": "きんりょく",
+      "meaning": "physical strength; muscle strength"
+    },
+    {
+      "type": "kanji",
+      "character": "緊急",
+      "romaji": "きんきゅう",
+      "meaning": "urgency; emergency"
+    },
+    {
+      "type": "kanji",
+      "character": "緊縮",
+      "romaji": "きんしゅく",
+      "meaning": "tightening; shrinkage"
+    },
+    {
+      "type": "kanji",
+      "character": "緊張",
+      "romaji": "きんちょう",
+      "meaning": "tension; strain"
+    },
+    {
+      "type": "kanji",
+      "character": "緊迫",
+      "romaji": "きんぱく",
+      "meaning": "tension; strain"
+    },
+    {
+      "type": "kanji",
+      "character": "緊密",
+      "romaji": "きんみつ",
+      "meaning": "rigour; rigor"
+    }
+  ]
+}

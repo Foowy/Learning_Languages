@@ -1,0 +1,67 @@
+{
+  "unit": 38,
+  "lesson": 12,
+  "title": "Vocabulary — Frequency 6311–6320",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "歓喜",
+      "romaji": "かんき",
+      "meaning": "delight; great joy"
+    },
+    {
+      "type": "kanji",
+      "character": "歓迎",
+      "romaji": "かんげい",
+      "meaning": "welcome; (warm) reception"
+    },
+    {
+      "type": "kanji",
+      "character": "歓声",
+      "romaji": "かんせい",
+      "meaning": "cheer; shout of joy"
+    },
+    {
+      "type": "kanji",
+      "character": "歓待",
+      "romaji": "かんたい",
+      "meaning": "warm welcome; friendly reception"
+    },
+    {
+      "type": "kanji",
+      "character": "歓談",
+      "romaji": "かんだん",
+      "meaning": "pleasant talk; chat"
+    },
+    {
+      "type": "kanji",
+      "character": "汗",
+      "romaji": "あせ",
+      "meaning": "sweat; perspiration"
+    },
+    {
+      "type": "kanji",
+      "character": "漢語",
+      "romaji": "かんご",
+      "meaning": "Japanese word of Chinese origin; Sino-Japanese word"
+    },
+    {
+      "type": "kanji",
+      "character": "漢詩",
+      "romaji": "かんし",
+      "meaning": "Chinese poem; Chinese poetry"
+    },
+    {
+      "type": "kanji",
+      "character": "漢字",
+      "romaji": "かんじ",
+      "meaning": "kanji; Chinese character"
+    },
+    {
+      "type": "kanji",
+      "character": "漢文",
+      "romaji": "かんぶん",
+      "meaning": "Chinese classical writing; Chinese classics"
+    }
+  ]
+}

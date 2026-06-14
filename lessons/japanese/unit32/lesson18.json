@@ -1,0 +1,67 @@
+{
+  "unit": 32,
+  "lesson": 18,
+  "title": "Vocabulary — Frequency 5171–5180",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "駅弁",
+      "romaji": "えきべん",
+      "meaning": "boxed lunch bought at a station (often a local specialty)"
+    },
+    {
+      "type": "kanji",
+      "character": "越す",
+      "romaji": "こす",
+      "meaning": "to cross over (e.g. mountain); to go across"
+    },
+    {
+      "type": "kanji",
+      "character": "越境",
+      "romaji": "えっきょう",
+      "meaning": "crossing a border (illegally); border violation"
+    },
+    {
+      "type": "kanji",
+      "character": "越権",
+      "romaji": "えっけん",
+      "meaning": "going beyond authority; unauthorized"
+    },
+    {
+      "type": "kanji",
+      "character": "越冬",
+      "romaji": "えっとう",
+      "meaning": "passing the winter; hibernation"
+    },
+    {
+      "type": "kanji",
+      "character": "越年",
+      "romaji": "えつねん",
+      "meaning": "seeing the old year out; greeting the New Year"
+    },
+    {
+      "type": "kanji",
+      "character": "閲覧",
+      "romaji": "えつらん",
+      "meaning": "inspection; reading"
+    },
+    {
+      "type": "kanji",
+      "character": "円",
+      "romaji": "えん",
+      "meaning": "yen (currency of Japan)"
+    },
+    {
+      "type": "kanji",
+      "character": "円安",
+      "romaji": "えんやす",
+      "meaning": "depreciation of the yen; weak yen"
+    },
+    {
+      "type": "kanji",
+      "character": "円建て",
+      "romaji": "えんだて",
+      "meaning": "yen basis (for trade, exchange, etc.)"
+    }
+  ]
+}

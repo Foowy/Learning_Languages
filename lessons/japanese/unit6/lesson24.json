@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 24,
+  "title": "JLPT N2/N1 Kanji — Part 24",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "歓",
+      "romaji": "カン / よろこ.ぶ",
+      "meaning": "delight; joy"
+    },
+    {
+      "type": "kanji",
+      "character": "奏",
+      "romaji": "ソウ / かな.でる",
+      "meaning": "play music; speak to a ruler; complete"
+    },
+    {
+      "type": "kanji",
+      "character": "勧",
+      "romaji": "カン・ケン / すす.める",
+      "meaning": "persuade; recommend; advise"
+    },
+    {
+      "type": "kanji",
+      "character": "騒",
+      "romaji": "ソウ / さわ.ぐ・うれい・さわ.がしい",
+      "meaning": "boisterous; make noise; clamor"
+    },
+    {
+      "type": "kanji",
+      "character": "閥",
+      "romaji": "バツ",
+      "meaning": "clique; lineage; pedigree"
+    },
+    {
+      "type": "kanji",
+      "character": "甲",
+      "romaji": "コウ・カン / きのえ",
+      "meaning": "armor; high (voice); A grade"
+    },
+    {
+      "type": "kanji",
+      "character": "縄",
+      "romaji": "ジョウ / なわ・ただ.す",
+      "meaning": "straw rope; cord"
+    },
+    {
+      "type": "kanji",
+      "character": "郷",
+      "romaji": "キョウ・ゴウ / さと",
+      "meaning": "home town; village; native place"
+    },
+    {
+      "type": "kanji",
+      "character": "揺",
+      "romaji": "ヨウ / ゆ.れる・ゆ.る・ゆ.らぐ・ゆ.るぐ・ゆ.する・ゆ.さぶる・ゆ.すぶる・うご.く",
+      "meaning": "swing; shake; sway"
+    },
+    {
+      "type": "kanji",
+      "character": "免",
+      "romaji": "メン / まぬか.れる・まぬが.れる",
+      "meaning": "excuse; dismissal"
+    }
+  ]
+}

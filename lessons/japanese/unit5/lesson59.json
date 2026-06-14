@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 59,
+  "title": "JLPT N3 Kanji — Part 59",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "忘",
+      "romaji": "ボウ / わす.れる",
+      "meaning": "forget"
+    },
+    {
+      "type": "kanji",
+      "character": "雪",
+      "romaji": "セツ / ゆき",
+      "meaning": "snow"
+    },
+    {
+      "type": "kanji",
+      "character": "筆",
+      "romaji": "ヒツ / ふで",
+      "meaning": "writing brush; writing; painting brush"
+    },
+    {
+      "type": "kanji",
+      "character": "吹",
+      "romaji": "スイ / ふ.く",
+      "meaning": "blow; breathe; puff"
+    },
+    {
+      "type": "kanji",
+      "character": "訓",
+      "romaji": "クン・キン / おし.える・よ.む・くん.ずる",
+      "meaning": "instruction; Japanese character reading; explanation"
+    },
+    {
+      "type": "kanji",
+      "character": "浴",
+      "romaji": "ヨク / あ.びる・あ.びせる",
+      "meaning": "bathe; be favored with; bask in"
+    },
+    {
+      "type": "kanji",
+      "character": "童",
+      "romaji": "ドウ / わらべ",
+      "meaning": "juvenile; child"
+    },
+    {
+      "type": "kanji",
+      "character": "宝",
+      "romaji": "ホウ / たから",
+      "meaning": "treasure; wealth; valuables"
+    },
+    {
+      "type": "kanji",
+      "character": "封",
+      "romaji": "フウ・ホウ",
+      "meaning": "seal; closing"
+    },
+    {
+      "type": "kanji",
+      "character": "胸",
+      "romaji": "キョウ / むね・むな-",
+      "meaning": "bosom; breast; chest"
+    }
+  ]
+}

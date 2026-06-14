@@ -1,0 +1,67 @@
+{
+  "unit": 111,
+  "lesson": 12,
+  "title": "Vocabulary — Frequency 20911–20920",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "炭田",
+      "romaji": "たんでん",
+      "meaning": "coalfield; coal field"
+    },
+    {
+      "type": "kanji",
+      "character": "底辺",
+      "romaji": "ていへん",
+      "meaning": "base (of a polygon)"
+    },
+    {
+      "type": "kanji",
+      "character": "底流",
+      "romaji": "ていりゅう",
+      "meaning": "undercurrent"
+    },
+    {
+      "type": "kanji",
+      "character": "当地",
+      "romaji": "とうち",
+      "meaning": "this place; here"
+    },
+    {
+      "type": "kanji",
+      "character": "初陣",
+      "romaji": "ういじん",
+      "meaning": "one's first campaign; one's first battle"
+    },
+    {
+      "type": "kanji",
+      "character": "生みの親",
+      "romaji": "うみのおや",
+      "meaning": "biological parent"
+    },
+    {
+      "type": "kanji",
+      "character": "売上高",
+      "romaji": "うりあげだか",
+      "meaning": "sales; amount sold"
+    },
+    {
+      "type": "kanji",
+      "character": "洋上",
+      "romaji": "ようじょう",
+      "meaning": "on the sea; on the ocean"
+    },
+    {
+      "type": "kanji",
+      "character": "要衝",
+      "romaji": "ようしょう",
+      "meaning": "important point; strategic position"
+    },
+    {
+      "type": "kanji",
+      "character": "有力者",
+      "romaji": "ゆうりょくしゃ",
+      "meaning": "influential person; man of importance"
+    }
+  ]
+}

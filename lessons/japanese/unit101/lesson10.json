@@ -1,0 +1,67 @@
+{
+  "unit": 101,
+  "lesson": 10,
+  "title": "Vocabulary — Frequency 18891–18900",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "印象付ける",
+      "romaji": "いんしょうづける",
+      "meaning": "to impress (someone)"
+    },
+    {
+      "type": "kanji",
+      "character": "植木",
+      "romaji": "うえき",
+      "meaning": "garden plant; garden tree"
+    },
+    {
+      "type": "kanji",
+      "character": "餓死",
+      "romaji": "がし",
+      "meaning": "(death from) starvation; starving to death"
+    },
+    {
+      "type": "kanji",
+      "character": "雨季",
+      "romaji": "うき",
+      "meaning": "rainy season"
+    },
+    {
+      "type": "kanji",
+      "character": "浮き彫り",
+      "romaji": "うきぼり",
+      "meaning": "relief; embossed carving"
+    },
+    {
+      "type": "kanji",
+      "character": "憂き目",
+      "romaji": "うきめ",
+      "meaning": "bitter experience; misery"
+    },
+    {
+      "type": "kanji",
+      "character": "受付",
+      "romaji": "うけつけ",
+      "meaning": "reception (desk); information desk"
+    },
+    {
+      "type": "kanji",
+      "character": "受け持ち",
+      "romaji": "うけもち",
+      "meaning": "charge (of something); matter in one's charge"
+    },
+    {
+      "type": "kanji",
+      "character": "受け渡し",
+      "romaji": "うけわたし",
+      "meaning": "delivery; transfer"
+    },
+    {
+      "type": "kanji",
+      "character": "歌合",
+      "romaji": "うたあわせ",
+      "meaning": "poetry contest"
+    }
+  ]
+}

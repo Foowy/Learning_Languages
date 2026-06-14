@@ -1,0 +1,67 @@
+{
+  "unit": 3,
+  "lesson": 10,
+  "title": "HSK 3 Vocabulary — Part 10",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "果汁",
+      "romaji": "guǒ zhī",
+      "meaning": "fruit juice"
+    },
+    {
+      "type": "hanzi",
+      "character": "过去",
+      "romaji": "guò qu",
+      "meaning": "(in the) past; former; previous; to go over; to pass by"
+    },
+    {
+      "type": "hanzi",
+      "character": "还是",
+      "romaji": "hái shi",
+      "meaning": "or; still; nevertheless; had better"
+    },
+    {
+      "type": "hanzi",
+      "character": "害怕",
+      "romaji": "hài pà",
+      "meaning": "to be afraid; to be scared"
+    },
+    {
+      "type": "hanzi",
+      "character": "河",
+      "romaji": "hé",
+      "meaning": "river; CL:條|条; 道[dào]"
+    },
+    {
+      "type": "hanzi",
+      "character": "黑板",
+      "romaji": "hēi bǎn",
+      "meaning": "blackboard; CL:塊|块; 個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "护照",
+      "romaji": "hù zhào",
+      "meaning": "passport; CL:本; 個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "花",
+      "romaji": "huā",
+      "meaning": "flower; blossom; CL:朵; 支; 束; 把; 盆; 簇[cù]; fancy pattern; florid; to spend (money; time)"
+    },
+    {
+      "type": "hanzi",
+      "character": "花园",
+      "romaji": "huā yuán",
+      "meaning": "garden; CL:座; 個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "画",
+      "romaji": "huà",
+      "meaning": "to draw; picture; painting; CL:幅; 張|张[zhāng]"
+    }
+  ]
+}

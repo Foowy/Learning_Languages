@@ -1,0 +1,67 @@
+{
+  "unit": 21,
+  "lesson": 17,
+  "title": "Vocabulary — Frequency 2961–2970",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "パイプ",
+      "romaji": "パイプ",
+      "meaning": "pipe; tube"
+    },
+    {
+      "type": "kana",
+      "character": "パイロット",
+      "romaji": "パイロット",
+      "meaning": "pilot"
+    },
+    {
+      "type": "kana",
+      "character": "パインジュース",
+      "romaji": "パインジュース",
+      "meaning": "pineapple juice"
+    },
+    {
+      "type": "kana",
+      "character": "パウダー",
+      "romaji": "パウダー",
+      "meaning": "powder"
+    },
+    {
+      "type": "kanji",
+      "character": "巴基斯担",
+      "romaji": "パキスタン",
+      "meaning": "Pakistan"
+    },
+    {
+      "type": "kana",
+      "character": "パゴダ",
+      "romaji": "パゴダ",
+      "meaning": "pagoda"
+    },
+    {
+      "type": "kana",
+      "character": "パサパサ",
+      "romaji": "パサパサ",
+      "meaning": "dried-out; dry (e.g. hair)"
+    },
+    {
+      "type": "kana",
+      "character": "パシフィック",
+      "romaji": "パシフィック",
+      "meaning": "Pacific (Ocean)"
+    },
+    {
+      "type": "kana",
+      "character": "パジャマ",
+      "romaji": "パジャマ",
+      "meaning": "pajamas; pyjamas"
+    },
+    {
+      "type": "kana",
+      "character": "パス",
+      "romaji": "パス",
+      "meaning": "passing (an examination, inspection, etc.)"
+    }
+  ]
+}

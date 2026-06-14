@@ -1,0 +1,67 @@
+{
+  "unit": 3,
+  "lesson": 9,
+  "title": "JLPT N5 Kanji — Part 9",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "足",
+      "romaji": "ソク / あし・た.りる・た.る・た.す",
+      "meaning": "leg; foot; be sufficient"
+    },
+    {
+      "type": "kanji",
+      "character": "万",
+      "romaji": "マン・バン / よろず",
+      "meaning": "ten thousand; 10,000"
+    },
+    {
+      "type": "kanji",
+      "character": "店",
+      "romaji": "テン / みせ・たな",
+      "meaning": "store; shop"
+    },
+    {
+      "type": "kanji",
+      "character": "毎",
+      "romaji": "マイ / ごと・-ごと.に",
+      "meaning": "every"
+    },
+    {
+      "type": "kanji",
+      "character": "白",
+      "romaji": "ハク・ビャク / しろ・しら-・しろ.い",
+      "meaning": "white"
+    },
+    {
+      "type": "kanji",
+      "character": "古",
+      "romaji": "コ / ふる.い・ふる-・-ふる.す",
+      "meaning": "old"
+    },
+    {
+      "type": "kanji",
+      "character": "天",
+      "romaji": "テン / あまつ・あめ・あま-",
+      "meaning": "heavens; sky; imperial"
+    },
+    {
+      "type": "kanji",
+      "character": "買",
+      "romaji": "バイ / か.う",
+      "meaning": "buy"
+    },
+    {
+      "type": "kanji",
+      "character": "週",
+      "romaji": "シュウ",
+      "meaning": "week"
+    },
+    {
+      "type": "kanji",
+      "character": "母",
+      "romaji": "ボ / はは・も",
+      "meaning": "mother"
+    }
+  ]
+}

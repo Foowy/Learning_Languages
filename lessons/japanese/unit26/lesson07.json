@@ -1,0 +1,67 @@
+{
+  "unit": 26,
+  "lesson": 7,
+  "title": "Vocabulary — Frequency 3861–3870",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "マニキュア",
+      "romaji": "マニキュア",
+      "meaning": "manicure"
+    },
+    {
+      "type": "kana",
+      "character": "マニフェスト",
+      "romaji": "マニフェスト",
+      "meaning": "manifesto"
+    },
+    {
+      "type": "kana",
+      "character": "マニュアル",
+      "romaji": "マニュアル",
+      "meaning": "(instruction) manual"
+    },
+    {
+      "type": "kanji",
+      "character": "馬尼剌",
+      "romaji": "マニラ",
+      "meaning": "Manila (Philippines)"
+    },
+    {
+      "type": "kana",
+      "character": "マネー",
+      "romaji": "マネー",
+      "meaning": "money"
+    },
+    {
+      "type": "kana",
+      "character": "マネーゲーム",
+      "romaji": "マネーゲーム",
+      "meaning": "money game"
+    },
+    {
+      "type": "kana",
+      "character": "マネーサプライ",
+      "romaji": "マネーサプライ",
+      "meaning": "money supply"
+    },
+    {
+      "type": "kana",
+      "character": "マネジメント",
+      "romaji": "マネジメント",
+      "meaning": "management"
+    },
+    {
+      "type": "kana",
+      "character": "マネージャー",
+      "romaji": "マネージャー",
+      "meaning": "manager"
+    },
+    {
+      "type": "kana",
+      "character": "マネキン",
+      "romaji": "マネキン",
+      "meaning": "mannequin"
+    }
+  ]
+}

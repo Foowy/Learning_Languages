@@ -1,0 +1,67 @@
+{
+  "unit": 7,
+  "lesson": 17,
+  "title": "Vocabulary — Frequency 161–170",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "此方",
+      "romaji": "こちら",
+      "meaning": "this way; this direction"
+    },
+    {
+      "type": "kana",
+      "character": "こっそり",
+      "romaji": "こっそり",
+      "meaning": "stealthily; secretly"
+    },
+    {
+      "type": "kana",
+      "character": "コツコツ",
+      "romaji": "コツコツ",
+      "meaning": "steadily; unflaggingly"
+    },
+    {
+      "type": "kanji",
+      "character": "事がある",
+      "romaji": "ことがある",
+      "meaning": "(for something) to have occurred; to have done (something)"
+    },
+    {
+      "type": "kanji",
+      "character": "ことが出来る",
+      "romaji": "ことができる",
+      "meaning": "to be able (to); to be possible (to)"
+    },
+    {
+      "type": "kanji",
+      "character": "悉く",
+      "romaji": "ことごとく",
+      "meaning": "altogether; entirely"
+    },
+    {
+      "type": "kanji",
+      "character": "事になる",
+      "romaji": "ことになる",
+      "meaning": "to have been decided (so) that; to have been arranged (so) that"
+    },
+    {
+      "type": "kanji",
+      "character": "事によって",
+      "romaji": "ことによって",
+      "meaning": "via; through"
+    },
+    {
+      "type": "kana",
+      "character": "このため",
+      "romaji": "このため",
+      "meaning": "because of this"
+    },
+    {
+      "type": "kanji",
+      "character": "この外",
+      "romaji": "このほか",
+      "meaning": "besides; moreover"
+    }
+  ]
+}

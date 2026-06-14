@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 1,
+  "title": "JLPT N3 Kanji — Part 1",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "政",
+      "romaji": "セイ・ショウ / まつりごと・まん",
+      "meaning": "politics; government"
+    },
+    {
+      "type": "kanji",
+      "character": "議",
+      "romaji": "ギ",
+      "meaning": "deliberation; consultation; debate"
+    },
+    {
+      "type": "kanji",
+      "character": "連",
+      "romaji": "レン / つら.なる・つら.ねる・つ.れる・-づ.れ",
+      "meaning": "take along; lead; join"
+    },
+    {
+      "type": "kanji",
+      "character": "対",
+      "romaji": "タイ・ツイ / あいて・こた.える・そろ.い・つれあ.い・なら.ぶ・むか.う",
+      "meaning": "vis-a-vis; opposite; even"
+    },
+    {
+      "type": "kanji",
+      "character": "部",
+      "romaji": "ブ / -べ",
+      "meaning": "section; bureau; dept"
+    },
+    {
+      "type": "kanji",
+      "character": "党",
+      "romaji": "トウ / なかま・むら",
+      "meaning": "party; faction; clique"
+    },
+    {
+      "type": "kanji",
+      "character": "内",
+      "romaji": "ナイ・ダイ / うち",
+      "meaning": "inside; within; between"
+    },
+    {
+      "type": "kanji",
+      "character": "相",
+      "romaji": "ソウ・ショウ / あい-",
+      "meaning": "inter-; mutual; together"
+    },
+    {
+      "type": "kanji",
+      "character": "定",
+      "romaji": "テイ・ジョウ / さだ.める・さだ.まる・さだ.か",
+      "meaning": "determine; fix; establish"
+    },
+    {
+      "type": "kanji",
+      "character": "選",
+      "romaji": "セン / えら.ぶ・え.る・よ.る",
+      "meaning": "elect; select; choose"
+    }
+  ]
+}

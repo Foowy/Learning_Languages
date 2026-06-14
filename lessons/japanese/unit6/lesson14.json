@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 14,
+  "title": "JLPT N2/N1 Kanji — Part 14",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "拒",
+      "romaji": "キョ・ゴ / こば.む",
+      "meaning": "repel; refuse; reject"
+    },
+    {
+      "type": "kanji",
+      "character": "刑",
+      "romaji": "ケイ",
+      "meaning": "punish; penalty; sentence"
+    },
+    {
+      "type": "kanji",
+      "character": "塚",
+      "romaji": "チョウ / つか・-づか",
+      "meaning": "hillock; mound"
+    },
+    {
+      "type": "kanji",
+      "character": "致",
+      "romaji": "チ / いた.す",
+      "meaning": "doth; do; send"
+    },
+    {
+      "type": "kanji",
+      "character": "繰",
+      "romaji": "ソウ / く.る",
+      "meaning": "winding; reel; spin"
+    },
+    {
+      "type": "kanji",
+      "character": "尾",
+      "romaji": "ビ / お",
+      "meaning": "tail; end; counter for fish"
+    },
+    {
+      "type": "kanji",
+      "character": "描",
+      "romaji": "ビョウ / えが.く・か.く",
+      "meaning": "sketch; compose; write"
+    },
+    {
+      "type": "kanji",
+      "character": "鈴",
+      "romaji": "レイ・リン / すず",
+      "meaning": "small bell; buzzer"
+    },
+    {
+      "type": "kanji",
+      "character": "盤",
+      "romaji": "バン",
+      "meaning": "tray; shallow bowl; platter"
+    },
+    {
+      "type": "kanji",
+      "character": "項",
+      "romaji": "コウ / うなじ",
+      "meaning": "paragraph; nape of neck; clause"
+    }
+  ]
+}

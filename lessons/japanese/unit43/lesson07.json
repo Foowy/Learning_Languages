@@ -1,0 +1,67 @@
+{
+  "unit": 43,
+  "lesson": 7,
+  "title": "Vocabulary — Frequency 7261–7270",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "極上",
+      "romaji": "ごくじょう",
+      "meaning": "first-rate; finest quality"
+    },
+    {
+      "type": "kanji",
+      "character": "極端",
+      "romaji": "きょくたん",
+      "meaning": "extreme; extremity"
+    },
+    {
+      "type": "kanji",
+      "character": "極度",
+      "romaji": "きょくど",
+      "meaning": "maximum; extreme"
+    },
+    {
+      "type": "kanji",
+      "character": "極東",
+      "romaji": "きょくとう",
+      "meaning": "Far East"
+    },
+    {
+      "type": "kanji",
+      "character": "極秘",
+      "romaji": "ごくひ",
+      "meaning": "absolute secrecy"
+    },
+    {
+      "type": "kanji",
+      "character": "極力",
+      "romaji": "きょくりょく",
+      "meaning": "to the utmost; to the best of one's ability"
+    },
+    {
+      "type": "kanji",
+      "character": "玉",
+      "romaji": "たま",
+      "meaning": "ball; sphere"
+    },
+    {
+      "type": "kanji",
+      "character": "玉砕",
+      "romaji": "ぎょくさい",
+      "meaning": "honorable death; death without surrender"
+    },
+    {
+      "type": "kanji",
+      "character": "玉虫色",
+      "romaji": "たまむしいろ",
+      "meaning": "iridescent colour"
+    },
+    {
+      "type": "kanji",
+      "character": "玉ねぎ",
+      "romaji": "たまねぎ",
+      "meaning": "onion (Allium cepa)"
+    }
+  ]
+}

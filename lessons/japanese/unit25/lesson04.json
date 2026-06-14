@@ -1,0 +1,67 @@
+{
+  "unit": 25,
+  "lesson": 4,
+  "title": "Vocabulary — Frequency 3631–3640",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "ペンチ",
+      "romaji": "ペンチ",
+      "meaning": "cutting pliers; lineman's pliers"
+    },
+    {
+      "type": "kana",
+      "character": "ペンネーム",
+      "romaji": "ペンネーム",
+      "meaning": "pen-name"
+    },
+    {
+      "type": "kanji",
+      "character": "ペン先",
+      "romaji": "ペンさき",
+      "meaning": "pen nibs"
+    },
+    {
+      "type": "kana",
+      "character": "ホース",
+      "romaji": "ホース",
+      "meaning": "hose"
+    },
+    {
+      "type": "kana",
+      "character": "ホープ",
+      "romaji": "ホープ",
+      "meaning": "hope"
+    },
+    {
+      "type": "kana",
+      "character": "ホーマー",
+      "romaji": "ホーマー",
+      "meaning": "homer; home run"
+    },
+    {
+      "type": "kana",
+      "character": "ホーミング",
+      "romaji": "ホーミング",
+      "meaning": "homing"
+    },
+    {
+      "type": "kana",
+      "character": "ホーム",
+      "romaji": "ホーム",
+      "meaning": "platform"
+    },
+    {
+      "type": "kana",
+      "character": "ホームイン",
+      "romaji": "ホームイン",
+      "meaning": "getting home; crossing home plate"
+    },
+    {
+      "type": "kana",
+      "character": "ホームグラウンド",
+      "romaji": "ホームグラウンド",
+      "meaning": "home ground; home field"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 1,
+  "lesson": 11,
+  "title": "HSK 1 Vocabulary — Part 11",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "睡觉",
+      "romaji": "shuì jiào",
+      "meaning": "to go to bed; to sleep"
+    },
+    {
+      "type": "hanzi",
+      "character": "说话",
+      "romaji": "shuō huà",
+      "meaning": "to speak; to say; to talk; to gossip; to tell stories; talk; word"
+    },
+    {
+      "type": "hanzi",
+      "character": "四",
+      "romaji": "sì",
+      "meaning": "four; 4"
+    },
+    {
+      "type": "hanzi",
+      "character": "岁",
+      "romaji": "suì",
+      "meaning": "classifier for years (of age); year; year (of crop harvests)"
+    },
+    {
+      "type": "hanzi",
+      "character": "他",
+      "romaji": "tā",
+      "meaning": "he or him; (used for either sex when the sex is unknown or unimportant); (used before sb's name for emphasis); (used as a meaningless mock object); other; another"
+    },
+    {
+      "type": "hanzi",
+      "character": "她",
+      "romaji": "tā",
+      "meaning": "she"
+    },
+    {
+      "type": "hanzi",
+      "character": "太",
+      "romaji": "tài",
+      "meaning": "highest; greatest; too (much); very; extremely"
+    },
+    {
+      "type": "hanzi",
+      "character": "天气",
+      "romaji": "tiān qì",
+      "meaning": "weather"
+    },
+    {
+      "type": "hanzi",
+      "character": "听",
+      "romaji": "tīng",
+      "meaning": "to listen; to hear; to obey; a can (loanword from English \"tin\"); classifier for canned beverages"
+    },
+    {
+      "type": "hanzi",
+      "character": "同学",
+      "romaji": "tóng xué",
+      "meaning": "to study at the same school; fellow student; classmate; CL:位; 個|个[gè]"
+    }
+  ]
+}

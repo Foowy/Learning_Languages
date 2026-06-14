@@ -1,0 +1,67 @@
+{
+  "unit": 22,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 3001–3010",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "パニック",
+      "romaji": "パニック",
+      "meaning": "panic"
+    },
+    {
+      "type": "kana",
+      "character": "パネラー",
+      "romaji": "パネラー",
+      "meaning": "panellist (panelist)"
+    },
+    {
+      "type": "kana",
+      "character": "パネリスト",
+      "romaji": "パネリスト",
+      "meaning": "panelist"
+    },
+    {
+      "type": "kana",
+      "character": "パネル",
+      "romaji": "パネル",
+      "meaning": "panel"
+    },
+    {
+      "type": "kana",
+      "character": "パノラマ",
+      "romaji": "パノラマ",
+      "meaning": "panorama"
+    },
+    {
+      "type": "kana",
+      "character": "パパ",
+      "romaji": "パパ",
+      "meaning": "dad; daddy"
+    },
+    {
+      "type": "kana",
+      "character": "パパイヤ",
+      "romaji": "パパイヤ",
+      "meaning": "papaya (Carica papaya); pawpaw"
+    },
+    {
+      "type": "kana",
+      "character": "パビリオン",
+      "romaji": "パビリオン",
+      "meaning": "pavilion"
+    },
+    {
+      "type": "kana",
+      "character": "パフォーマンス",
+      "romaji": "パフォーマンス",
+      "meaning": "performance (e.g. music, dance, drama)"
+    },
+    {
+      "type": "kana",
+      "character": "パブ",
+      "romaji": "パブ",
+      "meaning": "pub"
+    }
+  ]
+}

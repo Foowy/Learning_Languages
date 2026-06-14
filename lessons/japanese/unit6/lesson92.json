@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 92,
+  "title": "JLPT N2/N1 Kanji — Part 92",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "蛍",
+      "romaji": "ケイ / ほたる",
+      "meaning": "lightning-bug; firefly"
+    },
+    {
+      "type": "kanji",
+      "character": "蕉",
+      "romaji": "ショウ",
+      "meaning": "banana; plantain"
+    },
+    {
+      "type": "kanji",
+      "character": "寡",
+      "romaji": "カ",
+      "meaning": "widow; minority; few"
+    },
+    {
+      "type": "kanji",
+      "character": "琉",
+      "romaji": "リュウ・ル",
+      "meaning": "precious stone; gem; lapis lazuli"
+    },
+    {
+      "type": "kanji",
+      "character": "痢",
+      "romaji": "リ",
+      "meaning": "diarrhea"
+    },
+    {
+      "type": "kanji",
+      "character": "庸",
+      "romaji": "ヨウ",
+      "meaning": "commonplace; ordinary; employment"
+    },
+    {
+      "type": "kanji",
+      "character": "朋",
+      "romaji": "ホウ / とも",
+      "meaning": "companion; friend"
+    },
+    {
+      "type": "kanji",
+      "character": "坑",
+      "romaji": "コウ",
+      "meaning": "pit; hole"
+    },
+    {
+      "type": "kanji",
+      "character": "藍",
+      "romaji": "ラン / あい",
+      "meaning": "indigo"
+    },
+    {
+      "type": "kanji",
+      "character": "賊",
+      "romaji": "ゾク",
+      "meaning": "burglar; rebel; traitor"
+    }
+  ]
+}

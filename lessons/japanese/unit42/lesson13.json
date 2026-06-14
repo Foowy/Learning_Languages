@@ -1,0 +1,67 @@
+{
+  "unit": 42,
+  "lesson": 13,
+  "title": "Vocabulary — Frequency 7121–7130",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "強気",
+      "romaji": "つよき",
+      "meaning": "confident; assured"
+    },
+    {
+      "type": "kanji",
+      "character": "強硬",
+      "romaji": "きょうこう",
+      "meaning": "firm; strong"
+    },
+    {
+      "type": "kanji",
+      "character": "強行",
+      "romaji": "きょうこう",
+      "meaning": "forcing (e.g. a vote); carrying out (forcibly)"
+    },
+    {
+      "type": "kanji",
+      "character": "強国",
+      "romaji": "きょうこく",
+      "meaning": "strong nation; powerful country"
+    },
+    {
+      "type": "kanji",
+      "character": "強弱",
+      "romaji": "きょうじゃく",
+      "meaning": "strength and weakness; (degree of) strength"
+    },
+    {
+      "type": "kanji",
+      "character": "強制",
+      "romaji": "きょうせい",
+      "meaning": "compulsion; coercion"
+    },
+    {
+      "type": "kanji",
+      "character": "強制的",
+      "romaji": "きょうせいてき",
+      "meaning": "forced; compulsory"
+    },
+    {
+      "type": "kanji",
+      "character": "強請る",
+      "romaji": "ねだる",
+      "meaning": "to beg; to pester"
+    },
+    {
+      "type": "kanji",
+      "character": "強壮",
+      "romaji": "きょうそう",
+      "meaning": "able-bodied; robust"
+    },
+    {
+      "type": "kanji",
+      "character": "強打",
+      "romaji": "きょうだ",
+      "meaning": "heavy blow; thump"
+    }
+  ]
+}

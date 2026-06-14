@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 25,
+  "title": "JLPT N3 Kanji — Part 25",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "段",
+      "romaji": "ダン・タン",
+      "meaning": "grade; steps; stairs"
+    },
+    {
+      "type": "kanji",
+      "character": "横",
+      "romaji": "オウ / よこ",
+      "meaning": "sideways; side; horizontal"
+    },
+    {
+      "type": "kanji",
+      "character": "型",
+      "romaji": "ケイ / かた・-がた",
+      "meaning": "mould; type; model"
+    },
+    {
+      "type": "kanji",
+      "character": "深",
+      "romaji": "シン / ふか.い・-ぶか.い・ふか.まる・ふか.める・み-",
+      "meaning": "deep; heighten; intensify"
+    },
+    {
+      "type": "kanji",
+      "character": "製",
+      "romaji": "セイ",
+      "meaning": "made in...; manufacture"
+    },
+    {
+      "type": "kanji",
+      "character": "況",
+      "romaji": "キョウ / まし.て・いわ.んや・おもむき",
+      "meaning": "condition; situation"
+    },
+    {
+      "type": "kanji",
+      "character": "申",
+      "romaji": "シン / もう.す・もう.し-・さる",
+      "meaning": "have the honor to; sign of the monkey; 3-5PM"
+    },
+    {
+      "type": "kanji",
+      "character": "様",
+      "romaji": "ヨウ・ショウ / さま・さん",
+      "meaning": "Esq.; way; manner"
+    },
+    {
+      "type": "kanji",
+      "character": "財",
+      "romaji": "ザイ・サイ・ゾク / たから",
+      "meaning": "property; money; wealth"
+    },
+    {
+      "type": "kanji",
+      "character": "港",
+      "romaji": "コウ / みなと",
+      "meaning": "harbor"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 50,
+  "lesson": 20,
+  "title": "Vocabulary — Frequency 8791–8800",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "合作",
+      "romaji": "がっさく",
+      "meaning": "collaboration; joint work"
+    },
+    {
+      "type": "kanji",
+      "character": "合宿",
+      "romaji": "がっしゅく",
+      "meaning": "lodging together; training camp"
+    },
+    {
+      "type": "kanji",
+      "character": "合唱",
+      "romaji": "がっしょう",
+      "meaning": "singing together; singing in union"
+    },
+    {
+      "type": "kanji",
+      "character": "合唱団",
+      "romaji": "がっしょうだん",
+      "meaning": "chorus group; choir"
+    },
+    {
+      "type": "kanji",
+      "character": "合掌",
+      "romaji": "がっしょう",
+      "meaning": "pressing one's hands together in prayer"
+    },
+    {
+      "type": "kanji",
+      "character": "合図",
+      "romaji": "あいず",
+      "meaning": "sign; signal"
+    },
+    {
+      "type": "kanji",
+      "character": "合成",
+      "romaji": "ごうせい",
+      "meaning": "composition; synthesis"
+    },
+    {
+      "type": "kanji",
+      "character": "合成繊維",
+      "romaji": "ごうせいせんい",
+      "meaning": "synthetic fibre; synthetic fiber"
+    },
+    {
+      "type": "kanji",
+      "character": "合戦",
+      "romaji": "かっせん",
+      "meaning": "battle; fight"
+    },
+    {
+      "type": "kanji",
+      "character": "合奏",
+      "romaji": "がっそう",
+      "meaning": "ensemble (e.g. orchestra, chamber group, etc.); concert"
+    }
+  ]
+}

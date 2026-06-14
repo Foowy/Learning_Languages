@@ -1,0 +1,67 @@
+{
+  "unit": 64,
+  "lesson": 13,
+  "title": "Vocabulary — Frequency 11521–11530",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "申し訳",
+      "romaji": "もうしわけ",
+      "meaning": "apology; excuse"
+    },
+    {
+      "type": "kanji",
+      "character": "申す",
+      "romaji": "もうす",
+      "meaning": "to say; to be called"
+    },
+    {
+      "type": "kanji",
+      "character": "申告",
+      "romaji": "しんこく",
+      "meaning": "report; return (e.g. tax)"
+    },
+    {
+      "type": "kanji",
+      "character": "申請",
+      "romaji": "しんせい",
+      "meaning": "application; request"
+    },
+    {
+      "type": "kanji",
+      "character": "真",
+      "romaji": "しん",
+      "meaning": "truth; reality"
+    },
+    {
+      "type": "kanji",
+      "character": "真っ暗",
+      "romaji": "まっくら",
+      "meaning": "pitch-dark; pitch-black"
+    },
+    {
+      "type": "kanji",
+      "character": "真っ向",
+      "romaji": "まっこう",
+      "meaning": "directly opposite; right in front"
+    },
+    {
+      "type": "kanji",
+      "character": "真っ最中",
+      "romaji": "まっさいちゅう",
+      "meaning": "right in the middle (of); midst"
+    },
+    {
+      "type": "kanji",
+      "character": "真っ赤",
+      "romaji": "まっか",
+      "meaning": "bright red; deep red"
+    },
+    {
+      "type": "kanji",
+      "character": "真っ先",
+      "romaji": "まっさき",
+      "meaning": "the head; the foremost"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 9,
+  "title": "JLPT N3 Kanji — Part 9",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "組",
+      "romaji": "ソ / く.む・くみ・-ぐみ",
+      "meaning": "association; braid; plait"
+    },
+    {
+      "type": "kanji",
+      "character": "案",
+      "romaji": "アン / つくえ",
+      "meaning": "plan; suggestion; draft"
+    },
+    {
+      "type": "kanji",
+      "character": "信",
+      "romaji": "シン",
+      "meaning": "faith; truth; fidelity"
+    },
+    {
+      "type": "kanji",
+      "character": "在",
+      "romaji": "ザイ / あ.る",
+      "meaning": "exist; outskirts; suburbs"
+    },
+    {
+      "type": "kanji",
+      "character": "件",
+      "romaji": "ケン / くだん",
+      "meaning": "affair; case; matter"
+    },
+    {
+      "type": "kanji",
+      "character": "団",
+      "romaji": "ダン・トン / かたまり・まる.い",
+      "meaning": "group; association"
+    },
+    {
+      "type": "kanji",
+      "character": "側",
+      "romaji": "ソク / かわ・がわ・そば",
+      "meaning": "side; lean; oppose"
+    },
+    {
+      "type": "kanji",
+      "character": "任",
+      "romaji": "ニン / まか.せる・まか.す",
+      "meaning": "responsibility; duty; term"
+    },
+    {
+      "type": "kanji",
+      "character": "求",
+      "romaji": "キュウ・グ / もと.める",
+      "meaning": "request; want; wish for"
+    },
+    {
+      "type": "kanji",
+      "character": "次",
+      "romaji": "ジ・シ / つ.ぐ・つぎ",
+      "meaning": "next; order; sequence"
+    }
+  ]
+}

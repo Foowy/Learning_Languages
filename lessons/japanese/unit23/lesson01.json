@@ -1,0 +1,67 @@
+{
+  "unit": 23,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 3201–3210",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "ファミリー",
+      "romaji": "ファミリー",
+      "meaning": "family"
+    },
+    {
+      "type": "kana",
+      "character": "ファミリア",
+      "romaji": "ファミリア",
+      "meaning": "familiar"
+    },
+    {
+      "type": "kana",
+      "character": "ファラウェイ",
+      "romaji": "ファラウェイ",
+      "meaning": "far away"
+    },
+    {
+      "type": "kana",
+      "character": "ファルス",
+      "romaji": "ファルス",
+      "meaning": "(theatrical) farce"
+    },
+    {
+      "type": "kana",
+      "character": "ファン",
+      "romaji": "ファン",
+      "meaning": "fan; enthusiast"
+    },
+    {
+      "type": "kana",
+      "character": "ファンキー",
+      "romaji": "ファンキー",
+      "meaning": "funky"
+    },
+    {
+      "type": "kana",
+      "character": "ファンク",
+      "romaji": "ファンク",
+      "meaning": "funk"
+    },
+    {
+      "type": "kanji",
+      "character": "ファン倶楽部",
+      "romaji": "ファンクラブ",
+      "meaning": "fan club"
+    },
+    {
+      "type": "kana",
+      "character": "ファンタジー",
+      "romaji": "ファンタジー",
+      "meaning": "fantasy"
+    },
+    {
+      "type": "kana",
+      "character": "ファンタスティック",
+      "romaji": "ファンタスティック",
+      "meaning": "fantastic"
+    }
+  ]
+}

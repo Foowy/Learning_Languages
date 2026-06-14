@@ -1,0 +1,67 @@
+{
+  "unit": 40,
+  "lesson": 2,
+  "title": "Vocabulary — Frequency 6611–6620",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "機長",
+      "romaji": "きちょう",
+      "meaning": "captain (of an aircraft)"
+    },
+    {
+      "type": "kanji",
+      "character": "機動",
+      "romaji": "きどう",
+      "meaning": "maneuver (usu. of military force); manoeuvre"
+    },
+    {
+      "type": "kanji",
+      "character": "機動隊",
+      "romaji": "きどうたい",
+      "meaning": "riot police; riot squad"
+    },
+    {
+      "type": "kanji",
+      "character": "機内",
+      "romaji": "きない",
+      "meaning": "inside a plane; in-flight"
+    },
+    {
+      "type": "kanji",
+      "character": "機能",
+      "romaji": "きのう",
+      "meaning": "function; facility"
+    },
+    {
+      "type": "kanji",
+      "character": "機敏",
+      "romaji": "きびん",
+      "meaning": "quick; prompt"
+    },
+    {
+      "type": "kanji",
+      "character": "機密",
+      "romaji": "きみつ",
+      "meaning": "secrecy; highly classified information"
+    },
+    {
+      "type": "kanji",
+      "character": "機雷",
+      "romaji": "きらい",
+      "meaning": "(sea) mine"
+    },
+    {
+      "type": "kanji",
+      "character": "帰す",
+      "romaji": "かえす",
+      "meaning": "to send (someone) back; to send (someone) home"
+    },
+    {
+      "type": "kanji",
+      "character": "帰り",
+      "romaji": "かえり",
+      "meaning": "return; coming back"
+    }
+  ]
+}

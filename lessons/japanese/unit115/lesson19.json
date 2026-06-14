@@ -1,0 +1,67 @@
+{
+  "unit": 115,
+  "lesson": 19,
+  "title": "Vocabulary — Frequency 21781–21790",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "旅行会社",
+      "romaji": "りょこうがいしゃ",
+      "meaning": "travel agent; travel agency"
+    },
+    {
+      "type": "kana",
+      "character": "は",
+      "romaji": "は",
+      "meaning": "indicates sentence topic"
+    },
+    {
+      "type": "kana",
+      "character": "が",
+      "romaji": "が",
+      "meaning": "indicates the subject of a sentence"
+    },
+    {
+      "type": "kana",
+      "character": "も",
+      "romaji": "も",
+      "meaning": "too; also"
+    },
+    {
+      "type": "kana",
+      "character": "とは",
+      "romaji": "とは",
+      "meaning": "indicates word or phrase being defined"
+    },
+    {
+      "type": "kana",
+      "character": "や",
+      "romaji": "や",
+      "meaning": "such things as ...; and ... and"
+    },
+    {
+      "type": "kana",
+      "character": "か",
+      "romaji": "か",
+      "meaning": "indicates a question"
+    },
+    {
+      "type": "kana",
+      "character": "で",
+      "romaji": "で",
+      "meaning": "at; in"
+    },
+    {
+      "type": "kana",
+      "character": "に",
+      "romaji": "に",
+      "meaning": "at (place, time); in"
+    },
+    {
+      "type": "kana",
+      "character": "へ",
+      "romaji": "へ",
+      "meaning": "to; towards"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 22,
+  "title": "JLPT N2/N1 Kanji — Part 22",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "津",
+      "romaji": "シン / つ",
+      "meaning": "haven; port; harbor"
+    },
+    {
+      "type": "kanji",
+      "character": "稲",
+      "romaji": "トウ・テ / いね・いな-",
+      "meaning": "rice plant"
+    },
+    {
+      "type": "kanji",
+      "character": "裂",
+      "romaji": "レツ / さ.く・さ.ける・-ぎ.れ",
+      "meaning": "split; rend; tear"
+    },
+    {
+      "type": "kanji",
+      "character": "敏",
+      "romaji": "ビン / さとい",
+      "meaning": "cleverness; agile; alert"
+    },
+    {
+      "type": "kanji",
+      "character": "是",
+      "romaji": "ゼ・シ / これ・この・ここ",
+      "meaning": "just so; this; right"
+    },
+    {
+      "type": "kanji",
+      "character": "排",
+      "romaji": "ハイ",
+      "meaning": "repudiate; exclude; expel"
+    },
+    {
+      "type": "kanji",
+      "character": "裕",
+      "romaji": "ユウ",
+      "meaning": "abundant; rich; fertile"
+    },
+    {
+      "type": "kanji",
+      "character": "堅",
+      "romaji": "ケン / かた.い・-がた.い",
+      "meaning": "strict; hard; solid"
+    },
+    {
+      "type": "kanji",
+      "character": "訳",
+      "romaji": "ヤク / わけ",
+      "meaning": "translate; reason; circumstance"
+    },
+    {
+      "type": "kanji",
+      "character": "芝",
+      "romaji": "シ / しば",
+      "meaning": "turf; lawn"
+    }
+  ]
+}

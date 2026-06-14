@@ -1,0 +1,67 @@
+{
+  "unit": 33,
+  "lesson": 20,
+  "title": "Vocabulary — Frequency 5391–5400",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "音階",
+      "romaji": "おんかい",
+      "meaning": "scale"
+    },
+    {
+      "type": "kanji",
+      "character": "音楽",
+      "romaji": "おんがく",
+      "meaning": "music"
+    },
+    {
+      "type": "kanji",
+      "character": "音響",
+      "romaji": "おんきょう",
+      "meaning": "sound; noise"
+    },
+    {
+      "type": "kanji",
+      "character": "音訓",
+      "romaji": "おんくん",
+      "meaning": "kanji readings"
+    },
+    {
+      "type": "kanji",
+      "character": "音質",
+      "romaji": "おんしつ",
+      "meaning": "tone quality; sound quality"
+    },
+    {
+      "type": "kanji",
+      "character": "音声",
+      "romaji": "おんせい",
+      "meaning": "voice; speech"
+    },
+    {
+      "type": "kanji",
+      "character": "音程",
+      "romaji": "おんてい",
+      "meaning": "interval; step"
+    },
+    {
+      "type": "kanji",
+      "character": "音頭",
+      "romaji": "おんど",
+      "meaning": "lead (in a cheer, toast, song, etc.); (someone's) lead"
+    },
+    {
+      "type": "kanji",
+      "character": "音読",
+      "romaji": "おんどく",
+      "meaning": "reading aloud"
+    },
+    {
+      "type": "kanji",
+      "character": "音読み",
+      "romaji": "おんよみ",
+      "meaning": "on reading; on'yomi"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 19,
+  "title": "JLPT N3 Kanji — Part 19",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "残",
+      "romaji": "ザン・サン / のこ.る・のこ.す・そこな.う・のこ.り",
+      "meaning": "remainder; leftover; balance"
+    },
+    {
+      "type": "kanji",
+      "character": "想",
+      "romaji": "ソウ・ソ / おも.う",
+      "meaning": "idea; thought; conception"
+    },
+    {
+      "type": "kanji",
+      "character": "線",
+      "romaji": "セン / すじ",
+      "meaning": "line; track"
+    },
+    {
+      "type": "kanji",
+      "character": "率",
+      "romaji": "ソツ・リツ・シュツ / ひき.いる",
+      "meaning": "ratio; rate; proportion"
+    },
+    {
+      "type": "kanji",
+      "character": "農",
+      "romaji": "ノウ",
+      "meaning": "agriculture; farmers"
+    },
+    {
+      "type": "kanji",
+      "character": "州",
+      "romaji": "シュウ・ス / す",
+      "meaning": "state; province"
+    },
+    {
+      "type": "kanji",
+      "character": "武",
+      "romaji": "ブ・ム / たけ・たけ.し",
+      "meaning": "warrior; military; chivalry"
+    },
+    {
+      "type": "kanji",
+      "character": "念",
+      "romaji": "ネン",
+      "meaning": "wish; sense; idea"
+    },
+    {
+      "type": "kanji",
+      "character": "象",
+      "romaji": "ショウ・ゾウ / かたど.る",
+      "meaning": "elephant; pattern after; imitate"
+    },
+    {
+      "type": "kanji",
+      "character": "域",
+      "romaji": "イキ",
+      "meaning": "range; region; limits"
+    }
+  ]
+}

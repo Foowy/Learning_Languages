@@ -1,0 +1,67 @@
+{
+  "unit": 65,
+  "lesson": 7,
+  "title": "Vocabulary — Frequency 11661–11670",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "人為",
+      "romaji": "じんい",
+      "meaning": "human work; human agency"
+    },
+    {
+      "type": "kanji",
+      "character": "人為的",
+      "romaji": "じんいてき",
+      "meaning": "artificial; unnatural"
+    },
+    {
+      "type": "kanji",
+      "character": "人違い",
+      "romaji": "ひとちがい",
+      "meaning": "mistaking one person for another; (case of) mistaken identity"
+    },
+    {
+      "type": "kanji",
+      "character": "人一倍",
+      "romaji": "ひといちばい",
+      "meaning": "(much) more than others; exceedingly"
+    },
+    {
+      "type": "kanji",
+      "character": "人員",
+      "romaji": "じんいん",
+      "meaning": "number of persons; personnel"
+    },
+    {
+      "type": "kanji",
+      "character": "人格",
+      "romaji": "じんかく",
+      "meaning": "personality; character"
+    },
+    {
+      "type": "kanji",
+      "character": "人間",
+      "romaji": "にんげん",
+      "meaning": "human being; human"
+    },
+    {
+      "type": "kanji",
+      "character": "人間関係",
+      "romaji": "にんげんかんけい",
+      "meaning": "human relations; personal relationships"
+    },
+    {
+      "type": "kanji",
+      "character": "人間性",
+      "romaji": "にんげんせい",
+      "meaning": "humanity; human nature"
+    },
+    {
+      "type": "kanji",
+      "character": "人間的",
+      "romaji": "にんげんてき",
+      "meaning": "human; human-like"
+    }
+  ]
+}

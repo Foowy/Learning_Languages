@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 26,
+  "title": "JLPT N3 Kanji — Part 26",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "識",
+      "romaji": "シキ / し.る・しる.す",
+      "meaning": "discriminating; know; write"
+    },
+    {
+      "type": "kanji",
+      "character": "呼",
+      "romaji": "コ / よ.ぶ",
+      "meaning": "call; call out to; invite"
+    },
+    {
+      "type": "kanji",
+      "character": "達",
+      "romaji": "タツ・ダ / -たち",
+      "meaning": "accomplished; reach; arrive"
+    },
+    {
+      "type": "kanji",
+      "character": "良",
+      "romaji": "リョウ / よ.い・-よ.い・い.い・-い.い",
+      "meaning": "good; pleasing; skilled"
+    },
+    {
+      "type": "kanji",
+      "character": "針",
+      "romaji": "シン / はり",
+      "meaning": "needle; pin; staple"
+    },
+    {
+      "type": "kanji",
+      "character": "専",
+      "romaji": "セン / もっぱ.ら",
+      "meaning": "specialty; exclusive; mainly"
+    },
+    {
+      "type": "kanji",
+      "character": "谷",
+      "romaji": "コク / たに・きわ.まる",
+      "meaning": "valley"
+    },
+    {
+      "type": "kanji",
+      "character": "候",
+      "romaji": "コウ / そうろう",
+      "meaning": "climate; season; weather"
+    },
+    {
+      "type": "kanji",
+      "character": "史",
+      "romaji": "シ",
+      "meaning": "history; chronicle"
+    },
+    {
+      "type": "kanji",
+      "character": "階",
+      "romaji": "カイ / きざはし",
+      "meaning": "storey; stair; counter for storeys of a building"
+    }
+  ]
+}

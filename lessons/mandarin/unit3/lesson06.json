@@ -1,0 +1,67 @@
+{
+  "unit": 3,
+  "lesson": 6,
+  "title": "HSK 3 Vocabulary — Part 6",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "灯",
+      "romaji": "dēng",
+      "meaning": "lamp; light; lantern; CL:盞|盏[zhǎn]"
+    },
+    {
+      "type": "hanzi",
+      "character": "低",
+      "romaji": "dī",
+      "meaning": "low; beneath; to lower (one's head); to let droop; to hang down; to incline"
+    },
+    {
+      "type": "hanzi",
+      "character": "地方",
+      "romaji": "dì fang",
+      "meaning": "area; place; space; room; territory; CL:處|处; 個|个; 塊|块[kuài]"
+    },
+    {
+      "type": "hanzi",
+      "character": "地铁",
+      "romaji": "dì tiě",
+      "meaning": "subway; metro"
+    },
+    {
+      "type": "hanzi",
+      "character": "地图",
+      "romaji": "dì tú",
+      "meaning": "map; CL:張|张; 本[běn]"
+    },
+    {
+      "type": "hanzi",
+      "character": "电梯",
+      "romaji": "diàn tī",
+      "meaning": "elevator; escalator; CL:臺|台; 部[bù]"
+    },
+    {
+      "type": "hanzi",
+      "character": "电子",
+      "romaji": "diàn zǐ",
+      "meaning": "electronic; electron (particle physics)"
+    },
+    {
+      "type": "hanzi",
+      "character": "冬",
+      "romaji": "dōng",
+      "meaning": "sound of beating a drum; onomatopoeia for rat-a-tat etc"
+    },
+    {
+      "type": "hanzi",
+      "character": "东",
+      "romaji": "dōng",
+      "meaning": "east; host (i.e. sitting on east side of guest); landlord"
+    },
+    {
+      "type": "hanzi",
+      "character": "动物",
+      "romaji": "dòng wù",
+      "meaning": "animal; CL:隻|只; 群; 個|个[gè]"
+    }
+  ]
+}

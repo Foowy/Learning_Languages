@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 20,
+  "title": "JLPT N2/N1 Kanji — Part 20",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "慎",
+      "romaji": "シン / つつし.む・つつ.ましい・つつし・つつし.み",
+      "meaning": "humility; be careful; discreet"
+    },
+    {
+      "type": "kanji",
+      "character": "控",
+      "romaji": "コウ / ひか.える・ひか.え",
+      "meaning": "withdraw; draw in; hold back"
+    },
+    {
+      "type": "kanji",
+      "character": "智",
+      "romaji": "チ",
+      "meaning": "wisdom; intellect; reason"
+    },
+    {
+      "type": "kanji",
+      "character": "握",
+      "romaji": "アク / にぎ.る",
+      "meaning": "grip; hold; mould sushi"
+    },
+    {
+      "type": "kanji",
+      "character": "俊",
+      "romaji": "シュン",
+      "meaning": "sagacious; genius; excellence"
+    },
+    {
+      "type": "kanji",
+      "character": "銭",
+      "romaji": "セン・ゼン / ぜに・すき",
+      "meaning": "coin; .01 yen; money"
+    },
+    {
+      "type": "kanji",
+      "character": "渋",
+      "romaji": "ジュウ・シュウ / しぶ・しぶ.い・しぶ.る",
+      "meaning": "astringent; hesitate; reluctant"
+    },
+    {
+      "type": "kanji",
+      "character": "銃",
+      "romaji": "ジュウ / つつ",
+      "meaning": "gun; arms"
+    },
+    {
+      "type": "kanji",
+      "character": "携",
+      "romaji": "ケイ / たずさ.える・たずさ.わる",
+      "meaning": "portable; carry (in hand); armed with"
+    },
+    {
+      "type": "kanji",
+      "character": "診",
+      "romaji": "シン / み.る",
+      "meaning": "checkup; seeing; diagnose"
+    }
+  ]
+}

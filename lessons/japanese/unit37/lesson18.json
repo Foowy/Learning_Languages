@@ -1,0 +1,67 @@
+{
+  "unit": 37,
+  "lesson": 18,
+  "title": "Vocabulary — Frequency 6171–6180",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "渇く",
+      "romaji": "かわく",
+      "meaning": "to be thirsty; to feel thirsty"
+    },
+    {
+      "type": "kanji",
+      "character": "渇水",
+      "romaji": "かっすい",
+      "meaning": "water shortage"
+    },
+    {
+      "type": "kanji",
+      "character": "渇望",
+      "romaji": "かつぼう",
+      "meaning": "craving; longing"
+    },
+    {
+      "type": "kanji",
+      "character": "滑らか",
+      "romaji": "なめらか",
+      "meaning": "smooth (of a surface); glassy"
+    },
+    {
+      "type": "kanji",
+      "character": "滑る",
+      "romaji": "すべる",
+      "meaning": "to slide; to glide"
+    },
+    {
+      "type": "kanji",
+      "character": "滑稽",
+      "romaji": "こっけい",
+      "meaning": "funny; comical"
+    },
+    {
+      "type": "kanji",
+      "character": "滑降",
+      "romaji": "かっこう",
+      "meaning": "descent (esp. in skiing); sliding down"
+    },
+    {
+      "type": "kanji",
+      "character": "滑走",
+      "romaji": "かっそう",
+      "meaning": "gliding; sliding"
+    },
+    {
+      "type": "kanji",
+      "character": "滑走路",
+      "romaji": "かっそうろ",
+      "meaning": "runway; airstrip"
+    },
+    {
+      "type": "kanji",
+      "character": "葛",
+      "romaji": "くず",
+      "meaning": "kudzu (Pueraria montana); Japanese arrowroot"
+    }
+  ]
+}

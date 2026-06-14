@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 71,
+  "title": "JLPT N2/N1 Kanji — Part 71",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "穀",
+      "romaji": "コク",
+      "meaning": "cereals; grain"
+    },
+    {
+      "type": "kanji",
+      "character": "陵",
+      "romaji": "リョウ / みささぎ",
+      "meaning": "mausoleum; imperial tomb; mound"
+    },
+    {
+      "type": "kanji",
+      "character": "霧",
+      "romaji": "ム・ボウ・ブ / きり",
+      "meaning": "fog; mist"
+    },
+    {
+      "type": "kanji",
+      "character": "魂",
+      "romaji": "コン / たましい・たま",
+      "meaning": "soul; spirit"
+    },
+    {
+      "type": "kanji",
+      "character": "弊",
+      "romaji": "ヘイ",
+      "meaning": "abuse; evil; vice"
+    },
+    {
+      "type": "kanji",
+      "character": "妃",
+      "romaji": "ヒ / きさき",
+      "meaning": "queen; princess"
+    },
+    {
+      "type": "kanji",
+      "character": "舶",
+      "romaji": "ハク",
+      "meaning": "liner; ship"
+    },
+    {
+      "type": "kanji",
+      "character": "餓",
+      "romaji": "ガ / う.える",
+      "meaning": "starve; hungry; thirst"
+    },
+    {
+      "type": "kanji",
+      "character": "窮",
+      "romaji": "キュウ・キョウ / きわ.める・きわ.まる・きわ.まり・きわ.み",
+      "meaning": "hard up; destitute; suffer"
+    },
+    {
+      "type": "kanji",
+      "character": "掌",
+      "romaji": "ショウ / てのひら・たなごころ",
+      "meaning": "palm of hand; rule; administer"
+    }
+  ]
+}

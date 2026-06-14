@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 5,
+  "title": "JLPT N3 Kanji — Part 5",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "加",
+      "romaji": "カ / くわ.える・くわ.わる",
+      "meaning": "add; addition; increase"
+    },
+    {
+      "type": "kanji",
+      "character": "受",
+      "romaji": "ジュ / う.ける・-う.け・う.かる",
+      "meaning": "accept; undergo; answer (phone)"
+    },
+    {
+      "type": "kanji",
+      "character": "領",
+      "romaji": "リョウ / えり",
+      "meaning": "jurisdiction; dominion; territory"
+    },
+    {
+      "type": "kanji",
+      "character": "続",
+      "romaji": "ゾク・ショク・コウ・キョウ / つづ.く・つづ.ける・つぐ.ない",
+      "meaning": "continue; series; sequel"
+    },
+    {
+      "type": "kanji",
+      "character": "設",
+      "romaji": "セツ / もう.ける",
+      "meaning": "establishment; provision; prepare"
+    },
+    {
+      "type": "kanji",
+      "character": "保",
+      "romaji": "ホ・ホウ / たも.つ",
+      "meaning": "protect; guarantee; keep"
+    },
+    {
+      "type": "kanji",
+      "character": "改",
+      "romaji": "カイ / あらた.める・あらた.まる",
+      "meaning": "reformation; change; modify"
+    },
+    {
+      "type": "kanji",
+      "character": "数",
+      "romaji": "スウ・ス・サク・ソク・シュ / かず・かぞ.える・しばしば・せ.める・わずらわ.しい",
+      "meaning": "number; strength; fate"
+    },
+    {
+      "type": "kanji",
+      "character": "記",
+      "romaji": "キ / しる.す",
+      "meaning": "scribe; account; narrative"
+    },
+    {
+      "type": "kanji",
+      "character": "初",
+      "romaji": "ショ / はじ.め・はじ.めて・はつ・はつ-・うい-・-そ.める・-ぞ.め",
+      "meaning": "first time; beginning"
+    }
+  ]
+}

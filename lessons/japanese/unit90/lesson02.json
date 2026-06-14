@@ -1,0 +1,67 @@
+{
+  "unit": 90,
+  "lesson": 2,
+  "title": "Vocabulary — Frequency 16611–16620",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "放射性",
+      "romaji": "ほうしゃせい",
+      "meaning": "radioactive"
+    },
+    {
+      "type": "kanji",
+      "character": "放射線",
+      "romaji": "ほうしゃせん",
+      "meaning": "radiation"
+    },
+    {
+      "type": "kanji",
+      "character": "放射能",
+      "romaji": "ほうしゃのう",
+      "meaning": "radioactivity"
+    },
+    {
+      "type": "kanji",
+      "character": "放出",
+      "romaji": "ほうしゅつ",
+      "meaning": "emission; release"
+    },
+    {
+      "type": "kanji",
+      "character": "放水",
+      "romaji": "ほうすい",
+      "meaning": "discharge of water (from a river, dam, etc.); drainage"
+    },
+    {
+      "type": "kanji",
+      "character": "放送",
+      "romaji": "ほうそう",
+      "meaning": "broadcasting; broadcast"
+    },
+    {
+      "type": "kanji",
+      "character": "放題",
+      "romaji": "ほうだい",
+      "meaning": "(doing) as one pleases; to one's heart's content"
+    },
+    {
+      "type": "kanji",
+      "character": "放置",
+      "romaji": "ほうち",
+      "meaning": "leaving as is; leaving alone"
+    },
+    {
+      "type": "kanji",
+      "character": "放逐",
+      "romaji": "ほうちく",
+      "meaning": "expulsion; ousting"
+    },
+    {
+      "type": "kanji",
+      "character": "放任",
+      "romaji": "ほうにん",
+      "meaning": "noninterference; leaving something to take its own course"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 36,
+  "lesson": 7,
+  "title": "Vocabulary — Frequency 5861–5870",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "海",
+      "romaji": "うみ",
+      "meaning": "sea; ocean"
+    },
+    {
+      "type": "kanji",
+      "character": "海域",
+      "romaji": "かいいき",
+      "meaning": "area of sea; waters"
+    },
+    {
+      "type": "kanji",
+      "character": "海運",
+      "romaji": "かいうん",
+      "meaning": "maritime transport; shipping"
+    },
+    {
+      "type": "kanji",
+      "character": "海王星",
+      "romaji": "かいおうせい",
+      "meaning": "Neptune (planet)"
+    },
+    {
+      "type": "kanji",
+      "character": "海外",
+      "romaji": "かいがい",
+      "meaning": "foreign; abroad"
+    },
+    {
+      "type": "kanji",
+      "character": "海岸",
+      "romaji": "かいがん",
+      "meaning": "seashore; coast"
+    },
+    {
+      "type": "kanji",
+      "character": "海岸線",
+      "romaji": "かいがんせん",
+      "meaning": "coastline; shoreline"
+    },
+    {
+      "type": "kanji",
+      "character": "海峡",
+      "romaji": "かいきょう",
+      "meaning": "channel (e.g. between two land masses); strait"
+    },
+    {
+      "type": "kanji",
+      "character": "海軍",
+      "romaji": "かいぐん",
+      "meaning": "navy; naval force"
+    },
+    {
+      "type": "kanji",
+      "character": "海溝",
+      "romaji": "かいこう",
+      "meaning": "oceanic trench; deep-sea trench"
+    }
+  ]
+}

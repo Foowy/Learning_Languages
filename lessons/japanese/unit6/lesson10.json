@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 10,
+  "title": "JLPT N2/N1 Kanji — Part 10",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "創",
+      "romaji": "ソウ・ショウ / つく.る・はじ.める・きず・けず.しける",
+      "meaning": "genesis; wound; injury"
+    },
+    {
+      "type": "kanji",
+      "character": "障",
+      "romaji": "ショウ / さわ.る",
+      "meaning": "hinder; hurt; harm"
+    },
+    {
+      "type": "kanji",
+      "character": "継",
+      "romaji": "ケイ / つ.ぐ・まま-",
+      "meaning": "inherit; succeed; continue"
+    },
+    {
+      "type": "kanji",
+      "character": "筋",
+      "romaji": "キン / すじ",
+      "meaning": "muscle; sinew; tendon"
+    },
+    {
+      "type": "kanji",
+      "character": "闘",
+      "romaji": "トウ / たたか.う・あらそ.う",
+      "meaning": "fight; war"
+    },
+    {
+      "type": "kanji",
+      "character": "葬",
+      "romaji": "ソウ / ほうむ.る",
+      "meaning": "interment; bury; shelve"
+    },
+    {
+      "type": "kanji",
+      "character": "避",
+      "romaji": "ヒ / さ.ける・よ.ける",
+      "meaning": "evade; avoid; avert"
+    },
+    {
+      "type": "kanji",
+      "character": "逮",
+      "romaji": "タイ",
+      "meaning": "apprehend; chase"
+    },
+    {
+      "type": "kanji",
+      "character": "迫",
+      "romaji": "ハク / せま.る",
+      "meaning": "urge; force; imminent"
+    },
+    {
+      "type": "kanji",
+      "character": "惑",
+      "romaji": "ワク / まど.う",
+      "meaning": "beguile; delusion; perplexity"
+    }
+  ]
+}

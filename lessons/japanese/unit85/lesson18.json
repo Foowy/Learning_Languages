@@ -1,0 +1,67 @@
+{
+  "unit": 85,
+  "lesson": 18,
+  "title": "Vocabulary — Frequency 15771–15780",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "表",
+      "romaji": "おもて",
+      "meaning": "surface"
+    },
+    {
+      "type": "kanji",
+      "character": "表",
+      "romaji": "ひょう",
+      "meaning": "table; chart"
+    },
+    {
+      "type": "kanji",
+      "character": "表する",
+      "romaji": "ひょうする",
+      "meaning": "to express; to show"
+    },
+    {
+      "type": "kanji",
+      "character": "表記",
+      "romaji": "ひょうき",
+      "meaning": "expression in writing; written representation"
+    },
+    {
+      "type": "kanji",
+      "character": "表決",
+      "romaji": "ひょうけつ",
+      "meaning": "vote; voting"
+    },
+    {
+      "type": "kanji",
+      "character": "表現",
+      "romaji": "ひょうげん",
+      "meaning": "expression; representation"
+    },
+    {
+      "type": "kanji",
+      "character": "表向き",
+      "romaji": "おもてむき",
+      "meaning": "outward appearance; ostensible"
+    },
+    {
+      "type": "kanji",
+      "character": "表紙",
+      "romaji": "ひょうし",
+      "meaning": "cover (of a book, magazine, etc.); binding"
+    },
+    {
+      "type": "kanji",
+      "character": "表示",
+      "romaji": "ひょうじ",
+      "meaning": "indication; expression"
+    },
+    {
+      "type": "kanji",
+      "character": "表彰",
+      "romaji": "ひょうしょう",
+      "meaning": "(official) commendation; public recognition (of someone's achievements, good deeds, etc.)"
+    }
+  ]
+}

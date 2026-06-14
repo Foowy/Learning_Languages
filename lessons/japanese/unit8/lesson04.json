@@ -1,0 +1,67 @@
+{
+  "unit": 8,
+  "lesson": 4,
+  "title": "Vocabulary — Frequency 231–240",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "ずれる",
+      "romaji": "ずれる",
+      "meaning": "to slide; to slip off"
+    },
+    {
+      "type": "kana",
+      "character": "せかせか",
+      "romaji": "せかせか",
+      "meaning": "restlessly; hurriedly"
+    },
+    {
+      "type": "kana",
+      "character": "せがむ",
+      "romaji": "せがむ",
+      "meaning": "to badger; to pester"
+    },
+    {
+      "type": "kana",
+      "character": "せず",
+      "romaji": "せず",
+      "meaning": "without doing"
+    },
+    {
+      "type": "kana",
+      "character": "せずに",
+      "romaji": "せずに",
+      "meaning": "without (doing); instead of"
+    },
+    {
+      "type": "kana",
+      "character": "せっかち",
+      "romaji": "せっかち",
+      "meaning": "hasty; impatient"
+    },
+    {
+      "type": "kana",
+      "character": "せめて",
+      "romaji": "せめて",
+      "meaning": "at least; at most"
+    },
+    {
+      "type": "kanji",
+      "character": "其奴",
+      "romaji": "そいつ",
+      "meaning": "he; she"
+    },
+    {
+      "type": "kana",
+      "character": "そう",
+      "romaji": "そう",
+      "meaning": "appearing that; seeming that"
+    },
+    {
+      "type": "kana",
+      "character": "そうすると",
+      "romaji": "そうすると",
+      "meaning": "having done that; if that is done"
+    }
+  ]
+}

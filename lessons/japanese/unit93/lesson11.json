@@ -1,0 +1,67 @@
+{
+  "unit": 93,
+  "lesson": 11,
+  "title": "Vocabulary — Frequency 17301–17310",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "問い",
+      "romaji": "とい",
+      "meaning": "question; query"
+    },
+    {
+      "type": "kanji",
+      "character": "問い合わせる",
+      "romaji": "といあわせる",
+      "meaning": "to enquire; to inquire"
+    },
+    {
+      "type": "kanji",
+      "character": "問う",
+      "romaji": "とう",
+      "meaning": "to ask; to inquire"
+    },
+    {
+      "type": "kanji",
+      "character": "問題",
+      "romaji": "もんだい",
+      "meaning": "question (e.g. on a test); problem"
+    },
+    {
+      "type": "kanji",
+      "character": "問題点",
+      "romaji": "もんだいてん",
+      "meaning": "the problem (at issue); the point at issue"
+    },
+    {
+      "type": "kanji",
+      "character": "問答",
+      "romaji": "もんどう",
+      "meaning": "questions and answers; dialogue"
+    },
+    {
+      "type": "kanji",
+      "character": "紋章",
+      "romaji": "もんしょう",
+      "meaning": "crest; coat of arms"
+    },
+    {
+      "type": "kanji",
+      "character": "紋切り型",
+      "romaji": "もんきりがた",
+      "meaning": "formulaic; stereotyped"
+    },
+    {
+      "type": "kanji",
+      "character": "門下生",
+      "romaji": "もんかせい",
+      "meaning": "pupil; disciple"
+    },
+    {
+      "type": "kanji",
+      "character": "門外漢",
+      "romaji": "もんがいかん",
+      "meaning": "outsider; layman"
+    }
+  ]
+}

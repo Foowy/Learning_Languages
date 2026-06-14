@@ -1,0 +1,67 @@
+{
+  "unit": 10,
+  "lesson": 16,
+  "title": "Vocabulary — Frequency 751–760",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "エコロジー",
+      "romaji": "エコロジー",
+      "meaning": "ecology"
+    },
+    {
+      "type": "kana",
+      "character": "エゴ",
+      "romaji": "エゴ",
+      "meaning": "ego"
+    },
+    {
+      "type": "kanji",
+      "character": "埃及",
+      "romaji": "エジプト",
+      "meaning": "Egypt"
+    },
+    {
+      "type": "kanji",
+      "character": "Ｓ",
+      "romaji": "エス",
+      "meaning": "S; s"
+    },
+    {
+      "type": "kana",
+      "character": "エスカレーター",
+      "romaji": "エスカレーター",
+      "meaning": "escalator"
+    },
+    {
+      "type": "kana",
+      "character": "エスカレート",
+      "romaji": "エスカレート",
+      "meaning": "escalation"
+    },
+    {
+      "type": "kana",
+      "character": "エスコート",
+      "romaji": "エスコート",
+      "meaning": "escort"
+    },
+    {
+      "type": "kana",
+      "character": "エステート",
+      "romaji": "エステート",
+      "meaning": "estate"
+    },
+    {
+      "type": "kana",
+      "character": "エステティック",
+      "romaji": "エステティック",
+      "meaning": "beauty treatment; cosmetology"
+    },
+    {
+      "type": "kana",
+      "character": "エステティックサロン",
+      "romaji": "エステティックサロン",
+      "meaning": "beauty salon; beauty-treatment clinic"
+    }
+  ]
+}

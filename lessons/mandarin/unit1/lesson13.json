@@ -1,0 +1,67 @@
+{
+  "unit": 1,
+  "lesson": 13,
+  "title": "HSK 1 Vocabulary — Part 13",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "想",
+      "romaji": "xiǎng",
+      "meaning": "to think; to believe; to suppose; to wish; to want; to miss"
+    },
+    {
+      "type": "hanzi",
+      "character": "小",
+      "romaji": "xiǎo",
+      "meaning": "small; tiny; few; young"
+    },
+    {
+      "type": "hanzi",
+      "character": "小姐",
+      "romaji": "xiǎo jie",
+      "meaning": "young lady; miss; (slang) prostitute; CL:個|个; 位[wèi]"
+    },
+    {
+      "type": "hanzi",
+      "character": "些",
+      "romaji": "xiē",
+      "meaning": "some; few; several; measure word indicating a small amount or small number (greater than 1)"
+    },
+    {
+      "type": "hanzi",
+      "character": "写",
+      "romaji": "xiě",
+      "meaning": "to write"
+    },
+    {
+      "type": "hanzi",
+      "character": "谢谢",
+      "romaji": "xiè xie",
+      "meaning": "to thank; thanks"
+    },
+    {
+      "type": "hanzi",
+      "character": "星期",
+      "romaji": "xīng qī",
+      "meaning": "week; CL:個|个[gè]; day of the week; Sunday"
+    },
+    {
+      "type": "hanzi",
+      "character": "学生",
+      "romaji": "xué sheng",
+      "meaning": "student; schoolchild"
+    },
+    {
+      "type": "hanzi",
+      "character": "学习",
+      "romaji": "xué xí",
+      "meaning": "to learn; to study"
+    },
+    {
+      "type": "hanzi",
+      "character": "学校",
+      "romaji": "xué xiào",
+      "meaning": "school; CL:所[suǒ]"
+    }
+  ]
+}

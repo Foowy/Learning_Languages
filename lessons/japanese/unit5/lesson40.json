@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 40,
+  "title": "JLPT N3 Kanji — Part 40",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "伸",
+      "romaji": "シン / の.びる・の.ばす・の.べる・の.す",
+      "meaning": "expand; stretch; extend"
+    },
+    {
+      "type": "kanji",
+      "character": "留",
+      "romaji": "リュウ・ル / と.める・と.まる・とど.める・とど.まる・るうぶる",
+      "meaning": "detain; fasten; halt"
+    },
+    {
+      "type": "kanji",
+      "character": "罪",
+      "romaji": "ザイ / つみ",
+      "meaning": "guilt; sin; crime"
+    },
+    {
+      "type": "kanji",
+      "character": "停",
+      "romaji": "テイ / と.める・と.まる",
+      "meaning": "halt; stopping"
+    },
+    {
+      "type": "kanji",
+      "character": "爆",
+      "romaji": "バク / は.ぜる",
+      "meaning": "bomb; burst open; pop"
+    },
+    {
+      "type": "kanji",
+      "character": "陸",
+      "romaji": "リク・ロク / おか",
+      "meaning": "land; six"
+    },
+    {
+      "type": "kanji",
+      "character": "玉",
+      "romaji": "ギョク / たま・たま-・-だま",
+      "meaning": "jewel; ball"
+    },
+    {
+      "type": "kanji",
+      "character": "波",
+      "romaji": "ハ / なみ",
+      "meaning": "waves; billows; Poland"
+    },
+    {
+      "type": "kanji",
+      "character": "帯",
+      "romaji": "タイ / お.びる・おび",
+      "meaning": "sash; belt; obi"
+    },
+    {
+      "type": "kanji",
+      "character": "延",
+      "romaji": "エン / の.びる・の.べる・の.べ・の.ばす",
+      "meaning": "prolong; stretching"
+    }
+  ]
+}

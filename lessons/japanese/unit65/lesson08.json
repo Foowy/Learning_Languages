@@ -1,0 +1,67 @@
+{
+  "unit": 65,
+  "lesson": 8,
+  "title": "Vocabulary — Frequency 11671–11680",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "人気",
+      "romaji": "にんき",
+      "meaning": "popularity; public favor"
+    },
+    {
+      "type": "kanji",
+      "character": "人気者",
+      "romaji": "にんきもの",
+      "meaning": "popular person; favorite"
+    },
+    {
+      "type": "kanji",
+      "character": "人形",
+      "romaji": "にんぎょう",
+      "meaning": "doll; puppet"
+    },
+    {
+      "type": "kanji",
+      "character": "人件費",
+      "romaji": "じんけんひ",
+      "meaning": "personnel expenses; labor cost"
+    },
+    {
+      "type": "kanji",
+      "character": "人権",
+      "romaji": "じんけん",
+      "meaning": "human rights; civil liberties"
+    },
+    {
+      "type": "kanji",
+      "character": "人見知り",
+      "romaji": "ひとみしり",
+      "meaning": "shyness; fear of strangers"
+    },
+    {
+      "type": "kanji",
+      "character": "人口",
+      "romaji": "じんこう",
+      "meaning": "population"
+    },
+    {
+      "type": "kanji",
+      "character": "人工",
+      "romaji": "じんこう",
+      "meaning": "artificial; man-made"
+    },
+    {
+      "type": "kanji",
+      "character": "人工衛星",
+      "romaji": "じんこうえいせい",
+      "meaning": "artificial satellite; man-made satellite"
+    },
+    {
+      "type": "kanji",
+      "character": "人工呼吸",
+      "romaji": "じんこうこきゅう",
+      "meaning": "artificial respiration"
+    }
+  ]
+}

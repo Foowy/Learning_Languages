@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 207,
+  "title": "HSK 6 Vocabulary — Part 207",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "学位",
+      "romaji": "xué wèi",
+      "meaning": "academic degree; e.g.: BSc 學士學位|学士学位; MSc 碩士學位|硕士学位; Diploma 學位證書|学位证书; PhD 博士學位|博士学位[bó shì xué wèi]"
+    },
+    {
+      "type": "hanzi",
+      "character": "雪上加霜",
+      "romaji": "xuě shàng jiā shuāng",
+      "meaning": "to add hail to snow (idiom); one disaster on top of another; to make things worse in a bad situation"
+    },
+    {
+      "type": "hanzi",
+      "character": "血压",
+      "romaji": "xuè yā",
+      "meaning": "blood pressure"
+    },
+    {
+      "type": "hanzi",
+      "character": "熏陶",
+      "romaji": "xūn táo",
+      "meaning": "to seep in; to influence; to nurture; influence; training"
+    },
+    {
+      "type": "hanzi",
+      "character": "循环",
+      "romaji": "xún huán",
+      "meaning": "to cycle; to circulate; circle; loop"
+    },
+    {
+      "type": "hanzi",
+      "character": "循序渐进",
+      "romaji": "xún xù jiàn jìn",
+      "meaning": "in sequence; step by step (idiom); to make steady progress incrementally"
+    },
+    {
+      "type": "hanzi",
+      "character": "巡逻",
+      "romaji": "xún luó",
+      "meaning": "to patrol (police; army or navy)"
+    },
+    {
+      "type": "hanzi",
+      "character": "寻觅",
+      "romaji": "xún mì",
+      "meaning": "to look for"
+    },
+    {
+      "type": "hanzi",
+      "character": "押金",
+      "romaji": "yā jīn",
+      "meaning": "deposit; down payment"
+    },
+    {
+      "type": "hanzi",
+      "character": "压迫",
+      "romaji": "yā pò",
+      "meaning": "to oppress; to repress; to constrict; oppression; stress (physics)"
+    }
+  ]
+}

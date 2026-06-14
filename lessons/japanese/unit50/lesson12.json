@@ -1,0 +1,67 @@
+{
+  "unit": 50,
+  "lesson": 12,
+  "title": "Vocabulary — Frequency 8711–8720",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "鉱石",
+      "romaji": "こうせき",
+      "meaning": "ore; mineral"
+    },
+    {
+      "type": "kanji",
+      "character": "鉱物",
+      "romaji": "こうぶつ",
+      "meaning": "mineral"
+    },
+    {
+      "type": "kanji",
+      "character": "鋼",
+      "romaji": "はがね",
+      "meaning": "steel"
+    },
+    {
+      "type": "kanji",
+      "character": "鋼材",
+      "romaji": "こうざい",
+      "meaning": "steel material"
+    },
+    {
+      "type": "kanji",
+      "character": "鋼鉄",
+      "romaji": "こうてつ",
+      "meaning": "steel"
+    },
+    {
+      "type": "kanji",
+      "character": "降る",
+      "romaji": "ふる",
+      "meaning": "to fall (of rain, snow, ash, etc.); to come down"
+    },
+    {
+      "type": "kanji",
+      "character": "降雨",
+      "romaji": "こうう",
+      "meaning": "rainfall; rain"
+    },
+    {
+      "type": "kanji",
+      "character": "降下",
+      "romaji": "こうか",
+      "meaning": "descent; fall"
+    },
+    {
+      "type": "kanji",
+      "character": "降参",
+      "romaji": "こうさん",
+      "meaning": "surrender; submission"
+    },
+    {
+      "type": "kanji",
+      "character": "降水",
+      "romaji": "こうすい",
+      "meaning": "rainfall; precipitation"
+    }
+  ]
+}

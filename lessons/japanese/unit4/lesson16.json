@@ -1,0 +1,67 @@
+{
+  "unit": 4,
+  "lesson": 16,
+  "title": "JLPT N4 Kanji — Part 16",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "洋",
+      "romaji": "ヨウ",
+      "meaning": "ocean; sea; foreign"
+    },
+    {
+      "type": "kanji",
+      "character": "旅",
+      "romaji": "リョ / たび",
+      "meaning": "trip; travel"
+    },
+    {
+      "type": "kanji",
+      "character": "軽",
+      "romaji": "ケイ・キョウ・キン / かる.い・かろ.やか・かろ.んじる",
+      "meaning": "lightly; trifling; unimportant"
+    },
+    {
+      "type": "kanji",
+      "character": "池",
+      "romaji": "チ / いけ",
+      "meaning": "pond; cistern; pool"
+    },
+    {
+      "type": "kanji",
+      "character": "服",
+      "romaji": "フク",
+      "meaning": "clothing; admit; obey"
+    },
+    {
+      "type": "kanji",
+      "character": "遠",
+      "romaji": "エン・オン / とお.い",
+      "meaning": "distant; far"
+    },
+    {
+      "type": "kanji",
+      "character": "夕",
+      "romaji": "セキ / ゆう",
+      "meaning": "evening"
+    },
+    {
+      "type": "kanji",
+      "character": "借",
+      "romaji": "シャク / か.りる",
+      "meaning": "borrow; rent"
+    },
+    {
+      "type": "kanji",
+      "character": "曜",
+      "romaji": "ヨウ",
+      "meaning": "weekday"
+    },
+    {
+      "type": "kanji",
+      "character": "弱",
+      "romaji": "ジャク / よわ.い・よわ.る・よわ.まる・よわ.める",
+      "meaning": "weak; frail"
+    }
+  ]
+}

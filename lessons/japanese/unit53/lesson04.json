@@ -1,0 +1,67 @@
+{
+  "unit": 53,
+  "lesson": 4,
+  "title": "Vocabulary — Frequency 9231–9240",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "作曲家",
+      "romaji": "さっきょくか",
+      "meaning": "composer"
+    },
+    {
+      "type": "kanji",
+      "character": "作詞",
+      "romaji": "さくし",
+      "meaning": "(writing) song lyrics"
+    },
+    {
+      "type": "kanji",
+      "character": "作者",
+      "romaji": "さくしゃ",
+      "meaning": "creator (of a work); author"
+    },
+    {
+      "type": "kanji",
+      "character": "作成",
+      "romaji": "さくせい",
+      "meaning": "making (a report, plan, contract, etc.); drawing up"
+    },
+    {
+      "type": "kanji",
+      "character": "作製",
+      "romaji": "さくせい",
+      "meaning": "manufacture; production"
+    },
+    {
+      "type": "kanji",
+      "character": "作戦",
+      "romaji": "さくせん",
+      "meaning": "tactics; strategy"
+    },
+    {
+      "type": "kanji",
+      "character": "作動",
+      "romaji": "さどう",
+      "meaning": "operation; functioning"
+    },
+    {
+      "type": "kanji",
+      "character": "作品",
+      "romaji": "さくひん",
+      "meaning": "work (e.g. book, film, painting, composition); piece"
+    },
+    {
+      "type": "kanji",
+      "character": "作風",
+      "romaji": "さくふう",
+      "meaning": "style (of a work, author, artist, etc.); characteristics"
+    },
+    {
+      "type": "kanji",
+      "character": "作物",
+      "romaji": "さくもつ",
+      "meaning": "crop; crops"
+    }
+  ]
+}

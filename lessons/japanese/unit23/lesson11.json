@@ -1,0 +1,67 @@
+{
+  "unit": 23,
+  "lesson": 11,
+  "title": "Vocabulary — Frequency 3301–3310",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "フラスコ",
+      "romaji": "フラスコ",
+      "meaning": "(laboratory) flask"
+    },
+    {
+      "type": "kana",
+      "character": "フラストレーション",
+      "romaji": "フラストレーション",
+      "meaning": "frustration"
+    },
+    {
+      "type": "kana",
+      "character": "フラッグ",
+      "romaji": "フラッグ",
+      "meaning": "flag"
+    },
+    {
+      "type": "kana",
+      "character": "フラッシュ",
+      "romaji": "フラッシュ",
+      "meaning": "flash (esp. of a camera); flashlight"
+    },
+    {
+      "type": "kana",
+      "character": "フラップ",
+      "romaji": "フラップ",
+      "meaning": "flap (of an aircraft wing)"
+    },
+    {
+      "type": "kana",
+      "character": "フラメンコ",
+      "romaji": "フラメンコ",
+      "meaning": "flamenco"
+    },
+    {
+      "type": "kana",
+      "character": "フラワーアレンジメント",
+      "romaji": "フラワーアレンジメント",
+      "meaning": "flower arrangement"
+    },
+    {
+      "type": "kana",
+      "character": "フラン",
+      "romaji": "フラン",
+      "meaning": "franc (currency)"
+    },
+    {
+      "type": "kana",
+      "character": "フランク",
+      "romaji": "フランク",
+      "meaning": "frank; candid"
+    },
+    {
+      "type": "kana",
+      "character": "フランクフルト",
+      "romaji": "フランクフルト",
+      "meaning": "Frankfurt (Germany)"
+    }
+  ]
+}

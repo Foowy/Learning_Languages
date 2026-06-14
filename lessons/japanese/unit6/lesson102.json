@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 102,
+  "title": "JLPT N2/N1 Kanji — Part 102",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "蔦",
+      "romaji": "チョウ / つた",
+      "meaning": "vine; ivy"
+    },
+    {
+      "type": "kanji",
+      "character": "錬",
+      "romaji": "レン / ね.る",
+      "meaning": "tempering; refine; drill"
+    },
+    {
+      "type": "kanji",
+      "character": "隼",
+      "romaji": "シュン・ジュン / はやぶさ",
+      "meaning": "falcon"
+    },
+    {
+      "type": "kanji",
+      "character": "渚",
+      "romaji": "ショ / なぎさ",
+      "meaning": "strand; beach; shore"
+    },
+    {
+      "type": "kanji",
+      "character": "衷",
+      "romaji": "チュウ",
+      "meaning": "inmost; heart; mind"
+    },
+    {
+      "type": "kanji",
+      "character": "逐",
+      "romaji": "チク",
+      "meaning": "pursue; drive away; chase"
+    },
+    {
+      "type": "kanji",
+      "character": "斥",
+      "romaji": "セキ / しりぞ.ける",
+      "meaning": "reject; retreat; recede"
+    },
+    {
+      "type": "kanji",
+      "character": "稀",
+      "romaji": "キ・ケ / まれ・まばら",
+      "meaning": "rare; phenomenal; dilute (acid)"
+    },
+    {
+      "type": "kanji",
+      "character": "芙",
+      "romaji": "フ",
+      "meaning": "lotus; Mt Fuji"
+    },
+    {
+      "type": "kanji",
+      "character": "詔",
+      "romaji": "ショウ / みことのり",
+      "meaning": "imperial edict"
+    }
+  ]
+}

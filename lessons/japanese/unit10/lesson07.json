@@ -1,0 +1,67 @@
+{
+  "unit": 10,
+  "lesson": 7,
+  "title": "Vocabulary — Frequency 661–670",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "吋",
+      "romaji": "インチ",
+      "meaning": "inch"
+    },
+    {
+      "type": "kana",
+      "character": "インチキ",
+      "romaji": "インチキ",
+      "meaning": "cheating; fraud"
+    },
+    {
+      "type": "kana",
+      "character": "インテグレーション",
+      "romaji": "インテグレーション",
+      "meaning": "integration"
+    },
+    {
+      "type": "kana",
+      "character": "インテリ",
+      "romaji": "インテリ",
+      "meaning": "intellectual; educated person"
+    },
+    {
+      "type": "kana",
+      "character": "インテリア",
+      "romaji": "インテリア",
+      "meaning": "interior (of building, room, vehicle, etc.)"
+    },
+    {
+      "type": "kana",
+      "character": "インテリジェンス",
+      "romaji": "インテリジェンス",
+      "meaning": "intelligence"
+    },
+    {
+      "type": "kana",
+      "character": "インテリジェント",
+      "romaji": "インテリジェント",
+      "meaning": "intelligent"
+    },
+    {
+      "type": "kana",
+      "character": "インディアナ",
+      "romaji": "インディアナ",
+      "meaning": "Indiana"
+    },
+    {
+      "type": "kana",
+      "character": "インディアン",
+      "romaji": "インディアン",
+      "meaning": "(American) Indian; Native American"
+    },
+    {
+      "type": "kana",
+      "character": "インディペンデント",
+      "romaji": "インディペンデント",
+      "meaning": "independent"
+    }
+  ]
+}

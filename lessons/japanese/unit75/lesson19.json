@@ -1,0 +1,67 @@
+{
+  "unit": 75,
+  "lesson": 19,
+  "title": "Vocabulary — Frequency 13781–13790",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "張り切る",
+      "romaji": "はりきる",
+      "meaning": "to be in high spirits; to be full of vigor (vigour)"
+    },
+    {
+      "type": "kanji",
+      "character": "張る",
+      "romaji": "はる",
+      "meaning": "to stick; to paste"
+    },
+    {
+      "type": "kanji",
+      "character": "彫る",
+      "romaji": "ほる",
+      "meaning": "to carve; to engrave"
+    },
+    {
+      "type": "kanji",
+      "character": "彫金",
+      "romaji": "ちょうきん",
+      "meaning": "chasing; metal carving"
+    },
+    {
+      "type": "kanji",
+      "character": "彫刻",
+      "romaji": "ちょうこく",
+      "meaning": "carving; engraving"
+    },
+    {
+      "type": "kanji",
+      "character": "彫塑",
+      "romaji": "ちょうそ",
+      "meaning": "carving; engraving"
+    },
+    {
+      "type": "kanji",
+      "character": "彫像",
+      "romaji": "ちょうぞう",
+      "meaning": "(carved) statue; sculpture"
+    },
+    {
+      "type": "kanji",
+      "character": "徴収",
+      "romaji": "ちょうしゅう",
+      "meaning": "collection (of fees, taxes, etc.); levy"
+    },
+    {
+      "type": "kanji",
+      "character": "徴税",
+      "romaji": "ちょうぜい",
+      "meaning": "tax collection; taxation"
+    },
+    {
+      "type": "kanji",
+      "character": "徴兵",
+      "romaji": "ちょうへい",
+      "meaning": "conscription; (military) draft"
+    }
+  ]
+}

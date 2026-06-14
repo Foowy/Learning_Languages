@@ -1,0 +1,67 @@
+{
+  "unit": 115,
+  "lesson": 13,
+  "title": "Vocabulary — Frequency 21721–21730",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "やる気",
+      "romaji": "やるき",
+      "meaning": "will (to do something); drive"
+    },
+    {
+      "type": "kanji",
+      "character": "何人",
+      "romaji": "なにびと",
+      "meaning": "anyone; any person"
+    },
+    {
+      "type": "kanji",
+      "character": "解きほぐす",
+      "romaji": "ときほぐす",
+      "meaning": "to disentangle; to untangle"
+    },
+    {
+      "type": "kanji",
+      "character": "宛",
+      "romaji": "ずつ",
+      "meaning": "apiece; each"
+    },
+    {
+      "type": "kanji",
+      "character": "間違いない",
+      "romaji": "まちがいない",
+      "meaning": "certain; sure"
+    },
+    {
+      "type": "kanji",
+      "character": "最年少",
+      "romaji": "さいねんしょう",
+      "meaning": "youngest"
+    },
+    {
+      "type": "kanji",
+      "character": "お馴染み",
+      "romaji": "おなじみ",
+      "meaning": "familiar; well-known"
+    },
+    {
+      "type": "kana",
+      "character": "ぐるっと",
+      "romaji": "ぐるっと",
+      "meaning": "turning round; going around"
+    },
+    {
+      "type": "kana",
+      "character": "ずらり",
+      "romaji": "ずらり",
+      "meaning": "in a row; in a line"
+    },
+    {
+      "type": "kana",
+      "character": "せっせと",
+      "romaji": "せっせと",
+      "meaning": "diligently; assiduously"
+    }
+  ]
+}

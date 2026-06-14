@@ -1,0 +1,67 @@
+{
+  "unit": 4,
+  "lesson": 12,
+  "title": "JLPT N4 Kanji — Part 12",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "頭",
+      "romaji": "トウ・ズ・ト / あたま・かしら・-がしら・かぶり",
+      "meaning": "head; counter for large animals"
+    },
+    {
+      "type": "kanji",
+      "character": "低",
+      "romaji": "テイ / ひく.い・ひく.める・ひく.まる",
+      "meaning": "lower; short; humble"
+    },
+    {
+      "type": "kanji",
+      "character": "医",
+      "romaji": "イ / い.やす・い.する・くすし",
+      "meaning": "doctor; medicine"
+    },
+    {
+      "type": "kanji",
+      "character": "仕",
+      "romaji": "シ・ジ / つか.える",
+      "meaning": "attend; doing; official"
+    },
+    {
+      "type": "kanji",
+      "character": "去",
+      "romaji": "キョ・コ / さ.る・-さ.る",
+      "meaning": "gone; past; quit"
+    },
+    {
+      "type": "kanji",
+      "character": "味",
+      "romaji": "ミ / あじ・あじ.わう",
+      "meaning": "flavor; taste"
+    },
+    {
+      "type": "kanji",
+      "character": "門",
+      "romaji": "モン / かど・と",
+      "meaning": "gate; counter for cannons"
+    },
+    {
+      "type": "kanji",
+      "character": "写",
+      "romaji": "シャ・ジャ / うつ.す・うつ.る・うつ-・うつ.し",
+      "meaning": "copy; be photographed; describe"
+    },
+    {
+      "type": "kanji",
+      "character": "字",
+      "romaji": "ジ / あざ・あざな・-な",
+      "meaning": "character; letter; word"
+    },
+    {
+      "type": "kanji",
+      "character": "答",
+      "romaji": "トウ / こた.える・こた.え",
+      "meaning": "solution; answer"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 42,
+  "lesson": 11,
+  "title": "Vocabulary — Frequency 7101–7110",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "卿",
+      "romaji": "きょう",
+      "meaning": "Lord; Sir"
+    },
+    {
+      "type": "kanji",
+      "character": "叫び",
+      "romaji": "さけび",
+      "meaning": "shout; cry"
+    },
+    {
+      "type": "kanji",
+      "character": "叫び声",
+      "romaji": "さけびごえ",
+      "meaning": "shout; yell"
+    },
+    {
+      "type": "kanji",
+      "character": "叫ぶ",
+      "romaji": "さけぶ",
+      "meaning": "to shout; to cry (out)"
+    },
+    {
+      "type": "kanji",
+      "character": "境",
+      "romaji": "さかい",
+      "meaning": "border; boundary"
+    },
+    {
+      "type": "kanji",
+      "character": "境界",
+      "romaji": "きょうかい",
+      "meaning": "boundary; border"
+    },
+    {
+      "type": "kanji",
+      "character": "境遇",
+      "romaji": "きょうぐう",
+      "meaning": "one's circumstances; environment"
+    },
+    {
+      "type": "kanji",
+      "character": "境地",
+      "romaji": "きょうち",
+      "meaning": "state (of mind); mental state"
+    },
+    {
+      "type": "kanji",
+      "character": "境内",
+      "romaji": "けいだい",
+      "meaning": "grounds (esp. of shrines and temples); compound"
+    },
+    {
+      "type": "kanji",
+      "character": "境目",
+      "romaji": "さかいめ",
+      "meaning": "borderline; boundary"
+    }
+  ]
+}

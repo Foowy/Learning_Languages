@@ -1,0 +1,67 @@
+{
+  "unit": 84,
+  "lesson": 13,
+  "title": "Vocabulary — Frequency 15521–15530",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "反乱",
+      "romaji": "はんらん",
+      "meaning": "insurrection; mutiny"
+    },
+    {
+      "type": "kanji",
+      "character": "反論",
+      "romaji": "はんろん",
+      "meaning": "objection; refutation"
+    },
+    {
+      "type": "kanji",
+      "character": "帆",
+      "romaji": "ほ",
+      "meaning": "sail"
+    },
+    {
+      "type": "kanji",
+      "character": "帆走",
+      "romaji": "はんそう",
+      "meaning": "sailing"
+    },
+    {
+      "type": "kanji",
+      "character": "搬出",
+      "romaji": "はんしゅつ",
+      "meaning": "carrying out (esp. heavy objects, artwork, furniture); taking out"
+    },
+    {
+      "type": "kanji",
+      "character": "搬送",
+      "romaji": "はんそう",
+      "meaning": "transportation; conveyance"
+    },
+    {
+      "type": "kanji",
+      "character": "搬入",
+      "romaji": "はんにゅう",
+      "meaning": "carrying in (esp. heavy objects, artwork, furniture); bringing in"
+    },
+    {
+      "type": "kanji",
+      "character": "斑",
+      "romaji": "むら",
+      "meaning": "unevenness (of colour, paint, etc.); irregularity"
+    },
+    {
+      "type": "kanji",
+      "character": "板",
+      "romaji": "いた",
+      "meaning": "board; plank"
+    },
+    {
+      "type": "kanji",
+      "character": "氾濫",
+      "romaji": "はんらん",
+      "meaning": "overflowing; flood"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 3,
+  "title": "JLPT N3 Kanji — Part 3",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "調",
+      "romaji": "チョウ / しら.べる・しら.べ・ととの.う・ととの.える",
+      "meaning": "tune; tone; meter"
+    },
+    {
+      "type": "kanji",
+      "character": "化",
+      "romaji": "カ・ケ / ば.ける・ば.かす・ふ.ける・け.する",
+      "meaning": "change; take the form of; influence"
+    },
+    {
+      "type": "kanji",
+      "character": "当",
+      "romaji": "トウ / あ.たる・あ.たり・あ.てる・あ.て・まさ.に・まさ.にべし",
+      "meaning": "hit; right; appropriate"
+    },
+    {
+      "type": "kanji",
+      "character": "約",
+      "romaji": "ヤク / つづ.まる・つづ.める・つづま.やか",
+      "meaning": "promise; approximately; shrink"
+    },
+    {
+      "type": "kanji",
+      "character": "法",
+      "romaji": "ホウ・ハッ・ホッ・フラン / のり",
+      "meaning": "method; law; rule"
+    },
+    {
+      "type": "kanji",
+      "character": "性",
+      "romaji": "セイ・ショウ / さが",
+      "meaning": "sex; gender; nature"
+    },
+    {
+      "type": "kanji",
+      "character": "的",
+      "romaji": "テキ / まと",
+      "meaning": "bull's eye; mark; target"
+    },
+    {
+      "type": "kanji",
+      "character": "要",
+      "romaji": "ヨウ / い.る・かなめ",
+      "meaning": "need; main point; essence"
+    },
+    {
+      "type": "kanji",
+      "character": "制",
+      "romaji": "セイ",
+      "meaning": "system; law; rule"
+    },
+    {
+      "type": "kanji",
+      "character": "治",
+      "romaji": "ジ・チ / おさ.める・おさ.まる・なお.る・なお.す",
+      "meaning": "reign; be at peace; calm down"
+    }
+  ]
+}

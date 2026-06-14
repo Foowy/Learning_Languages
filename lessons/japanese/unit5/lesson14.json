@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 14,
+  "title": "JLPT N3 Kanji — Part 14",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "放",
+      "romaji": "ホウ / はな.す・-っぱな.し・はな.つ・はな.れる・こ.く・ほう.る",
+      "meaning": "set free; release; fire"
+    },
+    {
+      "type": "kanji",
+      "character": "税",
+      "romaji": "ゼイ",
+      "meaning": "tax; duty"
+    },
+    {
+      "type": "kanji",
+      "character": "検",
+      "romaji": "ケン / しら.べる",
+      "meaning": "examination; investigate"
+    },
+    {
+      "type": "kanji",
+      "character": "常",
+      "romaji": "ジョウ / つね・とこ-",
+      "meaning": "usual; ordinary; normal"
+    },
+    {
+      "type": "kanji",
+      "character": "状",
+      "romaji": "ジョウ",
+      "meaning": "status quo; conditions; circumstances"
+    },
+    {
+      "type": "kanji",
+      "character": "球",
+      "romaji": "キュウ / たま",
+      "meaning": "ball; sphere"
+    },
+    {
+      "type": "kanji",
+      "character": "営",
+      "romaji": "エイ / いとな.む・いとな.み",
+      "meaning": "camp; perform; build"
+    },
+    {
+      "type": "kanji",
+      "character": "職",
+      "romaji": "ショク・ソク",
+      "meaning": "post; employment; work"
+    },
+    {
+      "type": "kanji",
+      "character": "与",
+      "romaji": "ヨ / あた.える・あずか.る・くみ.する・ともに",
+      "meaning": "bestow; participate in; give"
+    },
+    {
+      "type": "kanji",
+      "character": "供",
+      "romaji": "キョウ・ク・クウ・グ / そな.える・とも・-ども",
+      "meaning": "submit; offer; present"
+    }
+  ]
+}

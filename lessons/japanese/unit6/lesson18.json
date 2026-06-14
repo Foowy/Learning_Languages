@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 18,
+  "title": "JLPT N2/N1 Kanji — Part 18",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "郡",
+      "romaji": "グン / こおり",
+      "meaning": "county; district"
+    },
+    {
+      "type": "kanji",
+      "character": "併",
+      "romaji": "ヘイ / あわ.せる",
+      "meaning": "join; get together; unite"
+    },
+    {
+      "type": "kanji",
+      "character": "徹",
+      "romaji": "テツ",
+      "meaning": "penetrate; clear; pierce"
+    },
+    {
+      "type": "kanji",
+      "character": "貴",
+      "romaji": "キ / たっと.い・とうと.い・たっと.ぶ・とうと.ぶ",
+      "meaning": "precious; value; prize"
+    },
+    {
+      "type": "kanji",
+      "character": "衝",
+      "romaji": "ショウ / つ.く",
+      "meaning": "collide; brunt; highway"
+    },
+    {
+      "type": "kanji",
+      "character": "焦",
+      "romaji": "ショウ / こ.げる・こ.がす・こ.がれる・あせ.る・じ.れる・じ.らす",
+      "meaning": "char; hurry; impatient"
+    },
+    {
+      "type": "kanji",
+      "character": "奪",
+      "romaji": "ダツ / うば.う",
+      "meaning": "rob; take by force; snatch away"
+    },
+    {
+      "type": "kanji",
+      "character": "災",
+      "romaji": "サイ / わざわ.い",
+      "meaning": "disaster; calamity; woe"
+    },
+    {
+      "type": "kanji",
+      "character": "浦",
+      "romaji": "ホ / うら",
+      "meaning": "bay; creek; inlet"
+    },
+    {
+      "type": "kanji",
+      "character": "析",
+      "romaji": "セキ",
+      "meaning": "chop; divide; tear"
+    }
+  ]
+}

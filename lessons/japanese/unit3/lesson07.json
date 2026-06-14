@@ -1,0 +1,67 @@
+{
+  "unit": 3,
+  "lesson": 7,
+  "title": "JLPT N5 Kanji — Part 7",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "川",
+      "romaji": "セン / かわ",
+      "meaning": "stream; river; river or three-stroke river radical (no. 47)"
+    },
+    {
+      "type": "kanji",
+      "character": "千",
+      "romaji": "セン / ち",
+      "meaning": "thousand"
+    },
+    {
+      "type": "kanji",
+      "character": "道",
+      "romaji": "ドウ・トウ / みち・いう",
+      "meaning": "road-way; street; district"
+    },
+    {
+      "type": "kanji",
+      "character": "水",
+      "romaji": "スイ / みず・みず-",
+      "meaning": "water"
+    },
+    {
+      "type": "kanji",
+      "character": "半",
+      "romaji": "ハン / なか.ば",
+      "meaning": "half; middle; odd number"
+    },
+    {
+      "type": "kanji",
+      "character": "男",
+      "romaji": "ダン・ナン / おとこ・お",
+      "meaning": "male"
+    },
+    {
+      "type": "kanji",
+      "character": "西",
+      "romaji": "セイ・サイ・ス / にし",
+      "meaning": "west; Spain"
+    },
+    {
+      "type": "kanji",
+      "character": "電",
+      "romaji": "デン",
+      "meaning": "electricity"
+    },
+    {
+      "type": "kanji",
+      "character": "口",
+      "romaji": "コウ・ク / くち",
+      "meaning": "mouth"
+    },
+    {
+      "type": "kanji",
+      "character": "少",
+      "romaji": "ショウ / すく.ない・すこ.し",
+      "meaning": "few; little"
+    }
+  ]
+}

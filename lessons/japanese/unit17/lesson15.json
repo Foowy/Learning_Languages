@@ -1,0 +1,67 @@
+{
+  "unit": 17,
+  "lesson": 15,
+  "title": "Vocabulary — Frequency 2141–2150",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "セルフサービス",
+      "romaji": "セルフサービス",
+      "meaning": "self-service"
+    },
+    {
+      "type": "kana",
+      "character": "セルロイド",
+      "romaji": "セルロイド",
+      "meaning": "celluloid"
+    },
+    {
+      "type": "kana",
+      "character": "セレクション",
+      "romaji": "セレクション",
+      "meaning": "selection"
+    },
+    {
+      "type": "kana",
+      "character": "セレクト",
+      "romaji": "セレクト",
+      "meaning": "selection"
+    },
+    {
+      "type": "kana",
+      "character": "セレナーデ",
+      "romaji": "セレナーデ",
+      "meaning": "serenade"
+    },
+    {
+      "type": "kana",
+      "character": "セレモニー",
+      "romaji": "セレモニー",
+      "meaning": "ceremony"
+    },
+    {
+      "type": "kana",
+      "character": "セロハンテープ",
+      "romaji": "セロハンテープ",
+      "meaning": "cellophane tape; (transparent) adhesive tape"
+    },
+    {
+      "type": "kana",
+      "character": "セロリ",
+      "romaji": "セロリ",
+      "meaning": "celery"
+    },
+    {
+      "type": "kana",
+      "character": "センサー",
+      "romaji": "センサー",
+      "meaning": "sensor"
+    },
+    {
+      "type": "kana",
+      "character": "センス",
+      "romaji": "センス",
+      "meaning": "taste (in fashion, music, etc.); sense (e.g. of humour)"
+    }
+  ]
+}

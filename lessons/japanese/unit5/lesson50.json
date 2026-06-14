@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 50,
+  "title": "JLPT N3 Kanji — Part 50",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "絵",
+      "romaji": "カイ・エ",
+      "meaning": "picture; drawing; painting"
+    },
+    {
+      "type": "kanji",
+      "character": "希",
+      "romaji": "キ・ケ / まれ・こいねが.う",
+      "meaning": "hope; beg; request"
+    },
+    {
+      "type": "kanji",
+      "character": "越",
+      "romaji": "エツ・オツ / こ.す・-こ.す・-ご.し・こ.える・-ご.え",
+      "meaning": "surpass; cross over; move to"
+    },
+    {
+      "type": "kanji",
+      "character": "欲",
+      "romaji": "ヨク / ほっ.する・ほ.しい",
+      "meaning": "longing; covetousness; greed"
+    },
+    {
+      "type": "kanji",
+      "character": "痛",
+      "romaji": "ツウ / いた.い・いた.む・いた.ましい・いた.める",
+      "meaning": "pain; hurt; damage"
+    },
+    {
+      "type": "kanji",
+      "character": "触",
+      "romaji": "ショク / ふ.れる・さわ.る・さわ",
+      "meaning": "contact; touch; feel"
+    },
+    {
+      "type": "kanji",
+      "character": "依",
+      "romaji": "イ・エ / よ.る",
+      "meaning": "reliant; depend on; consequently"
+    },
+    {
+      "type": "kanji",
+      "character": "汚",
+      "romaji": "オ / けが.す・けが.れる・けが.らわしい・よご.す・よご.れる・きたな.い",
+      "meaning": "dirty; pollute; disgrace"
+    },
+    {
+      "type": "kanji",
+      "character": "枚",
+      "romaji": "マイ・バイ",
+      "meaning": "sheet of...; counter for flat thin objects or sheets"
+    },
+    {
+      "type": "kanji",
+      "character": "笑",
+      "romaji": "ショウ / わら.う・え.む",
+      "meaning": "laugh"
+    }
+  ]
+}

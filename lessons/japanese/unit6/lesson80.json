@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 80,
+  "title": "JLPT N2/N1 Kanji — Part 80",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "酵",
+      "romaji": "コウ",
+      "meaning": "fermentation"
+    },
+    {
+      "type": "kanji",
+      "character": "憤",
+      "romaji": "フン / いきどお.る",
+      "meaning": "aroused; resent; be indignant"
+    },
+    {
+      "type": "kanji",
+      "character": "豚",
+      "romaji": "トン / ぶた",
+      "meaning": "pork; pig"
+    },
+    {
+      "type": "kanji",
+      "character": "遮",
+      "romaji": "シャ / さえぎ.る",
+      "meaning": "intercept; interrupt; obstruct"
+    },
+    {
+      "type": "kanji",
+      "character": "扉",
+      "romaji": "ヒ / とびら",
+      "meaning": "front door; title page; front page"
+    },
+    {
+      "type": "kanji",
+      "character": "硫",
+      "romaji": "リュウ",
+      "meaning": "sulphur"
+    },
+    {
+      "type": "kanji",
+      "character": "赦",
+      "romaji": "シャ / ゆる.す",
+      "meaning": "pardon; forgiveness"
+    },
+    {
+      "type": "kanji",
+      "character": "窃",
+      "romaji": "セツ / ぬす.む・ひそ.か",
+      "meaning": "stealth; steal; secret"
+    },
+    {
+      "type": "kanji",
+      "character": "泡",
+      "romaji": "ホウ / あわ",
+      "meaning": "bubbles; foam; suds"
+    },
+    {
+      "type": "kanji",
+      "character": "瑞",
+      "romaji": "ズイ・スイ / みず-・しるし",
+      "meaning": "congratulations"
+    }
+  ]
+}

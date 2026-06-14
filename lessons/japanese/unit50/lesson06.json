@@ -1,0 +1,67 @@
+{
+  "unit": 50,
+  "lesson": 6,
+  "title": "Vocabulary — Frequency 8651–8660",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "考証",
+      "romaji": "こうしょう",
+      "meaning": "investigation into historical evidence; study of historical artifacts"
+    },
+    {
+      "type": "kanji",
+      "character": "考慮",
+      "romaji": "こうりょ",
+      "meaning": "consideration; taking into account"
+    },
+    {
+      "type": "kanji",
+      "character": "肯定",
+      "romaji": "こうてい",
+      "meaning": "affirmation"
+    },
+    {
+      "type": "kanji",
+      "character": "航海",
+      "romaji": "こうかい",
+      "meaning": "(sea) voyage; navigation"
+    },
+    {
+      "type": "kanji",
+      "character": "航空",
+      "romaji": "こうくう",
+      "meaning": "aviation; flying"
+    },
+    {
+      "type": "kanji",
+      "character": "航空会社",
+      "romaji": "こうくうがいしゃ",
+      "meaning": "airline company"
+    },
+    {
+      "type": "kanji",
+      "character": "航空機",
+      "romaji": "こうくうき",
+      "meaning": "aircraft"
+    },
+    {
+      "type": "kanji",
+      "character": "航空券",
+      "romaji": "こうくうけん",
+      "meaning": "airline ticket; plane ticket"
+    },
+    {
+      "type": "kanji",
+      "character": "航空便",
+      "romaji": "こうくうびん",
+      "meaning": "airmail; air mail"
+    },
+    {
+      "type": "kanji",
+      "character": "航空母艦",
+      "romaji": "こうくうぼかん",
+      "meaning": "aircraft carrier"
+    }
+  ]
+}

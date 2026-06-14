@@ -1,0 +1,67 @@
+{
+  "unit": 69,
+  "lesson": 12,
+  "title": "Vocabulary — Frequency 12511–12520",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "選任",
+      "romaji": "せんにん",
+      "meaning": "nomination (of a person to a position); selection"
+    },
+    {
+      "type": "kanji",
+      "character": "選抜",
+      "romaji": "せんばつ",
+      "meaning": "selection; choice"
+    },
+    {
+      "type": "kanji",
+      "character": "選別",
+      "romaji": "せんべつ",
+      "meaning": "selection; sorting"
+    },
+    {
+      "type": "kanji",
+      "character": "銭",
+      "romaji": "せん",
+      "meaning": "sen (hundredth of a yen)"
+    },
+    {
+      "type": "kanji",
+      "character": "銭湯",
+      "romaji": "せんとう",
+      "meaning": "public bath; bathhouse"
+    },
+    {
+      "type": "kanji",
+      "character": "銑鉄",
+      "romaji": "せんてつ",
+      "meaning": "pig iron"
+    },
+    {
+      "type": "kanji",
+      "character": "閃く",
+      "romaji": "ひらめく",
+      "meaning": "to flash (e.g. lightning); to flicker"
+    },
+    {
+      "type": "kanji",
+      "character": "鮮やか",
+      "romaji": "あざやか",
+      "meaning": "vivid; bright"
+    },
+    {
+      "type": "kanji",
+      "character": "鮮魚",
+      "romaji": "せんぎょ",
+      "meaning": "fresh fish"
+    },
+    {
+      "type": "kanji",
+      "character": "鮮度",
+      "romaji": "せんど",
+      "meaning": "(degree of) freshness"
+    }
+  ]
+}

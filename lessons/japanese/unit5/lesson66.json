@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 66,
+  "title": "JLPT N3 Kanji — Part 66",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "怖",
+      "romaji": "フ・ホ / こわ.い・こわ.がる・お.じる・おそ.れる",
+      "meaning": "dreadful; be frightened; fearful"
+    },
+    {
+      "type": "kanji",
+      "character": "珍",
+      "romaji": "チン / めずら.しい・たから",
+      "meaning": "rare; curious; strange"
+    },
+    {
+      "type": "kanji",
+      "character": "卵",
+      "romaji": "ラン / たまご",
+      "meaning": "egg; ovum; spawn"
+    },
+    {
+      "type": "kanji",
+      "character": "湖",
+      "romaji": "コ / みずうみ",
+      "meaning": "lake"
+    },
+    {
+      "type": "kanji",
+      "character": "狭",
+      "romaji": "キョウ・コウ / せま.い・せば.める・せば.まる・さ",
+      "meaning": "cramped; narrow; contract"
+    },
+    {
+      "type": "kanji",
+      "character": "喫",
+      "romaji": "キツ / の.む",
+      "meaning": "consume; eat; drink"
+    },
+    {
+      "type": "kanji",
+      "character": "干",
+      "romaji": "カン / ほ.す・ほ.し-・-ぼ.し・ひ.る",
+      "meaning": "dry; parch; ebb"
+    },
+    {
+      "type": "kanji",
+      "character": "頂",
+      "romaji": "チョウ / いただ.く・いただき",
+      "meaning": "place on the head; receive; top of head"
+    },
+    {
+      "type": "kanji",
+      "character": "虫",
+      "romaji": "チュウ・キ / むし",
+      "meaning": "insect; bug; temper"
+    },
+    {
+      "type": "kanji",
+      "character": "刷",
+      "romaji": "サツ / す.る・-ず.り・-ずり・は.く",
+      "meaning": "printing; print; brush"
+    }
+  ]
+}

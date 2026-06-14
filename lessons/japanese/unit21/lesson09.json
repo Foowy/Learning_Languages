@@ -1,0 +1,67 @@
+{
+  "unit": 21,
+  "lesson": 9,
+  "title": "Vocabulary — Frequency 2881–2890",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "バックネット",
+      "romaji": "バックネット",
+      "meaning": "backstop; back screen"
+    },
+    {
+      "type": "kana",
+      "character": "バックハンド",
+      "romaji": "バックハンド",
+      "meaning": "backhand"
+    },
+    {
+      "type": "kana",
+      "character": "バックボーン",
+      "romaji": "バックボーン",
+      "meaning": "(emotional) backbone; support"
+    },
+    {
+      "type": "kana",
+      "character": "バッグ",
+      "romaji": "バッグ",
+      "meaning": "bag"
+    },
+    {
+      "type": "kana",
+      "character": "バッジ",
+      "romaji": "バッジ",
+      "meaning": "badge"
+    },
+    {
+      "type": "kana",
+      "character": "バッティング",
+      "romaji": "バッティング",
+      "meaning": "batting"
+    },
+    {
+      "type": "kana",
+      "character": "バッテリー",
+      "romaji": "バッテリー",
+      "meaning": "battery"
+    },
+    {
+      "type": "kana",
+      "character": "バット",
+      "romaji": "バット",
+      "meaning": "bat (in baseball, cricket, etc.)"
+    },
+    {
+      "type": "kana",
+      "character": "バッハ",
+      "romaji": "バッハ",
+      "meaning": "Bach (German composer, 1685-1750)"
+    },
+    {
+      "type": "kana",
+      "character": "バトン",
+      "romaji": "バトン",
+      "meaning": "baton (relay, orchestral conducting, etc.)"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 14,
+  "lesson": 14,
+  "title": "Vocabulary — Frequency 1531–1540",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "サークル",
+      "romaji": "サークル",
+      "meaning": "group with a common interest (e.g. students); club (e.g. company sports club)"
+    },
+    {
+      "type": "kana",
+      "character": "サーチ",
+      "romaji": "サーチ",
+      "meaning": "search"
+    },
+    {
+      "type": "kana",
+      "character": "サーチライト",
+      "romaji": "サーチライト",
+      "meaning": "searchlight"
+    },
+    {
+      "type": "kana",
+      "character": "サード",
+      "romaji": "サード",
+      "meaning": "third"
+    },
+    {
+      "type": "kana",
+      "character": "サーバー",
+      "romaji": "サーバー",
+      "meaning": "server"
+    },
+    {
+      "type": "kana",
+      "character": "サービス",
+      "romaji": "サービス",
+      "meaning": "service; help"
+    },
+    {
+      "type": "kana",
+      "character": "サービスエース",
+      "romaji": "サービスエース",
+      "meaning": "ace (serve; in tennis, volleyball, etc.)"
+    },
+    {
+      "type": "kana",
+      "character": "サービスエリア",
+      "romaji": "サービスエリア",
+      "meaning": "service area; toll road rest stop"
+    },
+    {
+      "type": "kana",
+      "character": "サーファー",
+      "romaji": "サーファー",
+      "meaning": "surfer"
+    },
+    {
+      "type": "kana",
+      "character": "サーフィン",
+      "romaji": "サーフィン",
+      "meaning": "surfing; surfboarding"
+    }
+  ]
+}

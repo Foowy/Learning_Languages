@@ -1,0 +1,67 @@
+{
+  "unit": 23,
+  "lesson": 10,
+  "title": "Vocabulary — Frequency 3291–3300",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "フットワーク",
+      "romaji": "フットワーク",
+      "meaning": "footwork"
+    },
+    {
+      "type": "kana",
+      "character": "フュージョン",
+      "romaji": "フュージョン",
+      "meaning": "fusion"
+    },
+    {
+      "type": "kana",
+      "character": "フューチャー",
+      "romaji": "フューチャー",
+      "meaning": "future"
+    },
+    {
+      "type": "kana",
+      "character": "フライ",
+      "romaji": "フライ",
+      "meaning": "deep-fried food"
+    },
+    {
+      "type": "kana",
+      "character": "フライト",
+      "romaji": "フライト",
+      "meaning": "flight"
+    },
+    {
+      "type": "kana",
+      "character": "フライドチキン",
+      "romaji": "フライドチキン",
+      "meaning": "fried chicken (esp. American-style)"
+    },
+    {
+      "type": "kana",
+      "character": "フライパン",
+      "romaji": "フライパン",
+      "meaning": "fry pan; frying pan"
+    },
+    {
+      "type": "kana",
+      "character": "フライホイール",
+      "romaji": "フライホイール",
+      "meaning": "flywheel"
+    },
+    {
+      "type": "kana",
+      "character": "フライング",
+      "romaji": "フライング",
+      "meaning": "flying"
+    },
+    {
+      "type": "kana",
+      "character": "フラグ",
+      "romaji": "フラグ",
+      "meaning": "flag; boolean value"
+    }
+  ]
+}

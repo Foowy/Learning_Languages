@@ -1,0 +1,67 @@
+{
+  "unit": 11,
+  "lesson": 10,
+  "title": "Vocabulary — Frequency 891–900",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "オペレッタ",
+      "romaji": "オペレッタ",
+      "meaning": "operetta"
+    },
+    {
+      "type": "kana",
+      "character": "オムニバス",
+      "romaji": "オムニバス",
+      "meaning": "omnibus"
+    },
+    {
+      "type": "kana",
+      "character": "オムレツ",
+      "romaji": "オムレツ",
+      "meaning": "omelette; omelet"
+    },
+    {
+      "type": "kanji",
+      "character": "Ω",
+      "romaji": "オメガ",
+      "meaning": "omega (last letter of the Greek alphabet)"
+    },
+    {
+      "type": "kana",
+      "character": "オラクル",
+      "romaji": "オラクル",
+      "meaning": "oracle"
+    },
+    {
+      "type": "kana",
+      "character": "オラトリオ",
+      "romaji": "オラトリオ",
+      "meaning": "oratorio"
+    },
+    {
+      "type": "kana",
+      "character": "オランウータン",
+      "romaji": "オランウータン",
+      "meaning": "orangutan (Pongo pygmaeus); orang-utan"
+    },
+    {
+      "type": "kanji",
+      "character": "阿蘭陀",
+      "romaji": "オランダ",
+      "meaning": "Netherlands; Holland"
+    },
+    {
+      "type": "kana",
+      "character": "オリエンタリズム",
+      "romaji": "オリエンタリズム",
+      "meaning": "Orientalism"
+    },
+    {
+      "type": "kana",
+      "character": "オリエンタル",
+      "romaji": "オリエンタル",
+      "meaning": "Oriental"
+    }
+  ]
+}

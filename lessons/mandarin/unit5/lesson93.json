@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 93,
+  "title": "HSK 5 Vocabulary — Part 93",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "所",
+      "romaji": "suǒ",
+      "meaning": "actually; place; classifier for houses; small buildings; institutions etc; that which; particle introducing a relative clause or passive; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "所谓",
+      "romaji": "suǒ wèi",
+      "meaning": "so-called; what is called"
+    },
+    {
+      "type": "hanzi",
+      "character": "塔",
+      "romaji": "tǎ",
+      "meaning": "pagoda; tower; minaret; stupa (abbr. loanword from Sanskrit tapo); CL:座[zuò]"
+    },
+    {
+      "type": "hanzi",
+      "character": "台阶",
+      "romaji": "tái jiē",
+      "meaning": "steps; flight of steps; step (over obstacle); fig. way out of an embarrassing situation; bench (geology)"
+    },
+    {
+      "type": "hanzi",
+      "character": "太极拳",
+      "romaji": "tài jí quán",
+      "meaning": "shadowboxing or Taiji; T'aichi or T'aichichuan; traditional form of physical exercise or relaxation; a martial art"
+    },
+    {
+      "type": "hanzi",
+      "character": "太太",
+      "romaji": "tài tai",
+      "meaning": "married woman; Mrs.; Madam; wife; CL:個|个; 位[wèi]"
+    },
+    {
+      "type": "hanzi",
+      "character": "谈判",
+      "romaji": "tán pàn",
+      "meaning": "to negotiate; negotiation; talks; conference; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "坦率",
+      "romaji": "tǎn shuài",
+      "meaning": "frank (discussion); blunt; open"
+    },
+    {
+      "type": "hanzi",
+      "character": "烫",
+      "romaji": "tàng",
+      "meaning": "to scald; to burn; to iron; hot"
+    },
+    {
+      "type": "hanzi",
+      "character": "桃",
+      "romaji": "táo",
+      "meaning": "peach"
+    }
+  ]
+}

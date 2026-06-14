@@ -1,0 +1,67 @@
+{
+  "unit": 35,
+  "lesson": 9,
+  "title": "Vocabulary — Frequency 5681–5690",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "貨幣",
+      "romaji": "かへい",
+      "meaning": "money; currency"
+    },
+    {
+      "type": "kanji",
+      "character": "貨幣価値",
+      "romaji": "かへいかち",
+      "meaning": "currency value"
+    },
+    {
+      "type": "kanji",
+      "character": "過ぎ",
+      "romaji": "すぎ",
+      "meaning": "past; after"
+    },
+    {
+      "type": "kanji",
+      "character": "過ぎる",
+      "romaji": "すぎる",
+      "meaning": "to pass through; to pass by"
+    },
+    {
+      "type": "kanji",
+      "character": "過ごす",
+      "romaji": "すごす",
+      "meaning": "to spend (time); to pass"
+    },
+    {
+      "type": "kanji",
+      "character": "過ち",
+      "romaji": "あやまち",
+      "meaning": "fault; error"
+    },
+    {
+      "type": "kanji",
+      "character": "過去",
+      "romaji": "かこ",
+      "meaning": "the past; bygone days"
+    },
+    {
+      "type": "kanji",
+      "character": "過激",
+      "romaji": "かげき",
+      "meaning": "extreme (measure, idea, etc.); radical"
+    },
+    {
+      "type": "kanji",
+      "character": "過言",
+      "romaji": "かごん",
+      "meaning": "exaggeration; overstatement"
+    },
+    {
+      "type": "kanji",
+      "character": "過失",
+      "romaji": "かしつ",
+      "meaning": "accident (caused by negligence); error"
+    }
+  ]
+}

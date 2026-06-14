@@ -1,0 +1,67 @@
+{
+  "unit": 2,
+  "lesson": 4,
+  "title": "HSK 2 Vocabulary — Part 4",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "给",
+      "romaji": "gěi",
+      "meaning": "to; for; for the benefit of; to give; to allow; to do sth (for sb); (passive particle)"
+    },
+    {
+      "type": "hanzi",
+      "character": "公共汽车",
+      "romaji": "gōng gòng qì chē",
+      "meaning": "bus; CL:輛|辆; 班[bān]"
+    },
+    {
+      "type": "hanzi",
+      "character": "公斤",
+      "romaji": "gōng jīn",
+      "meaning": "kilogram (kg)"
+    },
+    {
+      "type": "hanzi",
+      "character": "公司",
+      "romaji": "gōng sī",
+      "meaning": "(business) company; company; firm; corporation; incorporated; CL:家[jiā]"
+    },
+    {
+      "type": "hanzi",
+      "character": "贵",
+      "romaji": "guì",
+      "meaning": "expensive; noble; your (name); precious"
+    },
+    {
+      "type": "hanzi",
+      "character": "还",
+      "romaji": "hái",
+      "meaning": "still; still in progress; still more; yet; even more; in addition; fairly; passably (good); as early as; even; also; else"
+    },
+    {
+      "type": "hanzi",
+      "character": "孩子",
+      "romaji": "hái zi",
+      "meaning": "child"
+    },
+    {
+      "type": "hanzi",
+      "character": "好吃",
+      "romaji": "hǎo chī",
+      "meaning": "tasty; delicious"
+    },
+    {
+      "type": "hanzi",
+      "character": "号",
+      "romaji": "hào",
+      "meaning": "ordinal number; day of a month; mark; sign; business establishment; size; ship suffix; horn (wind instrument); bugle call; assumed name; to take a pulse; classifier used to indicate number of people"
+    },
+    {
+      "type": "hanzi",
+      "character": "黑",
+      "romaji": "hēi",
+      "meaning": "black; dark; (loanword) to hack"
+    }
+  ]
+}

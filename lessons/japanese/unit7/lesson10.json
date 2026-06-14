@@ -1,0 +1,67 @@
+{
+  "unit": 7,
+  "lesson": 10,
+  "title": "Vocabulary — Frequency 91–100",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "お腹",
+      "romaji": "おなか",
+      "meaning": "belly; abdomen"
+    },
+    {
+      "type": "kanji",
+      "character": "お返し",
+      "romaji": "おかえし",
+      "meaning": "return gift; return favour"
+    },
+    {
+      "type": "kanji",
+      "character": "お母さん",
+      "romaji": "おかあさん",
+      "meaning": "mother; mom"
+    },
+    {
+      "type": "kanji",
+      "character": "お墨付き",
+      "romaji": "おすみつき",
+      "meaning": "certificate; certified document"
+    },
+    {
+      "type": "kanji",
+      "character": "お話中",
+      "romaji": "おはなしちゅう",
+      "meaning": "busy (phone)"
+    },
+    {
+      "type": "kanji",
+      "character": "お洒落",
+      "romaji": "おしゃれ",
+      "meaning": "stylish; fashionable"
+    },
+    {
+      "type": "kanji",
+      "character": "畏まりました",
+      "romaji": "かしこまりました",
+      "meaning": "certainly!; very well"
+    },
+    {
+      "type": "kana",
+      "character": "かしら",
+      "romaji": "かしら",
+      "meaning": "I wonder; do you think?"
+    },
+    {
+      "type": "kana",
+      "character": "カチカチ",
+      "romaji": "カチカチ",
+      "meaning": "ticktock"
+    },
+    {
+      "type": "kana",
+      "character": "カッと",
+      "romaji": "カッと",
+      "meaning": "flaring up; burning hotly"
+    }
+  ]
+}

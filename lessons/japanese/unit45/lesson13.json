@@ -1,0 +1,67 @@
+{
+  "unit": 45,
+  "lesson": 13,
+  "title": "Vocabulary — Frequency 7721–7730",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "決して",
+      "romaji": "けっして",
+      "meaning": "(not) ever; (not) by any means"
+    },
+    {
+      "type": "kanji",
+      "character": "決する",
+      "romaji": "けっする",
+      "meaning": "to decide; to determine"
+    },
+    {
+      "type": "kanji",
+      "character": "決める",
+      "romaji": "きめる",
+      "meaning": "to decide; to choose"
+    },
+    {
+      "type": "kanji",
+      "character": "決め手",
+      "romaji": "きめて",
+      "meaning": "decider; person who decides"
+    },
+    {
+      "type": "kanji",
+      "character": "決め付ける",
+      "romaji": "きめつける",
+      "meaning": "to fix upon (one-sidedly); to (ignore someone's position and) arbitrarily decide something is the case"
+    },
+    {
+      "type": "kanji",
+      "character": "決意",
+      "romaji": "けつい",
+      "meaning": "decision; determination"
+    },
+    {
+      "type": "kanji",
+      "character": "決議",
+      "romaji": "けつぎ",
+      "meaning": "resolution; vote"
+    },
+    {
+      "type": "kanji",
+      "character": "決済",
+      "romaji": "けっさい",
+      "meaning": "settlement (of an account); liquidation of debts"
+    },
+    {
+      "type": "kanji",
+      "character": "決裁",
+      "romaji": "けっさい",
+      "meaning": "sanction; approval"
+    },
+    {
+      "type": "kanji",
+      "character": "決算",
+      "romaji": "けっさん",
+      "meaning": "settlement of accounts; closing accounts"
+    }
+  ]
+}

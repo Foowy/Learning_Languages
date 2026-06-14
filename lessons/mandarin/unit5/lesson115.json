@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 115,
+  "title": "HSK 5 Vocabulary — Part 115",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "影子",
+      "romaji": "yǐng zi",
+      "meaning": "shadow; reflection; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "硬币",
+      "romaji": "yìng bì",
+      "meaning": "coin; CL:枚[méi]"
+    },
+    {
+      "type": "hanzi",
+      "character": "硬件",
+      "romaji": "yìng jiàn",
+      "meaning": "hardware"
+    },
+    {
+      "type": "hanzi",
+      "character": "应付",
+      "romaji": "yìng fu",
+      "meaning": "to deal with; to cope"
+    },
+    {
+      "type": "hanzi",
+      "character": "应聘",
+      "romaji": "yìng pìn",
+      "meaning": "to accept a job offer; to apply for an advertised position"
+    },
+    {
+      "type": "hanzi",
+      "character": "应用",
+      "romaji": "yìng yòng",
+      "meaning": "to use; to apply; application; applicable"
+    },
+    {
+      "type": "hanzi",
+      "character": "拥抱",
+      "romaji": "yōng bào",
+      "meaning": "to embrace; to hug"
+    },
+    {
+      "type": "hanzi",
+      "character": "拥挤",
+      "romaji": "yōng jǐ",
+      "meaning": "crowded; to throng; congestion"
+    },
+    {
+      "type": "hanzi",
+      "character": "勇气",
+      "romaji": "yǒng qì",
+      "meaning": "courage; valor"
+    },
+    {
+      "type": "hanzi",
+      "character": "用途",
+      "romaji": "yòng tú",
+      "meaning": "use; application"
+    }
+  ]
+}

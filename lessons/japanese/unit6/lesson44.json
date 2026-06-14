@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 44,
+  "title": "JLPT N2/N1 Kanji — Part 44",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "靖",
+      "romaji": "セイ・ジョウ / やす.んじる",
+      "meaning": "peaceful"
+    },
+    {
+      "type": "kanji",
+      "character": "鑑",
+      "romaji": "カン / かんが.みる・かがみ",
+      "meaning": "specimen; take warning from; learn from"
+    },
+    {
+      "type": "kanji",
+      "character": "飼",
+      "romaji": "シ / か.う",
+      "meaning": "domesticate; raise; keep"
+    },
+    {
+      "type": "kanji",
+      "character": "陰",
+      "romaji": "イン / かげ・かげ.る",
+      "meaning": "shade; yin; negative"
+    },
+    {
+      "type": "kanji",
+      "character": "銘",
+      "romaji": "メイ",
+      "meaning": "inscription; signature (of artisan)"
+    },
+    {
+      "type": "kanji",
+      "character": "随",
+      "romaji": "ズイ / まにま.に・したが.う",
+      "meaning": "follow; though; notwithstanding"
+    },
+    {
+      "type": "kanji",
+      "character": "烈",
+      "romaji": "レツ / はげ.しい",
+      "meaning": "ardent; violent; vehement"
+    },
+    {
+      "type": "kanji",
+      "character": "尋",
+      "romaji": "ジン / たず.ねる・ひろ",
+      "meaning": "inquire; fathom; look for"
+    },
+    {
+      "type": "kanji",
+      "character": "稿",
+      "romaji": "コウ / わら・したがき",
+      "meaning": "draft; copy; manuscript"
+    },
+    {
+      "type": "kanji",
+      "character": "丹",
+      "romaji": "タン / に",
+      "meaning": "rust-colored; red; red lead"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 44,
+  "lesson": 5,
+  "title": "Vocabulary — Frequency 7441–7450",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "空車",
+      "romaji": "くうしゃ",
+      "meaning": "empty conveyance; empty taxi"
+    },
+    {
+      "type": "kanji",
+      "character": "空手",
+      "romaji": "からて",
+      "meaning": "karate"
+    },
+    {
+      "type": "kanji",
+      "character": "空襲",
+      "romaji": "くうしゅう",
+      "meaning": "air-raid"
+    },
+    {
+      "type": "kanji",
+      "character": "空席",
+      "romaji": "くうせき",
+      "meaning": "empty seat; unoccupied seat"
+    },
+    {
+      "type": "kanji",
+      "character": "空前",
+      "romaji": "くうぜん",
+      "meaning": "unprecedented; record-breaking"
+    },
+    {
+      "type": "kanji",
+      "character": "空疎",
+      "romaji": "くうそ",
+      "meaning": "empty (e.g. argument); insubstantial"
+    },
+    {
+      "type": "kanji",
+      "character": "空想",
+      "romaji": "くうそう",
+      "meaning": "daydream; fantasy"
+    },
+    {
+      "type": "kanji",
+      "character": "空中",
+      "romaji": "くうちゅう",
+      "meaning": "(in) the air; midair"
+    },
+    {
+      "type": "kanji",
+      "character": "空調",
+      "romaji": "くうちょう",
+      "meaning": "air conditioning"
+    },
+    {
+      "type": "kanji",
+      "character": "空転",
+      "romaji": "くうてん",
+      "meaning": "racing (of an engine); idling"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 22,
+  "lesson": 6,
+  "title": "Vocabulary — Frequency 3051–3060",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "パンフレット",
+      "romaji": "パンフレット",
+      "meaning": "pamphlet; brochure"
+    },
+    {
+      "type": "kana",
+      "character": "パンプス",
+      "romaji": "パンプス",
+      "meaning": "pumps; court shoe"
+    },
+    {
+      "type": "kanji",
+      "character": "パン屋",
+      "romaji": "パンや",
+      "meaning": "bakery; baker"
+    },
+    {
+      "type": "kanji",
+      "character": "パン粉",
+      "romaji": "パンこ",
+      "meaning": "breadcrumbs; panko"
+    },
+    {
+      "type": "kana",
+      "character": "ヒーター",
+      "romaji": "ヒーター",
+      "meaning": "heater"
+    },
+    {
+      "type": "kana",
+      "character": "ヒート",
+      "romaji": "ヒート",
+      "meaning": "heat"
+    },
+    {
+      "type": "kana",
+      "character": "ヒール",
+      "romaji": "ヒール",
+      "meaning": "heel (of a shoe)"
+    },
+    {
+      "type": "kana",
+      "character": "ヒーロー",
+      "romaji": "ヒーロー",
+      "meaning": "hero"
+    },
+    {
+      "type": "kana",
+      "character": "ヒア",
+      "romaji": "ヒア",
+      "meaning": "hear"
+    },
+    {
+      "type": "kana",
+      "character": "ヒアリング",
+      "romaji": "ヒアリング",
+      "meaning": "listening (esp. in foreign language education); listening comprehension"
+    }
+  ]
+}

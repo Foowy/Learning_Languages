@@ -1,0 +1,67 @@
+{
+  "unit": 33,
+  "lesson": 2,
+  "title": "Vocabulary — Frequency 5211–5220",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "演じる",
+      "romaji": "えんじる",
+      "meaning": "to act (a part); to play (a role)"
+    },
+    {
+      "type": "kanji",
+      "character": "演ずる",
+      "romaji": "えんずる",
+      "meaning": "to act (a part); to play (a role)"
+    },
+    {
+      "type": "kanji",
+      "character": "演歌",
+      "romaji": "えんか",
+      "meaning": "enka; traditional-style Japanese popular ballad"
+    },
+    {
+      "type": "kanji",
+      "character": "演技",
+      "romaji": "えんぎ",
+      "meaning": "acting; performance"
+    },
+    {
+      "type": "kanji",
+      "character": "演芸",
+      "romaji": "えんげい",
+      "meaning": "entertainment; performance"
+    },
+    {
+      "type": "kanji",
+      "character": "演劇",
+      "romaji": "えんげき",
+      "meaning": "drama; theatre"
+    },
+    {
+      "type": "kanji",
+      "character": "演算",
+      "romaji": "えんざん",
+      "meaning": "operation; calculation"
+    },
+    {
+      "type": "kanji",
+      "character": "演習",
+      "romaji": "えんしゅう",
+      "meaning": "practice; exercise"
+    },
+    {
+      "type": "kanji",
+      "character": "演出",
+      "romaji": "えんしゅつ",
+      "meaning": "direction (of a play, film, etc.); production"
+    },
+    {
+      "type": "kanji",
+      "character": "演説",
+      "romaji": "えんぜつ",
+      "meaning": "speech; address"
+    }
+  ]
+}

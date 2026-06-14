@@ -1,0 +1,67 @@
+{
+  "unit": 49,
+  "lesson": 15,
+  "title": "Vocabulary — Frequency 8541–8550",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "慌ただしい",
+      "romaji": "あわただしい",
+      "meaning": "busy; hectic"
+    },
+    {
+      "type": "kanji",
+      "character": "慌てる",
+      "romaji": "あわてる",
+      "meaning": "to become confused (disconcerted, disorganized, disorganised); to be flustered"
+    },
+    {
+      "type": "kanji",
+      "character": "抗議",
+      "romaji": "こうぎ",
+      "meaning": "protest; objection"
+    },
+    {
+      "type": "kanji",
+      "character": "抗菌",
+      "romaji": "こうきん",
+      "meaning": "antibacterial; antimicrobial"
+    },
+    {
+      "type": "kanji",
+      "character": "抗原",
+      "romaji": "こうげん",
+      "meaning": "antigen"
+    },
+    {
+      "type": "kanji",
+      "character": "抗生物質",
+      "romaji": "こうせいぶっしつ",
+      "meaning": "antibiotic"
+    },
+    {
+      "type": "kanji",
+      "character": "抗争",
+      "romaji": "こうそう",
+      "meaning": "rivalry; feud"
+    },
+    {
+      "type": "kanji",
+      "character": "抗体",
+      "romaji": "こうたい",
+      "meaning": "antibody"
+    },
+    {
+      "type": "kanji",
+      "character": "抗日",
+      "romaji": "こうにち",
+      "meaning": "resistance against Japanese aggression; anti-Japanese (campaign, movement, etc.)"
+    },
+    {
+      "type": "kanji",
+      "character": "拘禁",
+      "romaji": "こうきん",
+      "meaning": "detention; custody"
+    }
+  ]
+}

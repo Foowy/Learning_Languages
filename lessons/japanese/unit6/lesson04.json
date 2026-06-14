@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 4,
+  "title": "JLPT N2/N1 Kanji — Part 4",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "松",
+      "romaji": "ショウ / まつ",
+      "meaning": "pine tree"
+    },
+    {
+      "type": "kanji",
+      "character": "撃",
+      "romaji": "ゲキ / う.つ",
+      "meaning": "beat; attack; defeat"
+    },
+    {
+      "type": "kanji",
+      "character": "佐",
+      "romaji": "サ",
+      "meaning": "assistant; help"
+    },
+    {
+      "type": "kanji",
+      "character": "核",
+      "romaji": "カク",
+      "meaning": "nucleus; core; kernel"
+    },
+    {
+      "type": "kanji",
+      "character": "融",
+      "romaji": "ユウ / と.ける・と.かす",
+      "meaning": "dissolve; melt"
+    },
+    {
+      "type": "kanji",
+      "character": "票",
+      "romaji": "ヒョウ",
+      "meaning": "ballot; label; ticket"
+    },
+    {
+      "type": "kanji",
+      "character": "渉",
+      "romaji": "ショウ / わた.る",
+      "meaning": "ford; go cross; transit"
+    },
+    {
+      "type": "kanji",
+      "character": "響",
+      "romaji": "キョウ / ひび.く",
+      "meaning": "echo; sound; resound"
+    },
+    {
+      "type": "kanji",
+      "character": "推",
+      "romaji": "スイ / お.す",
+      "meaning": "conjecture; infer; guess"
+    },
+    {
+      "type": "kanji",
+      "character": "請",
+      "romaji": "セイ・シン・ショウ / こ.う・う.ける",
+      "meaning": "solicit; invite; ask"
+    }
+  ]
+}

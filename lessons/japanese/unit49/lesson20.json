@@ -1,0 +1,67 @@
+{
+  "unit": 49,
+  "lesson": 20,
+  "title": "Vocabulary — Frequency 8591–8600",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "構成",
+      "romaji": "こうせい",
+      "meaning": "composition; construction"
+    },
+    {
+      "type": "kanji",
+      "character": "構想",
+      "romaji": "こうそう",
+      "meaning": "plan; plot"
+    },
+    {
+      "type": "kanji",
+      "character": "構造",
+      "romaji": "こうぞう",
+      "meaning": "structure; construction"
+    },
+    {
+      "type": "kanji",
+      "character": "構築",
+      "romaji": "こうちく",
+      "meaning": "construction; building"
+    },
+    {
+      "type": "kanji",
+      "character": "構内",
+      "romaji": "こうない",
+      "meaning": "premises; grounds"
+    },
+    {
+      "type": "kanji",
+      "character": "江",
+      "romaji": "え",
+      "meaning": "inlet; bay"
+    },
+    {
+      "type": "kanji",
+      "character": "江戸",
+      "romaji": "えど",
+      "meaning": "Edo (shogunate capital; former name of Tokyo); Yedo"
+    },
+    {
+      "type": "kanji",
+      "character": "江戸っ子",
+      "romaji": "えどっこ",
+      "meaning": "(true) Tokyoite; Edoite"
+    },
+    {
+      "type": "kanji",
+      "character": "江戸時代",
+      "romaji": "えどじだい",
+      "meaning": "Edo period (1603-1868)"
+    },
+    {
+      "type": "kanji",
+      "character": "洪水",
+      "romaji": "こうずい",
+      "meaning": "flood; flooding"
+    }
+  ]
+}

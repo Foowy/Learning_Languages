@@ -1,0 +1,67 @@
+{
+  "unit": 1,
+  "lesson": 2,
+  "title": "HSK 1 Vocabulary — Part 2",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "吃",
+      "romaji": "chī",
+      "meaning": "to eat; to consume; to eat at (a cafeteria etc); to eradicate; to destroy; to absorb; to suffer"
+    },
+    {
+      "type": "hanzi",
+      "character": "出租车",
+      "romaji": "chū zū chē",
+      "meaning": "taxi; (Taiwan) rental car"
+    },
+    {
+      "type": "hanzi",
+      "character": "打电话",
+      "romaji": "dǎ diàn huà",
+      "meaning": "to make a telephone call"
+    },
+    {
+      "type": "hanzi",
+      "character": "大",
+      "romaji": "dà",
+      "meaning": "big; huge; large; major; great; wide; deep; oldest; eldest"
+    },
+    {
+      "type": "hanzi",
+      "character": "的",
+      "romaji": "de",
+      "meaning": "of; ~'s (possessive particle); (used after an attribute); (used to form a nominal expression); (used at the end of a declarative sentence for emphasis)"
+    },
+    {
+      "type": "hanzi",
+      "character": "点",
+      "romaji": "diǎn",
+      "meaning": "point; dot; drop; speck; o'clock; point (in space or time); to draw a dot; to check on a list; to choose; to order (food in a restaurant); to touch briefly; to hint; to light; to ignite; to pour a liquid drop by drop; (old) one fifth of a two-hour watch 更[gēng]; dot stroke in Chinese characters; classifier for items"
+    },
+    {
+      "type": "hanzi",
+      "character": "电脑",
+      "romaji": "diàn nǎo",
+      "meaning": "computer; CL:臺|台[tái]"
+    },
+    {
+      "type": "hanzi",
+      "character": "电视",
+      "romaji": "diàn shì",
+      "meaning": "television; TV; CL:臺|台; 個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "电影",
+      "romaji": "diàn yǐng",
+      "meaning": "movie; film; CL:部; 片; 幕; 場|场[chǎng]"
+    },
+    {
+      "type": "hanzi",
+      "character": "东西",
+      "romaji": "dōng xi",
+      "meaning": "thing; stuff; person; CL:個|个; 件[jiàn]"
+    }
+  ]
+}

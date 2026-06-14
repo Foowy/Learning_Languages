@@ -1,0 +1,67 @@
+{
+  "unit": 40,
+  "lesson": 20,
+  "title": "Vocabulary — Frequency 6791–6800",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "疑問符",
+      "romaji": "ぎもんふ",
+      "meaning": "question mark"
+    },
+    {
+      "type": "kanji",
+      "character": "疑惑",
+      "romaji": "ぎわく",
+      "meaning": "doubt; misgivings"
+    },
+    {
+      "type": "kanji",
+      "character": "義援金",
+      "romaji": "ぎえんきん",
+      "meaning": "donation money (esp. disaster relief or charity); contribution"
+    },
+    {
+      "type": "kanji",
+      "character": "義兄",
+      "romaji": "ぎけい",
+      "meaning": "brother-in-law (spouse's older brother or older sister's husband)"
+    },
+    {
+      "type": "kanji",
+      "character": "義姉",
+      "romaji": "ぎし",
+      "meaning": "sister-in-law (spouse's older sister or older brother's wife)"
+    },
+    {
+      "type": "kanji",
+      "character": "義歯",
+      "romaji": "ぎし",
+      "meaning": "artificial tooth"
+    },
+    {
+      "type": "kanji",
+      "character": "義弟",
+      "romaji": "ぎてい",
+      "meaning": "brother-in-law (spouse's younger brother or younger sister's husband)"
+    },
+    {
+      "type": "kanji",
+      "character": "義父",
+      "romaji": "ぎふ",
+      "meaning": "father-in-law"
+    },
+    {
+      "type": "kanji",
+      "character": "義母",
+      "romaji": "ぎぼ",
+      "meaning": "mother-in-law"
+    },
+    {
+      "type": "kanji",
+      "character": "義妹",
+      "romaji": "ぎまい",
+      "meaning": "sister-in-law (spouse's younger sister or younger brother's wife)"
+    }
+  ]
+}

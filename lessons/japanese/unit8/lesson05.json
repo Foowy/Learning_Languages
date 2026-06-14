@@ -1,0 +1,67 @@
+{
+  "unit": 8,
+  "lesson": 5,
+  "title": "Vocabulary — Frequency 241–250",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "そうだ",
+      "romaji": "そうだ",
+      "meaning": "that is so; that is right"
+    },
+    {
+      "type": "kanji",
+      "character": "其処",
+      "romaji": "そこ",
+      "meaning": "there (place relatively near listener)"
+    },
+    {
+      "type": "kanji",
+      "character": "而して",
+      "romaji": "そして",
+      "meaning": "and; and then"
+    },
+    {
+      "type": "kana",
+      "character": "そそっかしい",
+      "romaji": "そそっかしい",
+      "meaning": "careless; thoughtless"
+    },
+    {
+      "type": "kanji",
+      "character": "其方",
+      "romaji": "そちら",
+      "meaning": "that way; that direction"
+    },
+    {
+      "type": "kana",
+      "character": "そっくり",
+      "romaji": "そっくり",
+      "meaning": "all; altogether"
+    },
+    {
+      "type": "kana",
+      "character": "そっと",
+      "romaji": "そっと",
+      "meaning": "softly; gently"
+    },
+    {
+      "type": "kanji",
+      "character": "其の",
+      "romaji": "その",
+      "meaning": "that; the"
+    },
+    {
+      "type": "kanji",
+      "character": "その上",
+      "romaji": "そのうえ",
+      "meaning": "in addition; furthermore"
+    },
+    {
+      "type": "kanji",
+      "character": "その他",
+      "romaji": "そのほか",
+      "meaning": "the rest; the others"
+    }
+  ]
+}

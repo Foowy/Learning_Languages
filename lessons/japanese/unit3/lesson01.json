@@ -1,0 +1,67 @@
+{
+  "unit": 3,
+  "lesson": 1,
+  "title": "JLPT N5 Kanji — Part 1",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "日",
+      "romaji": "ニチ・ジツ / ひ・-び・-か",
+      "meaning": "day; sun; Japan"
+    },
+    {
+      "type": "kanji",
+      "character": "一",
+      "romaji": "イチ・イツ / ひと-・ひと.つ",
+      "meaning": "one; one radical (no.1)"
+    },
+    {
+      "type": "kanji",
+      "character": "国",
+      "romaji": "コク / くに",
+      "meaning": "country"
+    },
+    {
+      "type": "kanji",
+      "character": "会",
+      "romaji": "カイ・エ / あ.う・あ.わせる・あつ.まる",
+      "meaning": "meeting; meet; party"
+    },
+    {
+      "type": "kanji",
+      "character": "人",
+      "romaji": "ジン・ニン / ひと・-り・-と",
+      "meaning": "person"
+    },
+    {
+      "type": "kanji",
+      "character": "年",
+      "romaji": "ネン / とし",
+      "meaning": "year; counter for years"
+    },
+    {
+      "type": "kanji",
+      "character": "大",
+      "romaji": "ダイ・タイ / おお-・おお.きい・-おお.いに",
+      "meaning": "large; big"
+    },
+    {
+      "type": "kanji",
+      "character": "十",
+      "romaji": "ジュウ・ジッ・ジュッ / とお・と・そ",
+      "meaning": "ten"
+    },
+    {
+      "type": "kanji",
+      "character": "二",
+      "romaji": "ニ・ジ / ふた・ふた.つ・ふたたび",
+      "meaning": "two; two radical (no. 7)"
+    },
+    {
+      "type": "kanji",
+      "character": "本",
+      "romaji": "ホン / もと",
+      "meaning": "book; present; main"
+    }
+  ]
+}

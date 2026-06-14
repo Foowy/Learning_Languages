@@ -1,0 +1,67 @@
+{
+  "unit": 95,
+  "lesson": 12,
+  "title": "Vocabulary — Frequency 17711–17720",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "頼り",
+      "romaji": "たより",
+      "meaning": "reliance; dependence"
+    },
+    {
+      "type": "kanji",
+      "character": "頼りない",
+      "romaji": "たよりない",
+      "meaning": "unreliable; undependable"
+    },
+    {
+      "type": "kanji",
+      "character": "雷雨",
+      "romaji": "らいう",
+      "meaning": "thunderstorm; thundershower"
+    },
+    {
+      "type": "kanji",
+      "character": "雷鳴",
+      "romaji": "らいめい",
+      "meaning": "thunder; thunderclap"
+    },
+    {
+      "type": "kanji",
+      "character": "絡み合う",
+      "romaji": "からみあう",
+      "meaning": "to intertwine; to become entangled"
+    },
+    {
+      "type": "kanji",
+      "character": "絡む",
+      "romaji": "からむ",
+      "meaning": "to twine; to get tangled"
+    },
+    {
+      "type": "kanji",
+      "character": "落ち",
+      "romaji": "おち",
+      "meaning": "slip; omission"
+    },
+    {
+      "type": "kanji",
+      "character": "落ちる",
+      "romaji": "おちる",
+      "meaning": "to fall; to drop"
+    },
+    {
+      "type": "kanji",
+      "character": "落ち合う",
+      "romaji": "おちあう",
+      "meaning": "to meet up (as arranged); to rendezvous"
+    },
+    {
+      "type": "kanji",
+      "character": "落ち込む",
+      "romaji": "おちこむ",
+      "meaning": "to feel down; to feel sad"
+    }
+  ]
+}

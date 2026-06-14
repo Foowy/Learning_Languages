@@ -1,0 +1,67 @@
+{
+  "unit": 2,
+  "lesson": 12,
+  "title": "HSK 2 Vocabulary — Part 12",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "洗",
+      "romaji": "xǐ",
+      "meaning": "to wash; to bathe; to develop (photo)"
+    },
+    {
+      "type": "hanzi",
+      "character": "向",
+      "romaji": "xiàng",
+      "meaning": "towards; to face; to turn towards; direction; to support; to side with; shortly before; formerly; always; all along"
+    },
+    {
+      "type": "hanzi",
+      "character": "小时",
+      "romaji": "xiǎo shí",
+      "meaning": "hour; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "笑",
+      "romaji": "xiào",
+      "meaning": "laugh; smile; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "新",
+      "romaji": "xīn",
+      "meaning": "new; newly; meso- (chemistry)"
+    },
+    {
+      "type": "hanzi",
+      "character": "姓",
+      "romaji": "xìng",
+      "meaning": "family name; surname; name; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "休息",
+      "romaji": "xiū xi",
+      "meaning": "rest; to rest"
+    },
+    {
+      "type": "hanzi",
+      "character": "雪",
+      "romaji": "xuě",
+      "meaning": "snow; snowfall; CL:場|场[cháng]; to have the appearance of snow; to wipe away; off or out; to clean"
+    },
+    {
+      "type": "hanzi",
+      "character": "颜色",
+      "romaji": "yán sè",
+      "meaning": "color; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "眼睛",
+      "romaji": "yǎn jing",
+      "meaning": "eye; CL:隻|只; 雙|双[shuāng]"
+    }
+  ]
+}

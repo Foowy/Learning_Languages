@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 3,
+  "title": "JLPT N2/N1 Kanji — Part 3",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "衛",
+      "romaji": "エイ・エ",
+      "meaning": "defense; protection"
+    },
+    {
+      "type": "kanji",
+      "character": "監",
+      "romaji": "カン",
+      "meaning": "oversee; official; govt office"
+    },
+    {
+      "type": "kanji",
+      "character": "審",
+      "romaji": "シン / つまび.らか・つぶさ.に",
+      "meaning": "hearing; judge; trial"
+    },
+    {
+      "type": "kanji",
+      "character": "義",
+      "romaji": "ギ",
+      "meaning": "righteousness; justice; morality"
+    },
+    {
+      "type": "kanji",
+      "character": "訴",
+      "romaji": "ソ / うった.える",
+      "meaning": "accusation; sue; complain of pain"
+    },
+    {
+      "type": "kanji",
+      "character": "株",
+      "romaji": "シュ / かぶ",
+      "meaning": "stocks; stump; shares"
+    },
+    {
+      "type": "kanji",
+      "character": "姿",
+      "romaji": "シ / すがた",
+      "meaning": "figure; form; shape"
+    },
+    {
+      "type": "kanji",
+      "character": "閣",
+      "romaji": "カク",
+      "meaning": "tower; tall building; palace"
+    },
+    {
+      "type": "kanji",
+      "character": "衆",
+      "romaji": "シュウ・シュ / おお.い",
+      "meaning": "masses; great numbers; multitude"
+    },
+    {
+      "type": "kanji",
+      "character": "影",
+      "romaji": "エイ / かげ",
+      "meaning": "shadow; silhouette; phantom"
+    }
+  ]
+}

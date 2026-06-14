@@ -1,0 +1,67 @@
+{
+  "unit": 64,
+  "lesson": 19,
+  "title": "Vocabulary — Frequency 11581–11590",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "親",
+      "romaji": "おや",
+      "meaning": "parent; parents"
+    },
+    {
+      "type": "kanji",
+      "character": "親しい",
+      "romaji": "したしい",
+      "meaning": "close (e.g. friend); familiar"
+    },
+    {
+      "type": "kanji",
+      "character": "親しむ",
+      "romaji": "したしむ",
+      "meaning": "to be intimate with; to befriend"
+    },
+    {
+      "type": "kanji",
+      "character": "親愛",
+      "romaji": "しんあい",
+      "meaning": "deep affection"
+    },
+    {
+      "type": "kanji",
+      "character": "親衛",
+      "romaji": "しんえい",
+      "meaning": "monarch's guards"
+    },
+    {
+      "type": "kanji",
+      "character": "親近感",
+      "romaji": "しんきんかん",
+      "meaning": "affinity; feeling of closeness (with someone)"
+    },
+    {
+      "type": "kanji",
+      "character": "親孝行",
+      "romaji": "おやこうこう",
+      "meaning": "filial piety; being kind to one's parents"
+    },
+    {
+      "type": "kanji",
+      "character": "親子",
+      "romaji": "おやこ",
+      "meaning": "parent and child"
+    },
+    {
+      "type": "kanji",
+      "character": "親指",
+      "romaji": "おやゆび",
+      "meaning": "thumb"
+    },
+    {
+      "type": "kanji",
+      "character": "親譲り",
+      "romaji": "おやゆずり",
+      "meaning": "inheritance from a parent (property, trait, physique, etc.)"
+    }
+  ]
+}

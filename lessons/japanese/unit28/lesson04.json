@@ -1,0 +1,67 @@
+{
+  "unit": 28,
+  "lesson": 4,
+  "title": "Vocabulary — Frequency 4231–4240",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "ランドマーク",
+      "romaji": "ランドマーク",
+      "meaning": "landmark"
+    },
+    {
+      "type": "kana",
+      "character": "ランドリー",
+      "romaji": "ランドリー",
+      "meaning": "laundry"
+    },
+    {
+      "type": "kana",
+      "character": "ランナー",
+      "romaji": "ランナー",
+      "meaning": "runner"
+    },
+    {
+      "type": "kana",
+      "character": "ランニング",
+      "romaji": "ランニング",
+      "meaning": "running"
+    },
+    {
+      "type": "kana",
+      "character": "ランプ",
+      "romaji": "ランプ",
+      "meaning": "lamp; light"
+    },
+    {
+      "type": "kana",
+      "character": "リーガー",
+      "romaji": "リーガー",
+      "meaning": "leaguer (e.g. major leaguer)"
+    },
+    {
+      "type": "kana",
+      "character": "リーク",
+      "romaji": "リーク",
+      "meaning": "leak (of information)"
+    },
+    {
+      "type": "kana",
+      "character": "リーグ",
+      "romaji": "リーグ",
+      "meaning": "league"
+    },
+    {
+      "type": "kana",
+      "character": "リース",
+      "romaji": "リース",
+      "meaning": "lease"
+    },
+    {
+      "type": "kana",
+      "character": "リーズナブル",
+      "romaji": "リーズナブル",
+      "meaning": "reasonable (price, fee, fare, rate, etc.); reasonably priced"
+    }
+  ]
+}

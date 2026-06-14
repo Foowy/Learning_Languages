@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 78,
+  "title": "JLPT N2/N1 Kanji — Part 78",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "厘",
+      "romaji": "リン",
+      "meaning": "rin; 1/10 sen; 1/10 bu"
+    },
+    {
+      "type": "kanji",
+      "character": "峰",
+      "romaji": "ホウ / みね・ね",
+      "meaning": "summit; peak"
+    },
+    {
+      "type": "kanji",
+      "character": "圭",
+      "romaji": "ケイ・ケ",
+      "meaning": "square jewel; corner; angle"
+    },
+    {
+      "type": "kanji",
+      "character": "醸",
+      "romaji": "ジョウ / かも.す",
+      "meaning": "brew; cause"
+    },
+    {
+      "type": "kanji",
+      "character": "蓮",
+      "romaji": "レン / はす・はちす",
+      "meaning": "lotus"
+    },
+    {
+      "type": "kanji",
+      "character": "弔",
+      "romaji": "チョウ / とむら.う・とぶら.う",
+      "meaning": "condolences; mourning; funeral"
+    },
+    {
+      "type": "kanji",
+      "character": "乙",
+      "romaji": "オツ・イツ / おと-・きのと",
+      "meaning": "the latter; duplicate; strange"
+    },
+    {
+      "type": "kanji",
+      "character": "汁",
+      "romaji": "ジュウ / しる・-しる・つゆ",
+      "meaning": "soup; juice; broth"
+    },
+    {
+      "type": "kanji",
+      "character": "尼",
+      "romaji": "ニ / あま",
+      "meaning": "nun"
+    },
+    {
+      "type": "kanji",
+      "character": "遍",
+      "romaji": "ヘン / あまね.く",
+      "meaning": "everywhere; times; widely"
+    }
+  ]
+}

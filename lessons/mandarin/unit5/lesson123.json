@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 123,
+  "title": "HSK 5 Vocabulary — Part 123",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "支",
+      "romaji": "zhī",
+      "meaning": "to support; to sustain; to erect; to raise; branch; division; to draw money; classifier for rods such as pens and guns; for army divisions and for songs or compositions"
+    },
+    {
+      "type": "hanzi",
+      "character": "支票",
+      "romaji": "zhī piào",
+      "meaning": "check (bank); cheque; CL:本[běn]"
+    },
+    {
+      "type": "hanzi",
+      "character": "直",
+      "romaji": "zhí",
+      "meaning": "straight; to straighten; fair and reasonable; frank; straightforward; (indicates continuing motion or action); vertical; vertical downward stroke in Chinese characters"
+    },
+    {
+      "type": "hanzi",
+      "character": "执行",
+      "romaji": "zhí xíng",
+      "meaning": "to implement; to carry out; to execute; to run"
+    },
+    {
+      "type": "hanzi",
+      "character": "执照",
+      "romaji": "zhí zhào",
+      "meaning": "a license; a permit"
+    },
+    {
+      "type": "hanzi",
+      "character": "指导",
+      "romaji": "zhǐ dǎo",
+      "meaning": "to guide; to give directions; to direct; to coach; guidance; tuition; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "指挥",
+      "romaji": "zhǐ huī",
+      "meaning": "to conduct; to command; to direct; conductor (of an orchestra); CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "制定",
+      "romaji": "zhì dìng",
+      "meaning": "to draw up; to formulate"
+    },
+    {
+      "type": "hanzi",
+      "character": "制度",
+      "romaji": "zhì dù",
+      "meaning": "system (e.g. political; adminstrative etc); institution; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "制作",
+      "romaji": "zhì zuò",
+      "meaning": "to make; to manufacture"
+    }
+  ]
+}

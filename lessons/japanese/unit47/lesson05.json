@@ -1,0 +1,67 @@
+{
+  "unit": 47,
+  "lesson": 5,
+  "title": "Vocabulary — Frequency 8041–8050",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "弦楽",
+      "romaji": "げんがく",
+      "meaning": "music for strings; string music"
+    },
+    {
+      "type": "kanji",
+      "character": "弦楽器",
+      "romaji": "げんがっき",
+      "meaning": "string instrument; stringed instrument"
+    },
+    {
+      "type": "kanji",
+      "character": "減らす",
+      "romaji": "へらす",
+      "meaning": "to abate; to decrease"
+    },
+    {
+      "type": "kanji",
+      "character": "減る",
+      "romaji": "へる",
+      "meaning": "to decrease (in size or number); to diminish"
+    },
+    {
+      "type": "kanji",
+      "character": "減価償却",
+      "romaji": "げんかしょうきゃく",
+      "meaning": "depreciation"
+    },
+    {
+      "type": "kanji",
+      "character": "減額",
+      "romaji": "げんがく",
+      "meaning": "reduction (esp. in price or cost); diminution"
+    },
+    {
+      "type": "kanji",
+      "character": "減産",
+      "romaji": "げんさん",
+      "meaning": "decrease in production"
+    },
+    {
+      "type": "kanji",
+      "character": "減収",
+      "romaji": "げんしゅう",
+      "meaning": "fall; decrease (in income)"
+    },
+    {
+      "type": "kanji",
+      "character": "減少",
+      "romaji": "げんしょう",
+      "meaning": "decrease; reduction"
+    },
+    {
+      "type": "kanji",
+      "character": "減税",
+      "romaji": "げんぜい",
+      "meaning": "tax reduction"
+    }
+  ]
+}

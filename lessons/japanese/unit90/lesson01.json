@@ -1,0 +1,67 @@
+{
+  "unit": 90,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 16601–16610",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "捧げる",
+      "romaji": "ささげる",
+      "meaning": "to lift up; to hold up"
+    },
+    {
+      "type": "kanji",
+      "character": "放す",
+      "romaji": "はなす",
+      "meaning": "to release; to let go"
+    },
+    {
+      "type": "kanji",
+      "character": "放つ",
+      "romaji": "はなつ",
+      "meaning": "to fire (gun, arrow, questions, etc.); to shoot"
+    },
+    {
+      "type": "kanji",
+      "character": "放る",
+      "romaji": "ほうる",
+      "meaning": "to throw; to fling"
+    },
+    {
+      "type": "kanji",
+      "character": "放れる",
+      "romaji": "はなれる",
+      "meaning": "to get free (from); to be freed"
+    },
+    {
+      "type": "kanji",
+      "character": "放映",
+      "romaji": "ほうえい",
+      "meaning": "televising; broadcasting"
+    },
+    {
+      "type": "kanji",
+      "character": "放火",
+      "romaji": "ほうか",
+      "meaning": "arson; setting fire"
+    },
+    {
+      "type": "kanji",
+      "character": "放課後",
+      "romaji": "ほうかご",
+      "meaning": "after school (at the end of the day)"
+    },
+    {
+      "type": "kanji",
+      "character": "放棄",
+      "romaji": "ほうき",
+      "meaning": "abandonment; renouncement"
+    },
+    {
+      "type": "kanji",
+      "character": "放射",
+      "romaji": "ほうしゃ",
+      "meaning": "radiation; emission"
+    }
+  ]
+}

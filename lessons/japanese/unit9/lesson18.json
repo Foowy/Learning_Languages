@@ -1,0 +1,67 @@
+{
+  "unit": 9,
+  "lesson": 18,
+  "title": "Vocabulary — Frequency 571–580",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "アラカルト",
+      "romaji": "アラカルト",
+      "meaning": "à la carte"
+    },
+    {
+      "type": "kana",
+      "character": "アラブ",
+      "romaji": "アラブ",
+      "meaning": "Arab; Arab countries"
+    },
+    {
+      "type": "kana",
+      "character": "アリーナ",
+      "romaji": "アリーナ",
+      "meaning": "arena"
+    },
+    {
+      "type": "kana",
+      "character": "アリア",
+      "romaji": "アリア",
+      "meaning": "aria"
+    },
+    {
+      "type": "kana",
+      "character": "アリバイ",
+      "romaji": "アリバイ",
+      "meaning": "alibi"
+    },
+    {
+      "type": "kana",
+      "character": "アルカディア",
+      "romaji": "アルカディア",
+      "meaning": "arcadia"
+    },
+    {
+      "type": "kanji",
+      "character": "亜爾加里",
+      "romaji": "アルカリ",
+      "meaning": "alkali"
+    },
+    {
+      "type": "kanji",
+      "character": "アルカリ性",
+      "romaji": "アルカリせい",
+      "meaning": "alkalinity"
+    },
+    {
+      "type": "kana",
+      "character": "アルコール",
+      "romaji": "アルコール",
+      "meaning": "alcohol"
+    },
+    {
+      "type": "kana",
+      "character": "アルゴリズム",
+      "romaji": "アルゴリズム",
+      "meaning": "algorithm"
+    }
+  ]
+}

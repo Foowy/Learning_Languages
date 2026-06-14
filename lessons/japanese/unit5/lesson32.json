@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 32,
+  "title": "JLPT N3 Kanji — Part 32",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "超",
+      "romaji": "チョウ / こ.える・こ.す",
+      "meaning": "transcend; super-; ultra-"
+    },
+    {
+      "type": "kanji",
+      "character": "責",
+      "romaji": "セキ / せ.める",
+      "meaning": "blame; condemn; censure"
+    },
+    {
+      "type": "kanji",
+      "character": "並",
+      "romaji": "ヘイ・ホウ / な.み・なみ・なら.べる・なら.ぶ・なら.びに",
+      "meaning": "row; and; besides"
+    },
+    {
+      "type": "kanji",
+      "character": "療",
+      "romaji": "リョウ",
+      "meaning": "heal; cure"
+    },
+    {
+      "type": "kanji",
+      "character": "修",
+      "romaji": "シュウ・シュ / おさ.める・おさ.まる",
+      "meaning": "discipline; conduct oneself well; study"
+    },
+    {
+      "type": "kanji",
+      "character": "捕",
+      "romaji": "ホ / と.らえる・と.らわれる・と.る・とら.える・とら.われる・つか.まえる・つか.まる",
+      "meaning": "catch; capture"
+    },
+    {
+      "type": "kanji",
+      "character": "危",
+      "romaji": "キ / あぶ.ない・あや.うい・あや.ぶむ",
+      "meaning": "dangerous; fear; uneasy"
+    },
+    {
+      "type": "kanji",
+      "character": "採",
+      "romaji": "サイ / と.る",
+      "meaning": "pick; take; fetch"
+    },
+    {
+      "type": "kanji",
+      "character": "競",
+      "romaji": "キョウ・ケイ / きそ.う・せ.る・くら.べる",
+      "meaning": "emulate; compete with; bid"
+    },
+    {
+      "type": "kanji",
+      "character": "拡",
+      "romaji": "カク・コウ / ひろ.がる・ひろ.げる・ひろ.める",
+      "meaning": "broaden; extend; expand"
+    }
+  ]
+}

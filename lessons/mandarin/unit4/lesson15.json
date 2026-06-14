@@ -1,0 +1,67 @@
+{
+  "unit": 4,
+  "lesson": 15,
+  "title": "HSK 4 Vocabulary — Part 15",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "工具",
+      "romaji": "gōng jù",
+      "meaning": "tool; instrument; utensil; means (to achieve a goal etc)"
+    },
+    {
+      "type": "hanzi",
+      "character": "工资",
+      "romaji": "gōng zī",
+      "meaning": "wages; pay; CL:個|个; 份; 月[yuè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "共同",
+      "romaji": "gòng tóng",
+      "meaning": "common; joint; jointly; together; collaborative"
+    },
+    {
+      "type": "hanzi",
+      "character": "够",
+      "romaji": "gòu",
+      "meaning": "to reach; to be enough"
+    },
+    {
+      "type": "hanzi",
+      "character": "购物",
+      "romaji": "gòu wù",
+      "meaning": "shopping"
+    },
+    {
+      "type": "hanzi",
+      "character": "孤单",
+      "romaji": "gū dān",
+      "meaning": "lone; lonely; loneliness"
+    },
+    {
+      "type": "hanzi",
+      "character": "估计",
+      "romaji": "gū jì",
+      "meaning": "to estimate; to reckon; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "鼓励",
+      "romaji": "gǔ lì",
+      "meaning": "to encourage"
+    },
+    {
+      "type": "hanzi",
+      "character": "鼓掌",
+      "romaji": "gǔ zhǎng",
+      "meaning": "to applaud; to clap"
+    },
+    {
+      "type": "hanzi",
+      "character": "顾客",
+      "romaji": "gù kè",
+      "meaning": "client; customer; CL:位[wèi]"
+    }
+  ]
+}

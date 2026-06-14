@@ -1,0 +1,67 @@
+{
+  "unit": 35,
+  "lesson": 19,
+  "title": "Vocabulary — Frequency 5781–5790",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "回",
+      "romaji": "かい",
+      "meaning": "counter for occurrences"
+    },
+    {
+      "type": "kanji",
+      "character": "回し",
+      "romaji": "まわし",
+      "meaning": "mawashi; belt"
+    },
+    {
+      "type": "kanji",
+      "character": "回す",
+      "romaji": "まわす",
+      "meaning": "to turn; to rotate"
+    },
+    {
+      "type": "kanji",
+      "character": "回り道",
+      "romaji": "まわりみち",
+      "meaning": "detour; circuitous route"
+    },
+    {
+      "type": "kanji",
+      "character": "回忌",
+      "romaji": "かいき",
+      "meaning": "death anniversary; anniversary of a person's death"
+    },
+    {
+      "type": "kanji",
+      "character": "回帰",
+      "romaji": "かいき",
+      "meaning": "return (to); revolution"
+    },
+    {
+      "type": "kanji",
+      "character": "回顧",
+      "romaji": "かいこ",
+      "meaning": "recollecting; reminiscing"
+    },
+    {
+      "type": "kanji",
+      "character": "回顧録",
+      "romaji": "かいころく",
+      "meaning": "memoirs; reminiscences"
+    },
+    {
+      "type": "kanji",
+      "character": "回収",
+      "romaji": "かいしゅう",
+      "meaning": "collection; recovery"
+    },
+    {
+      "type": "kanji",
+      "character": "回数",
+      "romaji": "かいすう",
+      "meaning": "number of times; frequency"
+    }
+  ]
+}

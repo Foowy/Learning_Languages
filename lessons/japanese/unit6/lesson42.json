@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 42,
+  "title": "JLPT N2/N1 Kanji — Part 42",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "艦",
+      "romaji": "カン",
+      "meaning": "warship"
+    },
+    {
+      "type": "kanji",
+      "character": "輩",
+      "romaji": "ハイ / -ばら・やから・やかい・ともがら",
+      "meaning": "comrade; fellow; people"
+    },
+    {
+      "type": "kanji",
+      "character": "穴",
+      "romaji": "ケツ / あな",
+      "meaning": "hole; aperture; slit"
+    },
+    {
+      "type": "kanji",
+      "character": "奇",
+      "romaji": "キ / く.しき・あや.しい・くし・めずら.しい",
+      "meaning": "strange; strangeness; curiosity"
+    },
+    {
+      "type": "kanji",
+      "character": "慢",
+      "romaji": "マン",
+      "meaning": "ridicule; laziness"
+    },
+    {
+      "type": "kanji",
+      "character": "鶴",
+      "romaji": "カク / つる",
+      "meaning": "crane; stork"
+    },
+    {
+      "type": "kanji",
+      "character": "謀",
+      "romaji": "ボウ・ム / はか.る・たばか.る・はかりごと",
+      "meaning": "conspire; cheat; impose on"
+    },
+    {
+      "type": "kanji",
+      "character": "昌",
+      "romaji": "ショウ / さかん",
+      "meaning": "prosperous; bright; clear"
+    },
+    {
+      "type": "kanji",
+      "character": "拍",
+      "romaji": "ハク・ヒョウ",
+      "meaning": "clap; beat (music)"
+    },
+    {
+      "type": "kanji",
+      "character": "朗",
+      "romaji": "ロウ / ほが.らか・あき.らか",
+      "meaning": "melodious; clear; bright"
+    }
+  ]
+}

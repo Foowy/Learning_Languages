@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 29,
+  "title": "JLPT N2/N1 Kanji — Part 29",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "剤",
+      "romaji": "ザイ・スイ・セイ / かる・けず.る",
+      "meaning": "dose; medicine; drug"
+    },
+    {
+      "type": "kanji",
+      "character": "瀬",
+      "romaji": "ライ / せ",
+      "meaning": "rapids; current; torrent"
+    },
+    {
+      "type": "kanji",
+      "character": "趣",
+      "romaji": "シュ / おもむき・おもむ.く",
+      "meaning": "purport; gist; elegance"
+    },
+    {
+      "type": "kanji",
+      "character": "陥",
+      "romaji": "カン / おちい.る・おとしい.れる",
+      "meaning": "collapse; fall into; cave in"
+    },
+    {
+      "type": "kanji",
+      "character": "斎",
+      "romaji": "サイ / とき・つつし.む・ものいみ・い.む・いわ.う・いつ.く",
+      "meaning": "purification; Buddhist food; room"
+    },
+    {
+      "type": "kanji",
+      "character": "貫",
+      "romaji": "カン / つらぬ.く・ぬ.く・ぬき",
+      "meaning": "pierce; 8 1/3lbs; penetrate"
+    },
+    {
+      "type": "kanji",
+      "character": "仙",
+      "romaji": "セン・セント",
+      "meaning": "hermit; wizard; cent"
+    },
+    {
+      "type": "kanji",
+      "character": "慰",
+      "romaji": "イ / なぐさ.める・なぐさ.む",
+      "meaning": "consolation; amusement; seduce"
+    },
+    {
+      "type": "kanji",
+      "character": "序",
+      "romaji": "ジョ / つい.で・ついで",
+      "meaning": "preface; beginning; order"
+    },
+    {
+      "type": "kanji",
+      "character": "旬",
+      "romaji": "ジュン・シュン",
+      "meaning": "decameron; ten-day period; season (for specific products)"
+    }
+  ]
+}

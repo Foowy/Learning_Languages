@@ -1,0 +1,67 @@
+{
+  "unit": 59,
+  "lesson": 19,
+  "title": "Vocabulary — Frequency 10581–10590",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "獣医",
+      "romaji": "じゅうい",
+      "meaning": "veterinarian; veterinary surgeon"
+    },
+    {
+      "type": "kanji",
+      "character": "縦",
+      "romaji": "たて",
+      "meaning": "the vertical; height"
+    },
+    {
+      "type": "kanji",
+      "character": "縦書き",
+      "romaji": "たてがき",
+      "meaning": "writing vertically; vertical writing"
+    },
+    {
+      "type": "kanji",
+      "character": "縦断",
+      "romaji": "じゅうだん",
+      "meaning": "running through (north-south); cutting across"
+    },
+    {
+      "type": "kanji",
+      "character": "重い",
+      "romaji": "おもい",
+      "meaning": "heavy; weighty"
+    },
+    {
+      "type": "kanji",
+      "character": "重さ",
+      "romaji": "おもさ",
+      "meaning": "weight"
+    },
+    {
+      "type": "kanji",
+      "character": "重たい",
+      "romaji": "おもたい",
+      "meaning": "heavy; weighty"
+    },
+    {
+      "type": "kanji",
+      "character": "重なる",
+      "romaji": "かさなる",
+      "meaning": "to be piled up; to lie on top of one another"
+    },
+    {
+      "type": "kanji",
+      "character": "重ねる",
+      "romaji": "かさねる",
+      "meaning": "to pile up; to heap up"
+    },
+    {
+      "type": "kanji",
+      "character": "重ね合わせ",
+      "romaji": "かさねあわせ",
+      "meaning": "superposition"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 30,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 4601–4610",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "扱う",
+      "romaji": "あつかう",
+      "meaning": "to deal with (a person); to treat"
+    },
+    {
+      "type": "kanji",
+      "character": "飴",
+      "romaji": "あめ",
+      "meaning": "(hard) candy; toffee"
+    },
+    {
+      "type": "kanji",
+      "character": "安い",
+      "romaji": "やすい",
+      "meaning": "cheap; inexpensive"
+    },
+    {
+      "type": "kanji",
+      "character": "安っぽい",
+      "romaji": "やすっぽい",
+      "meaning": "cheap-looking; tawdry"
+    },
+    {
+      "type": "kanji",
+      "character": "安らか",
+      "romaji": "やすらか",
+      "meaning": "peaceful; tranquil"
+    },
+    {
+      "type": "kanji",
+      "character": "安らぎ",
+      "romaji": "やすらぎ",
+      "meaning": "peace (of mind); tranquility"
+    },
+    {
+      "type": "kanji",
+      "character": "安易",
+      "romaji": "あんい",
+      "meaning": "easy; simple"
+    },
+    {
+      "type": "kanji",
+      "character": "安価",
+      "romaji": "あんか",
+      "meaning": "low-priced; cheap"
+    },
+    {
+      "type": "kanji",
+      "character": "安楽死",
+      "romaji": "あんらくし",
+      "meaning": "euthanasia"
+    },
+    {
+      "type": "kanji",
+      "character": "安住",
+      "romaji": "あんじゅう",
+      "meaning": "living in peace; living a quiet life"
+    }
+  ]
+}

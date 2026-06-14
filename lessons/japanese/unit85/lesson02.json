@@ -1,0 +1,67 @@
+{
+  "unit": 85,
+  "lesson": 2,
+  "title": "Vocabulary — Frequency 15611–15620",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "比",
+      "romaji": "ひ",
+      "meaning": "ratio; proportion"
+    },
+    {
+      "type": "kanji",
+      "character": "比べる",
+      "romaji": "くらべる",
+      "meaning": "to compare; to make a comparison (between)"
+    },
+    {
+      "type": "kanji",
+      "character": "比較",
+      "romaji": "ひかく",
+      "meaning": "comparison"
+    },
+    {
+      "type": "kanji",
+      "character": "比較的",
+      "romaji": "ひかくてき",
+      "meaning": "comparatively; relatively"
+    },
+    {
+      "type": "kanji",
+      "character": "比重",
+      "romaji": "ひじゅう",
+      "meaning": "specific gravity; relative density"
+    },
+    {
+      "type": "kanji",
+      "character": "比率",
+      "romaji": "ひりつ",
+      "meaning": "ratio; proportion"
+    },
+    {
+      "type": "kanji",
+      "character": "比例",
+      "romaji": "ひれい",
+      "meaning": "proportion"
+    },
+    {
+      "type": "kanji",
+      "character": "疲れ",
+      "romaji": "つかれ",
+      "meaning": "tiredness; fatigue"
+    },
+    {
+      "type": "kanji",
+      "character": "疲れる",
+      "romaji": "つかれる",
+      "meaning": "to get tired; to tire"
+    },
+    {
+      "type": "kanji",
+      "character": "疲れ果てる",
+      "romaji": "つかれはてる",
+      "meaning": "to get tired out; to be exhausted"
+    }
+  ]
+}

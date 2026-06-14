@@ -1,0 +1,67 @@
+{
+  "unit": 26,
+  "lesson": 20,
+  "title": "Vocabulary — Frequency 3991–4000",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "メインストリート",
+      "romaji": "メインストリート",
+      "meaning": "main street"
+    },
+    {
+      "type": "kana",
+      "character": "メインバンク",
+      "romaji": "メインバンク",
+      "meaning": "(company's) main financing bank; principal bank"
+    },
+    {
+      "type": "kana",
+      "character": "メカ",
+      "romaji": "メカ",
+      "meaning": "mechanism; mechanics"
+    },
+    {
+      "type": "kana",
+      "character": "メカニズム",
+      "romaji": "メカニズム",
+      "meaning": "mechanism"
+    },
+    {
+      "type": "kana",
+      "character": "メカニック",
+      "romaji": "メカニック",
+      "meaning": "mechanic"
+    },
+    {
+      "type": "kana",
+      "character": "メガ",
+      "romaji": "メガ",
+      "meaning": "mega- (i.e. 10^6)"
+    },
+    {
+      "type": "kana",
+      "character": "メガヘルツ",
+      "romaji": "メガヘルツ",
+      "meaning": "megahertz; MHz"
+    },
+    {
+      "type": "kana",
+      "character": "メガホン",
+      "romaji": "メガホン",
+      "meaning": "megaphone"
+    },
+    {
+      "type": "kanji",
+      "character": "墨西哥",
+      "romaji": "メキシコ",
+      "meaning": "Mexico"
+    },
+    {
+      "type": "kana",
+      "character": "メコンデルタ",
+      "romaji": "メコンデルタ",
+      "meaning": "Mekong delta"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 2,
+  "lesson": 10,
+  "title": "HSK 2 Vocabulary — Part 10",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "生日",
+      "romaji": "shēng rì",
+      "meaning": "birthday; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "时间",
+      "romaji": "shí jiān",
+      "meaning": "time; period; CL:段[duàn]"
+    },
+    {
+      "type": "hanzi",
+      "character": "事情",
+      "romaji": "shì qing",
+      "meaning": "affair; matter; thing; business; CL:件; 樁|桩[zhuāng]"
+    },
+    {
+      "type": "hanzi",
+      "character": "手表",
+      "romaji": "shǒu biǎo",
+      "meaning": "wrist watch; CL:塊|块; 隻|只; 個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "手机",
+      "romaji": "shǒu jī",
+      "meaning": "cell phone; mobile phone; CL:部; 支[zhī]"
+    },
+    {
+      "type": "hanzi",
+      "character": "送",
+      "romaji": "sòng",
+      "meaning": "to deliver; to carry; to give (as a present); to present (with); to see off; to send"
+    },
+    {
+      "type": "hanzi",
+      "character": "所以",
+      "romaji": "suǒ yǐ",
+      "meaning": "therefore; as a result; so"
+    },
+    {
+      "type": "hanzi",
+      "character": "它",
+      "romaji": "tā",
+      "meaning": "it"
+    },
+    {
+      "type": "hanzi",
+      "character": "踢",
+      "romaji": "tī",
+      "meaning": "to kick; to play (e.g. soccer)"
+    },
+    {
+      "type": "hanzi",
+      "character": "题",
+      "romaji": "tí",
+      "meaning": "topic; problem for discussion; exam question; subject; to inscribe; to mention; CL:個|个; 道[dào]"
+    }
+  ]
+}

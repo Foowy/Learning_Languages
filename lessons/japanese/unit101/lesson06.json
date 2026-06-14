@@ -1,0 +1,67 @@
+{
+  "unit": 101,
+  "lesson": 6,
+  "title": "Vocabulary — Frequency 18851–18860",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "暗記",
+      "romaji": "あんき",
+      "meaning": "memorization; memorisation"
+    },
+    {
+      "type": "kanji",
+      "character": "暗黒",
+      "romaji": "あんこく",
+      "meaning": "darkness"
+    },
+    {
+      "type": "kanji",
+      "character": "杏",
+      "romaji": "あんず",
+      "meaning": "apricot (Prunus armeniaca)"
+    },
+    {
+      "type": "kanji",
+      "character": "塩梅",
+      "romaji": "あんばい",
+      "meaning": "seasoning; flavour"
+    },
+    {
+      "type": "kanji",
+      "character": "言い訳",
+      "romaji": "いいわけ",
+      "meaning": "excuse"
+    },
+    {
+      "type": "kanji",
+      "character": "言う",
+      "romaji": "いう",
+      "meaning": "to say; to utter"
+    },
+    {
+      "type": "kanji",
+      "character": "生かす",
+      "romaji": "いかす",
+      "meaning": "to make (the best) use of; to put to good use"
+    },
+    {
+      "type": "kanji",
+      "character": "遺棄",
+      "romaji": "いき",
+      "meaning": "abandonment; desertion"
+    },
+    {
+      "type": "kanji",
+      "character": "生き方",
+      "romaji": "いきかた",
+      "meaning": "way of life; how to live"
+    },
+    {
+      "type": "kanji",
+      "character": "行き渡る",
+      "romaji": "いきわたる",
+      "meaning": "to diffuse; to spread throughout"
+    }
+  ]
+}

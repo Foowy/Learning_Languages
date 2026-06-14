@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 2,
+  "title": "JLPT N3 Kanji — Part 2",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "米",
+      "romaji": "ベイ・マイ・メエトル / こめ・よね",
+      "meaning": "rice; USA; metre"
+    },
+    {
+      "type": "kanji",
+      "character": "実",
+      "romaji": "ジツ・シツ / み・みの.る・まこと・みの・みち.る",
+      "meaning": "reality; truth; seed"
+    },
+    {
+      "type": "kanji",
+      "character": "関",
+      "romaji": "カン / せき・-ぜき・かか.わる・からくり・かんぬき",
+      "meaning": "connection; barrier; gateway"
+    },
+    {
+      "type": "kanji",
+      "character": "決",
+      "romaji": "ケツ / き.める・-ぎ.め・き.まる・さ.く",
+      "meaning": "decide; fix; agree upon"
+    },
+    {
+      "type": "kanji",
+      "character": "全",
+      "romaji": "ゼン / まった.く・すべ.て",
+      "meaning": "whole; entire; all"
+    },
+    {
+      "type": "kanji",
+      "character": "表",
+      "romaji": "ヒョウ / おもて・-おもて・あらわ.す・あらわ.れる・あら.わす",
+      "meaning": "surface; table; chart"
+    },
+    {
+      "type": "kanji",
+      "character": "戦",
+      "romaji": "セン / いくさ・たたか.う・おのの.く・そよ.ぐ・わなな.く",
+      "meaning": "war; battle; match"
+    },
+    {
+      "type": "kanji",
+      "character": "経",
+      "romaji": "ケイ・キョウ・キン / へ.る・た.つ・たていと・はか.る・のり",
+      "meaning": "sutra; longitude; pass thru"
+    },
+    {
+      "type": "kanji",
+      "character": "最",
+      "romaji": "サイ・シュ / もっと.も・つま",
+      "meaning": "utmost; most; extreme"
+    },
+    {
+      "type": "kanji",
+      "character": "現",
+      "romaji": "ゲン / あらわ.れる・あらわ.す・うつつ・うつ.つ",
+      "meaning": "present; existing; actual"
+    }
+  ]
+}

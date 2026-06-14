@@ -1,0 +1,67 @@
+{
+  "unit": 10,
+  "lesson": 13,
+  "title": "Vocabulary — Frequency 721–730",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "宇柳貝",
+      "romaji": "ウルグアイ",
+      "meaning": "Uruguay"
+    },
+    {
+      "type": "kana",
+      "character": "ウルトラ",
+      "romaji": "ウルトラ",
+      "meaning": "ultra"
+    },
+    {
+      "type": "kana",
+      "character": "エージェンシー",
+      "romaji": "エージェンシー",
+      "meaning": "agency"
+    },
+    {
+      "type": "kana",
+      "character": "エージェント",
+      "romaji": "エージェント",
+      "meaning": "agent"
+    },
+    {
+      "type": "kana",
+      "character": "エース",
+      "romaji": "エース",
+      "meaning": "ace"
+    },
+    {
+      "type": "kana",
+      "character": "エイプリルフール",
+      "romaji": "エイプリルフール",
+      "meaning": "April Fools' Day"
+    },
+    {
+      "type": "kana",
+      "character": "エール",
+      "romaji": "エール",
+      "meaning": "yell (of encouragement); cheering (esp. for a school sports team)"
+    },
+    {
+      "type": "kana",
+      "character": "エア",
+      "romaji": "エア",
+      "meaning": "air"
+    },
+    {
+      "type": "kana",
+      "character": "エアコン",
+      "romaji": "エアコン",
+      "meaning": "air conditioner; air conditioning"
+    },
+    {
+      "type": "kana",
+      "character": "エアゾール",
+      "romaji": "エアゾール",
+      "meaning": "aerosol"
+    }
+  ]
+}

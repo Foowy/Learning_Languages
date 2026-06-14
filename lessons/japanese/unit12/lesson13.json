@@ -1,0 +1,67 @@
+{
+  "unit": 12,
+  "lesson": 13,
+  "title": "Vocabulary — Frequency 1121–1130",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "キャンディ",
+      "romaji": "キャンディ",
+      "meaning": "candy; sweets"
+    },
+    {
+      "type": "kana",
+      "character": "キャンドル",
+      "romaji": "キャンドル",
+      "meaning": "candle"
+    },
+    {
+      "type": "kana",
+      "character": "キャンバス",
+      "romaji": "キャンバス",
+      "meaning": "canvas"
+    },
+    {
+      "type": "kana",
+      "character": "キャンパー",
+      "romaji": "キャンパー",
+      "meaning": "camper"
+    },
+    {
+      "type": "kana",
+      "character": "キャンパス",
+      "romaji": "キャンパス",
+      "meaning": "campus"
+    },
+    {
+      "type": "kana",
+      "character": "キャンピング",
+      "romaji": "キャンピング",
+      "meaning": "camping"
+    },
+    {
+      "type": "kana",
+      "character": "キャンピングカー",
+      "romaji": "キャンピングカー",
+      "meaning": "mobile home; camper-van"
+    },
+    {
+      "type": "kana",
+      "character": "キャンプ",
+      "romaji": "キャンプ",
+      "meaning": "camp; camping"
+    },
+    {
+      "type": "kana",
+      "character": "キャンプイン",
+      "romaji": "キャンプイン",
+      "meaning": "beginning training camp"
+    },
+    {
+      "type": "kana",
+      "character": "キャンベラ",
+      "romaji": "キャンベラ",
+      "meaning": "Canberra (Australia)"
+    }
+  ]
+}

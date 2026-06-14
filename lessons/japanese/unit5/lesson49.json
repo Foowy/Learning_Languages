@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 49,
+  "title": "JLPT N3 Kanji — Part 49",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "犯",
+      "romaji": "ハン・ボン / おか.す",
+      "meaning": "crime; sin; offense"
+    },
+    {
+      "type": "kanji",
+      "character": "布",
+      "romaji": "フ・ホ / ぬの・し.く・きれ",
+      "meaning": "linen; cloth; spread"
+    },
+    {
+      "type": "kanji",
+      "character": "恐",
+      "romaji": "キョウ / おそ.れる・おそ.る・おそ.ろしい・こわ.い・こわ.がる",
+      "meaning": "fear; dread; awe"
+    },
+    {
+      "type": "kanji",
+      "character": "寺",
+      "romaji": "ジ / てら",
+      "meaning": "Buddhist temple"
+    },
+    {
+      "type": "kanji",
+      "character": "息",
+      "romaji": "ソク / いき",
+      "meaning": "breath; respiration; son"
+    },
+    {
+      "type": "kanji",
+      "character": "宇",
+      "romaji": "ウ",
+      "meaning": "eaves; roof; house"
+    },
+    {
+      "type": "kanji",
+      "character": "戻",
+      "romaji": "レイ / もど.す・もど.る",
+      "meaning": "re-; return; revert"
+    },
+    {
+      "type": "kanji",
+      "character": "巨",
+      "romaji": "キョ",
+      "meaning": "gigantic; big; large"
+    },
+    {
+      "type": "kanji",
+      "character": "震",
+      "romaji": "シン / ふる.う・ふる.える・ふる.わせる・ふる.わす",
+      "meaning": "quake; shake; tremble"
+    },
+    {
+      "type": "kanji",
+      "character": "願",
+      "romaji": "ガン / ねが.う・-ねがい",
+      "meaning": "petition; request; vow"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 13,
+  "lesson": 12,
+  "title": "Vocabulary — Frequency 1311–1320",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "グロテスク",
+      "romaji": "グロテスク",
+      "meaning": "grotesque; bizarre"
+    },
+    {
+      "type": "kana",
+      "character": "グロリア",
+      "romaji": "グロリア",
+      "meaning": "Gloria"
+    },
+    {
+      "type": "kana",
+      "character": "ケーオー",
+      "romaji": "ケーオー",
+      "meaning": "KO; knock-out"
+    },
+    {
+      "type": "kana",
+      "character": "ケーキ",
+      "romaji": "ケーキ",
+      "meaning": "cake"
+    },
+    {
+      "type": "kana",
+      "character": "ケージ",
+      "romaji": "ケージ",
+      "meaning": "cage"
+    },
+    {
+      "type": "kana",
+      "character": "ケース",
+      "romaji": "ケース",
+      "meaning": "case (container)"
+    },
+    {
+      "type": "kana",
+      "character": "ケーススタディ",
+      "romaji": "ケーススタディ",
+      "meaning": "case study"
+    },
+    {
+      "type": "kana",
+      "character": "ケースワーカー",
+      "romaji": "ケースワーカー",
+      "meaning": "caseworker"
+    },
+    {
+      "type": "kanji",
+      "character": "ケーソン工法",
+      "romaji": "ケーソンこうほう",
+      "meaning": "caisson method"
+    },
+    {
+      "type": "kana",
+      "character": "ケーブル",
+      "romaji": "ケーブル",
+      "meaning": "cable"
+    }
+  ]
+}

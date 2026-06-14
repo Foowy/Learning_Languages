@@ -1,0 +1,67 @@
+{
+  "unit": 95,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 17601–17610",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "洋風",
+      "romaji": "ようふう",
+      "meaning": "Western style"
+    },
+    {
+      "type": "kanji",
+      "character": "洋服",
+      "romaji": "ようふく",
+      "meaning": "Western-style clothes (cf. traditional Japanese clothes)"
+    },
+    {
+      "type": "kanji",
+      "character": "溶かす",
+      "romaji": "とかす",
+      "meaning": "to melt; to liquefy"
+    },
+    {
+      "type": "kanji",
+      "character": "溶く",
+      "romaji": "とく",
+      "meaning": "to mix (e.g. water with flour); to dissolve (salt in water, paint, etc.)"
+    },
+    {
+      "type": "kanji",
+      "character": "溶ける",
+      "romaji": "とける",
+      "meaning": "to melt; to liquefy"
+    },
+    {
+      "type": "kanji",
+      "character": "溶け込む",
+      "romaji": "とけこむ",
+      "meaning": "to melt into; to dissolve into"
+    },
+    {
+      "type": "kanji",
+      "character": "溶液",
+      "romaji": "ようえき",
+      "meaning": "solution (liquid)"
+    },
+    {
+      "type": "kanji",
+      "character": "溶解",
+      "romaji": "ようかい",
+      "meaning": "dissolution; dissolving"
+    },
+    {
+      "type": "kanji",
+      "character": "溶岩",
+      "romaji": "ようがん",
+      "meaning": "lava"
+    },
+    {
+      "type": "kanji",
+      "character": "溶鉱炉",
+      "romaji": "ようこうろ",
+      "meaning": "smelting furnace; blast furnace"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 32,
+  "lesson": 7,
+  "title": "Vocabulary — Frequency 5061–5070",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "宇宙",
+      "romaji": "うちゅう",
+      "meaning": "universe; cosmos"
+    },
+    {
+      "type": "kanji",
+      "character": "宇宙空間",
+      "romaji": "うちゅうくうかん",
+      "meaning": "(outer) space"
+    },
+    {
+      "type": "kanji",
+      "character": "宇宙飛行士",
+      "romaji": "うちゅうひこうし",
+      "meaning": "astronaut"
+    },
+    {
+      "type": "kanji",
+      "character": "烏",
+      "romaji": "カラス",
+      "meaning": "crow (Corvus spp.); raven"
+    },
+    {
+      "type": "kanji",
+      "character": "烏賊",
+      "romaji": "イカ",
+      "meaning": "cuttlefish; squid"
+    },
+    {
+      "type": "kanji",
+      "character": "羽",
+      "romaji": "はね",
+      "meaning": "feather; plume"
+    },
+    {
+      "type": "kanji",
+      "character": "羽衣",
+      "romaji": "はごろも",
+      "meaning": "angel's raiment; robe of feathers"
+    },
+    {
+      "type": "kanji",
+      "character": "羽織",
+      "romaji": "はおり",
+      "meaning": "haori (Japanese formal coat)"
+    },
+    {
+      "type": "kanji",
+      "character": "羽毛",
+      "romaji": "うもう",
+      "meaning": "feather; plume"
+    },
+    {
+      "type": "kanji",
+      "character": "羽目",
+      "romaji": "はめ",
+      "meaning": "panel; wainscoting"
+    }
+  ]
+}

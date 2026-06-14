@@ -1,0 +1,67 @@
+{
+  "unit": 95,
+  "lesson": 13,
+  "title": "Vocabulary — Frequency 17721–17730",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "落ち着いた",
+      "romaji": "おちついた",
+      "meaning": "calm; composed"
+    },
+    {
+      "type": "kanji",
+      "character": "落ち着き",
+      "romaji": "おちつき",
+      "meaning": "calmness; composure"
+    },
+    {
+      "type": "kanji",
+      "character": "落ち度",
+      "romaji": "おちど",
+      "meaning": "mistake; error"
+    },
+    {
+      "type": "kanji",
+      "character": "落とし穴",
+      "romaji": "おとしあな",
+      "meaning": "pitfall; trap"
+    },
+    {
+      "type": "kanji",
+      "character": "落下",
+      "romaji": "らっか",
+      "meaning": "fall; drop"
+    },
+    {
+      "type": "kanji",
+      "character": "落語",
+      "romaji": "らくご",
+      "meaning": "rakugo; traditional Japanese comic storytelling"
+    },
+    {
+      "type": "kanji",
+      "character": "落語家",
+      "romaji": "らくごか",
+      "meaning": "rakugo story teller; comic story teller"
+    },
+    {
+      "type": "kanji",
+      "character": "落差",
+      "romaji": "らくさ",
+      "meaning": "difference in elevation (between two points in a body of water); head"
+    },
+    {
+      "type": "kanji",
+      "character": "落札",
+      "romaji": "らくさつ",
+      "meaning": "successful bid; winning a tender"
+    },
+    {
+      "type": "kanji",
+      "character": "落書き",
+      "romaji": "らくがき",
+      "meaning": "scrawl; scribble"
+    }
+  ]
+}

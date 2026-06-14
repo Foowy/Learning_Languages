@@ -1,0 +1,67 @@
+{
+  "unit": 36,
+  "lesson": 20,
+  "title": "Vocabulary — Frequency 5991–6000",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "外来",
+      "romaji": "がいらい",
+      "meaning": "foreign; imported"
+    },
+    {
+      "type": "kanji",
+      "character": "外来語",
+      "romaji": "がいらいご",
+      "meaning": "loanword (in Japanese, esp. one of Western origin); word of foreign origin"
+    },
+    {
+      "type": "kanji",
+      "character": "咳",
+      "romaji": "せき",
+      "meaning": "cough; coughing"
+    },
+    {
+      "type": "kanji",
+      "character": "害",
+      "romaji": "がい",
+      "meaning": "injury; harm"
+    },
+    {
+      "type": "kanji",
+      "character": "害虫",
+      "romaji": "がいちゅう",
+      "meaning": "harmful insect; noxious insect"
+    },
+    {
+      "type": "kanji",
+      "character": "崖",
+      "romaji": "がけ",
+      "meaning": "cliff; precipice"
+    },
+    {
+      "type": "kanji",
+      "character": "概況",
+      "romaji": "がいきょう",
+      "meaning": "outlook; general situation"
+    },
+    {
+      "type": "kanji",
+      "character": "概算",
+      "romaji": "がいさん",
+      "meaning": "approximation; rough estimate"
+    },
+    {
+      "type": "kanji",
+      "character": "概念",
+      "romaji": "がいねん",
+      "meaning": "general idea; concept"
+    },
+    {
+      "type": "kanji",
+      "character": "概要",
+      "romaji": "がいよう",
+      "meaning": "outline; summary"
+    }
+  ]
+}

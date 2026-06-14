@@ -1,0 +1,67 @@
+{
+  "unit": 82,
+  "lesson": 3,
+  "title": "Vocabulary — Frequency 15021–15030",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "入力",
+      "romaji": "にゅうりょく",
+      "meaning": "input; (data) entry"
+    },
+    {
+      "type": "kanji",
+      "character": "如し",
+      "romaji": "ごとし",
+      "meaning": "like; as if"
+    },
+    {
+      "type": "kanji",
+      "character": "如何して",
+      "romaji": "どうして",
+      "meaning": "how; in what way"
+    },
+    {
+      "type": "kanji",
+      "character": "如何しても",
+      "romaji": "どうしても",
+      "meaning": "by all means; at any cost"
+    },
+    {
+      "type": "kanji",
+      "character": "如何に",
+      "romaji": "いかに",
+      "meaning": "how; in what way"
+    },
+    {
+      "type": "kanji",
+      "character": "如実",
+      "romaji": "にょじつ",
+      "meaning": "reality; actuality"
+    },
+    {
+      "type": "kanji",
+      "character": "尿",
+      "romaji": "にょう",
+      "meaning": "urine"
+    },
+    {
+      "type": "kanji",
+      "character": "尿酸",
+      "romaji": "にょうさん",
+      "meaning": "uric acid"
+    },
+    {
+      "type": "kanji",
+      "character": "任",
+      "romaji": "にん",
+      "meaning": "obligation; duty"
+    },
+    {
+      "type": "kanji",
+      "character": "任す",
+      "romaji": "まかす",
+      "meaning": "to entrust (to someone); to leave (in someone's hands)"
+    }
+  ]
+}

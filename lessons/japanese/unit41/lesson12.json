@@ -1,0 +1,67 @@
+{
+  "unit": 41,
+  "lesson": 12,
+  "title": "Vocabulary — Frequency 6911–6920",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "急行",
+      "romaji": "きゅうこう",
+      "meaning": "hurrying (to somewhere); rushing"
+    },
+    {
+      "type": "kanji",
+      "character": "急死",
+      "romaji": "きゅうし",
+      "meaning": "sudden death"
+    },
+    {
+      "type": "kanji",
+      "character": "急所",
+      "romaji": "きゅうしょ",
+      "meaning": "vital part (of the body); tender spot"
+    },
+    {
+      "type": "kanji",
+      "character": "急進",
+      "romaji": "きゅうしん",
+      "meaning": "rapid progress; radical progress"
+    },
+    {
+      "type": "kanji",
+      "character": "急性",
+      "romaji": "きゅうせい",
+      "meaning": "acute (illness)"
+    },
+    {
+      "type": "kanji",
+      "character": "急逝",
+      "romaji": "きゅうせい",
+      "meaning": "sudden death; unexpected death"
+    },
+    {
+      "type": "kanji",
+      "character": "急増",
+      "romaji": "きゅうぞう",
+      "meaning": "rapid increase; sharp rise"
+    },
+    {
+      "type": "kanji",
+      "character": "急速",
+      "romaji": "きゅうそく",
+      "meaning": "rapid (e.g. progress)"
+    },
+    {
+      "type": "kanji",
+      "character": "急騰",
+      "romaji": "きゅうとう",
+      "meaning": "sudden rise (in price); sharp rise"
+    },
+    {
+      "type": "kanji",
+      "character": "急病",
+      "romaji": "きゅうびょう",
+      "meaning": "sudden illness"
+    }
+  ]
+}

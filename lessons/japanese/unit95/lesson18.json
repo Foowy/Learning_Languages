@@ -1,0 +1,67 @@
+{
+  "unit": 95,
+  "lesson": 18,
+  "title": "Vocabulary — Frequency 17771–17780",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "履歴",
+      "romaji": "りれき",
+      "meaning": "personal history; background"
+    },
+    {
+      "type": "kanji",
+      "character": "履歴書",
+      "romaji": "りれきしょ",
+      "meaning": "personal history document; curriculum vitae"
+    },
+    {
+      "type": "kanji",
+      "character": "梨",
+      "romaji": "なし",
+      "meaning": "nashi (esp. Pyrus pyrifolia); Japanese pear"
+    },
+    {
+      "type": "kanji",
+      "character": "理科",
+      "romaji": "りか",
+      "meaning": "science (natural sciences and related fields, incl. mathematics, engineering, medicine, etc.)"
+    },
+    {
+      "type": "kanji",
+      "character": "理解",
+      "romaji": "りかい",
+      "meaning": "understanding; comprehension"
+    },
+    {
+      "type": "kanji",
+      "character": "理学",
+      "romaji": "りがく",
+      "meaning": "(physical) science; natural science"
+    },
+    {
+      "type": "kanji",
+      "character": "理学部",
+      "romaji": "りがくぶ",
+      "meaning": "faculty of science; school of science"
+    },
+    {
+      "type": "kanji",
+      "character": "理系",
+      "romaji": "りけい",
+      "meaning": "the sciences; STEM (science, technology, engineering and mathematics)"
+    },
+    {
+      "type": "kanji",
+      "character": "理工",
+      "romaji": "りこう",
+      "meaning": "science and engineering"
+    },
+    {
+      "type": "kanji",
+      "character": "理工学部",
+      "romaji": "りこうがくぶ",
+      "meaning": "faculty of science and engineering; college of science and engineering"
+    }
+  ]
+}

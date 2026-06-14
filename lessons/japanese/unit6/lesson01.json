@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 1,
+  "title": "JLPT N2/N1 Kanji — Part 1",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "氏",
+      "romaji": "シ / うじ・-うじ",
+      "meaning": "family name; surname; clan"
+    },
+    {
+      "type": "kanji",
+      "character": "統",
+      "romaji": "トウ / す.べる",
+      "meaning": "overall; relationship; ruling"
+    },
+    {
+      "type": "kanji",
+      "character": "派",
+      "romaji": "ハ",
+      "meaning": "faction; group; party"
+    },
+    {
+      "type": "kanji",
+      "character": "策",
+      "romaji": "サク",
+      "meaning": "scheme; plan; policy"
+    },
+    {
+      "type": "kanji",
+      "character": "提",
+      "romaji": "テイ・チョウ・ダイ / さ.げる",
+      "meaning": "propose; take along; carry in hand"
+    },
+    {
+      "type": "kanji",
+      "character": "挙",
+      "romaji": "キョ / あ.げる・あ.がる・こぞ.る",
+      "meaning": "raise; plan; project"
+    },
+    {
+      "type": "kanji",
+      "character": "企",
+      "romaji": "キ / くわだ.てる・たくら.む",
+      "meaning": "undertake; scheme; design"
+    },
+    {
+      "type": "kanji",
+      "character": "藤",
+      "romaji": "トウ・ドウ / ふじ",
+      "meaning": "wisteria"
+    },
+    {
+      "type": "kanji",
+      "character": "沢",
+      "romaji": "タク / さわ・うるお.い・うるお.す・つや",
+      "meaning": "swamp; marsh; brilliance"
+    },
+    {
+      "type": "kanji",
+      "character": "裁",
+      "romaji": "サイ / た.つ・さば.く",
+      "meaning": "tailor; judge; decision"
+    }
+  ]
+}

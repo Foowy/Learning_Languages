@@ -1,0 +1,67 @@
+{
+  "unit": 42,
+  "lesson": 15,
+  "title": "Vocabulary — Frequency 7141–7150",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "怯える",
+      "romaji": "おびえる",
+      "meaning": "to become frightened; to be frightened (of)"
+    },
+    {
+      "type": "kanji",
+      "character": "恐らく",
+      "romaji": "おそらく",
+      "meaning": "probably; (most) likely"
+    },
+    {
+      "type": "kanji",
+      "character": "恐れ",
+      "romaji": "おそれ",
+      "meaning": "fear; horror"
+    },
+    {
+      "type": "kanji",
+      "character": "恐ろしい",
+      "romaji": "おそろしい",
+      "meaning": "terrible; dreadful"
+    },
+    {
+      "type": "kanji",
+      "character": "恐喝",
+      "romaji": "きょうかつ",
+      "meaning": "blackmail; extortion"
+    },
+    {
+      "type": "kanji",
+      "character": "恐慌",
+      "romaji": "きょうこう",
+      "meaning": "panic; scare"
+    },
+    {
+      "type": "kanji",
+      "character": "恐縮",
+      "romaji": "きょうしゅく",
+      "meaning": "feeling (much) obliged; being (very) grateful"
+    },
+    {
+      "type": "kanji",
+      "character": "恐怖",
+      "romaji": "きょうふ",
+      "meaning": "fear; dread"
+    },
+    {
+      "type": "kanji",
+      "character": "恐怖症",
+      "romaji": "きょうふしょう",
+      "meaning": "phobia; morbid fear"
+    },
+    {
+      "type": "kanji",
+      "character": "挟まる",
+      "romaji": "はさまる",
+      "meaning": "to get between; to be caught in"
+    }
+  ]
+}

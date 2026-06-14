@@ -1,0 +1,67 @@
+{
+  "unit": 1,
+  "lesson": 7,
+  "title": "HSK 1 Vocabulary — Part 7",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "吗",
+      "romaji": "ma",
+      "meaning": "(question tag)"
+    },
+    {
+      "type": "hanzi",
+      "character": "买",
+      "romaji": "mǎi",
+      "meaning": "to buy; to purchase"
+    },
+    {
+      "type": "hanzi",
+      "character": "猫",
+      "romaji": "māo",
+      "meaning": "cat; CL:隻|只[zhī]"
+    },
+    {
+      "type": "hanzi",
+      "character": "没",
+      "romaji": "méi",
+      "meaning": "(negative prefix for verbs); have not; not"
+    },
+    {
+      "type": "hanzi",
+      "character": "没关系",
+      "romaji": "méi guān xi",
+      "meaning": "it doesn't matter"
+    },
+    {
+      "type": "hanzi",
+      "character": "米饭",
+      "romaji": "mǐ fàn",
+      "meaning": "(cooked) rice"
+    },
+    {
+      "type": "hanzi",
+      "character": "明天",
+      "romaji": "míng tiān",
+      "meaning": "tomorrow"
+    },
+    {
+      "type": "hanzi",
+      "character": "名字",
+      "romaji": "míng zi",
+      "meaning": "name (of a person or thing); CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "哪",
+      "romaji": "nǎ",
+      "meaning": "how; which"
+    },
+    {
+      "type": "hanzi",
+      "character": "那",
+      "romaji": "nà",
+      "meaning": "that; those; then (in that case); commonly pr.  before a classifier; esp. in Beijing"
+    }
+  ]
+}

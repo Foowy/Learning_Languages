@@ -1,0 +1,67 @@
+{
+  "unit": 20,
+  "lesson": 20,
+  "title": "Vocabulary — Frequency 2791–2800",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "ハラハラ",
+      "romaji": "ハラハラ",
+      "meaning": "to feel anxious; to feel nervous"
+    },
+    {
+      "type": "kana",
+      "character": "ハリケーン",
+      "romaji": "ハリケーン",
+      "meaning": "hurricane"
+    },
+    {
+      "type": "kana",
+      "character": "ハロー",
+      "romaji": "ハロー",
+      "meaning": "hello"
+    },
+    {
+      "type": "kana",
+      "character": "ハロウィン",
+      "romaji": "ハロウィン",
+      "meaning": "Halloween"
+    },
+    {
+      "type": "kana",
+      "character": "ハロゲン",
+      "romaji": "ハロゲン",
+      "meaning": "halogen"
+    },
+    {
+      "type": "kana",
+      "character": "ハロン",
+      "romaji": "ハロン",
+      "meaning": "halon"
+    },
+    {
+      "type": "kanji",
+      "character": "布哇",
+      "romaji": "ハワイ",
+      "meaning": "Hawaii; Hawai'i"
+    },
+    {
+      "type": "kana",
+      "character": "ハンカチ",
+      "romaji": "ハンカチ",
+      "meaning": "handkerchief"
+    },
+    {
+      "type": "kana",
+      "character": "ハンガー",
+      "romaji": "ハンガー",
+      "meaning": "(coat) hanger"
+    },
+    {
+      "type": "kana",
+      "character": "ハング",
+      "romaji": "ハング",
+      "meaning": "hanging (up)"
+    }
+  ]
+}

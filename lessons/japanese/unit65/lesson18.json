@@ -1,0 +1,67 @@
+{
+  "unit": 65,
+  "lesson": 18,
+  "title": "Vocabulary — Frequency 11771–11780",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "垂れる",
+      "romaji": "たれる",
+      "meaning": "to hang; to droop"
+    },
+    {
+      "type": "kanji",
+      "character": "垂直",
+      "romaji": "すいちょく",
+      "meaning": "vertical"
+    },
+    {
+      "type": "kanji",
+      "character": "推す",
+      "romaji": "おす",
+      "meaning": "to recommend; to endorse (e.g. a candidate)"
+    },
+    {
+      "type": "kanji",
+      "character": "推移",
+      "romaji": "すいい",
+      "meaning": "transition; change"
+    },
+    {
+      "type": "kanji",
+      "character": "推計",
+      "romaji": "すいけい",
+      "meaning": "estimate; estimation"
+    },
+    {
+      "type": "kanji",
+      "character": "推奨",
+      "romaji": "すいしょう",
+      "meaning": "recommendation; endorsement"
+    },
+    {
+      "type": "kanji",
+      "character": "推進",
+      "romaji": "すいしん",
+      "meaning": "propulsion; drive"
+    },
+    {
+      "type": "kanji",
+      "character": "推薦",
+      "romaji": "すいせん",
+      "meaning": "recommendation; referral"
+    },
+    {
+      "type": "kanji",
+      "character": "推測",
+      "romaji": "すいそく",
+      "meaning": "guess; conjecture"
+    },
+    {
+      "type": "kanji",
+      "character": "推定",
+      "romaji": "すいてい",
+      "meaning": "presumption; assumption"
+    }
+  ]
+}

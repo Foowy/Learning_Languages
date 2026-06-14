@@ -1,0 +1,67 @@
+{
+  "unit": 88,
+  "lesson": 14,
+  "title": "Vocabulary — Frequency 16331–16340",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "平日",
+      "romaji": "へいじつ",
+      "meaning": "weekday; ordinary days (i.e. non-holiday)"
+    },
+    {
+      "type": "kanji",
+      "character": "平年",
+      "romaji": "へいねん",
+      "meaning": "non-leap year"
+    },
+    {
+      "type": "kanji",
+      "character": "平年並み",
+      "romaji": "へいねんなみ",
+      "meaning": "similar to that of an average year; in line with an average year"
+    },
+    {
+      "type": "kanji",
+      "character": "平方",
+      "romaji": "へいほう",
+      "meaning": "square (e.g. metre)"
+    },
+    {
+      "type": "kanji",
+      "character": "平方キロメートル",
+      "romaji": "へいほうキロメートル",
+      "meaning": "square kilometer; square kilometre"
+    },
+    {
+      "type": "kanji",
+      "character": "平方メートル",
+      "romaji": "へいほうメートル",
+      "meaning": "square metre; square meter"
+    },
+    {
+      "type": "kanji",
+      "character": "平凡",
+      "romaji": "へいぼん",
+      "meaning": "ordinary; common"
+    },
+    {
+      "type": "kanji",
+      "character": "平面",
+      "romaji": "へいめん",
+      "meaning": "level surface; plane"
+    },
+    {
+      "type": "kanji",
+      "character": "平野",
+      "romaji": "へいや",
+      "meaning": "plain; open field"
+    },
+    {
+      "type": "kanji",
+      "character": "平和",
+      "romaji": "へいわ",
+      "meaning": "peace; harmony"
+    }
+  ]
+}

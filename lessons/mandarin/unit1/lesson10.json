@@ -1,0 +1,67 @@
+{
+  "unit": 1,
+  "lesson": 10,
+  "title": "HSK 1 Vocabulary — Part 10",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "上午",
+      "romaji": "shàng wǔ",
+      "meaning": "morning; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "少",
+      "romaji": "shǎo",
+      "meaning": "few; little; lack"
+    },
+    {
+      "type": "hanzi",
+      "character": "谁",
+      "romaji": "shéi",
+      "meaning": "who; also pr. [shuí]"
+    },
+    {
+      "type": "hanzi",
+      "character": "什么",
+      "romaji": "shén me",
+      "meaning": "what?; who?; something; anything"
+    },
+    {
+      "type": "hanzi",
+      "character": "十",
+      "romaji": "shí",
+      "meaning": "ten; 10"
+    },
+    {
+      "type": "hanzi",
+      "character": "时候",
+      "romaji": "shí hou",
+      "meaning": "time; length of time; moment; period"
+    },
+    {
+      "type": "hanzi",
+      "character": "是",
+      "romaji": "shì",
+      "meaning": "is; are; am; yes; to be"
+    },
+    {
+      "type": "hanzi",
+      "character": "书",
+      "romaji": "shū",
+      "meaning": "book; letter; CL:本; 冊|册; 部[bù]; see also 書經|书经 Book of History"
+    },
+    {
+      "type": "hanzi",
+      "character": "水",
+      "romaji": "shuǐ",
+      "meaning": "water; river; liquid; beverage; additional charges or income; (of clothes) classifier for number of washes"
+    },
+    {
+      "type": "hanzi",
+      "character": "水果",
+      "romaji": "shuǐ guǒ",
+      "meaning": "fruit; CL:個|个[gè]"
+    }
+  ]
+}

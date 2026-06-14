@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 24,
+  "title": "JLPT N3 Kanji — Part 24",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "命",
+      "romaji": "メイ・ミョウ / いのち",
+      "meaning": "fate; command; decree"
+    },
+    {
+      "type": "kanji",
+      "character": "含",
+      "romaji": "ガン / ふく.む・ふく.める",
+      "meaning": "contain; include; hold in the mouth"
+    },
+    {
+      "type": "kanji",
+      "character": "福",
+      "romaji": "フク",
+      "meaning": "blessing; fortune; luck"
+    },
+    {
+      "type": "kanji",
+      "character": "蔵",
+      "romaji": "ゾウ・ソウ / くら・おさ.める・かく.れる",
+      "meaning": "storehouse; hide; own"
+    },
+    {
+      "type": "kanji",
+      "character": "量",
+      "romaji": "リョウ / はか.る",
+      "meaning": "quantity; measure; weight"
+    },
+    {
+      "type": "kanji",
+      "character": "望",
+      "romaji": "ボウ・モウ / のぞ.む・もち",
+      "meaning": "ambition; full moon; hope"
+    },
+    {
+      "type": "kanji",
+      "character": "非",
+      "romaji": "ヒ / あら.ず",
+      "meaning": "un-; mistake; negative"
+    },
+    {
+      "type": "kanji",
+      "character": "観",
+      "romaji": "カン / み.る・しめ.す",
+      "meaning": "outlook; look; appearance"
+    },
+    {
+      "type": "kanji",
+      "character": "察",
+      "romaji": "サツ",
+      "meaning": "guess; presume; surmise"
+    },
+    {
+      "type": "kanji",
+      "character": "整",
+      "romaji": "セイ / ととの.える・ととの.う",
+      "meaning": "organize; arranging; tune"
+    }
+  ]
+}

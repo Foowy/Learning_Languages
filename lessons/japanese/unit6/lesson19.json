@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 19,
+  "title": "JLPT N2/N1 Kanji — Part 19",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "譲",
+      "romaji": "ジョウ / ゆず.る",
+      "meaning": "defer; turnover; transfer"
+    },
+    {
+      "type": "kanji",
+      "character": "称",
+      "romaji": "ショウ / たた.える・とな.える・あ.げる・かな.う・はか.り・はか.る・ほめ.る",
+      "meaning": "appellation; praise; admire"
+    },
+    {
+      "type": "kanji",
+      "character": "納",
+      "romaji": "ノウ・ナッ・ナ・ナン・トウ / おさ.める・-おさ.める・おさ.まる",
+      "meaning": "settlement; obtain; reap"
+    },
+    {
+      "type": "kanji",
+      "character": "樹",
+      "romaji": "ジュ / き",
+      "meaning": "timber; trees; wood"
+    },
+    {
+      "type": "kanji",
+      "character": "挑",
+      "romaji": "チョウ / いど.む",
+      "meaning": "challenge; contend for; make love to"
+    },
+    {
+      "type": "kanji",
+      "character": "誘",
+      "romaji": "ユウ / さそ.う・いざな.う",
+      "meaning": "entice; lead; tempt"
+    },
+    {
+      "type": "kanji",
+      "character": "紛",
+      "romaji": "フン / まぎ.れる・-まぎ.れ・まぎ.らす・まぎ.らわす・まぎ.らわしい",
+      "meaning": "distract; be mistaken for; go astray"
+    },
+    {
+      "type": "kanji",
+      "character": "至",
+      "romaji": "シ / いた.る",
+      "meaning": "climax; arrive; proceed"
+    },
+    {
+      "type": "kanji",
+      "character": "宗",
+      "romaji": "シュウ・ソウ / むね",
+      "meaning": "religion; sect; denomination"
+    },
+    {
+      "type": "kanji",
+      "character": "促",
+      "romaji": "ソク / うなが.す",
+      "meaning": "stimulate; urge; press"
+    }
+  ]
+}

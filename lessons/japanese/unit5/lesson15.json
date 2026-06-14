@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 15,
+  "title": "JLPT N3 Kanji — Part 15",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "可",
+      "romaji": "カ・コク / -べ.き・-べ.し",
+      "meaning": "can; passable; approval"
+    },
+    {
+      "type": "kanji",
+      "character": "役",
+      "romaji": "ヤク・エキ",
+      "meaning": "duty; war; campaign"
+    },
+    {
+      "type": "kanji",
+      "character": "構",
+      "romaji": "コウ / かま.える・かま.う",
+      "meaning": "posture; stance; appearance"
+    },
+    {
+      "type": "kanji",
+      "character": "割",
+      "romaji": "カツ / わ.る・わり・わ.り・わ.れる・さ.く",
+      "meaning": "proportion; comparatively; divide"
+    },
+    {
+      "type": "kanji",
+      "character": "身",
+      "romaji": "シン / み",
+      "meaning": "somebody; person; one's station in life"
+    },
+    {
+      "type": "kanji",
+      "character": "費",
+      "romaji": "ヒ / つい.やす・つい.える",
+      "meaning": "expense; cost; spend"
+    },
+    {
+      "type": "kanji",
+      "character": "付",
+      "romaji": "フ / つ.ける・-つ.ける・-づ.ける・つ.け・つ.け-・-つ.け・-づ.け・-づけ・つ.く・-づ.く・つ.き・-つ.き・-つき・-づ.き・-づき",
+      "meaning": "adhere; attach; refer to"
+    },
+    {
+      "type": "kanji",
+      "character": "由",
+      "romaji": "ユ・ユウ・ユイ / よし・よ.る",
+      "meaning": "wherefore; a reason"
+    },
+    {
+      "type": "kanji",
+      "character": "比",
+      "romaji": "ヒ / くら.べる",
+      "meaning": "compare; race; ratio"
+    },
+    {
+      "type": "kanji",
+      "character": "難",
+      "romaji": "ナン / かた.い・-がた.い・むずか.しい・むづか.しい・むつか.しい・-にく.い",
+      "meaning": "difficult; impossible; trouble"
+    }
+  ]
+}

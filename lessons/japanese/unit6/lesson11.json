@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 11,
+  "title": "JLPT N2/N1 Kanji — Part 11",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "崩",
+      "romaji": "ホウ / くず.れる・-くず.れ・くず.す",
+      "meaning": "crumble; die; demolish"
+    },
+    {
+      "type": "kanji",
+      "character": "紀",
+      "romaji": "キ",
+      "meaning": "chronicle; account; narrative"
+    },
+    {
+      "type": "kanji",
+      "character": "聴",
+      "romaji": "チョウ・テイ / き.く・ゆる.す",
+      "meaning": "listen; headstrong; naughty"
+    },
+    {
+      "type": "kanji",
+      "character": "脱",
+      "romaji": "ダツ / ぬ.ぐ・ぬ.げる",
+      "meaning": "undress; removing; escape from"
+    },
+    {
+      "type": "kanji",
+      "character": "博",
+      "romaji": "ハク・バク",
+      "meaning": "Dr.; command; esteem"
+    },
+    {
+      "type": "kanji",
+      "character": "患",
+      "romaji": "カン / わずら.う",
+      "meaning": "afflicted; disease; suffer from"
+    },
+    {
+      "type": "kanji",
+      "character": "締",
+      "romaji": "テイ / し.まる・し.まり・し.める・-し.め・-じ.め",
+      "meaning": "tighten; tie; shut"
+    },
+    {
+      "type": "kanji",
+      "character": "執",
+      "romaji": "シツ・シュウ / と.る",
+      "meaning": "tenacious; take hold; grasp"
+    },
+    {
+      "type": "kanji",
+      "character": "房",
+      "romaji": "ボウ / ふさ",
+      "meaning": "tassel; tuft; fringe"
+    },
+    {
+      "type": "kanji",
+      "character": "撤",
+      "romaji": "テツ",
+      "meaning": "remove; withdraw; disarm"
+    }
+  ]
+}

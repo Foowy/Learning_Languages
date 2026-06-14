@@ -1,0 +1,67 @@
+{
+  "unit": 100,
+  "lesson": 7,
+  "title": "Vocabulary — Frequency 18661–18670",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "銅",
+      "romaji": "どう",
+      "meaning": "copper (Cu)"
+    },
+    {
+      "type": "kanji",
+      "character": "読本",
+      "romaji": "とくほん",
+      "meaning": "reading-book; reader"
+    },
+    {
+      "type": "kanji",
+      "character": "凸凹",
+      "romaji": "でこぼこ",
+      "meaning": "unevenness; roughness"
+    },
+    {
+      "type": "kanji",
+      "character": "鈍い",
+      "romaji": "にぶい",
+      "meaning": "dull (e.g. a knife); blunt"
+    },
+    {
+      "type": "kanji",
+      "character": "鈍る",
+      "romaji": "にぶる",
+      "meaning": "to become blunt; to grow dull"
+    },
+    {
+      "type": "kanji",
+      "character": "内々",
+      "romaji": "うちうち",
+      "meaning": "private; confidential"
+    },
+    {
+      "type": "kanji",
+      "character": "内海",
+      "romaji": "ないかい",
+      "meaning": "inland sea; inlet"
+    },
+    {
+      "type": "kanji",
+      "character": "内外",
+      "romaji": "ないがい",
+      "meaning": "inside and outside; interior and exterior"
+    },
+    {
+      "type": "kanji",
+      "character": "内示",
+      "romaji": "ないじ",
+      "meaning": "unofficial announcement; private notice"
+    },
+    {
+      "type": "kanji",
+      "character": "内分泌",
+      "romaji": "ないぶんぴつ",
+      "meaning": "endocrine"
+    }
+  ]
+}

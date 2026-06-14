@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 25,
+  "title": "JLPT N2/N1 Kanji — Part 25",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "既",
+      "romaji": "キ / すで.に",
+      "meaning": "previously; already; long ago"
+    },
+    {
+      "type": "kanji",
+      "character": "薦",
+      "romaji": "セン / すす.める",
+      "meaning": "recommend; mat; advise"
+    },
+    {
+      "type": "kanji",
+      "character": "隣",
+      "romaji": "リン / とな.る・となり",
+      "meaning": "neighboring"
+    },
+    {
+      "type": "kanji",
+      "character": "華",
+      "romaji": "カ・ケ / はな",
+      "meaning": "splendor; flower; petal"
+    },
+    {
+      "type": "kanji",
+      "character": "範",
+      "romaji": "ハン",
+      "meaning": "pattern; example; model"
+    },
+    {
+      "type": "kanji",
+      "character": "隠",
+      "romaji": "イン・オン / かく.す・かく.し・かく.れる・よ.る",
+      "meaning": "conceal; hide; cover"
+    },
+    {
+      "type": "kanji",
+      "character": "徳",
+      "romaji": "トク",
+      "meaning": "benevolence; virtue; goodness"
+    },
+    {
+      "type": "kanji",
+      "character": "哲",
+      "romaji": "テツ / さとい・あきらか",
+      "meaning": "philosophy; clear"
+    },
+    {
+      "type": "kanji",
+      "character": "杉",
+      "romaji": "サン / すぎ",
+      "meaning": "cedar; cryptomeria"
+    },
+    {
+      "type": "kanji",
+      "character": "里",
+      "romaji": "リ / さと",
+      "meaning": "ri; village; parent's home"
+    }
+  ]
+}

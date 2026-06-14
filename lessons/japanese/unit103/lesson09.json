@@ -1,0 +1,67 @@
+{
+  "unit": 103,
+  "lesson": 9,
+  "title": "Vocabulary — Frequency 19281–19290",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "炊き出し",
+      "romaji": "たきだし",
+      "meaning": "food distribution (esp. cooked rice)"
+    },
+    {
+      "type": "kanji",
+      "character": "炊く",
+      "romaji": "たく",
+      "meaning": "to cook (grains, e.g. rice)"
+    },
+    {
+      "type": "kanji",
+      "character": "焚く",
+      "romaji": "たく",
+      "meaning": "to burn; to kindle"
+    },
+    {
+      "type": "kanji",
+      "character": "蓄える",
+      "romaji": "たくわえる",
+      "meaning": "to store; to save up"
+    },
+    {
+      "type": "kanji",
+      "character": "筍",
+      "romaji": "たけのこ",
+      "meaning": "bamboo shoot"
+    },
+    {
+      "type": "kanji",
+      "character": "蛸",
+      "romaji": "タコ",
+      "meaning": "octopus"
+    },
+    {
+      "type": "kanji",
+      "character": "たこ焼き",
+      "romaji": "たこやき",
+      "meaning": "takoyaki; octopus dumplings"
+    },
+    {
+      "type": "kanji",
+      "character": "確か",
+      "romaji": "たしか",
+      "meaning": "sure; certain"
+    },
+    {
+      "type": "kanji",
+      "character": "戦い",
+      "romaji": "たたかい",
+      "meaning": "battle; war"
+    },
+    {
+      "type": "kanji",
+      "character": "戦う",
+      "romaji": "たたかう",
+      "meaning": "to make war (on); to wage war (against)"
+    }
+  ]
+}

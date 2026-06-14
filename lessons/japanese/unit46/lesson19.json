@@ -1,0 +1,67 @@
+{
+  "unit": 46,
+  "lesson": 19,
+  "title": "Vocabulary — Frequency 7981–7990",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "元旦",
+      "romaji": "がんたん",
+      "meaning": "New Year's Day; first day of the year"
+    },
+    {
+      "type": "kanji",
+      "character": "元日",
+      "romaji": "がんじつ",
+      "meaning": "New Year's Day"
+    },
+    {
+      "type": "kanji",
+      "character": "元年",
+      "romaji": "がんねん",
+      "meaning": "first year (of an imperial era)"
+    },
+    {
+      "type": "kanji",
+      "character": "元本",
+      "romaji": "がんぽん",
+      "meaning": "principal; capital"
+    },
+    {
+      "type": "kanji",
+      "character": "元来",
+      "romaji": "がんらい",
+      "meaning": "originally; essentially"
+    },
+    {
+      "type": "kanji",
+      "character": "元老",
+      "romaji": "げんろう",
+      "meaning": "elder statesman; doyen"
+    },
+    {
+      "type": "kanji",
+      "character": "元禄",
+      "romaji": "げんろく",
+      "meaning": "Genroku era (1688.9.30-1704.3.13)"
+    },
+    {
+      "type": "kanji",
+      "character": "原",
+      "romaji": "はら",
+      "meaning": "field; plain"
+    },
+    {
+      "type": "kanji",
+      "character": "原っぱ",
+      "romaji": "はらっぱ",
+      "meaning": "open field; empty lot"
+    },
+    {
+      "type": "kanji",
+      "character": "原案",
+      "romaji": "げんあん",
+      "meaning": "original plan; original bill"
+    }
+  ]
+}

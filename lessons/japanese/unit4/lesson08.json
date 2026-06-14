@@ -1,0 +1,67 @@
+{
+  "unit": 4,
+  "lesson": 8,
+  "title": "JLPT N4 Kanji — Part 8",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "始",
+      "romaji": "シ / はじ.める・-はじ.める・はじ.まる",
+      "meaning": "commence; begin"
+    },
+    {
+      "type": "kanji",
+      "character": "朝",
+      "romaji": "チョウ / あさ",
+      "meaning": "morning; dynasty; regime"
+    },
+    {
+      "type": "kanji",
+      "character": "村",
+      "romaji": "ソン / むら",
+      "meaning": "village; town"
+    },
+    {
+      "type": "kanji",
+      "character": "運",
+      "romaji": "ウン / はこ.ぶ",
+      "meaning": "carry; luck; destiny"
+    },
+    {
+      "type": "kanji",
+      "character": "終",
+      "romaji": "シュウ / お.わる・-お.わる・おわ.る・お.える・つい・つい.に",
+      "meaning": "end; finish"
+    },
+    {
+      "type": "kanji",
+      "character": "台",
+      "romaji": "ダイ・タイ / うてな・われ・つかさ",
+      "meaning": "pedestal; a stand; counter for machines and vehicles"
+    },
+    {
+      "type": "kanji",
+      "character": "広",
+      "romaji": "コウ / ひろ.い・ひろ.まる・ひろ.める・ひろ.がる・ひろ.げる",
+      "meaning": "wide; broad; spacious"
+    },
+    {
+      "type": "kanji",
+      "character": "住",
+      "romaji": "ジュウ・ヂュウ・チュウ / す.む・す.まう・-ず.まい",
+      "meaning": "dwell; reside; live"
+    },
+    {
+      "type": "kanji",
+      "character": "真",
+      "romaji": "シン / ま・ま-・まこと",
+      "meaning": "true; reality; Buddhist sect"
+    },
+    {
+      "type": "kanji",
+      "character": "有",
+      "romaji": "ユウ・ウ / あ.る",
+      "meaning": "possess; have; exist"
+    }
+  ]
+}

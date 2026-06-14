@@ -1,0 +1,67 @@
+{
+  "unit": 33,
+  "lesson": 12,
+  "title": "Vocabulary — Frequency 5311–5320",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "横行",
+      "romaji": "おうこう",
+      "meaning": "being rampant; being widespread"
+    },
+    {
+      "type": "kanji",
+      "character": "横取り",
+      "romaji": "よこどり",
+      "meaning": "snatching; stealing"
+    },
+    {
+      "type": "kanji",
+      "character": "横書き",
+      "romaji": "よこがき",
+      "meaning": "writing horizontally; horizontal writing"
+    },
+    {
+      "type": "kanji",
+      "character": "横切る",
+      "romaji": "よこぎる",
+      "meaning": "to cross (e.g. road); to traverse"
+    },
+    {
+      "type": "kanji",
+      "character": "横線",
+      "romaji": "おうせん",
+      "meaning": "horizontal line"
+    },
+    {
+      "type": "kanji",
+      "character": "横断",
+      "romaji": "おうだん",
+      "meaning": "crossing (a road, river, etc.); cutting through (e.g. of a river through a town)"
+    },
+    {
+      "type": "kanji",
+      "character": "横断歩道",
+      "romaji": "おうだんほどう",
+      "meaning": "pedestrian crossing; crosswalk"
+    },
+    {
+      "type": "kanji",
+      "character": "横着",
+      "romaji": "おうちゃく",
+      "meaning": "laziness; shirking"
+    },
+    {
+      "type": "kanji",
+      "character": "横転",
+      "romaji": "おうてん",
+      "meaning": "toppling sideways; turning sideways"
+    },
+    {
+      "type": "kanji",
+      "character": "横道",
+      "romaji": "よこみち",
+      "meaning": "byway; side street"
+    }
+  ]
+}

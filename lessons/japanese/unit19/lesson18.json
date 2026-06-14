@@ -1,0 +1,67 @@
+{
+  "unit": 19,
+  "lesson": 18,
+  "title": "Vocabulary — Frequency 2571–2580",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "ドア",
+      "romaji": "ドア",
+      "meaning": "door"
+    },
+    {
+      "type": "kanji",
+      "character": "ドイツ語",
+      "romaji": "ドイツご",
+      "meaning": "German (language)"
+    },
+    {
+      "type": "kana",
+      "character": "ドキュメンタリー",
+      "romaji": "ドキュメンタリー",
+      "meaning": "documentary"
+    },
+    {
+      "type": "kana",
+      "character": "ドキュメント",
+      "romaji": "ドキュメント",
+      "meaning": "document"
+    },
+    {
+      "type": "kana",
+      "character": "ドクター",
+      "romaji": "ドクター",
+      "meaning": "doctor"
+    },
+    {
+      "type": "kana",
+      "character": "ドクトリン",
+      "romaji": "ドクトリン",
+      "meaning": "doctrine"
+    },
+    {
+      "type": "kana",
+      "character": "ドッキング",
+      "romaji": "ドッキング",
+      "meaning": "docking"
+    },
+    {
+      "type": "kana",
+      "character": "ドック",
+      "romaji": "ドック",
+      "meaning": "dock"
+    },
+    {
+      "type": "kana",
+      "character": "ドッグファイト",
+      "romaji": "ドッグファイト",
+      "meaning": "dogfight (aircraft); dog fight"
+    },
+    {
+      "type": "kana",
+      "character": "ドッジボール",
+      "romaji": "ドッジボール",
+      "meaning": "dodgeball"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 28,
+  "lesson": 11,
+  "title": "Vocabulary — Frequency 4301–4310",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "リバティ",
+      "romaji": "リバティ",
+      "meaning": "liberty"
+    },
+    {
+      "type": "kana",
+      "character": "リビジョン",
+      "romaji": "リビジョン",
+      "meaning": "revision"
+    },
+    {
+      "type": "kana",
+      "character": "リビング",
+      "romaji": "リビング",
+      "meaning": "living; lifestyle"
+    },
+    {
+      "type": "kana",
+      "character": "リピーター",
+      "romaji": "リピーター",
+      "meaning": "repeater"
+    },
+    {
+      "type": "kana",
+      "character": "リピート",
+      "romaji": "リピート",
+      "meaning": "repeat; repeating"
+    },
+    {
+      "type": "kana",
+      "character": "リファイナンス",
+      "romaji": "リファイナンス",
+      "meaning": "refinance"
+    },
+    {
+      "type": "kana",
+      "character": "リフォーム",
+      "romaji": "リフォーム",
+      "meaning": "renovation (e.g. a house); redecoration"
+    },
+    {
+      "type": "kana",
+      "character": "リフト",
+      "romaji": "リフト",
+      "meaning": "chairlift (e.g. at a ski resort); ski lift"
+    },
+    {
+      "type": "kana",
+      "character": "リフレッシュ",
+      "romaji": "リフレッシュ",
+      "meaning": "refreshment; refreshing oneself"
+    },
+    {
+      "type": "kana",
+      "character": "リブ",
+      "romaji": "リブ",
+      "meaning": "rib (cut of meat)"
+    }
+  ]
+}

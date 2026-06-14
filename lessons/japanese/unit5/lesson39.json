@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 39,
+  "title": "JLPT N3 Kanji — Part 39",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "船",
+      "romaji": "セン / ふね・ふな-",
+      "meaning": "ship; boat"
+    },
+    {
+      "type": "kanji",
+      "character": "倍",
+      "romaji": "バイ",
+      "meaning": "double; twice; times"
+    },
+    {
+      "type": "kanji",
+      "character": "均",
+      "romaji": "キン / なら.す",
+      "meaning": "level; average"
+    },
+    {
+      "type": "kanji",
+      "character": "億",
+      "romaji": "オク",
+      "meaning": "hundred million; 10**8"
+    },
+    {
+      "type": "kanji",
+      "character": "途",
+      "romaji": "ト / みち",
+      "meaning": "route; way; road"
+    },
+    {
+      "type": "kanji",
+      "character": "圧",
+      "romaji": "アツ・エン・オウ / お.す・へ.す・おさ.える・お.さえる",
+      "meaning": "pressure; push; overwhelm"
+    },
+    {
+      "type": "kanji",
+      "character": "芸",
+      "romaji": "ゲイ・ウン / う.える・のり・わざ",
+      "meaning": "technique; art; craft"
+    },
+    {
+      "type": "kanji",
+      "character": "許",
+      "romaji": "キョ / ゆる.す・もと",
+      "meaning": "permit; approve"
+    },
+    {
+      "type": "kanji",
+      "character": "署",
+      "romaji": "ショ",
+      "meaning": "signature; govt office; police station"
+    },
+    {
+      "type": "kanji",
+      "character": "抜",
+      "romaji": "バツ・ハツ・ハイ / ぬ.く・-ぬ.く・ぬ.き・ぬ.ける・ぬ.かす・ぬ.かる",
+      "meaning": "slip out; extract; pull out"
+    }
+  ]
+}

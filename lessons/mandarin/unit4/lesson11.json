@@ -1,0 +1,67 @@
+{
+  "unit": 4,
+  "lesson": 11,
+  "title": "HSK 4 Vocabulary — Part 11",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "儿童",
+      "romaji": "ér tóng",
+      "meaning": "child; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "发",
+      "romaji": "fā",
+      "meaning": "to send out; to show (one's feeling); to issue; to develop; classifier for gunshots (rounds)"
+    },
+    {
+      "type": "hanzi",
+      "character": "发生",
+      "romaji": "fā shēng",
+      "meaning": "to happen; to occur; to take place; to break out"
+    },
+    {
+      "type": "hanzi",
+      "character": "发展",
+      "romaji": "fā zhǎn",
+      "meaning": "development; growth; to develop; to grow; to expand"
+    },
+    {
+      "type": "hanzi",
+      "character": "法律",
+      "romaji": "fǎ lǜ",
+      "meaning": "law; CL:條|条; 套; 個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "翻译",
+      "romaji": "fān yì",
+      "meaning": "to translate; to interpret; translator; interpreter; translation; interpretation; CL:個|个; 位; 名[míng]"
+    },
+    {
+      "type": "hanzi",
+      "character": "烦恼",
+      "romaji": "fán nǎo",
+      "meaning": "to be worried; to be distressed; worries"
+    },
+    {
+      "type": "hanzi",
+      "character": "反对",
+      "romaji": "fǎn duì",
+      "meaning": "to fight against; to oppose; to be opposed to; opposition"
+    },
+    {
+      "type": "hanzi",
+      "character": "反映",
+      "romaji": "fǎn yìng",
+      "meaning": "to mirror; to reflect; mirror image; reflection; fig. to report; to make known; to render; used erroneously for 反應|反应; response or reaction"
+    },
+    {
+      "type": "hanzi",
+      "character": "范围",
+      "romaji": "fàn wéi",
+      "meaning": "range; scope; limit; extent; CL:個|个[gè]"
+    }
+  ]
+}

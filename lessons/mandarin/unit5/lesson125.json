@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 125,
+  "title": "HSK 5 Vocabulary — Part 125",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "重",
+      "romaji": "zhòng",
+      "meaning": "heavy; serious; to attach importance to"
+    },
+    {
+      "type": "hanzi",
+      "character": "重量",
+      "romaji": "zhòng liàng",
+      "meaning": "weight; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "周到",
+      "romaji": "zhōu dao",
+      "meaning": "thoughtful; considerate; attentive; thorough"
+    },
+    {
+      "type": "hanzi",
+      "character": "逐步",
+      "romaji": "zhú bù",
+      "meaning": "progressively; step by step"
+    },
+    {
+      "type": "hanzi",
+      "character": "竹子",
+      "romaji": "zhú zi",
+      "meaning": "bamboo; CL:棵; 支; 根[gēn]"
+    },
+    {
+      "type": "hanzi",
+      "character": "煮",
+      "romaji": "zhǔ",
+      "meaning": "to cook; to boil"
+    },
+    {
+      "type": "hanzi",
+      "character": "主持",
+      "romaji": "zhǔ chí",
+      "meaning": "to take charge of; to manage or direct; to preside over; to uphold; to stand for (justice etc); to host (a TV or radio program etc)"
+    },
+    {
+      "type": "hanzi",
+      "character": "主观",
+      "romaji": "zhǔ guān",
+      "meaning": "subjective"
+    },
+    {
+      "type": "hanzi",
+      "character": "主人",
+      "romaji": "zhǔ rén",
+      "meaning": "master; host; owner; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "主席",
+      "romaji": "zhǔ xí",
+      "meaning": "chairperson; premier; chairman; CL:個|个; 位[wèi]"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 15,
+  "title": "JLPT N2/N1 Kanji — Part 15",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "喪",
+      "romaji": "ソウ / も",
+      "meaning": "miss; mourning"
+    },
+    {
+      "type": "kanji",
+      "character": "伴",
+      "romaji": "ハン・バン / ともな.う",
+      "meaning": "consort; accompany; bring with"
+    },
+    {
+      "type": "kanji",
+      "character": "養",
+      "romaji": "ヨウ・リョウ / やしな.う",
+      "meaning": "foster; bring up; rear"
+    },
+    {
+      "type": "kanji",
+      "character": "懸",
+      "romaji": "ケン・ケ / か.ける・か.かる",
+      "meaning": "state of suspension; hang; depend"
+    },
+    {
+      "type": "kanji",
+      "character": "街",
+      "romaji": "ガイ・カイ / まち",
+      "meaning": "boulevard; street; town"
+    },
+    {
+      "type": "kanji",
+      "character": "契",
+      "romaji": "ケイ / ちぎ.る",
+      "meaning": "pledge; promise; vow"
+    },
+    {
+      "type": "kanji",
+      "character": "掲",
+      "romaji": "ケイ / かか.げる",
+      "meaning": "put up (a notice); put up; hoist"
+    },
+    {
+      "type": "kanji",
+      "character": "躍",
+      "romaji": "ヤク / おど.る",
+      "meaning": "leap; dance; skip"
+    },
+    {
+      "type": "kanji",
+      "character": "棄",
+      "romaji": "キ / す.てる",
+      "meaning": "abandon; throw away; discard"
+    },
+    {
+      "type": "kanji",
+      "character": "邸",
+      "romaji": "テイ / やしき",
+      "meaning": "residence; mansion"
+    }
+  ]
+}

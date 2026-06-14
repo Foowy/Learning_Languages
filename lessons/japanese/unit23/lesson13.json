@@ -1,0 +1,67 @@
+{
+  "unit": 23,
+  "lesson": 13,
+  "title": "Vocabulary — Frequency 3321–3330",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "フリーダム",
+      "romaji": "フリーダム",
+      "meaning": "freedom"
+    },
+    {
+      "type": "kana",
+      "character": "フリーハンド",
+      "romaji": "フリーハンド",
+      "meaning": "free-hand"
+    },
+    {
+      "type": "kana",
+      "character": "フリーパス",
+      "romaji": "フリーパス",
+      "meaning": "free pass"
+    },
+    {
+      "type": "kana",
+      "character": "フリーマーケット",
+      "romaji": "フリーマーケット",
+      "meaning": "flea market"
+    },
+    {
+      "type": "kana",
+      "character": "フリーランサー",
+      "romaji": "フリーランサー",
+      "meaning": "freelancer"
+    },
+    {
+      "type": "kana",
+      "character": "フリーランス",
+      "romaji": "フリーランス",
+      "meaning": "freelance"
+    },
+    {
+      "type": "kana",
+      "character": "フリゲート",
+      "romaji": "フリゲート",
+      "meaning": "frigate"
+    },
+    {
+      "type": "kana",
+      "character": "フリップフロップ",
+      "romaji": "フリップフロップ",
+      "meaning": "flip flop; bistable (trigger) circuit"
+    },
+    {
+      "type": "kana",
+      "character": "フリンジ",
+      "romaji": "フリンジ",
+      "meaning": "fringe"
+    },
+    {
+      "type": "kana",
+      "character": "フル",
+      "romaji": "フル",
+      "meaning": "full"
+    }
+  ]
+}

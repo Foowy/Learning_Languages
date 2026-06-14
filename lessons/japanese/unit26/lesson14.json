@@ -1,0 +1,67 @@
+{
+  "unit": 26,
+  "lesson": 14,
+  "title": "Vocabulary — Frequency 3931–3940",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "ミッション",
+      "romaji": "ミッション",
+      "meaning": "mission; delegation"
+    },
+    {
+      "type": "kana",
+      "character": "ミット",
+      "romaji": "ミット",
+      "meaning": "mitt"
+    },
+    {
+      "type": "kana",
+      "character": "ミッドナイト",
+      "romaji": "ミッドナイト",
+      "meaning": "midnight"
+    },
+    {
+      "type": "kana",
+      "character": "ミディ",
+      "romaji": "ミディ",
+      "meaning": "midi (skirt, coat, etc.)"
+    },
+    {
+      "type": "kana",
+      "character": "ミトコンドリア",
+      "romaji": "ミトコンドリア",
+      "meaning": "mitochondria"
+    },
+    {
+      "type": "kana",
+      "character": "ミドル",
+      "romaji": "ミドル",
+      "meaning": "middle"
+    },
+    {
+      "type": "kana",
+      "character": "ミドルホール",
+      "romaji": "ミドルホール",
+      "meaning": "par-four hole"
+    },
+    {
+      "type": "kanji",
+      "character": "ミドル級",
+      "romaji": "ミドルきゅう",
+      "meaning": "middleweight class"
+    },
+    {
+      "type": "kana",
+      "character": "ミニ",
+      "romaji": "ミニ",
+      "meaning": "mini-"
+    },
+    {
+      "type": "kana",
+      "character": "ミニコミ",
+      "romaji": "ミニコミ",
+      "meaning": "communications within a small range"
+    }
+  ]
+}

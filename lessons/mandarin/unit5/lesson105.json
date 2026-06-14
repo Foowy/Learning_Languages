@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 105,
+  "title": "HSK 5 Vocabulary — Part 105",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "相关",
+      "romaji": "xiāng guān",
+      "meaning": "to be interrelated; (statistics) correlation"
+    },
+    {
+      "type": "hanzi",
+      "character": "相似",
+      "romaji": "xiāng sì",
+      "meaning": "to resemble; similar; like; resemblance; similarity"
+    },
+    {
+      "type": "hanzi",
+      "character": "想念",
+      "romaji": "xiǎng niàn",
+      "meaning": "to miss; to remember with longing; to long to see again"
+    },
+    {
+      "type": "hanzi",
+      "character": "想象",
+      "romaji": "xiǎng xiàng",
+      "meaning": "to imagine; to fancy; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "享受",
+      "romaji": "xiǎng shòu",
+      "meaning": "to enjoy; to live it up; pleasure; CL:種|种[zhǒng]"
+    },
+    {
+      "type": "hanzi",
+      "character": "项",
+      "romaji": "xiàng",
+      "meaning": "back of neck; item; thing; term (in a mathematical formula); sum (of money); classifier for principles; items; clauses; tasks; research projects etc"
+    },
+    {
+      "type": "hanzi",
+      "character": "项链",
+      "romaji": "xiàng liàn",
+      "meaning": "necklace; CL:條|条[tiáo]"
+    },
+    {
+      "type": "hanzi",
+      "character": "项目",
+      "romaji": "xiàng mù",
+      "meaning": "item; project; sports event; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "橡皮",
+      "romaji": "xiàng pí",
+      "meaning": "rubber; an eraser; CL:塊|块[kuài]"
+    },
+    {
+      "type": "hanzi",
+      "character": "象棋",
+      "romaji": "xiàng qí",
+      "meaning": "Chinese chess; CL:副[fù]"
+    }
+  ]
+}

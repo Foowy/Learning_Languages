@@ -1,0 +1,67 @@
+{
+  "unit": 32,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 5001–5010",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "依る",
+      "romaji": "よる",
+      "meaning": "to be due to; to be caused by"
+    },
+    {
+      "type": "kanji",
+      "character": "因縁",
+      "romaji": "いんねん",
+      "meaning": "fate; destiny"
+    },
+    {
+      "type": "kanji",
+      "character": "因果",
+      "romaji": "いんが",
+      "meaning": "cause and effect; causality"
+    },
+    {
+      "type": "kanji",
+      "character": "因子",
+      "romaji": "いんし",
+      "meaning": "factor"
+    },
+    {
+      "type": "kanji",
+      "character": "惹かれる",
+      "romaji": "ひかれる",
+      "meaning": "to be charmed by; to be attracted to"
+    },
+    {
+      "type": "kanji",
+      "character": "引き下げ",
+      "romaji": "ひきさげ",
+      "meaning": "reduction; cut"
+    },
+    {
+      "type": "kanji",
+      "character": "引き起こす",
+      "romaji": "ひきおこす",
+      "meaning": "to cause; to induce"
+    },
+    {
+      "type": "kanji",
+      "character": "引き継ぐ",
+      "romaji": "ひきつぐ",
+      "meaning": "to take over (someone's duties, business, etc.); to inherit"
+    },
+    {
+      "type": "kanji",
+      "character": "引き取る",
+      "romaji": "ひきとる",
+      "meaning": "to take into one's possession; to receive"
+    },
+    {
+      "type": "kanji",
+      "character": "引きずる",
+      "romaji": "ひきずる",
+      "meaning": "to drag; to trail"
+    }
+  ]
+}

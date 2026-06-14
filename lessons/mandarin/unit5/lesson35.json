@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 35,
+  "title": "HSK 5 Vocabulary — Part 35",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "功能",
+      "romaji": "gōng néng",
+      "meaning": "function; capability"
+    },
+    {
+      "type": "hanzi",
+      "character": "贡献",
+      "romaji": "gòng xiàn",
+      "meaning": "to contribute; to dedicate; to devote; contribution; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "沟通",
+      "romaji": "gōu tōng",
+      "meaning": "to join; to connect; to link up; to communicate"
+    },
+    {
+      "type": "hanzi",
+      "character": "构成",
+      "romaji": "gòu chéng",
+      "meaning": "to constitute; to form; to compose; to make up; to configure (computing)"
+    },
+    {
+      "type": "hanzi",
+      "character": "姑姑",
+      "romaji": "gū gu",
+      "meaning": "paternal aunt; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "姑娘",
+      "romaji": "gū niang",
+      "meaning": "girl; young woman; young lady; daughter; paternal aunt (old); CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "古代",
+      "romaji": "gǔ dài",
+      "meaning": "ancient times; olden times"
+    },
+    {
+      "type": "hanzi",
+      "character": "古典",
+      "romaji": "gǔ diǎn",
+      "meaning": "classical"
+    },
+    {
+      "type": "hanzi",
+      "character": "古老",
+      "romaji": "gǔ lǎo",
+      "meaning": "ancient; old; age-old"
+    },
+    {
+      "type": "hanzi",
+      "character": "股票",
+      "romaji": "gǔ piào",
+      "meaning": "share; stock (market)"
+    }
+  ]
+}

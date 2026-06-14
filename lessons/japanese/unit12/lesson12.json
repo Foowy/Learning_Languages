@@ -1,0 +1,67 @@
+{
+  "unit": 12,
+  "lesson": 12,
+  "title": "Vocabulary — Frequency 1111–1120",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "キャプション",
+      "romaji": "キャプション",
+      "meaning": "caption; headline"
+    },
+    {
+      "type": "kana",
+      "character": "キャプテン",
+      "romaji": "キャプテン",
+      "meaning": "captain"
+    },
+    {
+      "type": "kana",
+      "character": "キャベツ",
+      "romaji": "キャベツ",
+      "meaning": "cabbage (Brassica oleracea)"
+    },
+    {
+      "type": "kana",
+      "character": "キャメル",
+      "romaji": "キャメル",
+      "meaning": "camel"
+    },
+    {
+      "type": "kana",
+      "character": "キャラクター",
+      "romaji": "キャラクター",
+      "meaning": "character; personality"
+    },
+    {
+      "type": "kana",
+      "character": "キャラバン",
+      "romaji": "キャラバン",
+      "meaning": "caravan"
+    },
+    {
+      "type": "kana",
+      "character": "キャリー",
+      "romaji": "キャリー",
+      "meaning": "carry; carrying"
+    },
+    {
+      "type": "kana",
+      "character": "キャリア",
+      "romaji": "キャリア",
+      "meaning": "career; occupation"
+    },
+    {
+      "type": "kana",
+      "character": "キャロル",
+      "romaji": "キャロル",
+      "meaning": "carol"
+    },
+    {
+      "type": "kana",
+      "character": "キャンセル",
+      "romaji": "キャンセル",
+      "meaning": "cancellation"
+    }
+  ]
+}

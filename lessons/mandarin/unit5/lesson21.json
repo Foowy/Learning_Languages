@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 21,
+  "title": "HSK 5 Vocabulary — Part 21",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "到达",
+      "romaji": "dào dá",
+      "meaning": "to reach; to arrive"
+    },
+    {
+      "type": "hanzi",
+      "character": "道德",
+      "romaji": "dào dé",
+      "meaning": "virtue; morality; ethics; CL:種|种[zhǒng]"
+    },
+    {
+      "type": "hanzi",
+      "character": "道理",
+      "romaji": "dào li",
+      "meaning": "reason; argument; sense; principle; basis; justification; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "登机牌",
+      "romaji": "dēng jī pái",
+      "meaning": "boarding pass"
+    },
+    {
+      "type": "hanzi",
+      "character": "登记",
+      "romaji": "dēng jì",
+      "meaning": "to register (one's name)"
+    },
+    {
+      "type": "hanzi",
+      "character": "等待",
+      "romaji": "děng dài",
+      "meaning": "to wait; to wait for"
+    },
+    {
+      "type": "hanzi",
+      "character": "等候",
+      "romaji": "děng hòu",
+      "meaning": "to wait; to wait for"
+    },
+    {
+      "type": "hanzi",
+      "character": "等于",
+      "romaji": "děng yú",
+      "meaning": "to equal; to be tantamount to"
+    },
+    {
+      "type": "hanzi",
+      "character": "滴",
+      "romaji": "dī",
+      "meaning": "a drop; to drip"
+    },
+    {
+      "type": "hanzi",
+      "character": "的确",
+      "romaji": "dí què",
+      "meaning": "really; indeed"
+    }
+  ]
+}

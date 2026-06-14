@@ -1,0 +1,67 @@
+{
+  "unit": 18,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 2201–2210",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "タイプライター",
+      "romaji": "タイプライター",
+      "meaning": "typewriter"
+    },
+    {
+      "type": "kana",
+      "character": "タイマー",
+      "romaji": "タイマー",
+      "meaning": "timer; time switch"
+    },
+    {
+      "type": "kana",
+      "character": "タイミング",
+      "romaji": "タイミング",
+      "meaning": "timing"
+    },
+    {
+      "type": "kana",
+      "character": "タイム",
+      "romaji": "タイム",
+      "meaning": "time (for, to do)"
+    },
+    {
+      "type": "kana",
+      "character": "タイムスタンプ",
+      "romaji": "タイムスタンプ",
+      "meaning": "time-stamp"
+    },
+    {
+      "type": "kana",
+      "character": "タイムズ",
+      "romaji": "タイムズ",
+      "meaning": "times"
+    },
+    {
+      "type": "kana",
+      "character": "タイムマシン",
+      "romaji": "タイムマシン",
+      "meaning": "time machine"
+    },
+    {
+      "type": "kana",
+      "character": "タイムリー",
+      "romaji": "タイムリー",
+      "meaning": "timely; well-timed"
+    },
+    {
+      "type": "kana",
+      "character": "タイヤ",
+      "romaji": "タイヤ",
+      "meaning": "tire; tyre"
+    },
+    {
+      "type": "kana",
+      "character": "タイル",
+      "romaji": "タイル",
+      "meaning": "tile"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 4,
+  "lesson": 13,
+  "title": "JLPT N4 Kanji — Part 13",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "夜",
+      "romaji": "ヤ / よ・よる",
+      "meaning": "night; evening"
+    },
+    {
+      "type": "kanji",
+      "character": "音",
+      "romaji": "オン・イン・-ノン / おと・ね",
+      "meaning": "sound; noise"
+    },
+    {
+      "type": "kanji",
+      "character": "注",
+      "romaji": "チュウ / そそ.ぐ・さ.す・つ.ぐ",
+      "meaning": "pour; irrigate; shed (tears)"
+    },
+    {
+      "type": "kanji",
+      "character": "帰",
+      "romaji": "キ / かえ.る・かえ.す・おく.る・とつ.ぐ",
+      "meaning": "homecoming; arrive at; lead to"
+    },
+    {
+      "type": "kanji",
+      "character": "歌",
+      "romaji": "カ / うた・うた.う",
+      "meaning": "song; sing"
+    },
+    {
+      "type": "kanji",
+      "character": "光",
+      "romaji": "コウ / ひか.る・ひかり",
+      "meaning": "ray; light"
+    },
+    {
+      "type": "kanji",
+      "character": "悪",
+      "romaji": "アク・オ / わる.い・わる-・あ.し・にく.い・-にく.い・ああ・いずくに・いずくんぞ・にく.む",
+      "meaning": "bad; vice; rascal"
+    },
+    {
+      "type": "kanji",
+      "character": "図",
+      "romaji": "ズ・ト / え・はか.る",
+      "meaning": "map; drawing; plan"
+    },
+    {
+      "type": "kanji",
+      "character": "室",
+      "romaji": "シツ / むろ",
+      "meaning": "room; apartment; chamber"
+    },
+    {
+      "type": "kanji",
+      "character": "太",
+      "romaji": "タイ・タ / ふと.い・ふと.る",
+      "meaning": "plump; thick; big around"
+    }
+  ]
+}

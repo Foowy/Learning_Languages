@@ -1,0 +1,67 @@
+{
+  "unit": 40,
+  "lesson": 11,
+  "title": "Vocabulary — Frequency 6701–6710",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "記憶",
+      "romaji": "きおく",
+      "meaning": "memory; recollection"
+    },
+    {
+      "type": "kanji",
+      "character": "記号",
+      "romaji": "きごう",
+      "meaning": "sign; symbol"
+    },
+    {
+      "type": "kanji",
+      "character": "記載",
+      "romaji": "きさい",
+      "meaning": "mention (in a document); record"
+    },
+    {
+      "type": "kanji",
+      "character": "記事",
+      "romaji": "きじ",
+      "meaning": "article; news story"
+    },
+    {
+      "type": "kanji",
+      "character": "記者",
+      "romaji": "きしゃ",
+      "meaning": "reporter; journalist"
+    },
+    {
+      "type": "kanji",
+      "character": "記者会見",
+      "romaji": "きしゃかいけん",
+      "meaning": "press conference; news conference"
+    },
+    {
+      "type": "kanji",
+      "character": "記述",
+      "romaji": "きじゅつ",
+      "meaning": "description; account"
+    },
+    {
+      "type": "kanji",
+      "character": "記章",
+      "romaji": "きしょう",
+      "meaning": "medal; badge"
+    },
+    {
+      "type": "kanji",
+      "character": "記帳",
+      "romaji": "きちょう",
+      "meaning": "registry; entry"
+    },
+    {
+      "type": "kanji",
+      "character": "記入",
+      "romaji": "きにゅう",
+      "meaning": "entry (in a form, register, diary, etc.); filling in"
+    }
+  ]
+}

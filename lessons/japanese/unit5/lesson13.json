@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 13,
+  "title": "JLPT N3 Kanji — Part 13",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "能",
+      "romaji": "ノウ / よ.く・あた.う",
+      "meaning": "ability; talent; skill"
+    },
+    {
+      "type": "kanji",
+      "character": "無",
+      "romaji": "ム・ブ / な.い",
+      "meaning": "nothingness; none; ain't"
+    },
+    {
+      "type": "kanji",
+      "character": "再",
+      "romaji": "サイ・サ / ふたた.び",
+      "meaning": "again; twice; second time"
+    },
+    {
+      "type": "kanji",
+      "character": "位",
+      "romaji": "イ / くらい・ぐらい",
+      "meaning": "rank; grade; throne"
+    },
+    {
+      "type": "kanji",
+      "character": "置",
+      "romaji": "チ / お.く・-お.き",
+      "meaning": "placement; put; set"
+    },
+    {
+      "type": "kanji",
+      "character": "流",
+      "romaji": "リュウ・ル / なが.れる・なが.れ・なが.す・-なが.す",
+      "meaning": "current; a sink; flow"
+    },
+    {
+      "type": "kanji",
+      "character": "格",
+      "romaji": "カク・コウ・キャク・ゴウ",
+      "meaning": "status; rank; capacity"
+    },
+    {
+      "type": "kanji",
+      "character": "疑",
+      "romaji": "ギ / うたが.う",
+      "meaning": "doubt; distrust; be suspicious"
+    },
+    {
+      "type": "kanji",
+      "character": "過",
+      "romaji": "カ / す.ぎる・す.ごす・あやま.ち・あやま.つ・よぎ.る・よ.ぎる",
+      "meaning": "overdo; exceed; go beyond"
+    },
+    {
+      "type": "kanji",
+      "character": "局",
+      "romaji": "キョク / つぼね",
+      "meaning": "bureau; board; office"
+    }
+  ]
+}

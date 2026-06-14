@@ -1,0 +1,67 @@
+{
+  "unit": 1,
+  "lesson": 1,
+  "title": "HSK 1 Vocabulary — Part 1",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "爱",
+      "romaji": "ài",
+      "meaning": "to love; affection; to be fond of; to like"
+    },
+    {
+      "type": "hanzi",
+      "character": "八",
+      "romaji": "bā",
+      "meaning": "eight; 8"
+    },
+    {
+      "type": "hanzi",
+      "character": "爸爸",
+      "romaji": "bà ba",
+      "meaning": "(informal) father; CL:個|个; 位[wèi]"
+    },
+    {
+      "type": "hanzi",
+      "character": "杯子",
+      "romaji": "bēi zi",
+      "meaning": "cup; glass; CL:個|个; 支; 枝[zhī]"
+    },
+    {
+      "type": "hanzi",
+      "character": "北京",
+      "romaji": "Běi jīng",
+      "meaning": "Beijing; capital of People's Republic of China; Peking; PRC government"
+    },
+    {
+      "type": "hanzi",
+      "character": "本",
+      "romaji": "běn",
+      "meaning": "roots or stems of plants; origin; source; this; the current; root; foundation; basis; classifier for books; periodicals; files etc; originally"
+    },
+    {
+      "type": "hanzi",
+      "character": "不客气",
+      "romaji": "bù kè qi",
+      "meaning": "you're welcome; impolite; rude; blunt; don't mention it"
+    },
+    {
+      "type": "hanzi",
+      "character": "不",
+      "romaji": "bù",
+      "meaning": "(negative prefix); not; no"
+    },
+    {
+      "type": "hanzi",
+      "character": "菜",
+      "romaji": "cài",
+      "meaning": "dish (type of food); vegetables; vegetable; cuisine; CL:盤|盘; 道[dào]"
+    },
+    {
+      "type": "hanzi",
+      "character": "茶",
+      "romaji": "chá",
+      "meaning": "tea; tea plant; CL:杯; 壺|壶[hú]"
+    }
+  ]
+}

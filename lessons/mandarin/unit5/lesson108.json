@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 108,
+  "title": "HSK 5 Vocabulary — Part 108",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "信号",
+      "romaji": "xìn hào",
+      "meaning": "signal"
+    },
+    {
+      "type": "hanzi",
+      "character": "信息",
+      "romaji": "xìn xī",
+      "meaning": "information; news; message"
+    },
+    {
+      "type": "hanzi",
+      "character": "行动",
+      "romaji": "xíng dòng",
+      "meaning": "operation; action; to move; mobile; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "行人",
+      "romaji": "xíng rén",
+      "meaning": "pedestrian; traveler on foot; passer-by; official responsible for arranging audiences with the emperor"
+    },
+    {
+      "type": "hanzi",
+      "character": "行为",
+      "romaji": "xíng wéi",
+      "meaning": "action; conduct; behavior; activity"
+    },
+    {
+      "type": "hanzi",
+      "character": "形成",
+      "romaji": "xíng chéng",
+      "meaning": "to form; to take shape"
+    },
+    {
+      "type": "hanzi",
+      "character": "形容",
+      "romaji": "xíng róng",
+      "meaning": "to describe; description; appearance; look"
+    },
+    {
+      "type": "hanzi",
+      "character": "形式",
+      "romaji": "xíng shì",
+      "meaning": "form; shape; situation; circumstance; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "形势",
+      "romaji": "xíng shì",
+      "meaning": "circumstances; situation; terrain; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "形象",
+      "romaji": "xíng xiàng",
+      "meaning": "image; form; figure; CL:個|个[gè]; visualization; vivid"
+    }
+  ]
+}

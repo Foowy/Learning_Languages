@@ -1,0 +1,67 @@
+{
+  "unit": 77,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 14001–14010",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "通信販売",
+      "romaji": "つうしんはんばい",
+      "meaning": "online shopping service (with delivery by mail); mail order"
+    },
+    {
+      "type": "kanji",
+      "character": "通信網",
+      "romaji": "つうしんもう",
+      "meaning": "communications network"
+    },
+    {
+      "type": "kanji",
+      "character": "通達",
+      "romaji": "つうたつ",
+      "meaning": "notification; official notice"
+    },
+    {
+      "type": "kanji",
+      "character": "通知",
+      "romaji": "つうち",
+      "meaning": "notice; notification"
+    },
+    {
+      "type": "kanji",
+      "character": "通帳",
+      "romaji": "つうちょう",
+      "meaning": "passbook; bankbook"
+    },
+    {
+      "type": "kanji",
+      "character": "通念",
+      "romaji": "つうねん",
+      "meaning": "common idea; common wisdom"
+    },
+    {
+      "type": "kanji",
+      "character": "通報",
+      "romaji": "つうほう",
+      "meaning": "report; notification"
+    },
+    {
+      "type": "kanji",
+      "character": "通夜",
+      "romaji": "つや",
+      "meaning": "all-night vigil over a body; wake"
+    },
+    {
+      "type": "kanji",
+      "character": "通訳",
+      "romaji": "つうやく",
+      "meaning": "interpretation (i.e. oral translation)"
+    },
+    {
+      "type": "kanji",
+      "character": "通用",
+      "romaji": "つうよう",
+      "meaning": "(common) use (of a language, currency, etc.); current use"
+    }
+  ]
+}

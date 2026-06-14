@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 27,
+  "title": "JLPT N2/N1 Kanji — Part 27",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "暫",
+      "romaji": "ザン / しばら.く",
+      "meaning": "temporarily; a while; moment"
+    },
+    {
+      "type": "kanji",
+      "character": "忠",
+      "romaji": "チュウ",
+      "meaning": "loyalty; fidelity; faithfulness"
+    },
+    {
+      "type": "kanji",
+      "character": "倉",
+      "romaji": "ソウ / くら",
+      "meaning": "godown; warehouse; storehouse"
+    },
+    {
+      "type": "kanji",
+      "character": "彦",
+      "romaji": "ゲン / ひこ",
+      "meaning": "lad; boy (ancient)"
+    },
+    {
+      "type": "kanji",
+      "character": "肝",
+      "romaji": "カン / きも",
+      "meaning": "liver; pluck; nerve"
+    },
+    {
+      "type": "kanji",
+      "character": "喚",
+      "romaji": "カン / わめ.く",
+      "meaning": "yell; cry; call"
+    },
+    {
+      "type": "kanji",
+      "character": "沿",
+      "romaji": "エン / そ.う・-ぞ.い",
+      "meaning": "run alongside; follow along; run along"
+    },
+    {
+      "type": "kanji",
+      "character": "妙",
+      "romaji": "ミョウ・ビョウ / たえ",
+      "meaning": "exquisite; strange; queer"
+    },
+    {
+      "type": "kanji",
+      "character": "唱",
+      "romaji": "ショウ / とな.える",
+      "meaning": "chant; recite; call upon"
+    },
+    {
+      "type": "kanji",
+      "character": "阿",
+      "romaji": "ア・オ / おもね.る・くま",
+      "meaning": "Africa; flatter; fawn upon"
+    }
+  ]
+}

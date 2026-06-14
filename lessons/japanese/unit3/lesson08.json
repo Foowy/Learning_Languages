@@ -1,0 +1,67 @@
+{
+  "unit": 3,
+  "lesson": 8,
+  "title": "JLPT N5 Kanji — Part 8",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "校",
+      "romaji": "コウ・キョウ",
+      "meaning": "exam; school; printing"
+    },
+    {
+      "type": "kanji",
+      "character": "語",
+      "romaji": "ゴ / かた.る・かた.らう",
+      "meaning": "word; speech; language"
+    },
+    {
+      "type": "kanji",
+      "character": "空",
+      "romaji": "クウ / そら・あ.く・あ.き・あ.ける・から・す.く・す.かす・むな.しい",
+      "meaning": "empty; sky; void"
+    },
+    {
+      "type": "kanji",
+      "character": "土",
+      "romaji": "ド・ト / つち",
+      "meaning": "soil; earth; ground"
+    },
+    {
+      "type": "kanji",
+      "character": "木",
+      "romaji": "ボク・モク / き・こ-",
+      "meaning": "tree; wood"
+    },
+    {
+      "type": "kanji",
+      "character": "聞",
+      "romaji": "ブン・モン / き.く・き.こえる",
+      "meaning": "hear; ask; listen"
+    },
+    {
+      "type": "kanji",
+      "character": "食",
+      "romaji": "ショク・ジキ / く.う・く.らう・た.べる・は.む",
+      "meaning": "eat; food"
+    },
+    {
+      "type": "kanji",
+      "character": "車",
+      "romaji": "シャ / くるま",
+      "meaning": "car"
+    },
+    {
+      "type": "kanji",
+      "character": "何",
+      "romaji": "カ / なに・なん・なに-・なん-",
+      "meaning": "what"
+    },
+    {
+      "type": "kanji",
+      "character": "南",
+      "romaji": "ナン・ナ / みなみ",
+      "meaning": "south"
+    }
+  ]
+}

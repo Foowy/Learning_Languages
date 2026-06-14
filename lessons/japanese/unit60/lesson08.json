@@ -1,0 +1,67 @@
+{
+  "unit": 60,
+  "lesson": 8,
+  "title": "Vocabulary — Frequency 10671–10680",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "出口",
+      "romaji": "でぐち",
+      "meaning": "exit; way out"
+    },
+    {
+      "type": "kanji",
+      "character": "出向",
+      "romaji": "しゅっこう",
+      "meaning": "temporary transfer (of an employee); secondment"
+    },
+    {
+      "type": "kanji",
+      "character": "出向く",
+      "romaji": "でむく",
+      "meaning": "to go to; to proceed to"
+    },
+    {
+      "type": "kanji",
+      "character": "出港",
+      "romaji": "しゅっこう",
+      "meaning": "departure from a port; leaving port"
+    },
+    {
+      "type": "kanji",
+      "character": "出獄",
+      "romaji": "しゅつごく",
+      "meaning": "release (from prison)"
+    },
+    {
+      "type": "kanji",
+      "character": "出産",
+      "romaji": "しゅっさん",
+      "meaning": "childbirth; (giving) birth"
+    },
+    {
+      "type": "kanji",
+      "character": "出資",
+      "romaji": "しゅっし",
+      "meaning": "investment; contribution"
+    },
+    {
+      "type": "kanji",
+      "character": "出社",
+      "romaji": "しゅっしゃ",
+      "meaning": "going to work (e.g. in the morning); coming to work"
+    },
+    {
+      "type": "kanji",
+      "character": "出し",
+      "romaji": "だし",
+      "meaning": "dashi; Japanese soup stock made from fish and kelp"
+    },
+    {
+      "type": "kanji",
+      "character": "出場",
+      "romaji": "しゅつじょう",
+      "meaning": "participation (in a tournament, match, race, etc.); entry"
+    }
+  ]
+}

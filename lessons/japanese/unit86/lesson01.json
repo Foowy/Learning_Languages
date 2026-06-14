@@ -1,0 +1,67 @@
+{
+  "unit": 86,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 15801–15810",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "病院",
+      "romaji": "びょういん",
+      "meaning": "hospital; clinic"
+    },
+    {
+      "type": "kanji",
+      "character": "病気",
+      "romaji": "びょうき",
+      "meaning": "illness (usu. excluding minor ailments, e.g. common cold); disease"
+    },
+    {
+      "type": "kanji",
+      "character": "病苦",
+      "romaji": "びょうく",
+      "meaning": "pain of sickness"
+    },
+    {
+      "type": "kanji",
+      "character": "病死",
+      "romaji": "びょうし",
+      "meaning": "death from disease; death from illness"
+    },
+    {
+      "type": "kanji",
+      "character": "病室",
+      "romaji": "びょうしつ",
+      "meaning": "sickroom; hospital room"
+    },
+    {
+      "type": "kanji",
+      "character": "病弱",
+      "romaji": "びょうじゃく",
+      "meaning": "weak (constitution); sickly"
+    },
+    {
+      "type": "kanji",
+      "character": "病床",
+      "romaji": "びょうしょう",
+      "meaning": "sickbed; (hospital) bed"
+    },
+    {
+      "type": "kanji",
+      "character": "病状",
+      "romaji": "びょうじょう",
+      "meaning": "condition of a patient; state of a disease"
+    },
+    {
+      "type": "kanji",
+      "character": "病人",
+      "romaji": "びょうにん",
+      "meaning": "sick person; patient"
+    },
+    {
+      "type": "kanji",
+      "character": "病棟",
+      "romaji": "びょうとう",
+      "meaning": "(hospital) ward"
+    }
+  ]
+}

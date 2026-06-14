@@ -1,0 +1,67 @@
+{
+  "unit": 4,
+  "lesson": 7,
+  "title": "JLPT N4 Kanji — Part 7",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "別",
+      "romaji": "ベツ / わか.れる・わ.ける",
+      "meaning": "separate; branch off; diverge"
+    },
+    {
+      "type": "kanji",
+      "character": "物",
+      "romaji": "ブツ・モツ / もの・もの-",
+      "meaning": "thing; object; matter"
+    },
+    {
+      "type": "kanji",
+      "character": "引",
+      "romaji": "イン / ひ.く・ひ.ける",
+      "meaning": "pull; tug; jerk"
+    },
+    {
+      "type": "kanji",
+      "character": "使",
+      "romaji": "シ / つか.う・つか.い・-つか.い・-づか.い",
+      "meaning": "use; send on a mission; order"
+    },
+    {
+      "type": "kanji",
+      "character": "所",
+      "romaji": "ショ / ところ・-ところ・どころ・とこ",
+      "meaning": "place; extent"
+    },
+    {
+      "type": "kanji",
+      "character": "品",
+      "romaji": "ヒン・ホン / しな",
+      "meaning": "goods; refinement; dignity"
+    },
+    {
+      "type": "kanji",
+      "character": "計",
+      "romaji": "ケイ / はか.る・はか.らう",
+      "meaning": "plot; plan; scheme"
+    },
+    {
+      "type": "kanji",
+      "character": "死",
+      "romaji": "シ / し.ぬ・し.に-",
+      "meaning": "death; die"
+    },
+    {
+      "type": "kanji",
+      "character": "特",
+      "romaji": "トク",
+      "meaning": "special"
+    },
+    {
+      "type": "kanji",
+      "character": "私",
+      "romaji": "シ / わたくし・わたし",
+      "meaning": "private; I; me"
+    }
+  ]
+}

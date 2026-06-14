@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 103,
+  "title": "JLPT N2/N1 Kanji — Part 103",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "皐",
+      "romaji": "コウ / さつき",
+      "meaning": "swamp; shore; fifth month"
+    },
+    {
+      "type": "kanji",
+      "character": "雛",
+      "romaji": "スウ・ス・ジュ / ひな・ひよこ",
+      "meaning": "chick; squab; duckling"
+    },
+    {
+      "type": "kanji",
+      "character": "惟",
+      "romaji": "イ・ユイ / おも.んみる・これ・おも.うに",
+      "meaning": "consider; reflect; think"
+    },
+    {
+      "type": "kanji",
+      "character": "佑",
+      "romaji": "ユウ・ウ / たす.ける",
+      "meaning": "help; assist"
+    },
+    {
+      "type": "kanji",
+      "character": "耀",
+      "romaji": "ヨウ / かがや.く・ひかり",
+      "meaning": "shine; sparkle; gleam"
+    },
+    {
+      "type": "kanji",
+      "character": "黛",
+      "romaji": "タイ / まゆずみ",
+      "meaning": "blackened eyebrows"
+    },
+    {
+      "type": "kanji",
+      "character": "渥",
+      "romaji": "アク / あつ.い・うるお.う",
+      "meaning": "kindness; moisten"
+    },
+    {
+      "type": "kanji",
+      "character": "憧",
+      "romaji": "ショウ・トウ・ドウ / あこが.れる",
+      "meaning": "yearn after; long for; aspire to"
+    },
+    {
+      "type": "kanji",
+      "character": "宵",
+      "romaji": "ショウ / よい",
+      "meaning": "wee hours; evening; early night"
+    },
+    {
+      "type": "kanji",
+      "character": "妄",
+      "romaji": "モウ・ボウ / みだ.りに",
+      "meaning": "delusion; unnecessarily; without authority"
+    }
+  ]
+}

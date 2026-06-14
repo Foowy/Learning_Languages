@@ -1,0 +1,67 @@
+{
+  "unit": 4,
+  "lesson": 11,
+  "title": "JLPT N4 Kanji — Part 11",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "試",
+      "romaji": "シ / こころ.みる・ため.す",
+      "meaning": "test; try; attempt"
+    },
+    {
+      "type": "kanji",
+      "character": "族",
+      "romaji": "ゾク",
+      "meaning": "tribe; family"
+    },
+    {
+      "type": "kanji",
+      "character": "銀",
+      "romaji": "ギン / しろがね",
+      "meaning": "silver"
+    },
+    {
+      "type": "kanji",
+      "character": "早",
+      "romaji": "ソウ・サッ / はや.い・はや・はや-・はや.まる・はや.める・さ-",
+      "meaning": "early; fast"
+    },
+    {
+      "type": "kanji",
+      "character": "映",
+      "romaji": "エイ / うつ.る・うつ.す・は.える・-ば.え",
+      "meaning": "reflect; reflection; projection"
+    },
+    {
+      "type": "kanji",
+      "character": "親",
+      "romaji": "シン / おや・おや-・した.しい・した.しむ",
+      "meaning": "parent; intimacy; relative"
+    },
+    {
+      "type": "kanji",
+      "character": "験",
+      "romaji": "ケン・ゲン / あかし・しるし・ため.す・ためし",
+      "meaning": "verification; effect; testing"
+    },
+    {
+      "type": "kanji",
+      "character": "働",
+      "romaji": "ドウ / はたら.く",
+      "meaning": "work; (kokuji)"
+    },
+    {
+      "type": "kanji",
+      "character": "好",
+      "romaji": "コウ / この.む・す.く・よ.い・い.い",
+      "meaning": "fond; pleasing; like something"
+    },
+    {
+      "type": "kanji",
+      "character": "英",
+      "romaji": "エイ / はなぶさ",
+      "meaning": "England; English; hero"
+    }
+  ]
+}

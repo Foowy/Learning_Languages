@@ -1,0 +1,67 @@
+{
+  "unit": 45,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 7601–7610",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "経つ",
+      "romaji": "たつ",
+      "meaning": "to pass (of time); to elapse"
+    },
+    {
+      "type": "kanji",
+      "character": "経る",
+      "romaji": "へる",
+      "meaning": "to pass; to elapse"
+    },
+    {
+      "type": "kanji",
+      "character": "経緯",
+      "romaji": "けいい",
+      "meaning": "details; particulars"
+    },
+    {
+      "type": "kanji",
+      "character": "経営",
+      "romaji": "けいえい",
+      "meaning": "management; administration"
+    },
+    {
+      "type": "kanji",
+      "character": "経営者",
+      "romaji": "けいえいしゃ",
+      "meaning": "manager; proprietor"
+    },
+    {
+      "type": "kanji",
+      "character": "経過",
+      "romaji": "けいか",
+      "meaning": "passage (of time); elapsing"
+    },
+    {
+      "type": "kanji",
+      "character": "経企庁",
+      "romaji": "けいきちょう",
+      "meaning": "Economic Planning Agency (1955-2001)"
+    },
+    {
+      "type": "kanji",
+      "character": "経験",
+      "romaji": "けいけん",
+      "meaning": "experience"
+    },
+    {
+      "type": "kanji",
+      "character": "経験者",
+      "romaji": "けいけんしゃ",
+      "meaning": "experienced person; person who has had a particular experience"
+    },
+    {
+      "type": "kanji",
+      "character": "経済",
+      "romaji": "けいざい",
+      "meaning": "economy; economics"
+    }
+  ]
+}

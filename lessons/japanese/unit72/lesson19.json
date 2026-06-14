@@ -1,0 +1,67 @@
+{
+  "unit": 72,
+  "lesson": 19,
+  "title": "Vocabulary — Frequency 13181–13190",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "代行",
+      "romaji": "だいこう",
+      "meaning": "acting as agent; acting on (someone's) behalf"
+    },
+    {
+      "type": "kanji",
+      "character": "代謝",
+      "romaji": "たいしゃ",
+      "meaning": "metabolism"
+    },
+    {
+      "type": "kanji",
+      "character": "代償",
+      "romaji": "だいしょう",
+      "meaning": "compensation; reparation"
+    },
+    {
+      "type": "kanji",
+      "character": "代人",
+      "romaji": "だいにん",
+      "meaning": "substitute; deputy"
+    },
+    {
+      "type": "kanji",
+      "character": "代打",
+      "romaji": "だいだ",
+      "meaning": "pinch-hitting; pinch hitter"
+    },
+    {
+      "type": "kanji",
+      "character": "代表",
+      "romaji": "だいひょう",
+      "meaning": "representation; representative"
+    },
+    {
+      "type": "kanji",
+      "character": "代表作",
+      "romaji": "だいひょうさく",
+      "meaning": "most important work (of a writer, artist, etc.); representative work"
+    },
+    {
+      "type": "kanji",
+      "character": "代表的",
+      "romaji": "だいひょうてき",
+      "meaning": "representative; exemplary"
+    },
+    {
+      "type": "kanji",
+      "character": "代弁",
+      "romaji": "だいべん",
+      "meaning": "speaking by proxy; speaking for (someone else)"
+    },
+    {
+      "type": "kanji",
+      "character": "代名詞",
+      "romaji": "だいめいし",
+      "meaning": "pronoun"
+    }
+  ]
+}

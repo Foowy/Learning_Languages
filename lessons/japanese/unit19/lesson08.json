@@ -1,0 +1,67 @@
+{
+  "unit": 19,
+  "lesson": 8,
+  "title": "Vocabulary — Frequency 2471–2480",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "デュオ",
+      "romaji": "デュオ",
+      "meaning": "duo"
+    },
+    {
+      "type": "kana",
+      "character": "デラックス",
+      "romaji": "デラックス",
+      "meaning": "deluxe"
+    },
+    {
+      "type": "kana",
+      "character": "デリート",
+      "romaji": "デリート",
+      "meaning": "delete"
+    },
+    {
+      "type": "kana",
+      "character": "デリカ",
+      "romaji": "デリカ",
+      "meaning": "delicatessen"
+    },
+    {
+      "type": "kana",
+      "character": "デリケート",
+      "romaji": "デリケート",
+      "meaning": "sensitive (person, heart, etc.)"
+    },
+    {
+      "type": "kanji",
+      "character": "Δ",
+      "romaji": "デルタ",
+      "meaning": "delta"
+    },
+    {
+      "type": "kana",
+      "character": "デレゲーション",
+      "romaji": "デレゲーション",
+      "meaning": "delegation"
+    },
+    {
+      "type": "kana",
+      "character": "デンバー",
+      "romaji": "デンバー",
+      "meaning": "Denver"
+    },
+    {
+      "type": "kana",
+      "character": "トーキー",
+      "romaji": "トーキー",
+      "meaning": "talkie (motion picture with sound)"
+    },
+    {
+      "type": "kana",
+      "character": "トーク",
+      "romaji": "トーク",
+      "meaning": "talk (esp. by a talk-show host, or by a stage musician to the audience between songs); banter"
+    }
+  ]
+}

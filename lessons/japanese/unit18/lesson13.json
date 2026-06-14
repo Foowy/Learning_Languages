@@ -1,0 +1,67 @@
+{
+  "unit": 18,
+  "lesson": 13,
+  "title": "Vocabulary — Frequency 2321–2330",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "チャリティー",
+      "romaji": "チャリティー",
+      "meaning": "charity"
+    },
+    {
+      "type": "kana",
+      "character": "チャレンジ",
+      "romaji": "チャレンジ",
+      "meaning": "taking on (a challenge); attempt"
+    },
+    {
+      "type": "kana",
+      "character": "チャンス",
+      "romaji": "チャンス",
+      "meaning": "chance; opportunity"
+    },
+    {
+      "type": "kana",
+      "character": "チャンピオン",
+      "romaji": "チャンピオン",
+      "meaning": "champion"
+    },
+    {
+      "type": "kana",
+      "character": "チューター",
+      "romaji": "チューター",
+      "meaning": "tutor"
+    },
+    {
+      "type": "kana",
+      "character": "チューナー",
+      "romaji": "チューナー",
+      "meaning": "tuner (of a radio, TV, etc.)"
+    },
+    {
+      "type": "kana",
+      "character": "チューブ",
+      "romaji": "チューブ",
+      "meaning": "tube"
+    },
+    {
+      "type": "kana",
+      "character": "チューリップ",
+      "romaji": "チューリップ",
+      "meaning": "tulip"
+    },
+    {
+      "type": "kanji",
+      "character": "突尼斯",
+      "romaji": "チュニジア",
+      "meaning": "Tunisia"
+    },
+    {
+      "type": "kana",
+      "character": "チョーキング",
+      "romaji": "チョーキング",
+      "meaning": "bending (a guitar string)"
+    }
+  ]
+}

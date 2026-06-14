@@ -1,0 +1,67 @@
+{
+  "unit": 112,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 21001–21010",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "勝ち負け",
+      "romaji": "かちまけ",
+      "meaning": "victory or defeat; victory and defeat"
+    },
+    {
+      "type": "kanji",
+      "character": "勝ち星",
+      "romaji": "かちぼし",
+      "meaning": "(mark indicating) a win"
+    },
+    {
+      "type": "kanji",
+      "character": "勝率",
+      "romaji": "しょうりつ",
+      "meaning": "winning percentage"
+    },
+    {
+      "type": "kanji",
+      "character": "症例",
+      "romaji": "しょうれい",
+      "meaning": "case"
+    },
+    {
+      "type": "kanji",
+      "character": "取り立て",
+      "romaji": "とりたて",
+      "meaning": "collection (of a debt, rent, taxes, etc.); dunning"
+    },
+    {
+      "type": "kanji",
+      "character": "取り計らい",
+      "romaji": "とりはからい",
+      "meaning": "arrangement"
+    },
+    {
+      "type": "kanji",
+      "character": "取り決める",
+      "romaji": "とりきめる",
+      "meaning": "to agree; to decide upon"
+    },
+    {
+      "type": "kanji",
+      "character": "総当たり",
+      "romaji": "そうあたり",
+      "meaning": "round robin"
+    },
+    {
+      "type": "kanji",
+      "character": "総動員",
+      "romaji": "そうどういん",
+      "meaning": "general mobilization; full mobilization"
+    },
+    {
+      "type": "kanji",
+      "character": "数十",
+      "romaji": "すうじゅう",
+      "meaning": "dozens; scores of"
+    }
+  ]
+}

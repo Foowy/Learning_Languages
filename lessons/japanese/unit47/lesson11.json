@@ -1,0 +1,67 @@
+{
+  "unit": 47,
+  "lesson": 11,
+  "title": "Vocabulary — Frequency 8101–8110",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "言論",
+      "romaji": "げんろん",
+      "meaning": "(one's) speech; expression of views"
+    },
+    {
+      "type": "kanji",
+      "character": "諺",
+      "romaji": "ことわざ",
+      "meaning": "proverb; saying"
+    },
+    {
+      "type": "kanji",
+      "character": "限り",
+      "romaji": "かぎり",
+      "meaning": "limit; limits"
+    },
+    {
+      "type": "kanji",
+      "character": "限りない",
+      "romaji": "かぎりない",
+      "meaning": "unlimited; endless"
+    },
+    {
+      "type": "kanji",
+      "character": "限る",
+      "romaji": "かぎる",
+      "meaning": "to restrict; to limit"
+    },
+    {
+      "type": "kanji",
+      "character": "限界",
+      "romaji": "げんかい",
+      "meaning": "limit; bound"
+    },
+    {
+      "type": "kanji",
+      "character": "限定",
+      "romaji": "げんてい",
+      "meaning": "limit; restriction"
+    },
+    {
+      "type": "kanji",
+      "character": "限度",
+      "romaji": "げんど",
+      "meaning": "limit; bounds"
+    },
+    {
+      "type": "kanji",
+      "character": "限度額",
+      "romaji": "げんどがく",
+      "meaning": "limit (amount, e.g. on credit card, loan, expenditure)"
+    },
+    {
+      "type": "kanji",
+      "character": "個",
+      "romaji": "こ",
+      "meaning": "counter for (small) things or pieces"
+    }
+  ]
+}

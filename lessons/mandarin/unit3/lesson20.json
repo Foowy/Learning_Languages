@@ -1,0 +1,67 @@
+{
+  "unit": 3,
+  "lesson": 20,
+  "title": "HSK 3 Vocabulary — Part 20",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "认真",
+      "romaji": "rèn zhēn",
+      "meaning": "conscientious; earnest; serious; to take seriously; to take to heart"
+    },
+    {
+      "type": "hanzi",
+      "character": "容易",
+      "romaji": "róng yì",
+      "meaning": "easy; likely; liable (to)"
+    },
+    {
+      "type": "hanzi",
+      "character": "如果",
+      "romaji": "rú guǒ",
+      "meaning": "if; in case; in the event that"
+    },
+    {
+      "type": "hanzi",
+      "character": "伞",
+      "romaji": "sǎn",
+      "meaning": "umbrella; parasol; CL:把[bǎ]"
+    },
+    {
+      "type": "hanzi",
+      "character": "上网",
+      "romaji": "shàng wǎng",
+      "meaning": "to be on the internet; to stretch a net (in a sports game or for covering sth); to be netted (of fish)"
+    },
+    {
+      "type": "hanzi",
+      "character": "生气",
+      "romaji": "shēng qì",
+      "meaning": "angry; mad; offended; animated; to get angry; to be enraged; to take offense; animation"
+    },
+    {
+      "type": "hanzi",
+      "character": "声音",
+      "romaji": "shēng yīn",
+      "meaning": "voice; sound; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "使",
+      "romaji": "shǐ",
+      "meaning": "to make; to cause; to enable; to use; to employ; to send; to instruct sb to do sth; envoy; messenger"
+    },
+    {
+      "type": "hanzi",
+      "character": "世界",
+      "romaji": "shì jiè",
+      "meaning": "world; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "瘦",
+      "romaji": "shòu",
+      "meaning": "thin; to lose weight; (of clothing) tight; (of meat) lean; (of land) unproductive"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 23,
+  "title": "JLPT N3 Kanji — Part 23",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "個",
+      "romaji": "コ・カ",
+      "meaning": "individual; counter for articles"
+    },
+    {
+      "type": "kanji",
+      "character": "評",
+      "romaji": "ヒョウ",
+      "meaning": "evaluate; criticism; comment"
+    },
+    {
+      "type": "kanji",
+      "character": "課",
+      "romaji": "カ",
+      "meaning": "chapter; lesson; section"
+    },
+    {
+      "type": "kanji",
+      "character": "末",
+      "romaji": "マツ・バツ / すえ・うら・うれ",
+      "meaning": "end; close; tip"
+    },
+    {
+      "type": "kanji",
+      "character": "守",
+      "romaji": "シュ・ス / まも.る・まも.り・もり・-もり・かみ",
+      "meaning": "guard; protect; defend"
+    },
+    {
+      "type": "kanji",
+      "character": "若",
+      "romaji": "ジャク・ニャク・ニャ / わか.い・わか-・も.しくわ・も.し・も.しくは・ごと.し",
+      "meaning": "young; if; perhaps"
+    },
+    {
+      "type": "kanji",
+      "character": "脳",
+      "romaji": "ノウ・ドウ / のうずる",
+      "meaning": "brain; memory"
+    },
+    {
+      "type": "kanji",
+      "character": "極",
+      "romaji": "キョク・ゴク / きわ.める・きわ.まる・きわ.まり・きわ.み・き.める・-ぎ.め・き.まる",
+      "meaning": "extreme; pole; extremely"
+    },
+    {
+      "type": "kanji",
+      "character": "種",
+      "romaji": "シュ / たね・-ぐさ",
+      "meaning": "species; kind; class"
+    },
+    {
+      "type": "kanji",
+      "character": "美",
+      "romaji": "ビ・ミ / うつく.しい",
+      "meaning": "beauty; beautiful"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 3,
+  "lesson": 23,
+  "title": "HSK 3 Vocabulary — Part 23",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "突然",
+      "romaji": "tū rán",
+      "meaning": "sudden; abrupt; unexpected"
+    },
+    {
+      "type": "hanzi",
+      "character": "图书馆",
+      "romaji": "tú shū guǎn",
+      "meaning": "library; CL:家; 個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "腿",
+      "romaji": "tuǐ",
+      "meaning": "leg; CL:條|条[tiáo]"
+    },
+    {
+      "type": "hanzi",
+      "character": "完成",
+      "romaji": "wán chéng",
+      "meaning": "to complete; to accomplish"
+    },
+    {
+      "type": "hanzi",
+      "character": "碗",
+      "romaji": "wǎn",
+      "meaning": "bowl; cup; CL:隻|只; 個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "万",
+      "romaji": "wàn",
+      "meaning": "ten thousand; a great number"
+    },
+    {
+      "type": "hanzi",
+      "character": "忘记",
+      "romaji": "wàng jì",
+      "meaning": "to forget"
+    },
+    {
+      "type": "hanzi",
+      "character": "为了",
+      "romaji": "wèi le",
+      "meaning": "in order to; for the purpose of; so as to"
+    },
+    {
+      "type": "hanzi",
+      "character": "为什么",
+      "romaji": "wèi shén me",
+      "meaning": "why?; for what reason?"
+    },
+    {
+      "type": "hanzi",
+      "character": "位",
+      "romaji": "wèi",
+      "meaning": "position; location; place; seat; classifier for people (honorific); classifier for binary bits (e.g. 十六位 16-bit or 2 bytes)"
+    }
+  ]
+}

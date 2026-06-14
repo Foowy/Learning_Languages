@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 101,
+  "title": "JLPT N2/N1 Kanji — Part 101",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "嵯",
+      "romaji": "サ・シ",
+      "meaning": "steep; craggy; rugged"
+    },
+    {
+      "type": "kanji",
+      "character": "綜",
+      "romaji": "ソウ / おさ.める・す.べる",
+      "meaning": "rule; synthesize"
+    },
+    {
+      "type": "kanji",
+      "character": "繕",
+      "romaji": "ゼン / つくろ.う",
+      "meaning": "darning; repair; mend"
+    },
+    {
+      "type": "kanji",
+      "character": "栓",
+      "romaji": "セン",
+      "meaning": "plug; bolt; cork"
+    },
+    {
+      "type": "kanji",
+      "character": "翠",
+      "romaji": "スイ / かわせみ・みどり",
+      "meaning": "green; kingfisher"
+    },
+    {
+      "type": "kanji",
+      "character": "鮎",
+      "romaji": "デン・ネン / あゆ・なまず",
+      "meaning": "freshwater trout; smelt"
+    },
+    {
+      "type": "kanji",
+      "character": "榛",
+      "romaji": "シン・ハン / はしばみ・はり",
+      "meaning": "hazelnut; filbert"
+    },
+    {
+      "type": "kanji",
+      "character": "凹",
+      "romaji": "オウ / くぼ.む・へこ.む・ぼこ",
+      "meaning": "concave; hollow; sunken"
+    },
+    {
+      "type": "kanji",
+      "character": "艶",
+      "romaji": "エン / つや・なま.めかしい・あで.やか・つや.めく・なま.めく",
+      "meaning": "glossy; luster; glaze"
+    },
+    {
+      "type": "kanji",
+      "character": "惣",
+      "romaji": "ソウ / すべ.て",
+      "meaning": "all"
+    }
+  ]
+}

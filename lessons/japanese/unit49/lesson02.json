@@ -1,0 +1,67 @@
+{
+  "unit": 49,
+  "lesson": 2,
+  "title": "Vocabulary — Frequency 8411–8420",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "公布",
+      "romaji": "こうふ",
+      "meaning": "official proclamation; announcement"
+    },
+    {
+      "type": "kanji",
+      "character": "公文",
+      "romaji": "こうぶん",
+      "meaning": "official document; archives"
+    },
+    {
+      "type": "kanji",
+      "character": "公文書",
+      "romaji": "こうぶんしょ",
+      "meaning": "official document; archives"
+    },
+    {
+      "type": "kanji",
+      "character": "公平",
+      "romaji": "こうへい",
+      "meaning": "fairness; impartiality"
+    },
+    {
+      "type": "kanji",
+      "character": "公募",
+      "romaji": "こうぼ",
+      "meaning": "public appeal (e.g. for contributions); public advertisement (of a post)"
+    },
+    {
+      "type": "kanji",
+      "character": "公報",
+      "romaji": "こうほう",
+      "meaning": "official bulletin; communique"
+    },
+    {
+      "type": "kanji",
+      "character": "公民",
+      "romaji": "こうみん",
+      "meaning": "citizen"
+    },
+    {
+      "type": "kanji",
+      "character": "公民館",
+      "romaji": "こうみんかん",
+      "meaning": "public hall; community center"
+    },
+    {
+      "type": "kanji",
+      "character": "公民権",
+      "romaji": "こうみんけん",
+      "meaning": "civil rights; franchise"
+    },
+    {
+      "type": "kanji",
+      "character": "公務",
+      "romaji": "こうむ",
+      "meaning": "official business; public business"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 3,
+  "lesson": 1,
+  "title": "HSK 3 Vocabulary — Part 1",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "阿姨",
+      "romaji": "ā yí",
+      "meaning": "maternal aunt; step-mother; childcare worker; nursemaid; woman of similar age to one's parents (term of address used by child); CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "啊",
+      "romaji": "a",
+      "meaning": "modal particle ending sentence; showing affirmation; approval; or consent"
+    },
+    {
+      "type": "hanzi",
+      "character": "矮",
+      "romaji": "ǎi",
+      "meaning": "low; short (in length)"
+    },
+    {
+      "type": "hanzi",
+      "character": "爱好",
+      "romaji": "ài hào",
+      "meaning": "to like; to take pleasure in; keen on; fond of; interest; hobby; appetite for; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "安静",
+      "romaji": "ān jìng",
+      "meaning": "quiet; peaceful; calm"
+    },
+    {
+      "type": "hanzi",
+      "character": "把",
+      "romaji": "bǎ",
+      "meaning": "to hold; to contain; to grasp; to take hold of; handle; particle marking the following noun as a direct object; classifier for objects with handle; classifier for small objects: handful"
+    },
+    {
+      "type": "hanzi",
+      "character": "搬",
+      "romaji": "bān",
+      "meaning": "to move; to shift; to remove; to transport; to apply indiscriminately; to copy mechanically"
+    },
+    {
+      "type": "hanzi",
+      "character": "班",
+      "romaji": "bān",
+      "meaning": "team; class; squad; work shift; ranking; CL:個|个[gè]; classifier for groups"
+    },
+    {
+      "type": "hanzi",
+      "character": "半",
+      "romaji": "bàn",
+      "meaning": "half; semi-; incomplete; (after a number) and a half"
+    },
+    {
+      "type": "hanzi",
+      "character": "办法",
+      "romaji": "bàn fǎ",
+      "meaning": "means; method; way (of doing sth); CL:條|条; 個|个[gè]"
+    }
+  ]
+}

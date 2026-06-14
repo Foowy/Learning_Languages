@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 75,
+  "title": "JLPT N2/N1 Kanji — Part 75",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "刀",
+      "romaji": "トウ / かたな・そり",
+      "meaning": "sword; saber; knife"
+    },
+    {
+      "type": "kanji",
+      "character": "鼓",
+      "romaji": "コ / つづみ",
+      "meaning": "drum; beat; rouse"
+    },
+    {
+      "type": "kanji",
+      "character": "裸",
+      "romaji": "ラ / はだか",
+      "meaning": "naked; nude; uncovered"
+    },
+    {
+      "type": "kanji",
+      "character": "猶",
+      "romaji": "ユウ・ユ / なお",
+      "meaning": "furthermore; still; yet"
+    },
+    {
+      "type": "kanji",
+      "character": "塊",
+      "romaji": "カイ・ケ / かたまり・つちくれ",
+      "meaning": "clod; lump; chunk"
+    },
+    {
+      "type": "kanji",
+      "character": "旋",
+      "romaji": "セン / め.ぐる・いばり",
+      "meaning": "rotation; go around"
+    },
+    {
+      "type": "kanji",
+      "character": "弓",
+      "romaji": "キュウ / ゆみ",
+      "meaning": "bow; bow (archery, violin)"
+    },
+    {
+      "type": "kanji",
+      "character": "幣",
+      "romaji": "ヘイ / ぬさ",
+      "meaning": "cash; bad habit; humble prefix"
+    },
+    {
+      "type": "kanji",
+      "character": "膜",
+      "romaji": "マク",
+      "meaning": "membrane"
+    },
+    {
+      "type": "kanji",
+      "character": "扇",
+      "romaji": "セン / おうぎ",
+      "meaning": "fan; folding fan"
+    }
+  ]
+}

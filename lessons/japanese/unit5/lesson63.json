@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 63,
+  "title": "JLPT N3 Kanji — Part 63",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "荷",
+      "romaji": "カ / に",
+      "meaning": "baggage; shoulder-pole load; bear (a burden)"
+    },
+    {
+      "type": "kanji",
+      "character": "泊",
+      "romaji": "ハク / と.まる・と.める",
+      "meaning": "overnight stay; put up at; ride at anchor"
+    },
+    {
+      "type": "kanji",
+      "character": "杯",
+      "romaji": "ハイ / さかずき",
+      "meaning": "counter for cupfuls; wine glass; glass"
+    },
+    {
+      "type": "kanji",
+      "character": "黄",
+      "romaji": "コウ・オウ / き・こ-",
+      "meaning": "yellow"
+    },
+    {
+      "type": "kanji",
+      "character": "甘",
+      "romaji": "カン / あま.い・あま.える・あま.やかす・うま.い",
+      "meaning": "sweet; coax; pamper"
+    },
+    {
+      "type": "kanji",
+      "character": "臣",
+      "romaji": "シン・ジン",
+      "meaning": "retainer; subject"
+    },
+    {
+      "type": "kanji",
+      "character": "浅",
+      "romaji": "セン / あさ.い",
+      "meaning": "shallow; superficial; frivolous"
+    },
+    {
+      "type": "kanji",
+      "character": "掃",
+      "romaji": "ソウ・シュ / は.く",
+      "meaning": "sweep; brush"
+    },
+    {
+      "type": "kanji",
+      "character": "雲",
+      "romaji": "ウン / くも・-ぐも",
+      "meaning": "cloud"
+    },
+    {
+      "type": "kanji",
+      "character": "掘",
+      "romaji": "クツ / ほ.る",
+      "meaning": "dig; delve; excavate"
+    }
+  ]
+}

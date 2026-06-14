@@ -1,0 +1,67 @@
+{
+  "unit": 51,
+  "lesson": 2,
+  "title": "Vocabulary — Frequency 8811–8820",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "合流",
+      "romaji": "ごうりゅう",
+      "meaning": "confluence (of rivers); flowing together"
+    },
+    {
+      "type": "kanji",
+      "character": "合力",
+      "romaji": "ごうりょく",
+      "meaning": "resultant force"
+    },
+    {
+      "type": "kanji",
+      "character": "拷問",
+      "romaji": "ごうもん",
+      "meaning": "torture"
+    },
+    {
+      "type": "kanji",
+      "character": "豪雨",
+      "romaji": "ごうう",
+      "meaning": "torrential rain; heavy rain"
+    },
+    {
+      "type": "kanji",
+      "character": "豪華",
+      "romaji": "ごうか",
+      "meaning": "extravagant; lavish"
+    },
+    {
+      "type": "kanji",
+      "character": "豪快",
+      "romaji": "ごうかい",
+      "meaning": "hearty; tremendous"
+    },
+    {
+      "type": "kanji",
+      "character": "豪傑",
+      "romaji": "ごうけつ",
+      "meaning": "hero; bold person"
+    },
+    {
+      "type": "kanji",
+      "character": "豪族",
+      "romaji": "ごうぞく",
+      "meaning": "powerful family; powerful clan"
+    },
+    {
+      "type": "kanji",
+      "character": "麹",
+      "romaji": "こうじ",
+      "meaning": "kōji; malted rice"
+    },
+    {
+      "type": "kanji",
+      "character": "克服",
+      "romaji": "こくふく",
+      "meaning": "conquest (of a difficulty, illness, crisis, etc.); overcoming"
+    }
+  ]
+}

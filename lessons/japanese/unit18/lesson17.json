@@ -1,0 +1,67 @@
+{
+  "unit": 18,
+  "lesson": 17,
+  "title": "Vocabulary — Frequency 2361–2370",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "テク",
+      "romaji": "テク",
+      "meaning": "technology"
+    },
+    {
+      "type": "kana",
+      "character": "テクスチャ",
+      "romaji": "テクスチャ",
+      "meaning": "texture"
+    },
+    {
+      "type": "kana",
+      "character": "テクニカル",
+      "romaji": "テクニカル",
+      "meaning": "technical"
+    },
+    {
+      "type": "kana",
+      "character": "テクニシャン",
+      "romaji": "テクニシャン",
+      "meaning": "technician"
+    },
+    {
+      "type": "kana",
+      "character": "テクニック",
+      "romaji": "テクニック",
+      "meaning": "technique"
+    },
+    {
+      "type": "kana",
+      "character": "テクノクラート",
+      "romaji": "テクノクラート",
+      "meaning": "technocrat"
+    },
+    {
+      "type": "kana",
+      "character": "テクノロジー",
+      "romaji": "テクノロジー",
+      "meaning": "technology"
+    },
+    {
+      "type": "kana",
+      "character": "テスター",
+      "romaji": "テスター",
+      "meaning": "multimeter; multitester"
+    },
+    {
+      "type": "kana",
+      "character": "テスト",
+      "romaji": "テスト",
+      "meaning": "test (of ability, knowledge, etc.); exam"
+    },
+    {
+      "type": "kana",
+      "character": "テストケース",
+      "romaji": "テストケース",
+      "meaning": "test case"
+    }
+  ]
+}

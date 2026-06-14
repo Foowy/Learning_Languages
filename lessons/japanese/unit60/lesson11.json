@@ -1,0 +1,67 @@
+{
+  "unit": 60,
+  "lesson": 11,
+  "title": "Vocabulary — Frequency 10701–10710",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "出頭",
+      "romaji": "しゅっとう",
+      "meaning": "appearance; presence"
+    },
+    {
+      "type": "kanji",
+      "character": "出動",
+      "romaji": "しゅつどう",
+      "meaning": "mobilization; going into action"
+    },
+    {
+      "type": "kanji",
+      "character": "出入",
+      "romaji": "しゅつにゅう",
+      "meaning": "in and out; income and expenses"
+    },
+    {
+      "type": "kanji",
+      "character": "出入り",
+      "romaji": "でいり",
+      "meaning": "going in and out; entering and exiting"
+    },
+    {
+      "type": "kanji",
+      "character": "出納",
+      "romaji": "すいとう",
+      "meaning": "receipts and expenditure (disbursements)"
+    },
+    {
+      "type": "kanji",
+      "character": "出馬",
+      "romaji": "しゅつば",
+      "meaning": "running (for election); coming forward as a candidate"
+    },
+    {
+      "type": "kanji",
+      "character": "出発",
+      "romaji": "しゅっぱつ",
+      "meaning": "departure; leaving"
+    },
+    {
+      "type": "kanji",
+      "character": "出版",
+      "romaji": "しゅっぱん",
+      "meaning": "publication"
+    },
+    {
+      "type": "kanji",
+      "character": "出版物",
+      "romaji": "しゅっぱんぶつ",
+      "meaning": "publication"
+    },
+    {
+      "type": "kanji",
+      "character": "出番",
+      "romaji": "でばん",
+      "meaning": "one's turn; one's shift"
+    }
+  ]
+}

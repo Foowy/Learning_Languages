@@ -1,0 +1,67 @@
+{
+  "unit": 34,
+  "lesson": 10,
+  "title": "Vocabulary — Frequency 5491–5500",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "何時も",
+      "romaji": "いつも",
+      "meaning": "always; all the time"
+    },
+    {
+      "type": "kanji",
+      "character": "何時間",
+      "romaji": "なんじかん",
+      "meaning": "how many hours"
+    },
+    {
+      "type": "kanji",
+      "character": "いつ頃",
+      "romaji": "いつごろ",
+      "meaning": "about when; about what time"
+    },
+    {
+      "type": "kanji",
+      "character": "何者",
+      "romaji": "なにもの",
+      "meaning": "who; what kind of person"
+    },
+    {
+      "type": "kanji",
+      "character": "何処か",
+      "romaji": "どこか",
+      "meaning": "somewhere"
+    },
+    {
+      "type": "kanji",
+      "character": "何処までも",
+      "romaji": "どこまでも",
+      "meaning": "anywhere; for all time"
+    },
+    {
+      "type": "kanji",
+      "character": "何人",
+      "romaji": "なんにん",
+      "meaning": "how many people; a number of people"
+    },
+    {
+      "type": "kanji",
+      "character": "何千",
+      "romaji": "なんぜん",
+      "meaning": "many thousands"
+    },
+    {
+      "type": "kana",
+      "character": "どうぞ",
+      "romaji": "どうぞ",
+      "meaning": "please; kindly"
+    },
+    {
+      "type": "kanji",
+      "character": "何卒",
+      "romaji": "なにとぞ",
+      "meaning": "please; kindly"
+    }
+  ]
+}

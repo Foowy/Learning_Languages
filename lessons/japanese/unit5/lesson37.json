@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 37,
+  "title": "JLPT N3 Kanji — Part 37",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "印",
+      "romaji": "イン / しるし・-じるし・しる.す",
+      "meaning": "stamp; seal; mark"
+    },
+    {
+      "type": "kanji",
+      "character": "逆",
+      "romaji": "ギャク・ゲキ / さか・さか.さ・さか.らう",
+      "meaning": "inverted; reverse; opposite"
+    },
+    {
+      "type": "kanji",
+      "character": "王",
+      "romaji": "オウ・-ノウ",
+      "meaning": "king; rule; magnate"
+    },
+    {
+      "type": "kanji",
+      "character": "返",
+      "romaji": "ヘン / かえ.す・-かえ.す・かえ.る・-かえ.る",
+      "meaning": "return; answer; fade"
+    },
+    {
+      "type": "kanji",
+      "character": "標",
+      "romaji": "ヒョウ / しるべ・しるし",
+      "meaning": "signpost; seal; mark"
+    },
+    {
+      "type": "kanji",
+      "character": "換",
+      "romaji": "カン / か.える・-か.える・か.わる",
+      "meaning": "interchange; period; change"
+    },
+    {
+      "type": "kanji",
+      "character": "久",
+      "romaji": "キュウ・ク / ひさ.しい",
+      "meaning": "long time; old story"
+    },
+    {
+      "type": "kanji",
+      "character": "油",
+      "romaji": "ユ・ユウ / あぶら",
+      "meaning": "oil; fat"
+    },
+    {
+      "type": "kanji",
+      "character": "妻",
+      "romaji": "サイ / つま",
+      "meaning": "wife; spouse"
+    },
+    {
+      "type": "kanji",
+      "character": "暴",
+      "romaji": "ボウ・バク / あば.く・あば.れる",
+      "meaning": "outburst; rave; fret"
+    }
+  ]
+}

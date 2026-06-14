@@ -1,0 +1,25 @@
+{
+  "unit": 120,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 22601–22603",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "持て",
+      "romaji": "モテ",
+      "meaning": "being popular (esp. with the opposite sex); being well-liked"
+    },
+    {
+      "type": "kanji",
+      "character": "参考までに",
+      "romaji": "さんこうまでに",
+      "meaning": "for reference; for your information"
+    },
+    {
+      "type": "kanji",
+      "character": "幸いです",
+      "romaji": "さいわいです",
+      "meaning": "it would be appreciated (if); I would be grateful (if)"
+    }
+  ]
+}

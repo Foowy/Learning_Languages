@@ -1,0 +1,67 @@
+{
+  "unit": 9,
+  "lesson": 12,
+  "title": "Vocabulary — Frequency 511–520",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "アクロバット",
+      "romaji": "アクロバット",
+      "meaning": "acrobat"
+    },
+    {
+      "type": "kana",
+      "character": "アグレッシブ",
+      "romaji": "アグレッシブ",
+      "meaning": "aggressive"
+    },
+    {
+      "type": "kana",
+      "character": "アコーディオン",
+      "romaji": "アコーディオン",
+      "meaning": "accordion"
+    },
+    {
+      "type": "kana",
+      "character": "アコード",
+      "romaji": "アコード",
+      "meaning": "accord"
+    },
+    {
+      "type": "kana",
+      "character": "アシスタント",
+      "romaji": "アシスタント",
+      "meaning": "assistant"
+    },
+    {
+      "type": "kana",
+      "character": "アシスト",
+      "romaji": "アシスト",
+      "meaning": "assistance; help"
+    },
+    {
+      "type": "kanji",
+      "character": "亜細亜",
+      "romaji": "アジア",
+      "meaning": "Asia"
+    },
+    {
+      "type": "kana",
+      "character": "アジト",
+      "romaji": "アジト",
+      "meaning": "hideout; secret base of operations"
+    },
+    {
+      "type": "kanji",
+      "character": "ＡＳＣＩＩ",
+      "romaji": "アスキー",
+      "meaning": "American Standard Code for Information Interchange; ASCII"
+    },
+    {
+      "type": "kana",
+      "character": "アスパラガス",
+      "romaji": "アスパラガス",
+      "meaning": "asparagus"
+    }
+  ]
+}

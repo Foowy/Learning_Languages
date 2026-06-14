@@ -1,0 +1,67 @@
+{
+  "unit": 40,
+  "lesson": 13,
+  "title": "Vocabulary — Frequency 6721–6730",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "貴方",
+      "romaji": "あなた",
+      "meaning": "you"
+    },
+    {
+      "type": "kanji",
+      "character": "起きる",
+      "romaji": "おきる",
+      "meaning": "to get up; to rise"
+    },
+    {
+      "type": "kanji",
+      "character": "起き上がる",
+      "romaji": "おきあがる",
+      "meaning": "to rise; to get up"
+    },
+    {
+      "type": "kanji",
+      "character": "起こす",
+      "romaji": "おこす",
+      "meaning": "to raise; to raise up"
+    },
+    {
+      "type": "kanji",
+      "character": "起こる",
+      "romaji": "おこる",
+      "meaning": "to occur; to happen"
+    },
+    {
+      "type": "kanji",
+      "character": "起因",
+      "romaji": "きいん",
+      "meaning": "to be caused by; to result from"
+    },
+    {
+      "type": "kanji",
+      "character": "起工",
+      "romaji": "きこう",
+      "meaning": "setting to work"
+    },
+    {
+      "type": "kanji",
+      "character": "起債",
+      "romaji": "きさい",
+      "meaning": "issuing of bonds"
+    },
+    {
+      "type": "kanji",
+      "character": "起死回生",
+      "romaji": "きしかいせい",
+      "meaning": "revival from the brink of death; recovering from a hopeless situation"
+    },
+    {
+      "type": "kanji",
+      "character": "起床",
+      "romaji": "きしょう",
+      "meaning": "rising (from one's bed); getting up"
+    }
+  ]
+}

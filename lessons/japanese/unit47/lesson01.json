@@ -1,0 +1,67 @@
+{
+  "unit": 47,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 8001–8010",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "原産",
+      "romaji": "げんさん",
+      "meaning": "place of origin; habitat"
+    },
+    {
+      "type": "kanji",
+      "character": "原産地",
+      "romaji": "げんさんち",
+      "meaning": "place of origin (of a plant or animal species, etc.); natural habitat"
+    },
+    {
+      "type": "kanji",
+      "character": "原始",
+      "romaji": "げんし",
+      "meaning": "origin; beginning"
+    },
+    {
+      "type": "kanji",
+      "character": "原子",
+      "romaji": "げんし",
+      "meaning": "atom"
+    },
+    {
+      "type": "kanji",
+      "character": "原子核",
+      "romaji": "げんしかく",
+      "meaning": "nucleus; atomic nucleus"
+    },
+    {
+      "type": "kanji",
+      "character": "原子力",
+      "romaji": "げんしりょく",
+      "meaning": "atomic energy; nuclear power"
+    },
+    {
+      "type": "kanji",
+      "character": "原子炉",
+      "romaji": "げんしろ",
+      "meaning": "atomic reactor; nuclear reactor"
+    },
+    {
+      "type": "kanji",
+      "character": "原住民",
+      "romaji": "げんじゅうみん",
+      "meaning": "native people; aboriginal"
+    },
+    {
+      "type": "kanji",
+      "character": "原書",
+      "romaji": "げんしょ",
+      "meaning": "original document (not a copy or adaptation); book in its original language (esp. a European language)"
+    },
+    {
+      "type": "kanji",
+      "character": "原色",
+      "romaji": "げんしょく",
+      "meaning": "primary colour; primary color"
+    }
+  ]
+}

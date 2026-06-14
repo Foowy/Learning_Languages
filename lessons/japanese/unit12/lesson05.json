@@ -1,0 +1,67 @@
+{
+  "unit": 12,
+  "lesson": 5,
+  "title": "Vocabulary — Frequency 1041–1050",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "ガウシアン",
+      "romaji": "ガウシアン",
+      "meaning": "Gaussian"
+    },
+    {
+      "type": "kana",
+      "character": "ガウン",
+      "romaji": "ガウン",
+      "meaning": "gown; elegant dress"
+    },
+    {
+      "type": "kana",
+      "character": "ガジェット",
+      "romaji": "ガジェット",
+      "meaning": "gadget"
+    },
+    {
+      "type": "kanji",
+      "character": "瓦斯",
+      "romaji": "ガス",
+      "meaning": "gas (as a fuel)"
+    },
+    {
+      "type": "kana",
+      "character": "ガスタービン",
+      "romaji": "ガスタービン",
+      "meaning": "gas turbine"
+    },
+    {
+      "type": "kana",
+      "character": "ガストアルバイター",
+      "romaji": "ガストアルバイター",
+      "meaning": "foreign worker"
+    },
+    {
+      "type": "kana",
+      "character": "ガスボンベ",
+      "romaji": "ガスボンベ",
+      "meaning": "gas cylinder"
+    },
+    {
+      "type": "kana",
+      "character": "ガスマスク",
+      "romaji": "ガスマスク",
+      "meaning": "gas mask"
+    },
+    {
+      "type": "kana",
+      "character": "ガソール",
+      "romaji": "ガソール",
+      "meaning": "gasohol"
+    },
+    {
+      "type": "kana",
+      "character": "ガソリン",
+      "romaji": "ガソリン",
+      "meaning": "gasoline; petrol"
+    }
+  ]
+}

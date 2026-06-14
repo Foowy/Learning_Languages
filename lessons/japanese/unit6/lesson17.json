@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 17,
+  "title": "JLPT N2/N1 Kanji — Part 17",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "射",
+      "romaji": "シャ / い.る・さ.す・う.つ",
+      "meaning": "shoot; shine into; onto"
+    },
+    {
+      "type": "kanji",
+      "character": "購",
+      "romaji": "コウ",
+      "meaning": "subscription; buy"
+    },
+    {
+      "type": "kanji",
+      "character": "揮",
+      "romaji": "キ / ふる.う",
+      "meaning": "brandish; wave; wag"
+    },
+    {
+      "type": "kanji",
+      "character": "充",
+      "romaji": "ジュウ / あ.てる・み.たす",
+      "meaning": "allot; fill"
+    },
+    {
+      "type": "kanji",
+      "character": "跡",
+      "romaji": "セキ / あと",
+      "meaning": "tracks; mark; print"
+    },
+    {
+      "type": "kanji",
+      "character": "貢",
+      "romaji": "コウ・ク / みつ.ぐ",
+      "meaning": "tribute; support; finance"
+    },
+    {
+      "type": "kanji",
+      "character": "鹿",
+      "romaji": "ロク / しか・か",
+      "meaning": "deer"
+    },
+    {
+      "type": "kanji",
+      "character": "却",
+      "romaji": "キャク / かえ.って・しりぞ.く・しりぞ.ける",
+      "meaning": "instead; on the contrary; rather"
+    },
+    {
+      "type": "kanji",
+      "character": "端",
+      "romaji": "タン / はし・は・はた・-ばた・はな",
+      "meaning": "edge; origin; end"
+    },
+    {
+      "type": "kanji",
+      "character": "獲",
+      "romaji": "カク / え.る",
+      "meaning": "seize; get; find"
+    }
+  ]
+}

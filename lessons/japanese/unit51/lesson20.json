@@ -1,0 +1,67 @@
+{
+  "unit": 51,
+  "lesson": 20,
+  "title": "Vocabulary — Frequency 8991–9000",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "混迷",
+      "romaji": "こんめい",
+      "meaning": "turmoil; chaos"
+    },
+    {
+      "type": "kanji",
+      "character": "混乱",
+      "romaji": "こんらん",
+      "meaning": "disorder; chaos"
+    },
+    {
+      "type": "kanji",
+      "character": "痕跡",
+      "romaji": "こんせき",
+      "meaning": "trace; vestige"
+    },
+    {
+      "type": "kanji",
+      "character": "紺",
+      "romaji": "こん",
+      "meaning": "navy blue; deep blue"
+    },
+    {
+      "type": "kanji",
+      "character": "魂胆",
+      "romaji": "こんたん",
+      "meaning": "ulterior motive; plot"
+    },
+    {
+      "type": "kanji",
+      "character": "些細",
+      "romaji": "ささい",
+      "meaning": "trivial; trifling"
+    },
+    {
+      "type": "kanji",
+      "character": "唆す",
+      "romaji": "そそのかす",
+      "meaning": "to instigate; to tempt"
+    },
+    {
+      "type": "kanji",
+      "character": "左",
+      "romaji": "ひだり",
+      "meaning": "left; left-hand side"
+    },
+    {
+      "type": "kanji",
+      "character": "左右",
+      "romaji": "さゆう",
+      "meaning": "left and right; right and left"
+    },
+    {
+      "type": "kanji",
+      "character": "左記",
+      "romaji": "さき",
+      "meaning": "undermentioned (statement); the following"
+    }
+  ]
+}

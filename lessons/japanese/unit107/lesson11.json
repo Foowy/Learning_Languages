@@ -1,0 +1,67 @@
+{
+  "unit": 107,
+  "lesson": 11,
+  "title": "Vocabulary — Frequency 20101–20110",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "あのね",
+      "romaji": "あのね",
+      "meaning": "look here; I say"
+    },
+    {
+      "type": "kanji",
+      "character": "彼是",
+      "romaji": "あれこれ",
+      "meaning": "this and that; this or that"
+    },
+    {
+      "type": "kanji",
+      "character": "有耶無耶",
+      "romaji": "うやむや",
+      "meaning": "indefinite; hazy"
+    },
+    {
+      "type": "kanji",
+      "character": "お歳暮",
+      "romaji": "おせいぼ",
+      "meaning": "year-end gift"
+    },
+    {
+      "type": "kanji",
+      "character": "お休み",
+      "romaji": "おやすみ",
+      "meaning": "holiday; day off"
+    },
+    {
+      "type": "kanji",
+      "character": "御座います",
+      "romaji": "ございます",
+      "meaning": "to be; to exist"
+    },
+    {
+      "type": "kanji",
+      "character": "その物",
+      "romaji": "そのもの",
+      "meaning": "the very thing; itself"
+    },
+    {
+      "type": "kanji",
+      "character": "ちり紙",
+      "romaji": "ちりがみ",
+      "meaning": "tissue paper; toilet paper"
+    },
+    {
+      "type": "kanji",
+      "character": "どうも有難う",
+      "romaji": "どうもありがとう",
+      "meaning": "thank you very much"
+    },
+    {
+      "type": "kanji",
+      "character": "やり過ごす",
+      "romaji": "やりすごす",
+      "meaning": "to let (something or someone) go past"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 101,
+  "lesson": 8,
+  "title": "Vocabulary — Frequency 18871–18880",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "頂く",
+      "romaji": "いただく",
+      "meaning": "to receive; to get"
+    },
+    {
+      "type": "kanji",
+      "character": "痛み",
+      "romaji": "いたみ",
+      "meaning": "pain; ache"
+    },
+    {
+      "type": "kanji",
+      "character": "位置",
+      "romaji": "いち",
+      "meaning": "place; position"
+    },
+    {
+      "type": "kanji",
+      "character": "一々",
+      "romaji": "いちいち",
+      "meaning": "one-by-one; separately"
+    },
+    {
+      "type": "kanji",
+      "character": "位置付ける",
+      "romaji": "いちづける",
+      "meaning": "to place (in relation to the whole); to rank"
+    },
+    {
+      "type": "kanji",
+      "character": "一ヶ月",
+      "romaji": "いっかげつ",
+      "meaning": "one month"
+    },
+    {
+      "type": "kanji",
+      "character": "一騎打ち",
+      "romaji": "いっきうち",
+      "meaning": "single combat; duel"
+    },
+    {
+      "type": "kanji",
+      "character": "異文",
+      "romaji": "いぶん",
+      "meaning": "variant (in a manuscript or book); part of a text that differs from other versions"
+    },
+    {
+      "type": "kanji",
+      "character": "今まで",
+      "romaji": "いままで",
+      "meaning": "until now; till now"
+    },
+    {
+      "type": "kanji",
+      "character": "嫌",
+      "romaji": "いや",
+      "meaning": "disliking; not wanting"
+    }
+  ]
+}

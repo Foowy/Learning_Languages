@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 101,
+  "title": "HSK 5 Vocabulary — Part 101",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "未来",
+      "romaji": "wèi lái",
+      "meaning": "future; tomorrow; CL:個|个[gè]; approaching; coming; pending"
+    },
+    {
+      "type": "hanzi",
+      "character": "卫生间",
+      "romaji": "wèi shēng jiān",
+      "meaning": "bathroom; toilet; WC; CL:間|间[jiān]"
+    },
+    {
+      "type": "hanzi",
+      "character": "温暖",
+      "romaji": "wēn nuǎn",
+      "meaning": "warm"
+    },
+    {
+      "type": "hanzi",
+      "character": "温柔",
+      "romaji": "wēn róu",
+      "meaning": "gentle and soft; tender"
+    },
+    {
+      "type": "hanzi",
+      "character": "闻",
+      "romaji": "wén",
+      "meaning": "to hear; news; well-known; famous; reputation; fame; to smell; to sniff at"
+    },
+    {
+      "type": "hanzi",
+      "character": "文件",
+      "romaji": "wén jiàn",
+      "meaning": "document; file; CL:份[fèn]"
+    },
+    {
+      "type": "hanzi",
+      "character": "文具",
+      "romaji": "wén jù",
+      "meaning": "stationery; item of stationery (pen; pencil; eraser; pencil sharpener etc)"
+    },
+    {
+      "type": "hanzi",
+      "character": "文明",
+      "romaji": "wén míng",
+      "meaning": "civilized; civilization; culture; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "文学",
+      "romaji": "wén xué",
+      "meaning": "literature; CL:種|种[zhǒng]"
+    },
+    {
+      "type": "hanzi",
+      "character": "吻",
+      "romaji": "wěn",
+      "meaning": "kiss; to kiss; mouth"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 25,
+  "lesson": 10,
+  "title": "Vocabulary — Frequency 3691–3700",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "ボウリング",
+      "romaji": "ボウリング",
+      "meaning": "bowling (esp. tenpin)"
+    },
+    {
+      "type": "kana",
+      "character": "ボール",
+      "romaji": "ボール",
+      "meaning": "ball"
+    },
+    {
+      "type": "kana",
+      "character": "ボールド",
+      "romaji": "ボールド",
+      "meaning": "bold; boldface"
+    },
+    {
+      "type": "kana",
+      "character": "ボールペン",
+      "romaji": "ボールペン",
+      "meaning": "ball-point pen"
+    },
+    {
+      "type": "kana",
+      "character": "ボーン",
+      "romaji": "ボーン",
+      "meaning": "bone"
+    },
+    {
+      "type": "kana",
+      "character": "ボイコット",
+      "romaji": "ボイコット",
+      "meaning": "boycott"
+    },
+    {
+      "type": "kana",
+      "character": "ボイジャー",
+      "romaji": "ボイジャー",
+      "meaning": "voyager"
+    },
+    {
+      "type": "kana",
+      "character": "ボイス",
+      "romaji": "ボイス",
+      "meaning": "voice"
+    },
+    {
+      "type": "kana",
+      "character": "ボイスレコーダー",
+      "romaji": "ボイスレコーダー",
+      "meaning": "cockpit voice recorder; CVR"
+    },
+    {
+      "type": "kana",
+      "character": "ボイラー",
+      "romaji": "ボイラー",
+      "meaning": "boiler"
+    }
+  ]
+}

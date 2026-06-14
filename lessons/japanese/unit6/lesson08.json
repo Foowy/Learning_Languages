@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 8,
+  "title": "JLPT N2/N1 Kanji — Part 8",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "模",
+      "romaji": "モ・ボ",
+      "meaning": "imitation; copy; mock"
+    },
+    {
+      "type": "kanji",
+      "character": "雄",
+      "romaji": "ユウ / お-・おす・おん",
+      "meaning": "masculine; male; hero"
+    },
+    {
+      "type": "kanji",
+      "character": "益",
+      "romaji": "エキ・ヤク / ま.す",
+      "meaning": "benefit; gain; profit"
+    },
+    {
+      "type": "kanji",
+      "character": "緊",
+      "romaji": "キン / し.める・し.まる",
+      "meaning": "tense; solid; hard"
+    },
+    {
+      "type": "kanji",
+      "character": "宣",
+      "romaji": "セン / のたま.う",
+      "meaning": "proclaim; say; announce"
+    },
+    {
+      "type": "kanji",
+      "character": "昭",
+      "romaji": "ショウ",
+      "meaning": "shining; bright"
+    },
+    {
+      "type": "kanji",
+      "character": "廃",
+      "romaji": "ハイ / すた.れる・すた.る",
+      "meaning": "abolish; obsolete; cessation"
+    },
+    {
+      "type": "kanji",
+      "character": "伊",
+      "romaji": "イ / かれ",
+      "meaning": "Italy; that one"
+    },
+    {
+      "type": "kanji",
+      "character": "江",
+      "romaji": "コウ / え",
+      "meaning": "creek; inlet; bay"
+    },
+    {
+      "type": "kanji",
+      "character": "僚",
+      "romaji": "リョウ",
+      "meaning": "colleague; official; companion"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 112,
+  "title": "JLPT N2/N1 Kanji — Part 112",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "鞠",
+      "romaji": "キク・キュウ / まり",
+      "meaning": "ball"
+    },
+    {
+      "type": "kanji",
+      "character": "斤",
+      "romaji": "キン",
+      "meaning": "axe; 1.32 lb; catty"
+    },
+    {
+      "type": "kanji",
+      "character": "衿",
+      "romaji": "キン・コン / えり",
+      "meaning": "neck; collar; lapel"
+    },
+    {
+      "type": "kanji",
+      "character": "玖",
+      "romaji": "キュウ・ク",
+      "meaning": "beautiful black jewel; nine"
+    },
+    {
+      "type": "kanji",
+      "character": "虞",
+      "romaji": "グ / おそれ・おもんぱか.る・はか.る・うれ.える・あざむ.く・あやま.る・のぞ.む・たの.しむ",
+      "meaning": "fear; uneasiness; anxiety"
+    },
+    {
+      "type": "kanji",
+      "character": "袈",
+      "romaji": "ケ・カ",
+      "meaning": "a coarse camlet"
+    },
+    {
+      "type": "kanji",
+      "character": "絃",
+      "romaji": "ゲン / いと",
+      "meaning": "string; cord; samisen music"
+    },
+    {
+      "type": "kanji",
+      "character": "梧",
+      "romaji": "ゴ / あおぎり",
+      "meaning": "Chinese parasol tree; phoenix tree"
+    },
+    {
+      "type": "kanji",
+      "character": "瑚",
+      "romaji": "コ・ゴ",
+      "meaning": "ancestral offering receptacle; coral"
+    },
+    {
+      "type": "kanji",
+      "character": "倖",
+      "romaji": "コウ / しあわ.せ・さいわ.い",
+      "meaning": "happiness; luck"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 77,
+  "lesson": 11,
+  "title": "Vocabulary — Frequency 14101–14110",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "抵当",
+      "romaji": "ていとう",
+      "meaning": "mortgage; security"
+    },
+    {
+      "type": "kanji",
+      "character": "抵当権",
+      "romaji": "ていとうけん",
+      "meaning": "mortgage; right of pledge"
+    },
+    {
+      "type": "kanji",
+      "character": "提げる",
+      "romaji": "さげる",
+      "meaning": "to take along; to hold in the hand"
+    },
+    {
+      "type": "kanji",
+      "character": "提案",
+      "romaji": "ていあん",
+      "meaning": "proposal; proposition"
+    },
+    {
+      "type": "kanji",
+      "character": "提起",
+      "romaji": "ていき",
+      "meaning": "raising (a question); posing (a problem)"
+    },
+    {
+      "type": "kanji",
+      "character": "提供",
+      "romaji": "ていきょう",
+      "meaning": "offer; tender"
+    },
+    {
+      "type": "kanji",
+      "character": "提携",
+      "romaji": "ていけい",
+      "meaning": "cooperation; tie-up"
+    },
+    {
+      "type": "kanji",
+      "character": "提言",
+      "romaji": "ていげん",
+      "meaning": "proposal; motion"
+    },
+    {
+      "type": "kanji",
+      "character": "提示",
+      "romaji": "ていじ",
+      "meaning": "presentation (of a passport, ID, etc.); showing"
+    },
+    {
+      "type": "kanji",
+      "character": "提出",
+      "romaji": "ていしゅつ",
+      "meaning": "presentation (of documents); submission (of an application, report, etc.)"
+    }
+  ]
+}

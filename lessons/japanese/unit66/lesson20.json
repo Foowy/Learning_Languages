@@ -1,0 +1,67 @@
+{
+  "unit": 66,
+  "lesson": 20,
+  "title": "Vocabulary — Frequency 11991–12000",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "晴らす",
+      "romaji": "はらす",
+      "meaning": "to dispel; to clear away"
+    },
+    {
+      "type": "kanji",
+      "character": "晴れ",
+      "romaji": "はれ",
+      "meaning": "clear weather; fine weather"
+    },
+    {
+      "type": "kanji",
+      "character": "晴れる",
+      "romaji": "はれる",
+      "meaning": "to clear up; to clear away"
+    },
+    {
+      "type": "kanji",
+      "character": "晴天",
+      "romaji": "せいてん",
+      "meaning": "fine weather (i.e. little or no clouds); fair weather"
+    },
+    {
+      "type": "kanji",
+      "character": "正",
+      "romaji": "せい",
+      "meaning": "(logical) true; regular"
+    },
+    {
+      "type": "kanji",
+      "character": "正しい",
+      "romaji": "ただしい",
+      "meaning": "right; correct"
+    },
+    {
+      "type": "kanji",
+      "character": "正す",
+      "romaji": "ただす",
+      "meaning": "to correct; to rectify"
+    },
+    {
+      "type": "kanji",
+      "character": "正に",
+      "romaji": "まさに",
+      "meaning": "exactly; just"
+    },
+    {
+      "type": "kanji",
+      "character": "正解",
+      "romaji": "せいかい",
+      "meaning": "correct answer; right solution"
+    },
+    {
+      "type": "kanji",
+      "character": "正確",
+      "romaji": "せいかく",
+      "meaning": "accurate; correct"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 88,
+  "lesson": 3,
+  "title": "Vocabulary — Frequency 16221–16230",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "分散",
+      "romaji": "ぶんさん",
+      "meaning": "dispersion; breakup"
+    },
+    {
+      "type": "kanji",
+      "character": "分子",
+      "romaji": "ぶんし",
+      "meaning": "molecule"
+    },
+    {
+      "type": "kanji",
+      "character": "分室",
+      "romaji": "ぶんしつ",
+      "meaning": "detached office; annex"
+    },
+    {
+      "type": "kanji",
+      "character": "分乗",
+      "romaji": "ぶんじょう",
+      "meaning": "riding separately"
+    },
+    {
+      "type": "kanji",
+      "character": "分譲",
+      "romaji": "ぶんじょう",
+      "meaning": "selling (real-estate) lots"
+    },
+    {
+      "type": "kanji",
+      "character": "分身",
+      "romaji": "ぶんしん",
+      "meaning": "other self; alter ego"
+    },
+    {
+      "type": "kanji",
+      "character": "分数",
+      "romaji": "ぶんすう",
+      "meaning": "fraction"
+    },
+    {
+      "type": "kanji",
+      "character": "分析",
+      "romaji": "ぶんせき",
+      "meaning": "analysis"
+    },
+    {
+      "type": "kanji",
+      "character": "分担",
+      "romaji": "ぶんたん",
+      "meaning": "taking on one's share (e.g. of work); dividing (work, expenses, etc.) between"
+    },
+    {
+      "type": "kanji",
+      "character": "分配",
+      "romaji": "ぶんぱい",
+      "meaning": "division; splitting"
+    }
+  ]
+}

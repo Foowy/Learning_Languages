@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 59,
+  "title": "JLPT N2/N1 Kanji — Part 59",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "巣",
+      "romaji": "ソウ / す・す.くう",
+      "meaning": "nest; rookery; hive"
+    },
+    {
+      "type": "kanji",
+      "character": "頻",
+      "romaji": "ヒン / しき.りに",
+      "meaning": "repeatedly; recur"
+    },
+    {
+      "type": "kanji",
+      "character": "琴",
+      "romaji": "キン・ゴン / こと",
+      "meaning": "harp; koto"
+    },
+    {
+      "type": "kanji",
+      "character": "班",
+      "romaji": "ハン",
+      "meaning": "squad; corps; unit"
+    },
+    {
+      "type": "kanji",
+      "character": "棚",
+      "romaji": "ホウ / たな・-だな",
+      "meaning": "shelf; ledge; rack"
+    },
+    {
+      "type": "kanji",
+      "character": "潔",
+      "romaji": "ケツ / いさぎよ.い",
+      "meaning": "undefiled; pure; clean"
+    },
+    {
+      "type": "kanji",
+      "character": "酷",
+      "romaji": "コク / ひど.い",
+      "meaning": "cruel; severe; atrocious"
+    },
+    {
+      "type": "kanji",
+      "character": "宰",
+      "romaji": "サイ",
+      "meaning": "superintend; manager; rule"
+    },
+    {
+      "type": "kanji",
+      "character": "廊",
+      "romaji": "ロウ",
+      "meaning": "corridor; hall; tower"
+    },
+    {
+      "type": "kanji",
+      "character": "寂",
+      "romaji": "ジャク・セキ / さび・さび.しい・さび.れる・さみ.しい",
+      "meaning": "loneliness; quietly; mellow"
+    }
+  ]
+}

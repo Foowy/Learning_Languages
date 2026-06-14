@@ -1,0 +1,67 @@
+{
+  "unit": 32,
+  "lesson": 9,
+  "title": "Vocabulary — Frequency 5081–5090",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "渦巻き",
+      "romaji": "うずまき",
+      "meaning": "whirlpool; maelstrom"
+    },
+    {
+      "type": "kanji",
+      "character": "渦中",
+      "romaji": "かちゅう",
+      "meaning": "vortex; maelstrom"
+    },
+    {
+      "type": "kanji",
+      "character": "嘘",
+      "romaji": "うそ",
+      "meaning": "lie; fib"
+    },
+    {
+      "type": "kanji",
+      "character": "嘘つき",
+      "romaji": "うそつき",
+      "meaning": "liar; fibber"
+    },
+    {
+      "type": "kanji",
+      "character": "鰻",
+      "romaji": "うなぎ",
+      "meaning": "eel (esp. the Japanese eel, Anguilla japonica)"
+    },
+    {
+      "type": "kanji",
+      "character": "浦",
+      "romaji": "うら",
+      "meaning": "inlet"
+    },
+    {
+      "type": "kanji",
+      "character": "噂",
+      "romaji": "うわさ",
+      "meaning": "rumour; rumor"
+    },
+    {
+      "type": "kanji",
+      "character": "運",
+      "romaji": "うん",
+      "meaning": "fortune; luck"
+    },
+    {
+      "type": "kanji",
+      "character": "運ぶ",
+      "romaji": "はこぶ",
+      "meaning": "to carry; to transport"
+    },
+    {
+      "type": "kanji",
+      "character": "運良く",
+      "romaji": "うんよく",
+      "meaning": "luckily"
+    }
+  ]
+}

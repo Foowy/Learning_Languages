@@ -1,0 +1,67 @@
+{
+  "unit": 26,
+  "lesson": 2,
+  "title": "Vocabulary — Frequency 3811–3820",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "マエストロ",
+      "romaji": "マエストロ",
+      "meaning": "maestro"
+    },
+    {
+      "type": "kana",
+      "character": "マカダム",
+      "romaji": "マカダム",
+      "meaning": "Macadam"
+    },
+    {
+      "type": "kana",
+      "character": "マカロニ",
+      "romaji": "マカロニ",
+      "meaning": "macaroni"
+    },
+    {
+      "type": "kana",
+      "character": "マガジン",
+      "romaji": "マガジン",
+      "meaning": "magazine (periodical)"
+    },
+    {
+      "type": "kana",
+      "character": "マキシ",
+      "romaji": "マキシ",
+      "meaning": "maxi (skirt, coat, etc.)"
+    },
+    {
+      "type": "kana",
+      "character": "マクラメ",
+      "romaji": "マクラメ",
+      "meaning": "macramé"
+    },
+    {
+      "type": "kana",
+      "character": "マクロ",
+      "romaji": "マクロ",
+      "meaning": "macro"
+    },
+    {
+      "type": "kana",
+      "character": "マグナム",
+      "romaji": "マグナム",
+      "meaning": "magnum (cartridge, gun)"
+    },
+    {
+      "type": "kana",
+      "character": "マグニチュード",
+      "romaji": "マグニチュード",
+      "meaning": "magnitude"
+    },
+    {
+      "type": "kana",
+      "character": "マグネシウム",
+      "romaji": "マグネシウム",
+      "meaning": "magnesium (Mg)"
+    }
+  ]
+}

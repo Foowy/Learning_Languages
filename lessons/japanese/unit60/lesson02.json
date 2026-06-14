@@ -1,0 +1,67 @@
+{
+  "unit": 60,
+  "lesson": 2,
+  "title": "Vocabulary — Frequency 10611–10620",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "重要文化財",
+      "romaji": "じゅうようぶんかざい",
+      "meaning": "important cultural property; important cultural asset"
+    },
+    {
+      "type": "kanji",
+      "character": "重量",
+      "romaji": "じゅうりょう",
+      "meaning": "weight"
+    },
+    {
+      "type": "kanji",
+      "character": "重力",
+      "romaji": "じゅうりょく",
+      "meaning": "gravity; gravitation"
+    },
+    {
+      "type": "kanji",
+      "character": "銃",
+      "romaji": "じゅう",
+      "meaning": "gun; firearm"
+    },
+    {
+      "type": "kanji",
+      "character": "銃器",
+      "romaji": "じゅうき",
+      "meaning": "small arms"
+    },
+    {
+      "type": "kanji",
+      "character": "銃殺",
+      "romaji": "じゅうさつ",
+      "meaning": "death by shooting"
+    },
+    {
+      "type": "kanji",
+      "character": "銃声",
+      "romaji": "じゅうせい",
+      "meaning": "sound of a gunshot; report of a gun"
+    },
+    {
+      "type": "kanji",
+      "character": "銃弾",
+      "romaji": "じゅうだん",
+      "meaning": "bullet (from a rifle)"
+    },
+    {
+      "type": "kanji",
+      "character": "宿",
+      "romaji": "やど",
+      "meaning": "lodging; inn"
+    },
+    {
+      "type": "kanji",
+      "character": "宿す",
+      "romaji": "やどす",
+      "meaning": "to house; to contain"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 116,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 21801–21810",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "さ",
+      "romaji": "さ",
+      "meaning": "-ness"
+    },
+    {
+      "type": "kana",
+      "character": "ぞ",
+      "romaji": "ぞ",
+      "meaning": "adds force or indicates command"
+    },
+    {
+      "type": "kanji",
+      "character": "意思疎通",
+      "romaji": "いしそつう",
+      "meaning": "(reciprocal) communication; (coming to a) mutual understanding"
+    },
+    {
+      "type": "kanji",
+      "character": "就活",
+      "romaji": "しゅうかつ",
+      "meaning": "job hunting; job searching"
+    },
+    {
+      "type": "kana",
+      "character": "にかけて",
+      "romaji": "にかけて",
+      "meaning": "till; to"
+    },
+    {
+      "type": "kana",
+      "character": "でさえ",
+      "romaji": "でさえ",
+      "meaning": "even (e.g. even a child)"
+    },
+    {
+      "type": "kanji",
+      "character": "鬱",
+      "romaji": "うつ",
+      "meaning": "depression; low spirits"
+    },
+    {
+      "type": "kana",
+      "character": "ユーズド",
+      "romaji": "ユーズド",
+      "meaning": "used (e.g. used car)"
+    },
+    {
+      "type": "kanji",
+      "character": "お願い",
+      "romaji": "おねがい",
+      "meaning": "request; favour (to ask)"
+    },
+    {
+      "type": "kanji",
+      "character": "美白",
+      "romaji": "びはく",
+      "meaning": "beautifully white (esp. of skin)"
+    }
+  ]
+}

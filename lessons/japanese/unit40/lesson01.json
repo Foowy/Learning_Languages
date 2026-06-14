@@ -1,0 +1,67 @@
+{
+  "unit": 40,
+  "lesson": 1,
+  "title": "Vocabulary — Frequency 6601–6610",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "機関",
+      "romaji": "きかん",
+      "meaning": "engine"
+    },
+    {
+      "type": "kanji",
+      "character": "機関車",
+      "romaji": "きかんしゃ",
+      "meaning": "locomotive; engine"
+    },
+    {
+      "type": "kanji",
+      "character": "機関銃",
+      "romaji": "きかんじゅう",
+      "meaning": "machine gun"
+    },
+    {
+      "type": "kanji",
+      "character": "機器",
+      "romaji": "きき",
+      "meaning": "device; equipment"
+    },
+    {
+      "type": "kanji",
+      "character": "機嫌",
+      "romaji": "きげん",
+      "meaning": "humour; humor"
+    },
+    {
+      "type": "kanji",
+      "character": "機構",
+      "romaji": "きこう",
+      "meaning": "mechanism; machinery"
+    },
+    {
+      "type": "kanji",
+      "character": "機材",
+      "romaji": "きざい",
+      "meaning": "machinery and materials; equipment"
+    },
+    {
+      "type": "kanji",
+      "character": "機種",
+      "romaji": "きしゅ",
+      "meaning": "model (of machine, device)"
+    },
+    {
+      "type": "kanji",
+      "character": "機首",
+      "romaji": "きしゅ",
+      "meaning": "nose (of plane)"
+    },
+    {
+      "type": "kanji",
+      "character": "機体",
+      "romaji": "きたい",
+      "meaning": "fuselage; airframe"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 41,
+  "lesson": 8,
+  "title": "Vocabulary — Frequency 6871–6880",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "休める",
+      "romaji": "やすめる",
+      "meaning": "to rest; to suspend"
+    },
+    {
+      "type": "kanji",
+      "character": "休暇",
+      "romaji": "きゅうか",
+      "meaning": "holiday; vacation"
+    },
+    {
+      "type": "kanji",
+      "character": "休学",
+      "romaji": "きゅうがく",
+      "meaning": "temporary absence from school"
+    },
+    {
+      "type": "kanji",
+      "character": "休刊",
+      "romaji": "きゅうかん",
+      "meaning": "suspension of publication"
+    },
+    {
+      "type": "kanji",
+      "character": "休業",
+      "romaji": "きゅうぎょう",
+      "meaning": "suspension of business; temporary closure (of a store, school, etc.)"
+    },
+    {
+      "type": "kanji",
+      "character": "休憩",
+      "romaji": "きゅうけい",
+      "meaning": "rest; break"
+    },
+    {
+      "type": "kanji",
+      "character": "休憩時間",
+      "romaji": "きゅうけいじかん",
+      "meaning": "rest period; intermission"
+    },
+    {
+      "type": "kanji",
+      "character": "休憩所",
+      "romaji": "きゅうけいじょ",
+      "meaning": "rest area; rest stop"
+    },
+    {
+      "type": "kanji",
+      "character": "休校",
+      "romaji": "きゅうこう",
+      "meaning": "(temporary) closure of school"
+    },
+    {
+      "type": "kanji",
+      "character": "休講",
+      "romaji": "きゅうこう",
+      "meaning": "cancellation (of a lecture, class, etc.)"
+    }
+  ]
+}

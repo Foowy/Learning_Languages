@@ -1,0 +1,67 @@
+{
+  "unit": 19,
+  "lesson": 17,
+  "title": "Vocabulary — Frequency 2561–2570",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "トロント",
+      "romaji": "トロント",
+      "meaning": "Toronto"
+    },
+    {
+      "type": "kana",
+      "character": "トロンボーン",
+      "romaji": "トロンボーン",
+      "meaning": "trombone"
+    },
+    {
+      "type": "kana",
+      "character": "トワイライト",
+      "romaji": "トワイライト",
+      "meaning": "twilight"
+    },
+    {
+      "type": "kana",
+      "character": "トンネル",
+      "romaji": "トンネル",
+      "meaning": "tunnel"
+    },
+    {
+      "type": "kanji",
+      "character": "ト長調",
+      "romaji": "トちょうちょう",
+      "meaning": "G major"
+    },
+    {
+      "type": "kana",
+      "character": "ドーク",
+      "romaji": "ドーク",
+      "meaning": "moderates (politics); centrists"
+    },
+    {
+      "type": "kana",
+      "character": "ドーナツ",
+      "romaji": "ドーナツ",
+      "meaning": "doughnut; donut"
+    },
+    {
+      "type": "kana",
+      "character": "ドーピング",
+      "romaji": "ドーピング",
+      "meaning": "doping (in sports)"
+    },
+    {
+      "type": "kana",
+      "character": "ドーマーウインドー",
+      "romaji": "ドーマーウインドー",
+      "meaning": "dormer window"
+    },
+    {
+      "type": "kana",
+      "character": "ドーム",
+      "romaji": "ドーム",
+      "meaning": "dome"
+    }
+  ]
+}

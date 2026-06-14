@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 40,
+  "title": "HSK 5 Vocabulary — Part 40",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "海关",
+      "romaji": "hǎi guān",
+      "meaning": "customs (i.e. border crossing inspection); CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "海鲜",
+      "romaji": "hǎi xiān",
+      "meaning": "seafood"
+    },
+    {
+      "type": "hanzi",
+      "character": "喊",
+      "romaji": "hǎn",
+      "meaning": "to yell; to shout; to call out for (a person)"
+    },
+    {
+      "type": "hanzi",
+      "character": "行业",
+      "romaji": "háng yè",
+      "meaning": "industry; business"
+    },
+    {
+      "type": "hanzi",
+      "character": "豪华",
+      "romaji": "háo huá",
+      "meaning": "luxurious"
+    },
+    {
+      "type": "hanzi",
+      "character": "好奇",
+      "romaji": "hào qí",
+      "meaning": "inquisitive; curious; inquisitiveness; curiosity"
+    },
+    {
+      "type": "hanzi",
+      "character": "和平",
+      "romaji": "hé píng",
+      "meaning": "peace"
+    },
+    {
+      "type": "hanzi",
+      "character": "何必",
+      "romaji": "hé bì",
+      "meaning": "there is no need; why should"
+    },
+    {
+      "type": "hanzi",
+      "character": "何况",
+      "romaji": "hé kuàng",
+      "meaning": "let alone; to say nothing of; besides; what's more"
+    },
+    {
+      "type": "hanzi",
+      "character": "合法",
+      "romaji": "hé fǎ",
+      "meaning": "lawful; legitimate; legal"
+    }
+  ]
+}

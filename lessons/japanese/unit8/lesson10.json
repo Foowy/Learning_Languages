@@ -1,0 +1,67 @@
+{
+  "unit": 8,
+  "lesson": 10,
+  "title": "Vocabulary — Frequency 291–300",
+  "cards": [
+    {
+      "type": "kana",
+      "character": "つい",
+      "romaji": "つい",
+      "meaning": "just (now)"
+    },
+    {
+      "type": "kanji",
+      "character": "序でに",
+      "romaji": "ついでに",
+      "meaning": "while (one is at it); when"
+    },
+    {
+      "type": "kanji",
+      "character": "熟",
+      "romaji": "つくづく",
+      "meaning": "deeply; keenly"
+    },
+    {
+      "type": "kana",
+      "character": "つつ",
+      "romaji": "つつ",
+      "meaning": "while"
+    },
+    {
+      "type": "kanji",
+      "character": "躑躅",
+      "romaji": "つつじ",
+      "meaning": "azalea; rhododendron"
+    },
+    {
+      "type": "kanji",
+      "character": "詰らない",
+      "romaji": "つまらない",
+      "meaning": "dull; uninteresting"
+    },
+    {
+      "type": "kana",
+      "character": "つるつる",
+      "romaji": "つるつる",
+      "meaning": "smooth; shiny"
+    },
+    {
+      "type": "kana",
+      "character": "てくてく",
+      "romaji": "てくてく",
+      "meaning": "(walking a long distance) at a steady pace; intently"
+    },
+    {
+      "type": "kana",
+      "character": "てっきり",
+      "romaji": "てっきり",
+      "meaning": "surely; certainly"
+    },
+    {
+      "type": "kana",
+      "character": "である",
+      "romaji": "である",
+      "meaning": "be; is"
+    }
+  ]
+}

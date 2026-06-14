@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 123,
+  "title": "HSK 6 Vocabulary — Part 123",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "码头",
+      "romaji": "mǎ tóu",
+      "meaning": "dock; pier; wharf; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "嘛",
+      "romaji": "ma",
+      "meaning": "modal particle indicating that sth is obvious; particle indicating a pause for emphasis"
+    },
+    {
+      "type": "hanzi",
+      "character": "埋伏",
+      "romaji": "mái fú",
+      "meaning": "to ambush; to lie in wait for; to lie low; ambush"
+    },
+    {
+      "type": "hanzi",
+      "character": "埋没",
+      "romaji": "mái mò",
+      "meaning": "to engulf; to bury; to overlook; to stifle; to neglect; to fall into oblivion"
+    },
+    {
+      "type": "hanzi",
+      "character": "埋葬",
+      "romaji": "mái zàng",
+      "meaning": "to bury"
+    },
+    {
+      "type": "hanzi",
+      "character": "迈",
+      "romaji": "mài",
+      "meaning": "take a step"
+    },
+    {
+      "type": "hanzi",
+      "character": "脉搏",
+      "romaji": "mài bó",
+      "meaning": "a pulse (both medical and figurative)"
+    },
+    {
+      "type": "hanzi",
+      "character": "埋怨",
+      "romaji": "mán yuàn",
+      "meaning": "to complain; to grumble (about); to reproach; to blame"
+    },
+    {
+      "type": "hanzi",
+      "character": "慢性",
+      "romaji": "màn xìng",
+      "meaning": "slow and patient; chronic (disease); slow to take effect (e.g. a slow poison)"
+    },
+    {
+      "type": "hanzi",
+      "character": "漫长",
+      "romaji": "màn cháng",
+      "meaning": "very long; endless"
+    }
+  ]
+}

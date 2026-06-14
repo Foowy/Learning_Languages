@@ -1,0 +1,67 @@
+{
+  "unit": 100,
+  "lesson": 3,
+  "title": "Vocabulary — Frequency 18621–18630",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "大将",
+      "romaji": "たいしょう",
+      "meaning": "general; admiral"
+    },
+    {
+      "type": "kanji",
+      "character": "凧",
+      "romaji": "たこ",
+      "meaning": "kite"
+    },
+    {
+      "type": "kanji",
+      "character": "脱衣所",
+      "romaji": "だついじょ",
+      "meaning": "bathroom antechamber; dressing room"
+    },
+    {
+      "type": "kanji",
+      "character": "谷",
+      "romaji": "たに",
+      "meaning": "valley; ravine"
+    },
+    {
+      "type": "kanji",
+      "character": "端",
+      "romaji": "はし",
+      "meaning": "end (e.g. of street); tip"
+    },
+    {
+      "type": "kanji",
+      "character": "値",
+      "romaji": "あたい",
+      "meaning": "price; cost"
+    },
+    {
+      "type": "kanji",
+      "character": "中指",
+      "romaji": "なかゆび",
+      "meaning": "middle finger; long finger"
+    },
+    {
+      "type": "kanji",
+      "character": "昼間",
+      "romaji": "ひるま",
+      "meaning": "daytime; during the day"
+    },
+    {
+      "type": "kanji",
+      "character": "注ぎ込む",
+      "romaji": "そそぎこむ",
+      "meaning": "to pour in (liquids)"
+    },
+    {
+      "type": "kanji",
+      "character": "つぎ込む",
+      "romaji": "つぎこむ",
+      "meaning": "to invest in; to sink money into"
+    }
+  ]
+}

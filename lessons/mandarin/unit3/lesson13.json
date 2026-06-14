@@ -1,0 +1,67 @@
+{
+  "unit": 3,
+  "lesson": 13,
+  "title": "HSK 3 Vocabulary — Part 13",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "街道",
+      "romaji": "jiē dào",
+      "meaning": "street; CL:條|条[tiáo]; subdistrict; residential district"
+    },
+    {
+      "type": "hanzi",
+      "character": "节目",
+      "romaji": "jié mù",
+      "meaning": "program; item (on a program); CL:臺|台; 個|个; 套[tào]"
+    },
+    {
+      "type": "hanzi",
+      "character": "节日",
+      "romaji": "jié rì",
+      "meaning": "holiday; festival; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "结婚",
+      "romaji": "jié hūn",
+      "meaning": "to marry; to get married; CL:次[cì]"
+    },
+    {
+      "type": "hanzi",
+      "character": "结束",
+      "romaji": "jié shù",
+      "meaning": "termination; to finish; to end; to conclude; to close"
+    },
+    {
+      "type": "hanzi",
+      "character": "解决",
+      "romaji": "jiě jué",
+      "meaning": "to settle (a dispute); to resolve; to solve; to dispose of; to dispatch"
+    },
+    {
+      "type": "hanzi",
+      "character": "借",
+      "romaji": "jiè",
+      "meaning": "to lend; to borrow; by means of; to take (an opportunity)"
+    },
+    {
+      "type": "hanzi",
+      "character": "经常",
+      "romaji": "jīng cháng",
+      "meaning": "day to day; everyday; daily; frequently; constantly; regularly; often"
+    },
+    {
+      "type": "hanzi",
+      "character": "经过",
+      "romaji": "jīng guò",
+      "meaning": "to pass; to go through; process; course; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "经理",
+      "romaji": "jīng lǐ",
+      "meaning": "manager; director; CL:個|个; 位; 名[míng]"
+    }
+  ]
+}

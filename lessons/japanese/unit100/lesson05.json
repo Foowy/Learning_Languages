@@ -1,0 +1,67 @@
+{
+  "unit": 100,
+  "lesson": 5,
+  "title": "Vocabulary — Frequency 18641–18650",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "敵",
+      "romaji": "てき",
+      "meaning": "opponent; rival"
+    },
+    {
+      "type": "kanji",
+      "character": "天の川",
+      "romaji": "あまのがわ",
+      "meaning": "Milky Way; luminous band corresponding to the plane of the galaxy"
+    },
+    {
+      "type": "kanji",
+      "character": "天皇",
+      "romaji": "てんのう",
+      "meaning": "Emperor of Japan"
+    },
+    {
+      "type": "kanji",
+      "character": "天神",
+      "romaji": "てんじん",
+      "meaning": "heavenly god; heavenly gods"
+    },
+    {
+      "type": "kanji",
+      "character": "天地",
+      "romaji": "てんち",
+      "meaning": "heaven and earth; the universe"
+    },
+    {
+      "type": "kanji",
+      "character": "店",
+      "romaji": "みせ",
+      "meaning": "store; shop"
+    },
+    {
+      "type": "kanji",
+      "character": "店",
+      "romaji": "てん",
+      "meaning": "store; shop"
+    },
+    {
+      "type": "kanji",
+      "character": "転ぶ",
+      "romaji": "ころぶ",
+      "meaning": "to fall down; to fall over"
+    },
+    {
+      "type": "kanji",
+      "character": "灯す",
+      "romaji": "ともす",
+      "meaning": "to light (a candle, lamp, etc.); to turn on (a light)"
+    },
+    {
+      "type": "kanji",
+      "character": "伝言",
+      "romaji": "でんごん",
+      "meaning": "(verbal) message; word (from someone)"
+    }
+  ]
+}

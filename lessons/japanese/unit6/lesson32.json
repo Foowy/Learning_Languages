@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 32,
+  "title": "JLPT N2/N1 Kanji — Part 32",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "繁",
+      "romaji": "ハン / しげ.る・しげ.く",
+      "meaning": "luxuriant; thick; overgrown"
+    },
+    {
+      "type": "kanji",
+      "character": "翼",
+      "romaji": "ヨク / つばさ",
+      "meaning": "wing; plane; flank"
+    },
+    {
+      "type": "kanji",
+      "character": "潟",
+      "romaji": "セキ / かた・-がた",
+      "meaning": "lagoon"
+    },
+    {
+      "type": "kanji",
+      "character": "敵",
+      "romaji": "テキ / かたき・あだ・かな.う",
+      "meaning": "enemy; foe; opponent"
+    },
+    {
+      "type": "kanji",
+      "character": "魅",
+      "romaji": "ミ",
+      "meaning": "fascination; charm; bewitch"
+    },
+    {
+      "type": "kanji",
+      "character": "嫌",
+      "romaji": "ケン・ゲン / きら.う・きら.い・いや",
+      "meaning": "dislike; detest; hate"
+    },
+    {
+      "type": "kanji",
+      "character": "斉",
+      "romaji": "セイ・サイ / そろ.う・ひと.しい・ひと.しく・あたる・はやい",
+      "meaning": "adjusted; alike; equal"
+    },
+    {
+      "type": "kanji",
+      "character": "敷",
+      "romaji": "フ / し.く・-し.き",
+      "meaning": "spread; pave; sit"
+    },
+    {
+      "type": "kanji",
+      "character": "擁",
+      "romaji": "ヨウ",
+      "meaning": "hug; embrace; possess"
+    },
+    {
+      "type": "kanji",
+      "character": "圏",
+      "romaji": "ケン / かこ.い",
+      "meaning": "sphere; circle; radius"
+    }
+  ]
+}

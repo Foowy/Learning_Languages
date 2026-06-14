@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 12,
+  "title": "JLPT N3 Kanji — Part 12",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "果",
+      "romaji": "カ / は.たす・はた.す・-は.たす・は.てる・-は.てる・は.て",
+      "meaning": "fruit; reward; carry out"
+    },
+    {
+      "type": "kanji",
+      "character": "勢",
+      "romaji": "セイ・ゼイ / いきお.い・はずみ",
+      "meaning": "forces; energy; military strength"
+    },
+    {
+      "type": "kanji",
+      "character": "減",
+      "romaji": "ゲン / へ.る・へ.らす",
+      "meaning": "dwindle; decrease; reduce"
+    },
+    {
+      "type": "kanji",
+      "character": "容",
+      "romaji": "ヨウ / い.れる",
+      "meaning": "contain; form; looks"
+    },
+    {
+      "type": "kanji",
+      "character": "必",
+      "romaji": "ヒツ / かなら.ず",
+      "meaning": "invariably; certain; inevitable"
+    },
+    {
+      "type": "kanji",
+      "character": "応",
+      "romaji": "オウ・ヨウ・-ノウ / あた.る・まさに・こた.える",
+      "meaning": "apply; answer; yes"
+    },
+    {
+      "type": "kanji",
+      "character": "演",
+      "romaji": "エン",
+      "meaning": "performance; act; play"
+    },
+    {
+      "type": "kanji",
+      "character": "歳",
+      "romaji": "サイ・セイ / とし・とせ・よわい",
+      "meaning": "year-end; age; occasion"
+    },
+    {
+      "type": "kanji",
+      "character": "争",
+      "romaji": "ソウ / あらそ.う・いか.でか",
+      "meaning": "contend; dispute; argue"
+    },
+    {
+      "type": "kanji",
+      "character": "談",
+      "romaji": "ダン",
+      "meaning": "discuss; talk"
+    }
+  ]
+}

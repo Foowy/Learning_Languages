@@ -1,0 +1,67 @@
+{
+  "unit": 71,
+  "lesson": 5,
+  "title": "Vocabulary — Frequency 12841–12850",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "送り先",
+      "romaji": "おくりさき",
+      "meaning": "recipient; addressee"
+    },
+    {
+      "type": "kanji",
+      "character": "送り返す",
+      "romaji": "おくりかえす",
+      "meaning": "to send back"
+    },
+    {
+      "type": "kanji",
+      "character": "送る",
+      "romaji": "おくる",
+      "meaning": "to send; to dispatch"
+    },
+    {
+      "type": "kanji",
+      "character": "送還",
+      "romaji": "そうかん",
+      "meaning": "sending home; repatriation"
+    },
+    {
+      "type": "kanji",
+      "character": "送金",
+      "romaji": "そうきん",
+      "meaning": "remittance; sending money"
+    },
+    {
+      "type": "kanji",
+      "character": "送迎",
+      "romaji": "そうげい",
+      "meaning": "seeing off and meeting on return"
+    },
+    {
+      "type": "kanji",
+      "character": "送検",
+      "romaji": "そうけん",
+      "meaning": "committing a suspect to trial; referring a case to a public prosecutor"
+    },
+    {
+      "type": "kanji",
+      "character": "送信",
+      "romaji": "そうしん",
+      "meaning": "transmission; sending"
+    },
+    {
+      "type": "kanji",
+      "character": "送電",
+      "romaji": "そうでん",
+      "meaning": "transmission of electricity; electricity supply"
+    },
+    {
+      "type": "kanji",
+      "character": "送付",
+      "romaji": "そうふ",
+      "meaning": "sending; forwarding"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 6,
+  "lesson": 30,
+  "title": "JLPT N2/N1 Kanji — Part 30",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "兼",
+      "romaji": "ケン / か.ねる・-か.ねる",
+      "meaning": "concurrently; and; beforehand"
+    },
+    {
+      "type": "kanji",
+      "character": "聖",
+      "romaji": "セイ・ショウ / ひじり",
+      "meaning": "holy; saint; sage"
+    },
+    {
+      "type": "kanji",
+      "character": "旨",
+      "romaji": "シ / むね・うま.い",
+      "meaning": "delicious; relish; show a liking for"
+    },
+    {
+      "type": "kanji",
+      "character": "即",
+      "romaji": "ソク / つ.く・つ.ける・すなわ.ち",
+      "meaning": "instant; namely; as is"
+    },
+    {
+      "type": "kanji",
+      "character": "柳",
+      "romaji": "リュウ / やなぎ",
+      "meaning": "willow"
+    },
+    {
+      "type": "kanji",
+      "character": "舎",
+      "romaji": "シャ・セキ / やど.る",
+      "meaning": "cottage; inn; hut"
+    },
+    {
+      "type": "kanji",
+      "character": "偽",
+      "romaji": "ギ・カ / いつわ.る・にせ・いつわ.り",
+      "meaning": "falsehood; lie; deceive"
+    },
+    {
+      "type": "kanji",
+      "character": "覇",
+      "romaji": "ハ・ハク / はたがしら",
+      "meaning": "hegemony; supremacy; leadership"
+    },
+    {
+      "type": "kanji",
+      "character": "詳",
+      "romaji": "ショウ / くわ.しい・つまび.らか",
+      "meaning": "detailed; full; minute"
+    },
+    {
+      "type": "kanji",
+      "character": "抵",
+      "romaji": "テイ",
+      "meaning": "resist; reach; touch"
+    }
+  ]
+}

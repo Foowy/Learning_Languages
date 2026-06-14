@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 110,
+  "title": "HSK 5 Vocabulary — Part 110",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "叙述",
+      "romaji": "xù shù",
+      "meaning": "to relate (a story or information); to tell or talk about; to recount; narration; telling; narrative; account"
+    },
+    {
+      "type": "hanzi",
+      "character": "宣布",
+      "romaji": "xuān bù",
+      "meaning": "to declare; to announce; to proclaim"
+    },
+    {
+      "type": "hanzi",
+      "character": "宣传",
+      "romaji": "xuān chuán",
+      "meaning": "to disseminate; to give publicity to; propaganda; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "选举",
+      "romaji": "xuǎn jǔ",
+      "meaning": "to elect; election; CL:次; 個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "学期",
+      "romaji": "xué qī",
+      "meaning": "term; semester; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "学术",
+      "romaji": "xué shù",
+      "meaning": "learning; science; academic; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "学问",
+      "romaji": "xué wèn",
+      "meaning": "learning; knowledge; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "寻找",
+      "romaji": "xún zhǎo",
+      "meaning": "to seek; to look for"
+    },
+    {
+      "type": "hanzi",
+      "character": "询问",
+      "romaji": "xún wèn",
+      "meaning": "to inquire"
+    },
+    {
+      "type": "hanzi",
+      "character": "训练",
+      "romaji": "xùn liàn",
+      "meaning": "to train; to drill; training; CL:個|个[gè]"
+    }
+  ]
+}

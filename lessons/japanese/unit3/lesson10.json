@@ -1,0 +1,67 @@
+{
+  "unit": 3,
+  "lesson": 10,
+  "title": "JLPT N5 Kanji — Part 10",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "火",
+      "romaji": "カ / ひ・-び・ほ-",
+      "meaning": "fire"
+    },
+    {
+      "type": "kanji",
+      "character": "花",
+      "romaji": "カ・ケ / はな",
+      "meaning": "flower"
+    },
+    {
+      "type": "kanji",
+      "character": "右",
+      "romaji": "ウ・ユウ / みぎ",
+      "meaning": "right"
+    },
+    {
+      "type": "kanji",
+      "character": "読",
+      "romaji": "ドク・トク・トウ / よ.む・-よ.み",
+      "meaning": "read"
+    },
+    {
+      "type": "kanji",
+      "character": "友",
+      "romaji": "ユウ / とも",
+      "meaning": "friend"
+    },
+    {
+      "type": "kanji",
+      "character": "左",
+      "romaji": "サ・シャ / ひだり",
+      "meaning": "left"
+    },
+    {
+      "type": "kanji",
+      "character": "休",
+      "romaji": "キュウ / やす.む・やす.まる・やす.める",
+      "meaning": "rest; day off; retire"
+    },
+    {
+      "type": "kanji",
+      "character": "父",
+      "romaji": "フ / ちち",
+      "meaning": "father"
+    },
+    {
+      "type": "kanji",
+      "character": "駅",
+      "romaji": "エキ",
+      "meaning": "station"
+    },
+    {
+      "type": "kanji",
+      "character": "雨",
+      "romaji": "ウ / あめ・あま-・-さめ",
+      "meaning": "rain"
+    }
+  ]
+}

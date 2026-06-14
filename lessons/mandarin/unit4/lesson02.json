@@ -1,0 +1,67 @@
+{
+  "unit": 4,
+  "lesson": 2,
+  "title": "HSK 4 Vocabulary — Part 2",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "抱歉",
+      "romaji": "bào qiàn",
+      "meaning": "to be sorry; to feel apologetic; sorry!"
+    },
+    {
+      "type": "hanzi",
+      "character": "报道",
+      "romaji": "bào dào",
+      "meaning": "report; CL:篇; 份[fèn]"
+    },
+    {
+      "type": "hanzi",
+      "character": "报名",
+      "romaji": "bào míng",
+      "meaning": "to sign up; to enter one's name; to apply; to register; to enroll; to enlist"
+    },
+    {
+      "type": "hanzi",
+      "character": "倍",
+      "romaji": "bèi",
+      "meaning": "(two; three etc) -fold; times (multiplier); double; to increase or multiply"
+    },
+    {
+      "type": "hanzi",
+      "character": "本来",
+      "romaji": "běn lái",
+      "meaning": "original; originally; at first; it goes without saying; of course"
+    },
+    {
+      "type": "hanzi",
+      "character": "笨",
+      "romaji": "bèn",
+      "meaning": "stupid; foolish; silly; slow-witted; clumsy"
+    },
+    {
+      "type": "hanzi",
+      "character": "笔记本",
+      "romaji": "bǐ jì běn",
+      "meaning": "notebook; CL:本[běn]"
+    },
+    {
+      "type": "hanzi",
+      "character": "毕业",
+      "romaji": "bì yè",
+      "meaning": "graduation; to graduate; to finish school"
+    },
+    {
+      "type": "hanzi",
+      "character": "遍",
+      "romaji": "biàn",
+      "meaning": "everywhere; all over; classifier for actions: one time"
+    },
+    {
+      "type": "hanzi",
+      "character": "标准",
+      "romaji": "biāo zhǔn",
+      "meaning": "(an official) standard; norm; criterion; CL:個|个[gè]"
+    }
+  ]
+}

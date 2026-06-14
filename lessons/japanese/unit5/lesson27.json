@@ -1,0 +1,67 @@
+{
+  "unit": 5,
+  "lesson": 27,
+  "title": "JLPT N3 Kanji — Part 27",
+  "cards": [
+    {
+      "type": "kanji",
+      "character": "程",
+      "romaji": "テイ / ほど・-ほど",
+      "meaning": "extent; degree; law"
+    },
+    {
+      "type": "kanji",
+      "character": "満",
+      "romaji": "マン・バン / み.ちる・み.つ・み.たす",
+      "meaning": "full; fullness; enough"
+    },
+    {
+      "type": "kanji",
+      "character": "敗",
+      "romaji": "ハイ / やぶ.れる",
+      "meaning": "failure; defeat; reversal"
+    },
+    {
+      "type": "kanji",
+      "character": "管",
+      "romaji": "カン / くだ",
+      "meaning": "pipe; tube; wind instrument"
+    },
+    {
+      "type": "kanji",
+      "character": "値",
+      "romaji": "チ / ね・あたい",
+      "meaning": "price; cost; value"
+    },
+    {
+      "type": "kanji",
+      "character": "突",
+      "romaji": "トツ・カ / つ.く",
+      "meaning": "stab; protruding; thrust"
+    },
+    {
+      "type": "kanji",
+      "character": "兵",
+      "romaji": "ヘイ・ヒョウ / つわもの",
+      "meaning": "soldier; private; troops"
+    },
+    {
+      "type": "kanji",
+      "character": "接",
+      "romaji": "セツ・ショウ / つ.ぐ",
+      "meaning": "touch; contact; adjoin"
+    },
+    {
+      "type": "kanji",
+      "character": "器",
+      "romaji": "キ / うつわ",
+      "meaning": "utensil; vessel; receptacle"
+    },
+    {
+      "type": "kanji",
+      "character": "路",
+      "romaji": "ロ・ル / -じ・みち",
+      "meaning": "path; route; road"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "unit": 3,
+  "lesson": 5,
+  "title": "HSK 3 Vocabulary — Part 5",
+  "cards": [
+    {
+      "type": "hanzi",
+      "character": "春",
+      "romaji": "chūn",
+      "meaning": "spring (time); gay; joyful; youthful; love; lust; life"
+    },
+    {
+      "type": "hanzi",
+      "character": "词语",
+      "romaji": "cí yǔ",
+      "meaning": "word (general term including monosyllables through to short phrases); term (e.g. technical term); expression"
+    },
+    {
+      "type": "hanzi",
+      "character": "聪明",
+      "romaji": "cōng ming",
+      "meaning": "acute (of sight and hearing); clever; intelligent; bright; smart"
+    },
+    {
+      "type": "hanzi",
+      "character": "打扫",
+      "romaji": "dǎ sǎo",
+      "meaning": "to clean; to sweep"
+    },
+    {
+      "type": "hanzi",
+      "character": "打算",
+      "romaji": "dǎ suàn",
+      "meaning": "to plan; to intend; to calculate; plan; intention; calculation; CL:個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "带",
+      "romaji": "dài",
+      "meaning": "band; belt; girdle; ribbon; tire; area; zone; region; CL:條|条[tiáo]; to wear; to carry; to take along; to bear (i.e. to have); to lead; to bring; to look after; to raise"
+    },
+    {
+      "type": "hanzi",
+      "character": "担心",
+      "romaji": "dān xīn",
+      "meaning": "anxious; worried; uneasy; to worry; to be anxious"
+    },
+    {
+      "type": "hanzi",
+      "character": "蛋糕",
+      "romaji": "dàn gāo",
+      "meaning": "cake; CL:塊|块; 個|个[gè]"
+    },
+    {
+      "type": "hanzi",
+      "character": "当然",
+      "romaji": "dāng rán",
+      "meaning": "only natural; as it should be; certainly; of course; without doubt"
+    },
+    {
+      "type": "hanzi",
+      "character": "地",
+      "romaji": "de",
+      "meaning": "-ly; structural particle: used before a verb or adjective; linking it to preceding modifying adverbial adjunct"
+    }
+  ]
+}
