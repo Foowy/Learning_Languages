@@ -75,12 +75,7 @@ document.querySelectorAll('.nav-link[data-page]').forEach(a => {
   });
 });
 
-window.addEventListener('hashchange', () => {
-  const user = getCurrentUser();
-  if (!user.id) { renderUserPicker(); return; }
-  if (!sessionStorage.getItem('currentLanguage')) { renderLanguagePicker(); return; }
-  navigate(window.location.hash);
-});
+window.addEventListener('hashchange', () => init());
 
 // --- Startup gating ---
 function init() {

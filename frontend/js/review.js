@@ -14,6 +14,7 @@ async function renderReview() {
   }
 
   let idx = 0;
+  let rating = false;
 
   function showCard() {
     if (idx >= cards.length) {
@@ -57,12 +58,15 @@ async function renderReview() {
   };
 
   window.rate = async function(score) {
-    await fetch(`/api/review/update?${window.apiParams()}`, {
+    if (rating) return;
+    rating = true;
+    await fetch(`/api/review/update?${params}`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ card_id: cards[idx].id, score }),
     });
     idx++;
+    rating = false;
     showCard();
   };
 
