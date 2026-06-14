@@ -61,3 +61,22 @@ jobs:
             git commit -m "chore(lessons): regenerate from latest source data"
             git push
           fi
+
+      - name: Package and release lessons
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          tar -czf lessons.tar.gz -C lessons .
+          gh release upload lessons-latest lessons.tar.gz --clobber \
+            --repo ${{ github.repository }} || \
+          gh release create lessons-latest lessons.tar.gz \
+            --repo ${{ github.repository }} \
+            --title "Lessons Pack (latest)" \
+            --notes "Auto-packaged lessons from commit ${{ github.sha }}.
+
+          Set in \`docker-compose.yml\`:
+          \`\`\`
+          LESSONS_PACK_URL: https://github.com/${{ github.repository }}/releases/download/lessons-latest/lessons.tar.gz
+          LESSONS_PACK_VERSION: ${{ github.sha }}
+          \`\`\`" \
+            --latest=false
