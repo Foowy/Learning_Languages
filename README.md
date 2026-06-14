@@ -1,2 +1,2 @@
 # Learning_Japanese
-Trial and Error for Learning Japanese
+Trial and Error for Learning Languages
