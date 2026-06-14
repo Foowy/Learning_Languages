@@ -60,18 +60,20 @@ async def seed_if_empty():
 
     db_path = app.database.get_db_path()
     db_path.parent.mkdir(parents=True, exist_ok=True)
+    lesson_files = sorted(lessons_dir.rglob("lesson*.json")) if lessons_dir.exists() else []
+    if not lesson_files:
+        return
+
     async with aiosqlite.connect(db_path) as db:
-        cursor = await db.execute("SELECT COUNT(*) FROM cards")
-        count = (await cursor.fetchone())[0]
-        if count > 0:
-            return
-        lesson_files = sorted(lessons_dir.rglob("lesson*.json")) if lessons_dir.exists() else []
-        if not lesson_files:
-            return
+        cursor = await db.execute("SELECT DISTINCT language FROM cards")
+        seeded_languages = {row[0] for row in await cursor.fetchall()}
+
+        inserted = 0
         for lesson_file in lesson_files:
-            # Path structure: lessons_dir/{language}/unit{N}/lesson{N}.json
             rel_parts = lesson_file.relative_to(lessons_dir).parts
             language = rel_parts[0] if len(rel_parts) >= 3 else "japanese"
+            if language in seeded_languages:
+                continue
             data = json.loads(lesson_file.read_text(encoding="utf-8"))
             for card in data["cards"]:
                 await db.execute(
@@ -83,4 +85,6 @@ async def seed_if_empty():
                         card.get("video"),
                     ),
                 )
-        await db.commit()
+            inserted += 1
+        if inserted:
+            await db.commit()
