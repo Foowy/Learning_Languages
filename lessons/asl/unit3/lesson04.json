@@ -1,0 +1,42 @@
+{
+  "unit": 3,
+  "lesson": 4,
+  "title": "Introductions",
+  "cards": [
+    {
+      "type": "sign",
+      "character": "MY NAME",
+      "romaji": "my name",
+      "meaning": "my name is",
+      "video": "sign_my_name.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "YOUR NAME",
+      "romaji": "your name",
+      "meaning": "what is your name",
+      "video": "sign_your_name.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "NICE TO MEET YOU",
+      "romaji": "nice to meet you",
+      "meaning": "nice to meet you",
+      "video": "sign_nice_to_meet_you.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "I LOVE YOU",
+      "romaji": "I love you",
+      "meaning": "I love you",
+      "video": "sign_i_love_you.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "UNDERSTAND",
+      "romaji": "understand",
+      "meaning": "understand / I understand",
+      "video": "sign_understand.mp4"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "unit": 1,
+  "lesson": 1,
+  "title": "Manual Alphabet: A – E",
+  "cards": [
+    {
+      "type": "fingerspelling",
+      "character": "A",
+      "romaji": "A",
+      "meaning": "letter A",
+      "video": "fs_a.mp4"
+    },
+    {
+      "type": "fingerspelling",
+      "character": "B",
+      "romaji": "B",
+      "meaning": "letter B",
+      "video": "fs_b.mp4"
+    },
+    {
+      "type": "fingerspelling",
+      "character": "C",
+      "romaji": "C",
+      "meaning": "letter C",
+      "video": "fs_c.mp4"
+    },
+    {
+      "type": "fingerspelling",
+      "character": "D",
+      "romaji": "D",
+      "meaning": "letter D",
+      "video": "fs_d.mp4"
+    },
+    {
+      "type": "fingerspelling",
+      "character": "E",
+      "romaji": "E",
+      "meaning": "letter E",
+      "video": "fs_e.mp4"
+    }
+  ]
+}

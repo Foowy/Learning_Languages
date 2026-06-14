@@ -1,0 +1,42 @@
+{
+  "unit": 2,
+  "lesson": 2,
+  "title": "Numbers: 6 – 10",
+  "cards": [
+    {
+      "type": "number",
+      "character": "6",
+      "romaji": "six",
+      "meaning": "six",
+      "video": "num_6.mp4"
+    },
+    {
+      "type": "number",
+      "character": "7",
+      "romaji": "seven",
+      "meaning": "seven",
+      "video": "num_7.mp4"
+    },
+    {
+      "type": "number",
+      "character": "8",
+      "romaji": "eight",
+      "meaning": "eight",
+      "video": "num_8.mp4"
+    },
+    {
+      "type": "number",
+      "character": "9",
+      "romaji": "nine",
+      "meaning": "nine",
+      "video": "num_9.mp4"
+    },
+    {
+      "type": "number",
+      "character": "10",
+      "romaji": "ten",
+      "meaning": "ten",
+      "video": "num_10.mp4"
+    }
+  ]
+}

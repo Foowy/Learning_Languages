@@ -1,0 +1,42 @@
+{
+  "unit": 2,
+  "lesson": 4,
+  "title": "Numbers: 16 – 20",
+  "cards": [
+    {
+      "type": "number",
+      "character": "16",
+      "romaji": "sixteen",
+      "meaning": "sixteen",
+      "video": "num_16.mp4"
+    },
+    {
+      "type": "number",
+      "character": "17",
+      "romaji": "seventeen",
+      "meaning": "seventeen",
+      "video": "num_17.mp4"
+    },
+    {
+      "type": "number",
+      "character": "18",
+      "romaji": "eighteen",
+      "meaning": "eighteen",
+      "video": "num_18.mp4"
+    },
+    {
+      "type": "number",
+      "character": "19",
+      "romaji": "nineteen",
+      "meaning": "nineteen",
+      "video": "num_19.mp4"
+    },
+    {
+      "type": "number",
+      "character": "20",
+      "romaji": "twenty",
+      "meaning": "twenty",
+      "video": "num_20.mp4"
+    }
+  ]
+}

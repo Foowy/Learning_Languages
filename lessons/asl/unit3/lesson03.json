@@ -1,0 +1,42 @@
+{
+  "unit": 3,
+  "lesson": 3,
+  "title": "Question Words",
+  "cards": [
+    {
+      "type": "sign",
+      "character": "WHAT",
+      "romaji": "what",
+      "meaning": "what",
+      "video": "sign_what.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "WHERE",
+      "romaji": "where",
+      "meaning": "where",
+      "video": "sign_where.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "WHEN",
+      "romaji": "when",
+      "meaning": "when",
+      "video": "sign_when.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "WHO",
+      "romaji": "who",
+      "meaning": "who",
+      "video": "sign_who.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "HOW",
+      "romaji": "how",
+      "meaning": "how",
+      "video": "sign_how.mp4"
+    }
+  ]
+}

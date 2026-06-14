@@ -1,0 +1,42 @@
+{
+  "unit": 1,
+  "lesson": 3,
+  "title": "Manual Alphabet: K – O",
+  "cards": [
+    {
+      "type": "fingerspelling",
+      "character": "K",
+      "romaji": "K",
+      "meaning": "letter K",
+      "video": "fs_k.mp4"
+    },
+    {
+      "type": "fingerspelling",
+      "character": "L",
+      "romaji": "L",
+      "meaning": "letter L",
+      "video": "fs_l.mp4"
+    },
+    {
+      "type": "fingerspelling",
+      "character": "M",
+      "romaji": "M",
+      "meaning": "letter M",
+      "video": "fs_m.mp4"
+    },
+    {
+      "type": "fingerspelling",
+      "character": "N",
+      "romaji": "N",
+      "meaning": "letter N",
+      "video": "fs_n.mp4"
+    },
+    {
+      "type": "fingerspelling",
+      "character": "O",
+      "romaji": "O",
+      "meaning": "letter O",
+      "video": "fs_o.mp4"
+    }
+  ]
+}

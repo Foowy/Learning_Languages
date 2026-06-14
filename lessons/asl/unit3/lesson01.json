@@ -1,0 +1,42 @@
+{
+  "unit": 3,
+  "lesson": 1,
+  "title": "Greetings",
+  "cards": [
+    {
+      "type": "sign",
+      "character": "HELLO",
+      "romaji": "hello",
+      "meaning": "hello / greetings",
+      "video": "sign_hello.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "GOODBYE",
+      "romaji": "goodbye",
+      "meaning": "goodbye / bye",
+      "video": "sign_goodbye.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "PLEASE",
+      "romaji": "please",
+      "meaning": "please",
+      "video": "sign_please.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "THANK YOU",
+      "romaji": "thank you",
+      "meaning": "thank you",
+      "video": "sign_thank_you.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "SORRY",
+      "romaji": "sorry",
+      "meaning": "sorry / excuse me",
+      "video": "sign_sorry.mp4"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "unit": 5,
+  "lesson": 2,
+  "title": "Places",
+  "cards": [
+    {
+      "type": "sign",
+      "character": "HOME",
+      "romaji": "home",
+      "meaning": "home / house",
+      "video": "sign_home.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "SCHOOL",
+      "romaji": "school",
+      "meaning": "school",
+      "video": "sign_school.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "WORK",
+      "romaji": "work",
+      "meaning": "work / job",
+      "video": "sign_work.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "STORE",
+      "romaji": "store",
+      "meaning": "store / shop",
+      "video": "sign_store.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "HOSPITAL",
+      "romaji": "hospital",
+      "meaning": "hospital",
+      "video": "sign_hospital.mp4"
+    }
+  ]
+}

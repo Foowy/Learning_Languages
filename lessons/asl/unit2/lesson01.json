@@ -1,0 +1,42 @@
+{
+  "unit": 2,
+  "lesson": 1,
+  "title": "Numbers: 1 – 5",
+  "cards": [
+    {
+      "type": "number",
+      "character": "1",
+      "romaji": "one",
+      "meaning": "one",
+      "video": "num_1.mp4"
+    },
+    {
+      "type": "number",
+      "character": "2",
+      "romaji": "two",
+      "meaning": "two",
+      "video": "num_2.mp4"
+    },
+    {
+      "type": "number",
+      "character": "3",
+      "romaji": "three",
+      "meaning": "three",
+      "video": "num_3.mp4"
+    },
+    {
+      "type": "number",
+      "character": "4",
+      "romaji": "four",
+      "meaning": "four",
+      "video": "num_4.mp4"
+    },
+    {
+      "type": "number",
+      "character": "5",
+      "romaji": "five",
+      "meaning": "five",
+      "video": "num_5.mp4"
+    }
+  ]
+}

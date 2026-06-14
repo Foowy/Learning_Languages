@@ -1,0 +1,42 @@
+{
+  "unit": 1,
+  "lesson": 2,
+  "title": "Manual Alphabet: F – J",
+  "cards": [
+    {
+      "type": "fingerspelling",
+      "character": "F",
+      "romaji": "F",
+      "meaning": "letter F",
+      "video": "fs_f.mp4"
+    },
+    {
+      "type": "fingerspelling",
+      "character": "G",
+      "romaji": "G",
+      "meaning": "letter G",
+      "video": "fs_g.mp4"
+    },
+    {
+      "type": "fingerspelling",
+      "character": "H",
+      "romaji": "H",
+      "meaning": "letter H",
+      "video": "fs_h.mp4"
+    },
+    {
+      "type": "fingerspelling",
+      "character": "I",
+      "romaji": "I",
+      "meaning": "letter I",
+      "video": "fs_i.mp4"
+    },
+    {
+      "type": "fingerspelling",
+      "character": "J",
+      "romaji": "J",
+      "meaning": "letter J",
+      "video": "fs_j.mp4"
+    }
+  ]
+}

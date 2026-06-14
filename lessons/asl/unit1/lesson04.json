@@ -1,0 +1,42 @@
+{
+  "unit": 1,
+  "lesson": 4,
+  "title": "Manual Alphabet: P – T",
+  "cards": [
+    {
+      "type": "fingerspelling",
+      "character": "P",
+      "romaji": "P",
+      "meaning": "letter P",
+      "video": "fs_p.mp4"
+    },
+    {
+      "type": "fingerspelling",
+      "character": "Q",
+      "romaji": "Q",
+      "meaning": "letter Q",
+      "video": "fs_q.mp4"
+    },
+    {
+      "type": "fingerspelling",
+      "character": "R",
+      "romaji": "R",
+      "meaning": "letter R",
+      "video": "fs_r.mp4"
+    },
+    {
+      "type": "fingerspelling",
+      "character": "S",
+      "romaji": "S",
+      "meaning": "letter S",
+      "video": "fs_s.mp4"
+    },
+    {
+      "type": "fingerspelling",
+      "character": "T",
+      "romaji": "T",
+      "meaning": "letter T",
+      "video": "fs_t.mp4"
+    }
+  ]
+}

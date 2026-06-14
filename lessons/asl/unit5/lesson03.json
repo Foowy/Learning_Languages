@@ -1,0 +1,42 @@
+{
+  "unit": 5,
+  "lesson": 3,
+  "title": "Descriptors",
+  "cards": [
+    {
+      "type": "sign",
+      "character": "GOOD",
+      "romaji": "good",
+      "meaning": "good",
+      "video": "sign_good.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "BAD",
+      "romaji": "bad",
+      "meaning": "bad",
+      "video": "sign_bad.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "BIG",
+      "romaji": "big",
+      "meaning": "big",
+      "video": "sign_big.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "SMALL",
+      "romaji": "small",
+      "meaning": "small",
+      "video": "sign_small.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "HOT",
+      "romaji": "hot",
+      "meaning": "hot",
+      "video": "sign_hot.mp4"
+    }
+  ]
+}

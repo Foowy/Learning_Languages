@@ -1,0 +1,42 @@
+{
+  "unit": 2,
+  "lesson": 3,
+  "title": "Numbers: 11 – 15",
+  "cards": [
+    {
+      "type": "number",
+      "character": "11",
+      "romaji": "eleven",
+      "meaning": "eleven",
+      "video": "num_11.mp4"
+    },
+    {
+      "type": "number",
+      "character": "12",
+      "romaji": "twelve",
+      "meaning": "twelve",
+      "video": "num_12.mp4"
+    },
+    {
+      "type": "number",
+      "character": "13",
+      "romaji": "thirteen",
+      "meaning": "thirteen",
+      "video": "num_13.mp4"
+    },
+    {
+      "type": "number",
+      "character": "14",
+      "romaji": "fourteen",
+      "meaning": "fourteen",
+      "video": "num_14.mp4"
+    },
+    {
+      "type": "number",
+      "character": "15",
+      "romaji": "fifteen",
+      "meaning": "fifteen",
+      "video": "num_15.mp4"
+    }
+  ]
+}

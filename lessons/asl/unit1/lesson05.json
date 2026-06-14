@@ -1,0 +1,49 @@
+{
+  "unit": 1,
+  "lesson": 5,
+  "title": "Manual Alphabet: U – Z",
+  "cards": [
+    {
+      "type": "fingerspelling",
+      "character": "U",
+      "romaji": "U",
+      "meaning": "letter U",
+      "video": "fs_u.mp4"
+    },
+    {
+      "type": "fingerspelling",
+      "character": "V",
+      "romaji": "V",
+      "meaning": "letter V",
+      "video": "fs_v.mp4"
+    },
+    {
+      "type": "fingerspelling",
+      "character": "W",
+      "romaji": "W",
+      "meaning": "letter W",
+      "video": "fs_w.mp4"
+    },
+    {
+      "type": "fingerspelling",
+      "character": "X",
+      "romaji": "X",
+      "meaning": "letter X",
+      "video": "fs_x.mp4"
+    },
+    {
+      "type": "fingerspelling",
+      "character": "Y",
+      "romaji": "Y",
+      "meaning": "letter Y",
+      "video": "fs_y.mp4"
+    },
+    {
+      "type": "fingerspelling",
+      "character": "Z",
+      "romaji": "Z",
+      "meaning": "letter Z",
+      "video": "fs_z.mp4"
+    }
+  ]
+}

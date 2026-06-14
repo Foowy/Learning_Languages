@@ -1,0 +1,42 @@
+{
+  "unit": 4,
+  "lesson": 2,
+  "title": "Extended Family",
+  "cards": [
+    {
+      "type": "sign",
+      "character": "GRANDMOTHER",
+      "romaji": "grandmother",
+      "meaning": "grandmother",
+      "video": "sign_grandmother.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "GRANDFATHER",
+      "romaji": "grandfather",
+      "meaning": "grandfather",
+      "video": "sign_grandfather.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "AUNT",
+      "romaji": "aunt",
+      "meaning": "aunt",
+      "video": "sign_aunt.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "UNCLE",
+      "romaji": "uncle",
+      "meaning": "uncle",
+      "video": "sign_uncle.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "FAMILY",
+      "romaji": "family",
+      "meaning": "family",
+      "video": "sign_family.mp4"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "unit": 4,
+  "lesson": 1,
+  "title": "Immediate Family",
+  "cards": [
+    {
+      "type": "sign",
+      "character": "MOTHER",
+      "romaji": "mother",
+      "meaning": "mother / mom",
+      "video": "sign_mother.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "FATHER",
+      "romaji": "father",
+      "meaning": "father / dad",
+      "video": "sign_father.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "SISTER",
+      "romaji": "sister",
+      "meaning": "sister",
+      "video": "sign_sister.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "BROTHER",
+      "romaji": "brother",
+      "meaning": "brother",
+      "video": "sign_brother.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "BABY",
+      "romaji": "baby",
+      "meaning": "baby",
+      "video": "sign_baby.mp4"
+    }
+  ]
+}

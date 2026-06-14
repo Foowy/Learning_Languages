@@ -1,0 +1,42 @@
+{
+  "unit": 5,
+  "lesson": 1,
+  "title": "Action Verbs",
+  "cards": [
+    {
+      "type": "sign",
+      "character": "EAT",
+      "romaji": "eat",
+      "meaning": "eat / food",
+      "video": "sign_eat.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "DRINK",
+      "romaji": "drink",
+      "meaning": "drink",
+      "video": "sign_drink.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "SLEEP",
+      "romaji": "sleep",
+      "meaning": "sleep",
+      "video": "sign_sleep.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "WALK",
+      "romaji": "walk",
+      "meaning": "walk",
+      "video": "sign_walk.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "PLAY",
+      "romaji": "play",
+      "meaning": "play",
+      "video": "sign_play.mp4"
+    }
+  ]
+}

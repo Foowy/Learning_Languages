@@ -1,0 +1,42 @@
+{
+  "unit": 3,
+  "lesson": 2,
+  "title": "Essential Signs",
+  "cards": [
+    {
+      "type": "sign",
+      "character": "YES",
+      "romaji": "yes",
+      "meaning": "yes",
+      "video": "sign_yes.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "NO",
+      "romaji": "no",
+      "meaning": "no",
+      "video": "sign_no.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "HELP",
+      "romaji": "help",
+      "meaning": "help",
+      "video": "sign_help.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "STOP",
+      "romaji": "stop",
+      "meaning": "stop",
+      "video": "sign_stop.mp4"
+    },
+    {
+      "type": "sign",
+      "character": "MORE",
+      "romaji": "more",
+      "meaning": "more",
+      "video": "sign_more.mp4"
+    }
+  ]
+}
