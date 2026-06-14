@@ -20,7 +20,12 @@ async def get_audio(text: str, language: str = "japanese") -> Path:
     voice = _VOICES.get(language, _DEFAULT_VOICE)
     key = hashlib.md5(f"{language}:{text}".encode()).hexdigest()
     path = AUDIO_DIR / f"{key}.mp3"
+    if path.exists() and path.stat().st_size == 0:
+        path.unlink()
     if not path.exists():
         communicate = edge_tts.Communicate(text, voice)
         await communicate.save(str(path))
+        if path.stat().st_size == 0:
+            path.unlink()
+            raise RuntimeError(f"edge-tts returned empty audio for: {text!r}")
     return path
