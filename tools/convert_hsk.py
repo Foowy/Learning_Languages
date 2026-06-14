@@ -6,17 +6,17 @@ Data source
 -----------
 Download pre-structured HSK JSON files from one of these open-source repositories:
 
-  gigacee/hsk-vocabulary   https://github.com/gigacee/hsk-vocabulary
-  Licence: CC BY-SA 4.0  (Electronic Dictionary Research and Development Group)
+  clem109/hsk-vocabulary   https://github.com/clem109/hsk-vocabulary
+  Licence: CC BY 4.0
 
-Expected input format — one JSON file per HSK level, e.g. hsk1.json:
+Expected input format — one JSON file per HSK level, e.g. hsk-level-1.json or hsk1.json:
 
   [
     {"hanzi": "爱", "pinyin": "ài", "english": "to love; love"},
     ...
   ]
 
-Field aliases accepted: hanzi/word/simplified, pinyin/reading, english/meaning/definition.
+Field aliases accepted: hanzi/word/simplified, pinyin/reading, english/meaning/definition/translations.
 
 Output
 ------
@@ -47,7 +47,8 @@ from pathlib import Path
 def _field(entry: dict, *keys: str) -> str:
     for k in keys:
         if k in entry:
-            return str(entry[k]).strip()
+            v = entry[k]
+            return "; ".join(v).strip() if isinstance(v, list) else str(v).strip()
     return ""
 
 
@@ -73,7 +74,7 @@ def convert(input_dir: Path, output_dir: Path, cards_per_lesson: int) -> None:
         for entry in raw:
             hanzi   = _field(entry, "hanzi", "word", "simplified")
             pinyin  = _field(entry, "pinyin", "reading")
-            meaning = _field(entry, "english", "meaning", "definition")
+            meaning = _field(entry, "english", "meaning", "definition", "translations")
             if not hanzi:
                 continue
             cards.append({"type": "hanzi", "character": hanzi, "romaji": pinyin, "meaning": meaning})

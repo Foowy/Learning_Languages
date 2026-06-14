@@ -36,12 +36,12 @@ jobs:
           echo "JMDICT=/tmp/jmdict/$(ls jmdict-eng-common-*.json | grep -v tgz)" >> $GITHUB_ENV
 
       - name: Download HSK data
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          gh repo clone gigacee/hsk-vocabulary /tmp/hsk-vocab -- --depth 1
           mkdir /tmp/hsk
-          find /tmp/hsk-vocab -name "hsk*.json" -exec cp {} /tmp/hsk/ \;
+          for level in 1 2 3 4 5 6; do
+            curl -fsSL "https://raw.githubusercontent.com/clem109/hsk-vocabulary/master/hsk-vocab-json/hsk-level-${level}.json" \
+              -o "/tmp/hsk/hsk-level-${level}.json"
+          done
 
       - name: Run converters
         run: |
