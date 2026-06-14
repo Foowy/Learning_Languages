@@ -134,17 +134,17 @@ Host bind mounts:
 | 2 | DB schema: users table + migration | ✅ Done |
 | 3 | Pillow dependency | ✅ Done |
 | 4 | Users API (list/create/avatar) | ✅ Done |
-| 5 | Languages API (auto-discover folders) | ⬜ Pending |
-| 6 | Seed update (language from path) | ⬜ Pending |
-| 7 | Lessons router: user_id + language params | ⬜ Pending |
-| 8 | Progress router: user_id + language params | ⬜ Pending |
-| 9 | Frontend index.html + nav buttons | ⬜ Pending |
-| 10 | Frontend users.js (profile picker) | ⬜ Pending |
-| 11 | Frontend languages.js (language picker) | ⬜ Pending |
-| 12 | Frontend app.js (session helpers, gating) | ⬜ Pending |
-| 13 | Frontend page updates (apiParams + ASL) | ⬜ Pending |
+| 5 | Languages API (auto-discover folders) | ✅ Done |
+| 6 | Seed update (language from path) | ✅ Done |
+| 7 | Lessons router: user_id + language params | ✅ Done |
+| 8 | Progress router: user_id + language params | ✅ Done |
+| 9 | Frontend index.html + nav buttons | ✅ Done |
+| 10 | Frontend users.js (profile picker) | ✅ Done |
+| 11 | Frontend languages.js (language picker) | ✅ Done |
+| 12 | Frontend app.js (session helpers, gating) | ✅ Done |
+| 13 | Frontend page updates (apiParams + ASL) | ✅ Done |
 
-**To resume:** Say "continue" — the subagent-driven development process will pick up at Task 5.
+**Status:** All 13 tasks complete as of 2026-06-14. Implementation is feature-complete.
 
 ## Known Deprecation Warnings (Pre-existing, Not Blockers)
 
