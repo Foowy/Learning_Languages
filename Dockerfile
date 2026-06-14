@@ -4,6 +4,8 @@ RUN apt-get update && apt-get install -y ffmpeg libjpeg-dev && rm -rf /var/lib/a
 
 WORKDIR /app
 
+RUN pip install --no-cache-dir setuptools
+
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
