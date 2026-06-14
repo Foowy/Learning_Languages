@@ -25,7 +25,7 @@ async def get_audio(text: str, language: str = "japanese") -> Path:
     if not path.exists():
         communicate = edge_tts.Communicate(text, voice)
         await communicate.save(str(path))
-        if path.stat().st_size == 0:
-            path.unlink()
+        if not path.exists() or path.stat().st_size == 0:
+            path.unlink(missing_ok=True)
             raise RuntimeError(f"edge-tts returned empty audio for: {text!r}")
     return path

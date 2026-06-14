@@ -3,10 +3,17 @@ import pytest
 from pathlib import Path
 from unittest.mock import AsyncMock, patch, MagicMock
 
+
+def fake_save():
+    async def _save(path):
+        Path(path).write_bytes(b"fake-mp3")
+    return AsyncMock(side_effect=_save)
+
+
 async def test_get_audio_returns_path(tmp_path, monkeypatch):
     monkeypatch.setattr("app.services.tts.AUDIO_DIR", tmp_path)
     mock_comm = MagicMock()
-    mock_comm.save = AsyncMock()
+    mock_comm.save = fake_save()
     with patch("edge_tts.Communicate", return_value=mock_comm):
         from app.services.tts import get_audio
         path = await get_audio("あ", "japanese")
@@ -16,19 +23,17 @@ async def test_get_audio_returns_path(tmp_path, monkeypatch):
 async def test_get_audio_caches(tmp_path, monkeypatch):
     monkeypatch.setattr("app.services.tts.AUDIO_DIR", tmp_path)
     mock_comm = MagicMock()
-    mock_comm.save = AsyncMock()
+    mock_comm.save = fake_save()
     with patch("edge_tts.Communicate", return_value=mock_comm) as mock_cls:
         from app.services.tts import get_audio
         await get_audio("あ", "japanese")
-        key = hashlib.md5("japanese:あ".encode()).hexdigest()
-        (tmp_path / f"{key}.mp3").touch()
         await get_audio("あ", "japanese")
     assert mock_cls.call_count == 1
 
 async def test_get_audio_uses_correct_voice(tmp_path, monkeypatch):
     monkeypatch.setattr("app.services.tts.AUDIO_DIR", tmp_path)
     mock_comm = MagicMock()
-    mock_comm.save = AsyncMock()
+    mock_comm.save = fake_save()
     with patch("edge_tts.Communicate", return_value=mock_comm) as mock_cls:
         from app.services.tts import get_audio
         await get_audio("안녕", "korean")
@@ -37,7 +42,7 @@ async def test_get_audio_uses_correct_voice(tmp_path, monkeypatch):
 async def test_get_audio_different_languages_different_cache_keys(tmp_path, monkeypatch):
     monkeypatch.setattr("app.services.tts.AUDIO_DIR", tmp_path)
     mock_comm = MagicMock()
-    mock_comm.save = AsyncMock()
+    mock_comm.save = fake_save()
     with patch("edge_tts.Communicate", return_value=mock_comm) as mock_cls:
         from app.services.tts import get_audio
         await get_audio("아", "korean")
