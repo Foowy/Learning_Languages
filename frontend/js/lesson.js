@@ -5,48 +5,60 @@ let quizResults = [];
 
 async function renderLesson(unit, lesson) {
   if (!unit || !lesson) { window.location.hash = '#lessons'; return; }
-  lessonData = await fetch(`/api/lessons/${unit}/${lesson}`).then(r => r.json());
+  const lang = sessionStorage.getItem('currentLanguage') || 'japanese';
+  lessonData = await fetch(`/api/lessons/${unit}/${lesson}?language=${lang}`).then(r => r.json());
   currentPhase = 0; currentCardIdx = 0; quizResults = [];
   showPhase();
 }
 
 function phaseBar() {
   return `<div class="phase-bar">
-    ${['Introduce','Speak','Write','Quiz'].map((p, i) => `
+    ${['Introduce', 'Speak', 'Write', 'Quiz'].map((p, i) => `
       <div class="phase-dot ${i < currentPhase ? 'done' : i === currentPhase ? 'active' : ''}"></div>
     `).join('')}
   </div>`;
 }
 
 function showPhase() {
+  const lang = sessionStorage.getItem('currentLanguage') || 'japanese';
   if (currentPhase === 0) showIntroduce();
-  else if (currentPhase === 1) showSpeak();
+  else if (currentPhase === 1) {
+    if (lang === 'asl') { currentPhase = 2; showWrite(); }
+    else showSpeak();
+  }
   else if (currentPhase === 2) showWrite();
   else showQuiz();
 }
 
 function showIntroduce() {
   const card = lessonData.cards[currentCardIdx];
+  const lang = sessionStorage.getItem('currentLanguage') || 'japanese';
+  const isAsl = lang === 'asl';
+  const mediaHtml = (isAsl && card.video)
+    ? `<video src="/videos/asl/${card.video}" autoplay loop muted playsinline
+              style="max-width:280px;max-height:280px;border-radius:8px;margin:0 auto;display:block"></video>`
+    : `<div style="font-size:80px;color:var(--accent-light)">${card.character}</div>`;
+
   document.getElementById('app').innerHTML = `
     ${phaseBar()}
     <div class="card" style="text-align:center;padding:32px">
-      <div style="font-size:80px;color:var(--accent-light)">${card.character}</div>
+      ${mediaHtml}
       <div style="font-size:24px;margin-top:8px">${card.romaji}</div>
       <div class="muted" style="margin-top:4px">${card.meaning}</div>
-      <button class="btn btn-secondary" style="margin-top:20px" onclick="playTTS('${card.character}')">🔊 Hear it</button>
+      ${!isAsl ? `<button class="btn btn-secondary" style="margin-top:20px" onclick="playTTS('${card.character}')">🔊 Hear it</button>` : ''}
     </div>
     <div style="display:flex;justify-content:space-between;margin-top:16px">
       <span class="muted">${currentCardIdx + 1} / ${lessonData.cards.length}</span>
       <button class="btn btn-primary" onclick="nextIntroduce()">Next →</button>
     </div>
   `;
-  playTTS(card.character);
+  if (!isAsl) playTTS(card.character);
 }
 
 window.nextIntroduce = function() {
   currentCardIdx++;
   if (currentCardIdx < lessonData.cards.length) showIntroduce();
-  else { currentPhase = 1; currentCardIdx = 0; showSpeak(); }
+  else { currentPhase = 1; currentCardIdx = 0; showPhase(); }
 };
 
 function showSpeak() {
@@ -193,7 +205,9 @@ function showQuiz() {
       quizResults.push(true);
     } else {
       el.classList.add('wrong');
-      document.querySelectorAll('.quiz-opt').forEach(o => { if (o.textContent.trim() === correct) o.classList.add('correct'); });
+      document.querySelectorAll('.quiz-opt').forEach(o => {
+        if (o.textContent.trim() === correct) o.classList.add('correct');
+      });
       quizResults.push(false);
     }
     setTimeout(() => { qIdx++; showQuestion(); }, 900);
@@ -205,11 +219,14 @@ function showQuiz() {
 async function showQuizResults() {
   const correct = quizResults.filter(Boolean).length;
   const score = `${correct}/${quizResults.length}`;
-  await fetch(`/api/lessons/${lessonData.unit}/${lessonData.lesson}/complete`, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ quiz_score: score })
-  });
+  await fetch(
+    `/api/lessons/${lessonData.unit}/${lessonData.lesson}/complete?${window.apiParams()}`,
+    {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ quiz_score: score }),
+    }
+  );
   document.getElementById('app').innerHTML = `
     <div class="card" style="text-align:center;padding:40px">
       <div style="font-size:48px">${correct === quizResults.length ? '🎉' : '📝'}</div>

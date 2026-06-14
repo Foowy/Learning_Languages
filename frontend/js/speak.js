@@ -1,6 +1,7 @@
 async function renderSpeak() {
   const app = document.getElementById('app');
-  const lessons = await fetch('/api/lessons').then(r => r.json());
+  const params = window.apiParams();
+  const lessons = await fetch('/api/lessons?' + params).then(r => r.json());
   const completed = lessons.filter(l => l.completed);
 
   if (completed.length === 0) {
@@ -13,9 +14,10 @@ async function renderSpeak() {
     return;
   }
 
+  const lang = sessionStorage.getItem('currentLanguage');
   const allCards = [];
   for (const l of completed) {
-    const data = await fetch(`/api/lessons/${l.unit}/${l.lesson}`).then(r => r.json());
+    const data = await fetch(`/api/lessons/${l.unit}/${l.lesson}?language=${lang}`).then(r => r.json());
     allCards.push(...data.cards);
   }
 
@@ -35,7 +37,7 @@ async function renderSpeak() {
       </div>
       <button class="btn btn-secondary" style="display:block;margin:16px auto" onclick="pickRandom()">Next →</button>
     `;
-  }
+  };
 
   window.doSpeakPractice = async function() {
     const btn = document.getElementById('mic-btn');
