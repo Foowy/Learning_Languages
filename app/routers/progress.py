@@ -1,4 +1,4 @@
-from fastapi import APIRouter, Depends, HTTPException
+from fastapi import APIRouter, Depends, HTTPException, Query
 import aiosqlite
 from app.database import get_db
 from app.models import ReviewUpdate
@@ -7,21 +7,32 @@ from app.services.srs import SRSCard, next_interval, due_date
 router = APIRouter(prefix="/api/review", tags=["review"])
 
 @router.get("/due")
-async def get_due_cards(db: aiosqlite.Connection = Depends(get_db)):
-    cursor = await db.execute("""
+async def get_due_cards(
+    user_id: int = Query(...),
+    language: str = Query(...),
+    db: aiosqlite.Connection = Depends(get_db),
+):
+    cursor = await db.execute(
+        """
         SELECT c.*, p.due_date, p.interval_days, p.ease_factor, p.review_count, p.last_score
         FROM progress p JOIN cards c ON c.id = p.card_id
-        WHERE p.due_date <= date('now') ORDER BY p.due_date
-    """)
+        WHERE p.due_date <= date('now') AND p.user_id=? AND c.language=?
+        ORDER BY p.due_date
+        """,
+        (user_id, language),
+    )
     return [dict(r) for r in await cursor.fetchall()]
 
 @router.post("/update")
-async def update_progress(update: ReviewUpdate, db: aiosqlite.Connection = Depends(get_db)):
-    # TODO(multi-user): replace hardcoded user_id=1 with authenticated user
-    user_id = 1
+async def update_progress(
+    update: ReviewUpdate,
+    user_id: int = Query(...),
+    db: aiosqlite.Connection = Depends(get_db),
+):
     cursor = await db.execute(
-        "SELECT interval_days, ease_factor, review_count FROM progress WHERE card_id=? AND user_id=?",
-        (update.card_id, user_id)
+        "SELECT interval_days, ease_factor, review_count FROM progress"
+        " WHERE card_id=? AND user_id=?",
+        (update.card_id, user_id),
     )
     row = await cursor.fetchone()
     if not row:
@@ -32,8 +43,10 @@ async def update_progress(update: ReviewUpdate, db: aiosqlite.Connection = Depen
     await db.execute(
         "UPDATE progress SET due_date=?, interval_days=?, ease_factor=?, review_count=?, last_score=?"
         " WHERE card_id=? AND user_id=?",
-        (new_due.isoformat(), updated.interval_days, updated.ease_factor,
-         updated.review_count, update.score, update.card_id, user_id)
+        (
+            new_due.isoformat(), updated.interval_days, updated.ease_factor,
+            updated.review_count, update.score, update.card_id, user_id,
+        ),
     )
     await db.commit()
     return {"due_date": new_due.isoformat(), "interval_days": updated.interval_days}
