@@ -34,8 +34,8 @@ function showIntroduce() {
   const card = lessonData.cards[currentCardIdx];
   const lang = sessionStorage.getItem('currentLanguage') || 'japanese';
   const isAsl = lang === 'asl';
-  const mediaHtml = (isAsl && card.video)
-    ? `<video src="/videos/asl/${card.video}" autoplay loop muted playsinline
+  const mediaHtml = (isAsl && card.video_path)
+    ? `<video src="/videos/asl/${card.video_path}" autoplay loop muted playsinline
               style="max-width:280px;max-height:280px;border-radius:8px;margin:0 auto;display:block"></video>`
     : `<div style="font-size:80px;color:var(--accent-light)">${card.character}</div>`;
 
@@ -110,6 +110,29 @@ window.nextSpeak = function() {
 
 function showWrite() {
   const card = lessonData.cards[currentCardIdx];
+  const lang = sessionStorage.getItem('currentLanguage') || 'japanese';
+  const isAsl = lang === 'asl';
+
+  if (isAsl) {
+    const mediaHtml = card.video_path
+      ? `<video src="/videos/asl/${card.video_path}" autoplay loop muted playsinline
+                style="max-width:280px;max-height:280px;border-radius:8px;margin:0 auto;display:block"></video>`
+      : `<div style="font-size:64px;color:var(--accent-light)">${card.character}</div>`;
+    document.getElementById('app').innerHTML = `
+      ${phaseBar()}
+      <div class="card" style="text-align:center;padding:24px">
+        <div class="muted" style="margin-bottom:12px">Practice: <strong>${card.character}</strong> — ${card.meaning}</div>
+        ${mediaHtml}
+        <p class="muted" style="margin-top:16px">Watch the video and imitate the sign</p>
+      </div>
+      <div style="display:flex;justify-content:space-between;margin-top:16px">
+        <span class="muted">${currentCardIdx + 1} / ${lessonData.cards.length}</span>
+        <button class="btn btn-primary" onclick="nextWrite()">Got it →</button>
+      </div>
+    `;
+    return;
+  }
+
   document.getElementById('app').innerHTML = `
     ${phaseBar()}
     <div class="card" style="text-align:center;padding:24px">
@@ -170,6 +193,8 @@ window.nextWrite = function() {
 
 function showQuiz() {
   const cards = lessonData.cards;
+  const lang = sessionStorage.getItem('currentLanguage') || 'japanese';
+  const isAsl = lang === 'asl';
   const questions = [...cards].sort(() => Math.random() - 0.5).slice(0, Math.min(5, cards.length));
   let qIdx = 0;
 
@@ -179,23 +204,47 @@ function showQuiz() {
     const distractors = cards.filter(c => c.id !== q.id).sort(() => Math.random() - 0.5).slice(0, Math.min(3, cards.length - 1));
     const options = [...distractors, q].sort(() => Math.random() - 0.5);
 
-    document.getElementById('app').innerHTML = `
-      ${phaseBar()}
-      <div class="card" style="text-align:center;padding:24px">
-        <p class="muted">Which character makes this sound?</p>
-        <div style="font-size:32px;margin:16px 0">${q.romaji}</div>
-        <div class="quiz-options">
-          ${options.map(o => `
-            <div class="quiz-opt" onclick="checkAnswer(this,'${o.character}','${q.character}')">
-              ${o.character}
-            </div>
-          `).join('')}
+    if (isAsl) {
+      const mediaHtml = q.video_path
+        ? `<video src="/videos/asl/${q.video_path}" autoplay loop muted playsinline
+                  style="max-width:200px;max-height:200px;border-radius:8px;margin:0 auto;display:block"></video>`
+        : `<div style="font-size:48px;color:var(--accent-light)">${q.character}</div>`;
+      document.getElementById('app').innerHTML = `
+        ${phaseBar()}
+        <div class="card" style="text-align:center;padding:24px">
+          <p class="muted">What does this sign mean?</p>
+          <div style="margin:16px 0">${mediaHtml}</div>
+          <div class="quiz-options">
+            ${options.map(o => `
+              <div class="quiz-opt" onclick="checkAnswer(this,'${o.meaning}','${q.meaning}')">
+                ${o.meaning}
+              </div>
+            `).join('')}
+          </div>
         </div>
-      </div>
-      <div style="text-align:right;margin-top:12px">
-        <span class="muted">${qIdx + 1} / ${questions.length}</span>
-      </div>
-    `;
+        <div style="text-align:right;margin-top:12px">
+          <span class="muted">${qIdx + 1} / ${questions.length}</span>
+        </div>
+      `;
+    } else {
+      document.getElementById('app').innerHTML = `
+        ${phaseBar()}
+        <div class="card" style="text-align:center;padding:24px">
+          <p class="muted">Which character makes this sound?</p>
+          <div style="font-size:32px;margin:16px 0">${q.romaji}</div>
+          <div class="quiz-options">
+            ${options.map(o => `
+              <div class="quiz-opt" onclick="checkAnswer(this,'${o.character}','${q.character}')">
+                ${o.character}
+              </div>
+            `).join('')}
+          </div>
+        </div>
+        <div style="text-align:right;margin-top:12px">
+          <span class="muted">${qIdx + 1} / ${questions.length}</span>
+        </div>
+      `;
+    }
   }
 
   window.checkAnswer = function(el, chosen, correct) {

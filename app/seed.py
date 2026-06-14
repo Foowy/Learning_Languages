@@ -80,7 +80,7 @@ async def seed_if_empty():
                     (
                         card["type"], card["character"], card["romaji"],
                         card["meaning"], data["unit"], data["lesson"], language,
-                        card.get("video_path"),
+                        card.get("video"),
                     ),
                 )
         await db.commit()
