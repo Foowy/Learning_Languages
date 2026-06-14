@@ -1,6 +1,6 @@
 services:
   app:
-    build: .
+    image: ghcr.io/foowy/learning_languages:latest
     ports:
       - "13200:13200"
     volumes:
@@ -11,3 +11,10 @@ services:
       - DATA_DIR=/data
       - CONFIG_DIR=/config
       - PORT=13200
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
