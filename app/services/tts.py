@@ -1,16 +1,26 @@
+# TTS powered by edge-tts (MIT) — wraps Microsoft Edge Read Aloud neural voices.
+# Voice list: https://github.com/rany2/edge-tts
 import hashlib
 from pathlib import Path
 import edge_tts
 from app.config import settings
 
 AUDIO_DIR = Path(settings.data_dir) / "audio"
-VOICE = "ja-JP-NanamiNeural"
 
-async def get_audio(text: str) -> Path:
+_VOICES = {
+    "japanese": "ja-JP-NanamiNeural",
+    "korean": "ko-KR-SunHiNeural",
+    "mandarin": "zh-CN-XiaoxiaoNeural",
+    "chinese": "zh-CN-XiaoxiaoNeural",
+}
+_DEFAULT_VOICE = "en-US-JennyNeural"
+
+async def get_audio(text: str, language: str = "japanese") -> Path:
     AUDIO_DIR.mkdir(parents=True, exist_ok=True)
-    key = hashlib.md5(text.encode()).hexdigest()
+    voice = _VOICES.get(language, _DEFAULT_VOICE)
+    key = hashlib.md5(f"{language}:{text}".encode()).hexdigest()
     path = AUDIO_DIR / f"{key}.mp3"
     if not path.exists():
-        communicate = edge_tts.Communicate(text, VOICE)
+        communicate = edge_tts.Communicate(text, voice)
         await communicate.save(str(path))
     return path

@@ -1,0 +1,11 @@
+{
+  "unit": 4,
+  "lesson": 3,
+  "title": "Syllables: consonant + ㅣ (키–히)",
+  "cards": [
+    {"type": "syllable", "character": "키", "romaji": "ki", "meaning": "syllable 'ki' (ㅋ + ㅣ); also means 'height'"},
+    {"type": "syllable", "character": "티", "romaji": "ti", "meaning": "syllable 'ti' (ㅌ + ㅣ)"},
+    {"type": "syllable", "character": "피", "romaji": "pi", "meaning": "syllable 'pi' (ㅍ + ㅣ); also means 'blood'"},
+    {"type": "syllable", "character": "히", "romaji": "hi", "meaning": "syllable 'hi' (ㅎ + ㅣ)"}
+  ]
+}

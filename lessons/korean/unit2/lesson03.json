@@ -1,0 +1,12 @@
+{
+  "unit": 2,
+  "lesson": 3,
+  "title": "Vowels: Compound vowels I (ㅐ–ㅘ)",
+  "cards": [
+    {"type": "vowel", "character": "ㅐ", "romaji": "ae",  "meaning": "compound vowel (ㅏ+ㅣ), as in 'bed'"},
+    {"type": "vowel", "character": "ㅒ", "romaji": "yae", "meaning": "compound vowel 'yae'"},
+    {"type": "vowel", "character": "ㅔ", "romaji": "e",   "meaning": "compound vowel (ㅓ+ㅣ), similar to 'bed'"},
+    {"type": "vowel", "character": "ㅖ", "romaji": "ye",  "meaning": "compound vowel 'ye'"},
+    {"type": "vowel", "character": "ㅘ", "romaji": "wa",  "meaning": "compound vowel (ㅗ+ㅏ), as in 'want'"}
+  ]
+}

@@ -95,7 +95,20 @@ SQLite at `{DATA_DIR}/progress.db`. Key tables:
 
 ## Lesson Content
 
-Lesson JSON files live at `lessons/{language}/unit{N}/lesson{N}.json`. The seed reads the language name from the folder path (first segment after `lessons/`). Format:
+Lesson JSON files are **not baked into the image**. On first start, `seed.py` checks `/data/lessons/`. If empty, it downloads the pack from `LESSONS_PACK_URL` (a `.tar.gz`) and extracts it there. Subsequent starts skip the download.
+
+Pack structure (root of the tarball = root of `lessons/`):
+
+```
+japanese/
+  unit1/
+    lesson01.json
+    ...
+  unit2/
+    ...
+```
+
+Card JSON format:
 
 ```json
 {
@@ -108,6 +121,56 @@ Lesson JSON files live at `lessons/{language}/unit{N}/lesson{N}.json`. The seed 
 }
 ```
 
+To package lessons for a release:
+
+```bash
+cd lessons/
+tar -czf ../lessons.tar.gz .
+```
+
+Upload `lessons.tar.gz` as a GitHub Release asset and set `LESSONS_PACK_URL` to the asset URL. The `.github/workflows/release-lessons.yml` workflow does this automatically on every push to `main` that touches `lessons/`, publishing to the `lessons-latest` release tag.
+
+To force running containers to re-download an updated pack, bump `LESSONS_PACK_VERSION` (e.g. to the commit SHA shown in the release notes). Note: re-downloading lesson files does **not** automatically re-seed the database — if you need cards to reflect updated lesson content, the DB cards table must be cleared manually.
+
+### Open source data sources for additional languages
+
+| Source | Content | License |
+|---|---|---|
+| [jmdict-simplified](https://github.com/scriptin/jmdict-simplified) | JMdict + KanjiDic2 as clean JSON | CC BY-SA 4.0 |
+| [KanjiVG](https://github.com/KanjiVG/kanjivg) | Kanji stroke-order SVGs | CC BY-SA 3.0 |
+| [Tatoeba](https://tatoeba.org/en/downloads) | Sentence pairs (JP↔EN) | CC BY 2.0 |
+| [yomichan-jlpt-vocab](https://github.com/stephenmk/yomichan-jlpt-vocab) | JLPT N5–N1 vocab lists | various |
+
+These require a converter script to emit the lesson JSON format above.
+
+### Japanese progression
+
+| Unit | Content | Source | Converter |
+|---|---|---|---|
+| 1 | Hiragana (20 lessons) | Hand-authored | — |
+| 2 | Katakana (20 lessons) | Hand-authored | — |
+| 3 | JLPT N5 Kanji (~100) | kanjidic2-english.json | `tools/convert_kanjidic.py --start-unit 3` |
+| 4 | JLPT N4 Kanji (~200) | kanjidic2-english.json | same run |
+| 5 | JLPT N3 Kanji (~370) | kanjidic2-english.json | same run |
+| 6 | JLPT N2/N1 Kanji | kanjidic2-english.json | same run |
+| 7+ | Common vocabulary | jmdict-english-common.json | `tools/convert_jmdict.py --start-unit 7` |
+
+To build units 3–6 (kanji):
+
+```bash
+# Download from https://github.com/scriptin/jmdict-simplified/releases
+python tools/convert_kanjidic.py --input kanjidic2-english.json
+```
+
+To build units 7+ (vocabulary, sorted by newspaper frequency):
+
+```bash
+# Download from https://github.com/scriptin/jmdict-simplified/releases
+python tools/convert_jmdict.py --input jmdict-english-common.json
+```
+
+Both scripts write into `lessons/japanese/` and skip units that already have content unless you delete them first.
+
 ## Docker
 
 ```bash
@@ -119,8 +182,20 @@ docker compose up -d
 ```
 
 Host bind mounts:
-- `/mnt/secdrive/docker/data/japanese-learning/` → `/data`
+- `/mnt/secdrive/docker/data/japanese-learning/` → `/data` (DB, audio cache, lessons)
 - `/mnt/secdrive/docker/config/japanese-learning/` → `/config`
+
+Environment variables:
+
+| Variable | Default | Description |
+|---|---|---|
+| `DATA_DIR` | `/data` | SQLite DB, audio cache, lessons, Whisper model |
+| `CONFIG_DIR` | `/config` | App config overrides |
+| `PORT` | `13200` | Server port |
+| `LESSONS_PACK_URL` | _(empty)_ | `.tar.gz` URL; downloaded on first start or when version changes |
+| `LESSONS_PACK_VERSION` | _(empty)_ | Bump this (e.g. a date or commit SHA) to force a re-download |
+| `WHISPER_MODEL` | `base` | Whisper model size (`tiny`/`base`/`small`/`medium`/`large`); stored in `/data/models/whisper/` |
+| `WHISPER_PRELOAD` | `false` | Load Whisper into memory at startup; eliminates first-STT-request latency |
 
 ## In-Progress: Multi-User + Multi-Language
 
@@ -145,6 +220,38 @@ Host bind mounts:
 | 13 | Frontend page updates (apiParams + ASL) | ✅ Done |
 
 **Status:** All 13 tasks complete as of 2026-06-14. Implementation is feature-complete.
+
+## Attributions
+
+### Runtime libraries
+
+| Library | Use | Licence |
+|---|---|---|
+| [edge-tts](https://github.com/rany2/edge-tts) | TTS via Microsoft Edge Read Aloud neural voices | MIT |
+| [openai-whisper](https://github.com/openai/whisper) | STT / speech recognition | MIT |
+| [FastAPI](https://fastapi.tiangolo.com/) | Web framework | MIT |
+| [aiosqlite](https://github.com/omnilib/aiosqlite) | Async SQLite | MIT |
+
+### TTS voices
+
+Voices are served by Microsoft's Edge Read Aloud service via edge-tts. No API key is required but an internet connection is needed at TTS request time.
+
+| Language | Voice |
+|---|---|
+| Japanese | `ja-JP-NanamiNeural` |
+| Korean | `ko-KR-SunHiNeural` |
+| Mandarin | `zh-CN-XiaoxiaoNeural` |
+| (default) | `en-US-JennyNeural` |
+
+### Lesson content
+
+| Content | Source | Licence |
+|---|---|---|
+| Japanese hiragana & katakana | Hand-authored | — |
+| Korean consonants, vowels & syllables | Hand-authored | — |
+| Mandarin (via converter) | [jmdict-simplified](https://github.com/scriptin/jmdict-simplified) / [gigacee/hsk-vocabulary](https://github.com/gigacee/hsk-vocabulary) | CC BY-SA 4.0 (EDRDG) |
+
+If you distribute a lessons pack that includes content derived from JMdict, KanjiDic2, or HSK vocabulary data, the pack must carry a CC BY-SA 4.0 notice crediting the Electronic Dictionary Research and Development Group (EDRDG): https://www.edrdg.org/edrdg/licence.html
 
 ## Known Deprecation Warnings (Pre-existing, Not Blockers)
 

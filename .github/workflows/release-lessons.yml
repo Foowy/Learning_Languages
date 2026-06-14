@@ -1,0 +1,37 @@
+name: Release Lessons Pack
+
+on:
+  push:
+    branches: [main]
+    paths: ['lessons/**']
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Package lessons
+        run: tar -czf lessons.tar.gz -C lessons .
+
+      - name: Create/update lessons-latest release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: lessons-latest
+          name: Lessons Pack (latest)
+          body: |
+            Auto-packaged lessons from commit ${{ github.sha }}.
+
+            Set in `docker-compose.yml`:
+            ```
+            LESSONS_PACK_URL: https://github.com/${{ github.repository }}/releases/download/lessons-latest/lessons.tar.gz
+            LESSONS_PACK_VERSION: ${{ github.sha }}
+            ```
+          files: lessons.tar.gz
+          make_latest: false

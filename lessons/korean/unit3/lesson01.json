@@ -1,0 +1,12 @@
+{
+  "unit": 3,
+  "lesson": 1,
+  "title": "Syllables: consonant + ㅏ (가–마)",
+  "cards": [
+    {"type": "syllable", "character": "가", "romaji": "ga", "meaning": "syllable 'ga' (ㄱ + ㅏ)"},
+    {"type": "syllable", "character": "나", "romaji": "na", "meaning": "syllable 'na' (ㄴ + ㅏ)"},
+    {"type": "syllable", "character": "다", "romaji": "da", "meaning": "syllable 'da' (ㄷ + ㅏ)"},
+    {"type": "syllable", "character": "라", "romaji": "ra", "meaning": "syllable 'ra' (ㄹ + ㅏ)"},
+    {"type": "syllable", "character": "마", "romaji": "ma", "meaning": "syllable 'ma' (ㅁ + ㅏ)"}
+  ]
+}

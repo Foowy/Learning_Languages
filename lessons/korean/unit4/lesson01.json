@@ -1,0 +1,12 @@
+{
+  "unit": 4,
+  "lesson": 1,
+  "title": "Syllables: consonant + ㅣ (기–미)",
+  "cards": [
+    {"type": "syllable", "character": "기", "romaji": "gi", "meaning": "syllable 'gi' (ㄱ + ㅣ)"},
+    {"type": "syllable", "character": "니", "romaji": "ni", "meaning": "syllable 'ni' (ㄴ + ㅣ)"},
+    {"type": "syllable", "character": "디", "romaji": "di", "meaning": "syllable 'di' (ㄷ + ㅣ)"},
+    {"type": "syllable", "character": "리", "romaji": "ri", "meaning": "syllable 'ri' (ㄹ + ㅣ)"},
+    {"type": "syllable", "character": "미", "romaji": "mi", "meaning": "syllable 'mi' (ㅁ + ㅣ)"}
+  ]
+}

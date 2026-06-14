@@ -1,0 +1,12 @@
+{
+  "unit": 1,
+  "lesson": 4,
+  "title": "Consonants: Tense consonants 쌍자음 (ㄲ–ㅉ)",
+  "cards": [
+    {"type": "consonant", "character": "ㄲ", "romaji": "kk", "meaning": "tense (doubled) 'k', stronger than ㄱ"},
+    {"type": "consonant", "character": "ㄸ", "romaji": "tt", "meaning": "tense (doubled) 't', stronger than ㄷ"},
+    {"type": "consonant", "character": "ㅃ", "romaji": "pp", "meaning": "tense (doubled) 'p', stronger than ㅂ"},
+    {"type": "consonant", "character": "ㅆ", "romaji": "ss", "meaning": "tense (doubled) 's', stronger than ㅅ"},
+    {"type": "consonant", "character": "ㅉ", "romaji": "jj", "meaning": "tense (doubled) 'j', stronger than ㅈ"}
+  ]
+}

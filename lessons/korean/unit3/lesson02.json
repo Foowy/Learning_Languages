@@ -1,0 +1,12 @@
+{
+  "unit": 3,
+  "lesson": 2,
+  "title": "Syllables: consonant + ㅏ (바–차)",
+  "cards": [
+    {"type": "syllable", "character": "바", "romaji": "ba",  "meaning": "syllable 'ba' (ㅂ + ㅏ)"},
+    {"type": "syllable", "character": "사", "romaji": "sa",  "meaning": "syllable 'sa' (ㅅ + ㅏ)"},
+    {"type": "syllable", "character": "아", "romaji": "a",   "meaning": "syllable 'a' (ㅇ silent + ㅏ)"},
+    {"type": "syllable", "character": "자", "romaji": "ja",  "meaning": "syllable 'ja' (ㅈ + ㅏ)"},
+    {"type": "syllable", "character": "차", "romaji": "cha", "meaning": "syllable 'cha' (ㅊ + ㅏ)"}
+  ]
+}

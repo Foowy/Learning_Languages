@@ -11,12 +11,8 @@ COPY requirements.txt .
 # setuptools as a build dep, so pip's isolated build env can't find pkg_resources.
 RUN pip install --no-cache-dir --no-build-isolation -r requirements.txt
 
-# Pre-download Whisper base model during build (avoids slow first-start)
-RUN python -c "import whisper; whisper.load_model('base')"
-
 COPY app/ app/
 COPY frontend/ frontend/
-COPY lessons/ lessons/
 
 ENV DATA_DIR=/data
 ENV CONFIG_DIR=/config

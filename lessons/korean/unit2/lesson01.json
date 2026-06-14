@@ -1,0 +1,12 @@
+{
+  "unit": 2,
+  "lesson": 1,
+  "title": "Vowels: Basic bright vowels (ㅏ–ㅗ)",
+  "cards": [
+    {"type": "vowel", "character": "ㅏ", "romaji": "a",   "meaning": "bright vowel 'a', as in 'father'"},
+    {"type": "vowel", "character": "ㅑ", "romaji": "ya",  "meaning": "bright vowel 'ya'"},
+    {"type": "vowel", "character": "ㅓ", "romaji": "eo",  "meaning": "dark vowel 'eo', as in 'sun'"},
+    {"type": "vowel", "character": "ㅕ", "romaji": "yeo", "meaning": "dark vowel 'yeo'"},
+    {"type": "vowel", "character": "ㅗ", "romaji": "o",   "meaning": "bright vowel 'o', as in 'go'"}
+  ]
+}

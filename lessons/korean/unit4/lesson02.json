@@ -1,0 +1,12 @@
+{
+  "unit": 4,
+  "lesson": 2,
+  "title": "Syllables: consonant + ㅣ (비–치)",
+  "cards": [
+    {"type": "syllable", "character": "비", "romaji": "bi",  "meaning": "syllable 'bi' (ㅂ + ㅣ)"},
+    {"type": "syllable", "character": "시", "romaji": "si",  "meaning": "syllable 'si' (ㅅ + ㅣ)"},
+    {"type": "syllable", "character": "이", "romaji": "i",   "meaning": "syllable 'i' (ㅇ silent + ㅣ); also means 'this'"},
+    {"type": "syllable", "character": "지", "romaji": "ji",  "meaning": "syllable 'ji' (ㅈ + ㅣ)"},
+    {"type": "syllable", "character": "치", "romaji": "chi", "meaning": "syllable 'chi' (ㅊ + ㅣ)"}
+  ]
+}

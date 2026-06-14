@@ -1,0 +1,11 @@
+{
+  "unit": 3,
+  "lesson": 3,
+  "title": "Syllables: consonant + ㅏ (카–하)",
+  "cards": [
+    {"type": "syllable", "character": "카", "romaji": "ka", "meaning": "syllable 'ka' (ㅋ + ㅏ)"},
+    {"type": "syllable", "character": "타", "romaji": "ta", "meaning": "syllable 'ta' (ㅌ + ㅏ)"},
+    {"type": "syllable", "character": "파", "romaji": "pa", "meaning": "syllable 'pa' (ㅍ + ㅏ)"},
+    {"type": "syllable", "character": "하", "romaji": "ha", "meaning": "syllable 'ha' (ㅎ + ㅏ)"}
+  ]
+}

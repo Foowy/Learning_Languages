@@ -1,3 +1,4 @@
+import asyncio
 import uvicorn
 from fastapi import FastAPI
 from fastapi.staticfiles import StaticFiles
@@ -35,6 +36,9 @@ async def startup():
     (Path(settings.data_dir) / "videos").mkdir(parents=True, exist_ok=True)
     await init_db()
     await seed_if_empty()
+    if settings.whisper_preload:
+        from app.services.stt import get_model
+        await asyncio.to_thread(get_model)
 
 if __name__ == "__main__":
     uvicorn.run("app.main:app", host="0.0.0.0", port=settings.port, reload=False)

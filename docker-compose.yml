@@ -11,6 +11,16 @@ services:
       - DATA_DIR=/data
       - CONFIG_DIR=/config
       - PORT=13200
+      - LESSONS_PACK_URL=        # .tar.gz URL; downloaded on first start or when version changes
+      - LESSONS_PACK_VERSION=    # bump to force re-download (e.g. 20260614)
+      - WHISPER_MODEL=base       # tiny/base/small/medium/large; downloaded to /data/models/whisper/
+      - WHISPER_PRELOAD=false    # set true to load Whisper into memory at startup (eliminates first-request latency)
+    healthcheck:
+      test: ["CMD-SHELL", "python -c \"import urllib.request; urllib.request.urlopen('http://localhost:13200/api/languages', timeout=3)\""]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 120s
     deploy:
       resources:
         reservations:

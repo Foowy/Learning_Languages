@@ -1,0 +1,12 @@
+{
+  "unit": 1,
+  "lesson": 1,
+  "title": "Consonants: Basic stops (ㄱ–ㅁ)",
+  "cards": [
+    {"type": "consonant", "character": "ㄱ", "romaji": "g/k", "meaning": "stop 'g' initially, 'k' finally"},
+    {"type": "consonant", "character": "ㄴ", "romaji": "n",   "meaning": "nasal consonant 'n'"},
+    {"type": "consonant", "character": "ㄷ", "romaji": "d/t", "meaning": "stop 'd' initially, 't' finally"},
+    {"type": "consonant", "character": "ㄹ", "romaji": "r/l", "meaning": "liquid 'r' before vowels, 'l' before consonants"},
+    {"type": "consonant", "character": "ㅁ", "romaji": "m",   "meaning": "nasal consonant 'm'"}
+  ]
+}

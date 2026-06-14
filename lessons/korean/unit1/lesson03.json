@@ -1,0 +1,11 @@
+{
+  "unit": 1,
+  "lesson": 3,
+  "title": "Consonants: Aspirated stops (ㅋ–ㅎ)",
+  "cards": [
+    {"type": "consonant", "character": "ㅋ", "romaji": "k", "meaning": "aspirated stop 'k'"},
+    {"type": "consonant", "character": "ㅌ", "romaji": "t", "meaning": "aspirated stop 't'"},
+    {"type": "consonant", "character": "ㅍ", "romaji": "p", "meaning": "aspirated stop 'p'"},
+    {"type": "consonant", "character": "ㅎ", "romaji": "h", "meaning": "fricative consonant 'h'"}
+  ]
+}

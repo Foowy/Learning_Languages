@@ -1,0 +1,12 @@
+{
+  "unit": 2,
+  "lesson": 2,
+  "title": "Vowels: Basic dark & neutral vowels (ㅛ–ㅣ)",
+  "cards": [
+    {"type": "vowel", "character": "ㅛ", "romaji": "yo", "meaning": "bright vowel 'yo'"},
+    {"type": "vowel", "character": "ㅜ", "romaji": "u",  "meaning": "dark vowel 'u', as in 'cool'"},
+    {"type": "vowel", "character": "ㅠ", "romaji": "yu", "meaning": "dark vowel 'yu'"},
+    {"type": "vowel", "character": "ㅡ", "romaji": "eu", "meaning": "neutral vowel 'eu', no English equivalent"},
+    {"type": "vowel", "character": "ㅣ", "romaji": "i",  "meaning": "neutral vowel 'i', as in 'meet'"}
+  ]
+}

@@ -24,7 +24,8 @@ CREATE TABLE IF NOT EXISTS cards (
     unit INTEGER NOT NULL,
     lesson INTEGER NOT NULL,
     language TEXT NOT NULL DEFAULT 'japanese',
-    audio_path TEXT
+    audio_path TEXT,
+    video_path TEXT
 )
 """
 
@@ -110,12 +111,15 @@ async def init_db():
         await db.execute(CREATE_USERS)
         await db.execute(CREATE_CARDS)
 
-        # Add language column to cards if upgrading from old schema
+        # Add columns to cards if upgrading from old schema
         cur = await db.execute("PRAGMA table_info(cards)")
-        if "language" not in {r[1] for r in await cur.fetchall()}:
+        card_cols = {r[1] for r in await cur.fetchall()}
+        if "language" not in card_cols:
             await db.execute(
                 "ALTER TABLE cards ADD COLUMN language TEXT NOT NULL DEFAULT 'japanese'"
             )
+        if "video_path" not in card_cols:
+            await db.execute("ALTER TABLE cards ADD COLUMN video_path TEXT")
 
         # Migrate or create progress table
         cur = await db.execute("PRAGMA table_info(progress)")

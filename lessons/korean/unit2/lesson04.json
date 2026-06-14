@@ -1,0 +1,13 @@
+{
+  "unit": 2,
+  "lesson": 4,
+  "title": "Vowels: Compound vowels II (ㅙ–ㅢ)",
+  "cards": [
+    {"type": "vowel", "character": "ㅙ", "romaji": "wae", "meaning": "compound vowel (ㅗ+ㅐ), sounds like 'wae'"},
+    {"type": "vowel", "character": "ㅚ", "romaji": "oe",  "meaning": "compound vowel (ㅗ+ㅣ), sounds like 'we'"},
+    {"type": "vowel", "character": "ㅝ", "romaji": "wo",  "meaning": "compound vowel (ㅜ+ㅓ), as in 'won'"},
+    {"type": "vowel", "character": "ㅞ", "romaji": "we",  "meaning": "compound vowel (ㅜ+ㅔ), sounds like 'we'"},
+    {"type": "vowel", "character": "ㅟ", "romaji": "wi",  "meaning": "compound vowel (ㅜ+ㅣ), sounds like 'we'"},
+    {"type": "vowel", "character": "ㅢ", "romaji": "ui",  "meaning": "compound vowel (ㅡ+ㅣ), sounds like 'eui'"}
+  ]
+}

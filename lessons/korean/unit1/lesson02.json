@@ -1,0 +1,12 @@
+{
+  "unit": 1,
+  "lesson": 2,
+  "title": "Consonants: Fricatives & affricates (ㅂ–ㅊ)",
+  "cards": [
+    {"type": "consonant", "character": "ㅂ", "romaji": "b/p", "meaning": "stop 'b' initially, 'p' finally"},
+    {"type": "consonant", "character": "ㅅ", "romaji": "s",   "meaning": "fricative consonant 's'"},
+    {"type": "consonant", "character": "ㅇ", "romaji": "silent/ng", "meaning": "silent as initial, 'ng' as final"},
+    {"type": "consonant", "character": "ㅈ", "romaji": "j",   "meaning": "affricate consonant 'j'"},
+    {"type": "consonant", "character": "ㅊ", "romaji": "ch",  "meaning": "aspirated affricate 'ch'"}
+  ]
+}
