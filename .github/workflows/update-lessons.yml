@@ -23,12 +23,17 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          RELEASE=$(gh api repos/scriptin/jmdict-simplified/releases/latest --jq '.tag_name')
-          gh release download "$RELEASE" \
+          mkdir /tmp/jmdict
+          gh release download \
             --repo scriptin/jmdict-simplified \
-            --pattern "kanjidic2-english.json" \
-            --pattern "jmdict-english-common.json" \
+            --pattern "kanjidic2-en-*.json.tgz" \
+            --pattern "jmdict-eng-common-*.json.tgz" \
             --dir /tmp/jmdict
+          cd /tmp/jmdict
+          tar -xzf kanjidic2-en-*.json.tgz
+          tar -xzf jmdict-eng-common-*.json.tgz
+          echo "KANJIDIC=/tmp/jmdict/$(ls kanjidic2-en-*.json | grep -v tgz)" >> $GITHUB_ENV
+          echo "JMDICT=/tmp/jmdict/$(ls jmdict-eng-common-*.json | grep -v tgz)" >> $GITHUB_ENV
 
       - name: Download HSK data
         env:
@@ -40,8 +45,8 @@ jobs:
 
       - name: Run converters
         run: |
-          python tools/convert_kanjidic.py --input /tmp/jmdict/kanjidic2-english.json
-          python tools/convert_jmdict.py --input /tmp/jmdict/jmdict-english-common.json
+          python tools/convert_kanjidic.py --input "$KANJIDIC"
+          python tools/convert_jmdict.py --input "$JMDICT"
           python tools/convert_hsk.py --input /tmp/hsk/
           python tools/gen_asl_lessons.py
 
