@@ -182,8 +182,8 @@ docker compose up -d
 ```
 
 Host bind mounts:
-- `/mnt/secdrive/docker/data/japanese-learning/` → `/data` (DB, audio cache, lessons)
-- `/mnt/secdrive/docker/config/japanese-learning/` → `/config`
+- `/mnt/secdrive/docker/data/learning_languages/` → `/data` (DB, audio cache, lessons)
+- `/mnt/secdrive/docker/config/learning_languages/` → `/config`
 
 Environment variables:
 

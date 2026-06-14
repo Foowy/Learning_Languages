@@ -1,11 +1,12 @@
 services:
-  app:
+  learning_languages:
     image: ghcr.io/foowy/learning_languages:latest
+    container_name: Learning_Languages
     ports:
       - "13200:13200"
     volumes:
-      - /mnt/secdrive/docker/data/japanese-learning:/data
-      - /mnt/secdrive/docker/config/japanese-learning:/config
+      - /mnt/secdrive/docker/data/learning_languages:/data
+      - /mnt/secdrive/docker/config/learning_languages:/config
     restart: unless-stopped
     environment:
       - DATA_DIR=/data

@@ -21,6 +21,7 @@ window.switchUser = function() {
 // --- Pages registry ---
 const pages = {
   home: renderDashboard,
+  lesson: renderLesson,
   lessons: renderLessons,
   review: renderReview,
   speak: renderSpeak,
