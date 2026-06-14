@@ -2,131 +2,166 @@
 Download ASL videos for lesson content.
 
 Sources:
-  - Fingerspelling A-Z and numbers 1-10: Lifeprint.com (free educational use)
+  - Fingerspelling A-Z: Lifeprint.com (free educational use)
       https://www.lifeprint.com — Dr. Bill Vicars
-  - Common signs: WLASL dataset (research/educational)
-      https://github.com/dxli94/WLASL
+  - Numbers + common signs: SpreadTheSign.com (ASL, language 13)
+      Searches by word, fetches direct MP4 from word page.
 
 Requirements:
-  pip install httpx
-  apt install ffmpeg          # GIF → MP4 conversion
-  pip install yt-dlp          # YouTube clip downloads (for WLASL)
+  apt install ffmpeg          # GIF -> MP4 conversion (fingerspelling only)
 
 Usage:
   python3 tools/download_asl_videos.py --out /path/to/videos/asl
   python3 tools/download_asl_videos.py --out /path/to/videos/asl --skip-existing
+  python3 tools/download_asl_videos.py --out /path/to/videos/asl --only fs
+  python3 tools/download_asl_videos.py --out /path/to/videos/asl --only signs
 
 Output filenames match the video fields in lessons/asl/:
-  fs_a.mp4 … fs_z.mp4
-  num_1.mp4 … num_20.mp4
-  sign_hello.mp4 … etc.
+  fs_a.mp4 ... fs_z.mp4
+  num_1.mp4 ... num_20.mp4
+  sign_hello.mp4 ... etc.
 """
 
 import argparse
-import json
+import re
 import subprocess
 import sys
 import tempfile
+import time
 import urllib.request
 from pathlib import Path
 
-# ── Lifeprint fingerspelling GIF URLs ────────────────────────────────────────
-# Educational use permitted: https://www.lifeprint.com/asl101/pages-signs/terms.htm
-
+# ── Lifeprint fingerspelling ─────────────────────────────────────────────────
+# Educational use: https://www.lifeprint.com
 FS_BASE = "https://www.lifeprint.com/asl101/fingerspelling/abc-gifs"
 FS_LETTERS = list("abcdefghijklmnopqrstuvwxyz")
 
-# Numbers 1-10 from lifeprint (11-20 require a separate page; see note below)
-NUM_BASE = "https://www.lifeprint.com/asl101/pages-signs/numbers"
-# Numbers 1-10 GIFs follow the same abc-gifs-style path on lifeprint
-NUM_URLS = {
-    1:  f"{NUM_BASE}/number-1.gif",
-    2:  f"{NUM_BASE}/number-2.gif",
-    3:  f"{NUM_BASE}/number-3.gif",
-    4:  f"{NUM_BASE}/number-4.gif",
-    5:  f"{NUM_BASE}/number-5.gif",
-    6:  f"{NUM_BASE}/number-6.gif",
-    7:  f"{NUM_BASE}/number-7.gif",
-    8:  f"{NUM_BASE}/number-8.gif",
-    9:  f"{NUM_BASE}/number-9.gif",
-    10: f"{NUM_BASE}/number-10.gif",
-    # 11-20: teen numbers on lifeprint are on an HTML page, not direct GIFs.
-    # They'll be fetched from WLASL instead (see WLASL_SIGNS below).
-}
-
-# ── WLASL gloss → output filename mapping ────────────────────────────────────
-# Keys are WLASL glosses (upper-case as they appear in WLASL_v0.3.json).
-# Values are our target output filenames (without .mp4).
-#
-# WLASL dataset: https://github.com/dxli94/WLASL
-# Download WLASL_v0.3.json from that repo, then run this script with --wlasl.
-# License: non-commercial research and educational use only.
-
-WLASL_SIGNS = {
-    # Numbers 11-20
-    "ELEVEN":    "num_11",
-    "TWELVE":    "num_12",
-    "THIRTEEN":  "num_13",
-    "FOURTEEN":  "num_14",
-    "FIFTEEN":   "num_15",
-    "SIXTEEN":   "num_16",
-    "SEVENTEEN": "num_17",
-    "EIGHTEEN":  "num_18",
-    "NINETEEN":  "num_19",
-    "TWENTY":    "num_20",
+# ── SpreadTheSign search terms for each output filename ─────────────────────
+# Value is the search query sent to spreadthesign.com/en.us/search/?q=...
+# Language 13 = ASL (American English).
+STS_SIGNS = {
+    # Numbers
+    "num_1":  "one",
+    "num_2":  "two",
+    "num_3":  "three",
+    "num_4":  "four",
+    "num_5":  "five",
+    "num_6":  "six",
+    "num_7":  "seven",
+    "num_8":  "eight",
+    "num_9":  "nine",
+    "num_10": "ten",
+    "num_11": "eleven",
+    "num_12": "twelve",
+    "num_13": "thirteen",
+    "num_14": "fourteen",
+    "num_15": "fifteen",
+    "num_16": "sixteen",
+    "num_17": "seventeen",
+    "num_18": "eighteen",
+    "num_19": "nineteen",
+    "num_20": "twenty",
     # Greetings
-    "HELLO":       "sign_hello",
-    "GOODBYE":     "sign_goodbye",
-    "PLEASE":      "sign_please",
-    "THANK-YOU":   "sign_thank_you",
-    "SORRY":       "sign_sorry",
+    "sign_hello":     "hello",
+    "sign_goodbye":   "goodbye",
+    "sign_please":    "please",
+    "sign_thank_you": "thank you",
+    "sign_sorry":     "sorry",
     # Essentials
-    "YES":         "sign_yes",
-    "NO":          "sign_no",
-    "HELP":        "sign_help",
-    "STOP":        "sign_stop",
-    "MORE":        "sign_more",
+    "sign_yes":  "yes",
+    "sign_no":   "no",
+    "sign_help": "help",
+    "sign_stop": "stop",
+    "sign_more": "more",
     # Question words
-    "WHAT":        "sign_what",
-    "WHERE":       "sign_where",
-    "WHEN":        "sign_when",
-    "WHO":         "sign_who",
-    "HOW":         "sign_how",
+    "sign_what":  "what",
+    "sign_where": "where",
+    "sign_when":  "when",
+    "sign_who":   "who",
+    "sign_how":   "how",
     # Introductions
-    "NAME":        "sign_my_name",       # closest WLASL gloss; no "MY NAME" compound
-    "NICE-TO-MEET-YOU": "sign_nice_to_meet_you",
-    "I-LOVE-YOU":  "sign_i_love_you",
-    "UNDERSTAND":  "sign_understand",
+    "sign_my_name":          "name",
+    "sign_your_name":        "name",       # same sign, duplicate file ok
+    "sign_nice_to_meet_you": "nice to meet you",
+    "sign_i_love_you":       "i love you",
+    "sign_understand":       "understand",
     # Family
-    "MOTHER":      "sign_mother",
-    "FATHER":      "sign_father",
-    "SISTER":      "sign_sister",
-    "BROTHER":     "sign_brother",
-    "BABY":        "sign_baby",
-    "GRANDMOTHER": "sign_grandmother",
-    "GRANDFATHER": "sign_grandfather",
-    "AUNT":        "sign_aunt",
-    "UNCLE":       "sign_uncle",
-    "FAMILY":      "sign_family",
+    "sign_mother":      "mother",
+    "sign_father":      "father",
+    "sign_sister":      "sister",
+    "sign_brother":     "brother",
+    "sign_baby":        "baby",
+    "sign_grandmother": "grandmother",
+    "sign_grandfather": "grandfather",
+    "sign_aunt":        "aunt",
+    "sign_uncle":       "uncle",
+    "sign_family":      "family",
     # Actions
-    "EAT":         "sign_eat",
-    "DRINK":       "sign_drink",
-    "SLEEP":       "sign_sleep",
-    "WALK":        "sign_walk",
-    "PLAY":        "sign_play",
+    "sign_eat":   "eat",
+    "sign_drink": "drink",
+    "sign_sleep": "sleep",
+    "sign_walk":  "walk",
+    "sign_play":  "play",
     # Places
-    "HOME":        "sign_home",
-    "SCHOOL":      "sign_school",
-    "WORK":        "sign_work",
-    "STORE":       "sign_store",
-    "HOSPITAL":    "sign_hospital",
+    "sign_home":     "home",
+    "sign_school":   "school",
+    "sign_work":     "work",
+    "sign_store":    "store",
+    "sign_hospital": "hospital",
     # Descriptors
-    "GOOD":        "sign_good",
-    "BAD":         "sign_bad",
-    "BIG":         "sign_big",
-    "SMALL":       "sign_small",
-    "HOT":         "sign_hot",
+    "sign_good":  "good",
+    "sign_bad":   "bad",
+    "sign_big":   "big",
+    "sign_small": "small",
+    "sign_hot":   "hot",
 }
+
+STS_BASE = "https://www.spreadthesign.com"
+STS_MEDIA = "https://media.spreadthesign.com"
+_HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; asl-lesson-downloader/1.0)"}
+
+# Direct word-page fallbacks for signs whose search returns wrong results.
+# Each value is (word_id, slug) for spreadthesign.com/en.us/word/{id}/{slug}/
+STS_FALLBACKS: dict[str, tuple[str, str]] = {
+    "sign_hello":            ("5538",  "hello"),
+    "sign_goodbye":          ("10855", "bye-bye"),
+    "sign_thank_you":        ("4017",  "grateful"),
+    "sign_nice_to_meet_you": ("1744",  "meet"),
+    "sign_i_love_you":       ("4058",  "love"),
+    "sign_work":             ("1",     "work"),
+}
+
+
+def _get(url: str) -> bytes:
+    req = urllib.request.Request(url, headers=_HEADERS)
+    with urllib.request.urlopen(req, timeout=15) as r:
+        return r.read()
+
+
+def _sts_mp4_from_word_page(word_id: str, slug: str) -> str | None:
+    """Fetch a SpreadTheSign word page and return the ASL MP4 URL, or None."""
+    html = _get(f"{STS_BASE}/en.us/word/{word_id}/{slug}/").decode("utf-8", errors="replace")
+    mp4 = re.search(r'media\.spreadthesign\.com/video/mp4/13/(\d+)\.mp4', html)
+    return f"{STS_MEDIA}/video/mp4/13/{mp4.group(1)}.mp4" if mp4 else None
+
+
+def sts_lookup(stem: str, query: str) -> str | None:
+    """Return direct MP4 URL for a sign via SpreadTheSign, or None."""
+    # Try known-good word page first
+    if stem in STS_FALLBACKS:
+        word_id, slug = STS_FALLBACKS[stem]
+        url = _sts_mp4_from_word_page(word_id, slug)
+        if url:
+            return url
+
+    # Fall back to search
+    q = urllib.parse.quote_plus(query)
+    html = _get(f"{STS_BASE}/en.us/search/?q={q}").decode("utf-8", errors="replace")
+    m = re.search(r'/en\.us/word/(\d+)/([^/"]+)/', html)
+    if not m:
+        return None
+    url = _sts_mp4_from_word_page(m.group(1), m.group(2))
+    return url
 
 
 def check_ffmpeg():
@@ -138,7 +173,6 @@ def check_ffmpeg():
 
 
 def gif_to_mp4(gif_path: Path, mp4_path: Path):
-    """Convert a GIF to a looping MP4 suitable for the lesson player."""
     subprocess.run(
         [
             "ffmpeg", "-y", "-i", str(gif_path),
@@ -152,135 +186,78 @@ def gif_to_mp4(gif_path: Path, mp4_path: Path):
     )
 
 
-def download_url(url: str, dest: Path):
-    print(f"  GET {url}")
-    urllib.request.urlretrieve(url, dest)
-
-
 def download_fingerspelling(out_dir: Path, skip_existing: bool):
     print("\n=== Fingerspelling A-Z (Lifeprint) ===")
     check_ffmpeg()
     for letter in FS_LETTERS:
         mp4 = out_dir / f"fs_{letter}.mp4"
         if skip_existing and mp4.exists():
-            print(f"  skip {mp4.name} (exists)")
+            print(f"  skip {mp4.name}")
             continue
         url = f"{FS_BASE}/{letter}.gif"
+        print(f"  {letter.upper()}  {url}")
         with tempfile.NamedTemporaryFile(suffix=".gif", delete=False) as tmp:
             gif_path = Path(tmp.name)
         try:
-            download_url(url, gif_path)
+            data = _get(url)
+            gif_path.write_bytes(data)
             gif_to_mp4(gif_path, mp4)
-            print(f"  → {mp4.name}")
+            print(f"      → {mp4.name}")
         except Exception as e:
-            print(f"  WARN: {letter} failed: {e}")
+            print(f"      WARN: failed: {e}")
         finally:
             gif_path.unlink(missing_ok=True)
 
 
-def download_numbers_lifeprint(out_dir: Path, skip_existing: bool):
-    print("\n=== Numbers 1-10 (Lifeprint) ===")
-    check_ffmpeg()
-    for n, url in NUM_URLS.items():
-        mp4 = out_dir / f"num_{n}.mp4"
-        if skip_existing and mp4.exists():
-            print(f"  skip {mp4.name} (exists)")
-            continue
-        with tempfile.NamedTemporaryFile(suffix=".gif", delete=False) as tmp:
-            gif_path = Path(tmp.name)
-        try:
-            download_url(url, gif_path)
-            gif_to_mp4(gif_path, mp4)
-            print(f"  → {mp4.name}")
-        except Exception as e:
-            print(f"  WARN: num_{n} failed: {e}")
-        finally:
-            gif_path.unlink(missing_ok=True)
-
-
-def download_wlasl_signs(out_dir: Path, wlasl_json: Path, skip_existing: bool):
-    """Download sign videos from WLASL dataset video URLs using yt-dlp."""
-    try:
-        import subprocess
-        subprocess.run(["yt-dlp", "--version"], capture_output=True, check=True)
-    except (FileNotFoundError, subprocess.CalledProcessError):
-        print("ERROR: yt-dlp not found. Install with: pip install yt-dlp", file=sys.stderr)
-        return
-
-    print(f"\n=== Signs & Numbers 11-20 (WLASL: {wlasl_json}) ===")
-    data = json.loads(wlasl_json.read_text())
-    # Index by gloss
-    index = {entry["gloss"].upper(): entry for entry in data}
-
-    for gloss, stem in WLASL_SIGNS.items():
+def download_sts_signs(out_dir: Path, skip_existing: bool):
+    print("\n=== Numbers + Signs (SpreadTheSign / ASL) ===")
+    ok = fail = 0
+    for stem, query in STS_SIGNS.items():
         mp4 = out_dir / f"{stem}.mp4"
         if skip_existing and mp4.exists():
-            print(f"  skip {mp4.name} (exists)")
+            print(f"  skip {mp4.name}")
+            ok += 1
             continue
+        try:
+            video_url = sts_lookup(stem, query)
+            if not video_url:
+                print(f"  MISS  {stem!r:30s} ('{query}' — no ASL video found)")
+                fail += 1
+                continue
+            data = _get(video_url)
+            mp4.write_bytes(data)
+            print(f"  OK    {stem!r:30s} ({query})")
+            ok += 1
+            time.sleep(0.3)   # be polite
+        except Exception as e:
+            print(f"  FAIL  {stem!r:30s}: {e}")
+            fail += 1
 
-        entry = index.get(gloss)
-        if not entry:
-            print(f"  WARN: '{gloss}' not found in WLASL dataset")
-            continue
-
-        # Pick first instance with a url
-        url = None
-        for instance in entry.get("instances", []):
-            if instance.get("url"):
-                url = instance["url"]
-                break
-
-        if not url:
-            print(f"  WARN: no URL for '{gloss}'")
-            continue
-
-        print(f"  {gloss} → {mp4.name}  ({url})")
-        result = subprocess.run(
-            [
-                "yt-dlp",
-                "--no-playlist",
-                "-f", "mp4/bestvideo[ext=mp4]",
-                "-o", str(mp4),
-                url,
-            ],
-            capture_output=True,
-            text=True,
-        )
-        if result.returncode != 0:
-            print(f"  WARN: yt-dlp failed for '{gloss}': {result.stderr.strip()[:120]}")
+    print(f"\n  {ok} downloaded, {fail} missed")
 
 
 def main():
+    # urllib.parse needed for quote_plus — import here to avoid top-level dep confusion
+    global urllib
+    import urllib.parse
+
     parser = argparse.ArgumentParser(description="Download ASL videos for lesson content")
     parser.add_argument("--out", required=True, help="Output directory (e.g. /data/videos/asl)")
-    parser.add_argument("--wlasl", metavar="JSON", help="Path to WLASL_v0.3.json for common signs")
     parser.add_argument("--skip-existing", action="store_true", help="Skip files that already exist")
     parser.add_argument(
-        "--only",
-        choices=["fs", "numbers", "signs"],
-        help="Download only one category instead of all",
+        "--only", choices=["fs", "signs"],
+        help="Download only fingerspelling or only signs/numbers",
     )
     args = parser.parse_args()
 
     out_dir = Path(args.out)
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    only = args.only
-
-    if only in (None, "fs"):
+    if args.only in (None, "fs"):
         download_fingerspelling(out_dir, args.skip_existing)
 
-    if only in (None, "numbers"):
-        download_numbers_lifeprint(out_dir, args.skip_existing)
-
-    if only in (None, "signs"):
-        if not args.wlasl:
-            print(
-                "\nSkipping common signs: pass --wlasl WLASL_v0.3.json to download them.\n"
-                "Get the file from: https://github.com/dxli94/WLASL"
-            )
-        else:
-            download_wlasl_signs(out_dir, Path(args.wlasl), args.skip_existing)
+    if args.only in (None, "signs"):
+        download_sts_signs(out_dir, args.skip_existing)
 
     print("\nDone.")
 
